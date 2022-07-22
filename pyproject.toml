@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "whu-textual-analysis"
+version = "0.1.0"
+description = "Files for the WHU PhD course \"Textual Analysis\" in spring term 2022"
+authors = ["Alexander Hess <alexander@webartifex.biz>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
