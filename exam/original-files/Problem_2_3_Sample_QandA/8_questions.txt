@@ -1,0 +1,155 @@
+Question_1:
+Can you just give us a sense of what is left in terms of simplifying the model? Maybe split it between the CIB and consumer if that is a good way of approaching it.
+
+Question_2:
+Okay, and as a follow-up, somewhat related, but as we think about having more clarity on the capital rules and specifically the supplemental leverage ratio as well as the LCR, is there some opportunity for optimization of the balance sheet now that you have more clarity on those rules?
+
+Question_3:
+Okay. And then just lastly, the $300 million of revenue going away in the fourth quarter, what would be the expenses and capital against that?
+
+Question_4:
+Marianne, I was wondering if you could give us some broader context on the core expenses. Is a principal driver of the updated outlook around the $58 billion -- is that just comp? And can you remind us where you are on the compliance control expenses in terms of leveling off there?
+
+Question_5:
+And as we look out to 2015 (multiple speakers)?
+
+Question_6:
+As we look out further to 2015 and 2016 can you give us a reminder of where you are looking to reduce the core expense base and get some savings on a one- to two-year basis?
+
+Question_7:
+Okay, that is helpful. And then on the legal expense, did you give any color in the beginning on what was that for this quarter? And in terms of the FX and LIBOR investigations, are those at the stage yet where reserves can be built or can you offer anything on that?
+
+Question_8:
+Okay. And then just in terms of share buybacks and capital levels, was wondering about your thoughts on the prospects for higher G-SIB buffers in the US. And how are you going to balance in the near term kind of your -- growing your space capital against executing the remaining buyback authorization that you have?
+
+Question_9:
+Okay. And Marianne, just on that point, you had some RWA inflation in the first half as you waited some model approvals you are waiting for I believe. Where are you on those model approvals and your expectations for kind of the ratio of risk-weighted assets to total assets as we move forward?
+
+Question_10:
+So first question on -- deposit growth has been growth and I guess I would love to see higher rates in loan growth. But you are positively positioned for the parallel shift up. I guess my first question is how does that change in more of a flattening environment that we are experiencing right now? Do you capture most of the benefit anyway just getting off zero on the short end?
+
+Question_11:
+Okay. Just a -- I know we are not supposed to read too too much into it, but in everyone's mid-cycle [DFAST] results I think everyone was calling for -- or the big banks were calling for higher losses and lower PPNR in general relative to your own self test from the previous year.
+Is that conservatism? Because it is a little different relative to the commentary about an improving economy, a little bit better loan growth, good expense control, things like that. I'm just curious what we are supposed to take away from that mid-cycle.
+
+Question_12:
+Okay, okay, last one. There are a couple of articles on rewriting of banker's agreements between major dealers to resolve some of the early termination rights issues, which obviously is going towards the Fed's issues on living wills.
+A, did that actually happen or is that just being talked about? And B, does it resolve the issue in the Fed's -- I know you can't speak for the Fed, but does it resolve the issue or do you still have the client side to deal with over time?
+
+Question_13:
+Hey, a couple of questions. One is on just RWAs in general. There were some articles around potentially shifting some of the repo activity to more of an agent role than principal role. I don't know if that is one of the ways that you could potentially have a light impact maybe on RWAs but on total footings to help with the ratios. Is that something that is being considered?
+
+Question_14:
+Would you be supportive of an industry move towards shifting repo to more of a CCP environment or no?
+
+Question_15:
+Okay, no, that is great. I asked the question in part because as people are concerned about things like the SIFI buffer increasing and other regulatory capital requirements, I'm just trying to tease out what other options you have to do your client facing business but yet maybe shrink the footings in a way that deal with these ratios without having to, quote/unquote, break up the bank.
+
+Question_16:
+Okay, thanks. And then just separately on the payments discussion. In your prepared remarks, Marianne, you highlighted that you are delighted to work with Apple Pay but that you are also working on some other things yourself. Could you speak to what other things you are doing independently?
+
+Question_17:
+And I think is it accurate, Jamie, that you mentioned at a recent conference that you were looking to double the spend in cyber security, is that right?
+
+Question_18:
+Those are all great points. I mean, you could imagine tokenization moving beyond just payments to any interface with clients at some point?
+
+Question_19:
+I just wanted to follow-up first of all on the question that Glenn asked about the change in the derivatives contracts. From your perspective doesn't this fundamentally render the contract less attractive for users because of the loss of the automatic bankruptcy preference? And if so, would you expect this is one more potential pressure on the derivatives revenues that you've talked about in the past potentially depressing your revenues by as much as $1 billion?
+
+Question_20:
+And while we are on that topic then, another thing that happened during the quarter obviously was the Fed and FDIC rejecting the living wills. And I was wondering if you could give us a sense for what changes that might have provoked from your point of view in terms of accelerating some of the simplifications that you were talking about earlier?
+
+Question_21:
+Yes, fair enough. I mean I think a lot of times the press reports forget to pull together all the pieces like that. I hate to beat the regulatory horse too hard here, but one of the things that we were hearing towards the end of the quarter was that our clients were telling us that they were seeing a significant fall off in liquidity in some aspect of the credit markets in particular.
+And I was wondering, is there any link between that and some of the new filings that you have had to start doing on a daily basis for -- not just you, but obviously all the dealers on liquidity? And I think some of the Volcker data gathering has started as well. And I was wondering if there was any linkage there?
+
+Question_22:
+Okay, that helps. The last one for me -- sorry, go ahead.
+
+Question_23:
+But what I think you hear you saying is that the recent imposition of some of these reporting requirements did not in itself have those liquidity impacts?
+
+Question_24:
+Got it. And then the last one for me -- Marianne, you gave some clarification around loan growth in the CIB. But I am not sure I quite understood it. Basically you said the minus 5% headline number was affected by a couple of it sounded like one time-ish kind of things and what the underlying was. But as I said, I'm not sure I really caught your drift.
+
+Question_25:
+Can you share with us -- obviously the federal reserve is asking for more capital for all the larger global SIFI type banks. What is the minimum cushion would you guys be comfortable running against? You mentioned your 50 to 100 basis points might be a little less. How low would you go in your cushion for meeting those new capital guidelines when they come out down the road?
+
+Question_26:
+Yes. No, regarding the return on equity, at Investor Day you guys gave us the through the cycle target of 15% to 16%. Clearly I would assume that in this year's Investor Day when it comes up, if these capital levels are even higher now than what you originally thought when you gave that guidance, it probably will be a bit lower.
+What lines of business do you think will see the lower ROE targets, if you decide that you need to lower it through the cycle from the 15% to 16% that you gave us last year?
+
+Question_27:
+Is it fair to say that today's ROE in today's quarter of about 10% -- which obviously is below your through the cycle number -- is it primarily an interest rate issue that is holding it back or is there some other issue - the high elevated expenses that you are running due to all the new regulations and stuff?
+
+Question_28:
+Shifting gears, if we look at leverage lending the federal reserve has come out recently concerned about some of the underwriting that is going on there. And I think they even pointed out that leverage lending now will be used in CCAR possibly from a qualitative standpoint. Can you guys give us any color on what your understanding is of what is going on with leverage lending today? And will it be included in CCAR?
+
+Question_29:
+You guys gave some very good numbers on the mobile app usage by your customers. What is the penetration rate of your customer base that uses that mobile app?
+
+Question_30:
+Okay. And then finally. you guys talked about Apple Pay --.
+
+Question_31:
+You guys mentioned Apple Pay and the opportunities there. What are some of the -- where could you see the growth? But at the same time where can Apple Pay cannibalize some of your businesses or are there any that will be cannibalized?
+
+Question_32:
+A follow-up on the loan question from before. You mentioned a little bit more caution with leverage loans. In the past you said you didn't want to compete too much in the commercial space if it's getting too competitive. There's been some current concerns about auto lending with regulators.
+So my question is, slide 1 highlights that your core loans are up 1% quarter over quarter and the same slide in the second quarter said that core loans were up 4% quarter over quarter. So my question is, are you simply getting more cautious in the loans that you provide or is there a little bit less demand in the market? Really trying to get to is loan growth decelerating?
+
+Question_33:
+Separately your expense guidance is now for over $58 billion, you said some of that is due to comp. Is any of that increase in guidance due not to comp?
+
+Question_34:
+Separately which capital ratio is your binding constraint? And using that ratio, what should we use in our model three years out? And I know that's a tough question with all the moving parts, but what is your best guess?
+
+Question_35:
+Okay. And then last question. On the supplement page 6, this is a smaller item, but it just kind of stands out. Your rate on trading liabilities declined from 48 basis points down to 12 basis points in just three months. Is there anything unusual there?
+
+Question_36:
+And how much -- what was the dollar amount of that impact?
+
+Question_37:
+Just wanted to follow up with two quick questions. The first is, Marianne, if we put together everything that you have said on expenses so far in this call, is it fair to assume that without rates the efficiency -- adjusted efficiency ratio of 59% can continue to improve in 2015 and 2016?
+
+Question_38:
+Great. And the second follow-up question is, given your expectations for rates to rise in the middle of next year are you still -- and the progress that you -- continued progress you make on deposit share are you still expecting $100 billion in deposit outflows in that case?
+
+Question_39:
+So, appreciate that the repo book is substantially client driven. Was maybe hoping that you guys could give us some sense for how much of your repo book is firm financing versus facilitation?
+
+Question_40:
+Okay, that is fair. And I just wanted to try to square something here and maybe I am reading just a little too much into it. You had said that October on the capital markets side has been a bit mixed. But you have also at the same time brought up your expense guidance and it seems like it is driven by expected or potentially a component of comp and capital markets.
+So are those two at odds? Are you just more optimistic that maybe what we're seeing here in October is not necessarily some sort of dramatic shift but a temporary bout in bad volatility? Or how can we square those two?
+
+Question_41:
+Okay, okay, thanks for that. And then appreciate that there is not much color potentially to be added on this charge tied to FX. But just is it possible to let us know if it is tied to a particular geography?
+
+Question_42:
+All right, that is fair. And then last one for me. So in looking at the NIM simulation that you guys have provided, and then taking a look at that in light of the interest rate shock disclosures you've got in your Q's, it looks like a 200 basis point rate shock adds about half of what you are looking for in a normalized rate environment.
+So I guess does that mean that subsequent years sort of the benefit of rolling the portfolio into higher rates is going to exceed the higher deposit cost by about $4 billion to $5 billion? And then is there a particular time period that we should think about that or is it going to be too heavily influenced by competitive dynamics?
+
+Question_43:
+A tactical follow-up just on the balance sheet. With the non-interest-bearing deposits basically being the fastest growing category of the balance sheet and the resulting asset, the deposit with banks also being the fastest-growing asset on the balance sheet.
+Just within that context of what you just walked through with Brennan, I am just wondering what changes structurally with the way you think about reinvesting in the securities portfolio with rates as low as they are now. Loan growth is okay, but to your point you are being somewhat selective on -- and want to be careful with pricing and credit.
+So, just from a -- more so taking the next year or so out, how are your thoughts changing at all with respect to what you do with these deposits given that they might actually not flow out as much given that change to the ROP function?
+
+Question_44:
+Yes, okay. Got it. And then secondly, just two quick ones on mortgage. Default servicing costs have pretty much stabilized the last couple of quarters at a good level that you had talked about getting down to $500 million total by the fourth. And I am just wondering how much more room is there given that improvement in underlying trends that you're continuing to see for that to be a benefit to that cost side of the equation going forward?
+
+Question_45:
+Okay. And I noticed that your (multiple speakers).
+
+Question_46:
+Yes. And I noticed also that underneath the origination improvement this quarter there was a decent jump in correspondent. I am just not -- I just wanted to ask if you are doing anything differently in terms of market share opportunities on the mortgage side now that things have shaken out a little bit or any change in your underlying philosophy on where you are looking at originations?
+
+Question_47:
+Marianne, I appreciated the color you had given on the RWA guidance. I suppose one thing that we have been hearing from a lot of clients, or at least concern from clients, is this notion of regulatory gold plating. Essentially the us regulators adopting tougher standards than those that are being enforced in other areas around the globe.
+And I just wanted to get a sense as to how that is informing your thinking about RWA mitigation plans. You reaffirmed the guidance at Investor Day, but what should we expect in the event that a tougher capital as well as TLAC requirement is in fact enforced against US G-SIBs?
+
+Question_48:
+All right, thank you. That is very helpful. And then just switching gears to the investment banking outlook that you had given. I appreciated the color which sounded quite constructive on the backlogs for M&A and ECM. And I guess not just you but the industry in general hasn't given much commentary on the outlook for debt capital markets activity.
+It has been challenged this year. I think that was something which many of us had expected just given the strength that we had experienced over the last couple of years. But I didn't know if you can just provide some updated thoughts on that revenue stream in particular.
+

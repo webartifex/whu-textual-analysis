@@ -1,0 +1,96 @@
+Question_1:
+
+          During the quarter, Jamie had made a comment on potential disruptions related to the unwinding of the U.S. balance sheet. And I'm just curious, it's supposed to be slow and deliberate, but I'm curious how you think that impacts liquidity, the yield curve, trading, deposit betas and is there anything you can do to protect JPMorgan against those disruptions?
+
+Question_2:
+
+          No, that was absolutely awesome. I do have one tiny follow-up. You always get a little more than you wanted. The one tiny follow-up, Marianne, is I just want to make clear, the whole $4 billion versus $4.5 billion, and you spelled out what happened in the quarter, it sounded like most of that full year guidance happened in this second quarter. But I'm just -- I just want to clarify that in terms of the second half NII, do you think it's overly different from where we were a quarter ago?
+
+Question_3:
+
+          I want to follow up on the loan yield side, which were not much moved. You mentioned the $75 million in mortgage. Can you just help us walk through the loan portfolio and whether you're seeing the assets move, whether there's a lag or whether there's any spread compression underneath that?
+
+Question_4:
+
+          Okay. So that -- would that naturally say that, as we go forward, that should -- if they're moving the right way, mix adjusted, they should kind of move the right way from here?
+
+Question_5:
+
+          Understood, okay. And then my second question is, it was nice to see the card revenues on the fee side and the revenue capture rate move towards the way you've been saying. It actually eclipsed the 10.5% you'd said for the year already. Can you just help us understand like have we turned the corner then on card income and your expectations for that going forward?
+
+Question_6:
+
+          Two questions. One on M&A strategy. There was discussion that maybe you were interested in acquiring something. That's not really the question, to comment on that specific rumor. But more in this regulatory environment and the changes that we've had already, do you feel like there's a little more flexibility for your strategic actions or outlook than maybe a year ago?
+
+Question_7:
+
+          Second question is on -- a little bit of a ticky-tacky, but on FASB. They're working on changing some of the hedge accounting rules. And I wondered how you're thinking about areas in your balance sheet you might be able to utilize that in a way that makes your business more efficient. I don't know if that's something that you're thinking about.
+
+Question_8:
+
+          Marianne, wanted to ask about credit cards. The outlook for charge-offs remains the same at about -- below 3% for the year, and you're about 3% now in the first half. So maybe you're expecting a little bit of improvement in the back half of the year. Is that seasonal?
+
+Question_9:
+
+          And then at Investor Day, the outlook for the medium term was not much higher, 3% to 3.25%. Does that allow for the seasoning over the next year or 2 of all the growth that you've had and allow for some normalization, too? Is that enough cushion to get all that in there?
+
+Question_10:
+
+          I just wanted to follow up to the questions that Glenn and Ken had on margin. Marianne, could you give us a little bit of insight on how deposit betas trended wholesale versus retail during the quarter? And also, just back -- going back to your comments. If the Fed balance sheet reduction drives wholesale deposits out of the system, can we assume that, that should not affect deposit betas negatively for JPMorgan?
+
+Question_11:
+
+          And my second question, you mentioned in the beginning of the call that standardized will ultimately be your CET1 binding constraint. And I'm wondering, if you were allowed to float off your op -- current op risk floor, and I think it's still $400 billion, does that mean, if standardized is your constraint, that being able to float off the floor and model out your op risk may not be an incremental source of capital because standardized is binding?
+
+Question_12:
+
+          First question is on Commercial Banking. Can you just comment a bit on the sustainability of the growth in profitability you've had there? Your earnings are up 30% year-on-year; loan growth, C&I, 9%; CRE, up 15%. And we're not talking about small numbers anymore. I think your loan book now is about $200 billion in Commercial Banking. And can you just talk about some of the initiatives that you've discussed of the Middle Market, the IB and how sustainable that is and whether you're comfortable with the risk profile of the books you -- of the book you have there? Because you are growing quickly, it is a big book now, and you're certainly growing faster than the industry.
+
+Question_13:
+
+          That's great. If I can follow up with a bigger-picture question. And Jamie, you've been -- and correct me if I'm wrong, you've been pretty vocal about believing that the underpinnings of our economy are healthy and strong and not buying into this whole secular stagnation argument. But at what point does political dysfunction and political paralysis really start to dent that confidence? And because you've also indicated that we do need structural reform to lift trend growth, whether it's infrastructure, tax reform, whatever it is. And can you just comment on that? And I guess as an adjunct to that, what are your conversations with clients like? And is there a risk that is materializing that clients are also starting to become more frustrated with the lack of progress politically?
+
+Question_14:
+
+          You guys obviously had a very big approval for share buybacks on the latest CCAR here. And I just wanted your thoughts on terms of using it all, given where your stock price is, given loan growth has slowed a tad and given the flatter yield curve makes buying securities a little less interesting. How do you put that all together?
+
+Question_15:
+
+          Marianne, can you give us some color -- Federal Reserve Chairwoman Yellen indicated that she sees that there could be some relief on the horizon for the banks. And one of the areas that's been talked about is changing the calculation of the SLR. Have you guys modeled out what that could do to your SLR and then how that may change your view on capital going forward, if there are changes where, for example, they take the cash that's sitting at the central banks out of the equation?
+
+Question_16:
+
+          Very good. And then as a follow-up and coming back to credit cards, obviously the Sapphire has been a huge success in growing your business there. Are the acquisition costs higher today than when you compare them to maybe 2 or 3 years ago? And in that vein, when you guys look at the economics of putting on new cards, is the net present value or whatever measure you use to determine the economics, has that improved, stayed the same or weakened from maybe a year or 2 ago?
+
+Question_17:
+
+          So Marianne, I wanted to start off with a question on liquidity. You spoke of how the Fed balance sheet unwind should have little impact on your LCR. But just given the strength of your liquidity position and the significant excess reserves that you have at the Fed, how should we be thinking about the current capacity to deploy some of that excess into higher-yielding MBS? And maybe what's your appetite to redeploy, just given some of the tougher liquidity treatment for agency MBS in particular?
+
+Question_18:
+
+          Okay, understood. And then just one more question from me, just on capital targets, and I appreciate all the detail, Marianne, you provided indicating that, over time, there could be a path or trajectory towards getting to the lower end of that 11% to 12.5% range. And I'm just wondering, given some -- the very favorable CCAR results we saw this year, coupled with some of the Treasury reforms that have been outlined, is there the potential for you to actually manage to a target even below that 11%, especially if gold plating of G-SIB surcharges, in fact, goes away?
+
+Question_19:
+
+          Just coming back to the Treasury's proposals for the new calculation of the SLR. Can you give any color as to whether that's actually even possible within the glib context as to how the Basel Committee wouldn't want harmonization across the whole world? Of course, if it did happen, then you would have a massive advantage along with other U.S. banks versus other European investment banks.
+
+Question_20:
+
+          Great. And just a follow-up question also on the reduction in the op risk. I mean, you talked about advances for standardized, but I mean, looking at CCAR, your SLR is a binding constraint there. So isn't it really a moot argument, a non-argument really, as to whether that happens or not, i.e., if you reduce your op risk, it doesn't really change your excess capital?
+
+Question_21:
+
+          Just 2 other quick things. One, on the accounting with hedge, just to get back on that a little sec, the question also was, was there any opportunity for your clients, too, because if there is an opportunity for, say, institutions to hedge their books of business more, that could feed into your revenues?
+
+Question_22:
+
+          Yes. In the sense that you can potentially hedge your commodity risk, so wouldn't that be something?
+
+Question_23:
+
+          Yes, okay. And then is there a time frame here where you have to start telling us what your LCR is? I wasn't sure if that was coming up soon. Was that this quarter or next quarter? Has that just been put on hold?
+
+Question_24:
+
+          I get that. I'm just thinking that there's the opportunity to show us the nonoperating deposits going away, which would help people understand the strength of the deposit franchise.
+

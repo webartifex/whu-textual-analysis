@@ -1,0 +1,61 @@
+index;filename;filename_questions;filename_answers;ticker;company_name_transcript
+1;2013-Jan-16-JPM.N-140961136671-Transcript.txt;1_questions.txt;1_answers.txt;JPM;JPMorgan Chase & Co.
+2;2013-Apr-12-JPM.N-137249419186-Transcript.txt;2_questions.txt;2_answers.txt;JPM;JPMorgan Chase & Co.
+3;2013-Jul-12-JPM.N-140859159651-Transcript.txt;3_questions.txt;3_answers.txt;JPM;JPMorgan Chase & Co.
+4;2013-Oct-11-JPM.N-139104526385-Transcript.txt;4_questions.txt;4_answers.txt;JPM;JPMorgan Chase & Co.
+5;2014-Jan-14-JPM.N-137354865185-Transcript.txt;5_questions.txt;5_answers.txt;JPM;JPMorgan Chase & Co.
+6;2014-Apr-11-JPM.N-140165606470-Transcript.txt;6_questions.txt;6_answers.txt;JPM;JPMorgan Chase & Co.
+7;2014-Jul-15-JPM.N-140321260641-Transcript.txt;7_questions.txt;7_answers.txt;JPM;JPMorgan Chase & Co.
+8;2014-Oct-14-JPM.N-138918479517-Transcript.txt;8_questions.txt;8_answers.txt;JPM;JPMorgan Chase & Co
+9;2015-Jan-14-JPM.N-140213325968-Transcript.txt;9_questions.txt;9_answers.txt;JPM;JPMorgan Chase & Co
+10;2015-Apr-14-JPM.N-137731590648-Transcript.txt;10_questions.txt;10_answers.txt;JPM;JPMorgan Chase & Co
+11;2015-Jul-14-JPM.N-137463527529-Transcript.txt;11_questions.txt;11_answers.txt;JPM;JPMorgan Chase & Co
+12;2015-Oct-13-JPM.N-140561706149-Transcript.txt;12_questions.txt;12_answers.txt;JPM;JPMorgan Chase & Co
+13;2016-Jan-14-JPM.N-139240302492-Transcript.txt;13_questions.txt;13_answers.txt;JPM;JPMorgan Chase & Co
+14;2016-Apr-13-JPM.N-138592450715-Transcript.txt;14_questions.txt;14_answers.txt;JPM;JPMorgan Chase & Co
+15;2016-Jul-14-JPM.N-140164291407-Transcript.txt;15_questions.txt;15_answers.txt;JPM;JPMorgan Chase & Co
+16;2016-Oct-14-JPM.N-136934024381-Transcript.txt;16_questions.txt;16_answers.txt;JPM;JPMorgan Chase & Co
+17;2017-Jan-13-JPM.N-139316849748-Transcript.txt;17_questions.txt;17_answers.txt;JPM;JPMorgan Chase & Co
+18;2017-Apr-13-JPM.N-138307122418-Transcript.txt;18_questions.txt;18_answers.txt;JPM;JPMorgan Chase & Co
+19;2017-Jul-14-JPM.N-138724678832-Transcript.txt;19_questions.txt;19_answers.txt;JPM;JPMorgan Chase & Co
+20;2017-Oct-12-JPM.N-138888592504-Transcript.txt;20_questions.txt;20_answers.txt;JPM;JPMorgan Chase & Co
+21;2013-Feb-12-KO.N-137022867242-Transcript.txt;21_questions.txt;21_answers.txt;KO;The Coca-Cola Company
+22;2013-Apr-16-KO.N-139599548880-Transcript.txt;22_questions.txt;22_answers.txt;KO;The Coca-Cola Company
+23;2013-Jul-16-KO.N-140843862347-Transcript.txt;23_questions.txt;23_answers.txt;KO;The Coca-Cola Company
+24;2013-Oct-15-KO.N-138489121635-Transcript.txt;24_questions.txt;24_answers.txt;KO;The Coca-Cola Company
+25;2014-Feb-18-KO.N-138408934080-Transcript.txt;25_questions.txt;25_answers.txt;KO;The Coca-Cola Company
+26;2014-Apr-15-KO.N-139157937760-Transcript.txt;26_questions.txt;26_answers.txt;KO;The Coca-Cola Company
+27;2014-Jul-22-KO.N-138547566546-Transcript.txt;27_questions.txt;27_answers.txt;KO;The Coca-Cola Company
+28;2014-Oct-21-KO.N-140354489389-Transcript.txt;28_questions.txt;28_answers.txt;KO;The Coca-Cola Co
+29;2015-Feb-10-KO.N-138013855540-Transcript.txt;29_questions.txt;29_answers.txt;KO;The Coca-Cola Co
+30;2015-Apr-22-KO.N-137018502034-Transcript.txt;30_questions.txt;30_answers.txt;KO;The Coca-Cola Co
+31;2015-Jul-22-KO.N-139813926443-Transcript.txt;31_questions.txt;31_answers.txt;KO;Coca-Cola Co
+32;2015-Oct-21-KO.N-137832140186-Transcript.txt;32_questions.txt;32_answers.txt;KO;Coca-Cola Co
+33;2016-Feb-09-KO.N-140614720811-Transcript.txt;33_questions.txt;33_answers.txt;KO;Coca-Cola Co
+34;2016-Apr-20-KO.N-141172130225-Transcript.txt;34_questions.txt;34_answers.txt;KO;Coca-Cola Co
+35;2016-Jul-27-KO.N-141070210688-Transcript.txt;35_questions.txt;35_answers.txt;KO;Coca-Cola Co
+36;2016-Oct-26-KO.N-140963352890-Transcript.txt;36_questions.txt;36_answers.txt;KO;Coca-Cola Co
+37;2017-Feb-09-KO.N-138416362262-Transcript.txt;37_questions.txt;37_answers.txt;KO;Coca-Cola Co
+38;2017-Apr-25-KO.N-138858781409-Transcript.txt;38_questions.txt;38_answers.txt;KO;Coca-Cola Co
+39;2017-Jul-26-KO.N-137990434146-Transcript.txt;39_questions.txt;39_answers.txt;KO;Coca-Cola Co
+40;2017-Oct-25-KO.N-136945571518-Transcript.txt;40_questions.txt;40_answers.txt;KO;Coca-Cola Co
+41;2013-Feb-27-TGT.N-139792946792-Transcript.txt;41_questions.txt;41_answers.txt;TGT;Target Corporation
+42;2013-May-22-TGT.N-136980779761-Transcript.txt;42_questions.txt;42_answers.txt;TGT;Target Corporation
+43;2013-Aug-21-TGT.N-139892388396-Transcript.txt;43_questions.txt;43_answers.txt;TGT;Target Corporation
+44;2013-Nov-21-TGT.N-138993533906-Transcript.txt;44_questions.txt;44_answers.txt;TGT;Target Corporation
+45;2014-Feb-26-TGT.N-137355844814-Transcript.txt;45_questions.txt;45_answers.txt;TGT;Target Corporation
+46;2014-May-21-TGT.N-139074919254-Transcript.txt;46_questions.txt;46_answers.txt;TGT;Target Corporation
+47;2014-Aug-20-TGT.N-138325416922-Transcript.txt;47_questions.txt;47_answers.txt;TGT;Target Corporation
+48;2014-Nov-19-TGT.N-141033583785-Transcript.txt;48_questions.txt;48_answers.txt;TGT;Target Corp
+49;2015-Feb-25-TGT.N-138988132416-Transcript.txt;49_questions.txt;49_answers.txt;TGT;Target Corp
+50;2015-May-20-TGT.N-137082306821-Transcript.txt;50_questions.txt;50_answers.txt;TGT;Target Corp
+51;2015-Aug-19-TGT.N-137786497465-Transcript.txt;51_questions.txt;51_answers.txt;TGT;Target Corp
+52;2015-Nov-18-TGT.N-140736694649-Transcript.txt;52_questions.txt;52_answers.txt;TGT;Target Corp
+53;2016-Feb-24-TGT.N-137915462232-Transcript.txt;53_questions.txt;53_answers.txt;TGT;Target Corp
+54;2016-May-18-TGT.N-139736856349-Transcript.txt;54_questions.txt;54_answers.txt;TGT;Target Corp
+55;2016-Aug-17-TGT.N-137580578182-Transcript.txt;55_questions.txt;55_answers.txt;TGT;Target Corp
+56;2016-Nov-16-TGT.N-138221177745-Transcript.txt;56_questions.txt;56_answers.txt;TGT;Target Corp
+57;2017-Feb-28-TGT.N-138037321026-Transcript.txt;57_questions.txt;57_answers.txt;TGT;Target Corp
+58;2017-May-17-TGT.N-137922466556-Transcript.txt;58_questions.txt;58_answers.txt;TGT;Target Corp
+59;2017-Aug-16-TGT.N-138067107203-Transcript.txt;59_questions.txt;59_answers.txt;TGT;Target Corp
+60;2017-Nov-15-TGT.N-137953624001-Transcript.txt;60_questions.txt;60_answers.txt;TGT;Target Corp

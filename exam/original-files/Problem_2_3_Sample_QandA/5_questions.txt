@@ -1,0 +1,299 @@
+Question_1:
+
+    Good morning.
+
+Question_2:
+
+    Just wanted to talk about the leverage ratio for a moment, you talked about a 10 basis point increase from the latest on Basel, if they do the add-ons. And I guess the big part that's hardest for us to see is really the impact of the CDS non-netting of mismatched maturities on protection bought versus protection sold. Can you give us a sense of what your numbers look like on that basis so we can try and reconcile to your 10 basis points?
+
+Question_3:
+
+    Got it. And can you give just give us a sense for what the maturity profile looks like on your CDS protection purchased versus sold? I mean is there much of a maturity mismatch there or is there really not much?
+
+Question_4:
+
+    Got it. That's helpful, thanks. On the $60 billion of core expense that you pointed out on balance having been pretty flat with last year despite the increases in control environment cost, can you give us a sense of how you currently see that evolving in 2014?
+
+Question_5:
+
+    Got it. And how do you get comfortable that by doing that, you're not going to eat into revenue growth, by pardon the use of the word, but by starving other expenses?
+
+Question_6:
+
+    And just if I could follow-up on the mortgage expense comment that you made, more just along the lines of the expense that's against the origination franchise. It sounded to me like you may be extending your view of what the time frame is to kind of get that to steady state beyond the first quarter, is that right or am I misreading that?
+
+Question_7:
+
+    Fair enough. And the last one for me just you mentioned the impact of operating risk due to the very high level of litigation costs this year. How should we think about that and how are you thinking about that with respect to CCAR?
+
+Question_8:
+
+    Hi, good morning.
+
+Question_9:
+
+    Marianne, I just wanted to follow-up on a couple things. One was on NIM outlook. You did indicate that in the second half of 2014 you were expecting that the CIO and Treasury income would turn positive if I read it correctly, and I would think that it's a function of your security yields improving. Can you just give us a sense of what the net new investment yield is for the security investments that you're making in that book right now relative to what it's at? The balances are at?
+
+Question_10:
+
+    Right. And so given your comments that you're expected to reach breakeven by the second half of 2014, that's a reflection of higher interest rates or a change in the way you're investing the funds?
+
+Question_11:
+
+    Okay. And then your other point was you're going to be taking that better return on that portfolio and using it to be as competitive as you want to be on the loan portfolio, and so expectation is that loan spreads continue to pull-down over the next couple of quarters at least. Can you just give us a sense as to how willing you are to be competitive on price and loan spreads? Should we be expecting that overall NIM compression is what you're looking for here in the event that you get the quality of loan growth you want?
+
+Question_12:
+
+    Okay. And on the consumer side, card balances have been rewritten post-crisis to be variable. Are you anticipating that you're going to be in a rising rate environment in the belly of the curve raising rates on card portfolio?
+
+Question_13:
+
+    Okay. And then separate topic just on the security breach that you discussed and you indicated that the card replacements that you've done so far has been de minimis in terms of expense, but could you speak a little bit bigger picture to how you're thinking about fraud in the card space as well as in the debit space?
+
+Question_14:
+
+    Right, and there's been this debate between tokenization versus chip and pin, and I'm just wondering do you guys have an angle as to which way you would prefer to see it go?
+
+Question_15:
+
+    Okay. And then just last question, on the Visa, did I hear you correctly, Marianne that you basically realized one-third of the economic value in the Visa shares that you have, is that correct?
+
+Question_16:
+
+    Okay, so two-thirds left and when you say economic you're talking about net of any hedging?
+
+Question_17:
+
+    Hello.
+
+Question_18:
+
+    First question on FICC in the IB. It's pretty stable, of course. As a matter of fact, if you look for the year it was about in line with last year which I think once everybody's done reporting will be a pretty good victory, so I guess the question is there's a bunch of structural headwinds blowing on the business and as you do your budgeting it's probably done already. Can the industry grow with the headwinds on it? In other words, the offset would be better activity levels, steeper curves, things like that, but there's a bunch of structural headwinds, I'm just curious how you think of that at the high level?
+
+Question_19:
+
+    I see that in the numbers. Maybe on a related note, I got a sense with the renewed focus on SLR that there's a renewed attention to compression trades, and I'm just curious if that's ongoing and it could be material in 2014, as this goes on I know there's a lot of work involved, but the reward is pretty good too.
+
+Question_20:
+
+    Okay last one for me. You've noted your 9.5% Basel III Tier 1 common, the 10% year-end target seems completely achievable given your earnings. I'm just curious how you think about balancing the absolute versus the relative, meaning you can get there on an absolute basis no problem. On a relative basis, some other large financial institutions have a little bit more. Just curious if that matters as you think about the capital planning process, or is it when you have enough it's enough?
+
+Question_21:
+
+    Hi. One more quick follow-up on the net interest margin outlook, Marianne. The NIM expected to be flattish but I wasn't clear if in the current rate environment you expect it to continue to add investments as you have been doing, and would you expect the net interest income dollars to grow from here as they did slightly this quarter?
+
+Question_22:
+
+    What about just taking advantage of the 10 year yields moving up and your overall sensitivity to higher rates?
+
+Question_23:
+
+    Okay. And then in terms of the litigation reserves, you resolved a number of large issues in the fourth quarter, so two questions here. Can you help us think about how the litigation provision expense might trend in 2014, should we expect it to be lower than the $800 million? And then second, can you tell us if your range of possible loss has come down from the $6.8 billion that it stood at in October since you resolved a few big items?
+
+Question_24:
+
+    Okay, thanks. And then last thing is you mentioned a little bit but can you just give us kind of the philosophy with which you approach this year's CCAR and how you're thinking about balancing your capital achievement goals on the ratios that you talked about with the goal of returning some capital to shareholders?
+
+Question_25:
+
+    Good morning. Just a question on the announcement of the potential for selling the prepaid card business. I'm just curious as to what drove that given that it doesn't appear that it was a scale related decision given the size of that business relative to peers, but if you could just provide a little more color as to what you're seeing in that business and what caused you to potentially sell that business.
+
+Question_26:
+
+    Right, okay. And then just moving on to your comments about being potentially cautiously optimistic about back-end growth for loans, I presume that's mostly focused on commercial lending. Is it still your view that the canary in the coal mine foreseeing that might be slower deposit growth or in fact negative deposit growth before you start to see loan growth?
+
+Question_27:
+
+    Fair enough. And then just finally in terms of your outlook for card balances, it looks like just trying to take some of the fourth-quarter seasonality out of that business that they have sort of bottomed in terms of the overall balances. Are you equally optimistic for those balances to begin to grow in 2014 or are you still looking at sort of flattish balances through most of 2014?
+
+Question_28:
+
+    And then just finally for me, are you seeing given some of the security breaches not only in your cards but across a couple of other issuers, have you seen any reduction in consumer spending potentially related to that via cards moving to other forms of purchases or is that?
+
+Question_29:
+
+    No? Okay.
+
+Question_30:
+
+    Good morning guys. Regarding expenses, can you remind us where we stand on the headcount reductions through I guess 2013 and then where you stand in terms of on track for 2014?
+
+Question_31:
+
+    Got it, thank you. And then in terms of the retail branch banking discussion that you had mentioned that you're kind of comfortable with the 5,600 branches level that you're at now, and your focus on optimization going forward, does that imply that you could see additional headcount reductions or shrinkage of the branch network or square footage as we've seen from others? How should we think about that?
+
+Question_32:
+
+    Got it, thank you. Then lastly just on credit quality. It feels like obviously still meaningful reserve releases, still largely in consumer. But is there much left to go in terms of cards or commercial, is that kind of inflecting if you will in terms of the degree of credit leverage that may still be there in terms of reserve release? How should we think about that?
+
+Question_33:
+
+    Good morning.
+
+Question_34:
+
+    Last quarter you had some tax benefits. Did you have tax benefits this quarter and can you quantify those?
+
+Question_35:
+
+    And what was the loan utilization rate for wholesale or commercial loans?
+
+Question_36:
+
+    So no change?
+
+Question_37:
+
+    Okay, and you said the number of branches shouldn't change a whole lot. If I recall from Investor Day you had planned on opening a lot of new branches, I thought it was going to be a net increase, so is this a change in your expectations?
+
+Question_38:
+
+    Gordon, if you look at that [bab] presentation, Gordon goes extensively through branches, branch size, technology, headcounts, and why.
+
+Question_39:
+
+    Okay. And then the more general question is per your outlook you said that NII should be kind of flat, mortgage a little bit lower, and expenses only about flat or maybe lower from that $60 billion after you eat that extra $1 billion, so it makes a difference how optimistic you are.
+If you are not optimist, you might want to cut expenses more, and if you are optimistic, maybe you assume that fees are going to grow a lot more because I know you want positive operating leverage so how do you see revenues growing faster than expenses? Is it the fees picking up, is it expenses going lower or how do you get there?
+
+Question_40:
+
+    Can you just give us a general sense of your outlook for CIB? In the past you've given us a little bit more detailed future expectations. I mean how do you think 2014 is going to be for capital markets? What's your backlog like right now, and why do you lower VaR if you're more optimistic?
+
+Question_41:
+
+    And then lastly, as it relates to Volcker, you said it should not hurt the results materially going ahead in the past, you said it might hurt $1 billion, and then another time you said it might even help. I know that was different Management at the head then, but now you don't think it should impact things too much?
+
+Question_42:
+
+    And how much of that would be reflected already?
+
+Question_43:
+
+    Good morning, just had two quick follow-up questions. The first is on the expectations for the expense base and CCB. If you take out that $400 million in legal expenses you're looking at a run rate of $6.9 billion. If you think about what the tailwinds could be for expenses for this year, is it fair to assume that that $6.9 billion quarterly run rate can improve throughout the year this year?
+
+Question_44:
+
+    Okay. And the quick other follow-up is a follow-up to Guy's question on operational risk capital. You mentioned that there was a 50 basis point haircut due to litigation. Assuming that you're not going to have similar out sized litigation expense going forward, is that 50 basis point something that you can eventually recoup and how long would that take?
+
+Question_45:
+
+    Good morning.
+
+Question_46:
+
+    If we just add up kind of some of the odds and ends of the businesses that you are getting out of, or the niche products and impact of Volcker, is it still a relatively modest amount in aggregate? I think last quarter, you had said maybe a few hundred million of revenue give-up from the businesses that you are tweaking. And I just want to know if that still holds, and if we overlay Volcker, kind of what the all-in number might be?
+
+Question_47:
+
+    Okay, and then just separately, as we think about potential legal uncertainly as a risk going forward, are there a couple that you kind of flag out there that are the ones we should be watching most closely for the industry, for you guys whether it's LIBOR or FX? Or feels like you have obviously settled a lot in the mortgage side, a couple other big ones that are specific to you, what should we be watching to make sure that we have a sense of what is going on?
+
+Question_48:
+
+    And nothing new, if we knew coming out in the 10-K versus the third quarter Q?
+
+Question_49:
+
+    Great, thanks. On that question about the operational risk capital, isn't it kind of double or triple counting against you when you have got like an $8 billion reserve which reduces your capital? And is it fair to say you don't get credit for that $8 billion in your capital base, when you think about that operational risk capital?
+
+Question_50:
+
+    Got it. So in the short run the fact that you have settled them actually increases the operational risk, but you hope that over the longer term it will decrease it.
+
+Question_51:
+
+    You had made a brief comment about the equities results about the comparable periods being higher. Were there any other reasons that equity raiding results were kind of down as much as they were?
+
+Question_52:
+
+    Got it. And then any other areas, I mean, Gordon Smith has presented a few times and talked about kind of derisking some of his businesses. Any other areas that we should be looking at for sales?
+
+Question_53:
+
+    Thank you. Good morning. You mentioned that your utilization rate in the commercial areas in the low 30% range presently, and you also pointed out that you are optimistic about the US economy for this year being stronger, and then the positive impact it will have on loan demand. What do you think the utilization rate could get to by year-end?
+
+Question_54:
+
+    Good, and then on the commercial Real Estate, as you pointed out you are having real good success in this area. What geographic regions of the country are you seeing the best success, and then second, what product types are you finding are working the best in growing that book?
+
+Question_55:
+
+    You also mentioned that you have about $350 billion on deposit at the Fed. If the Fed decides to eliminate the interest they pay on those deposits to all of the banks, will that change your strategy of keeping that amount up at the Fed?
+
+Question_56:
+
+    Okay, I may have missed this, but in the card merchant and services auto business, the non-interest expenses for the fourth quarter jumped up to $2.2 billion from the prior quarters' $1.9 billion. They have been flat for the prior three quarters. Any particular reason why there was a jump like that?
+
+Question_57:
+
+    It looks like in the quarter that you bought back about $300 million worth of stock in this quarter, and year-to-date or since the last CCAR, its just over $2.2 billion. If I recall you have an approval for $6 billion. Is it fair to assume you will use the next quarter to fill out the first -- the rest of the $6 billion or is that too optimistic?
+
+Question_58:
+
+    You also gave us a little bit of guidance of what we should expect for this year's CCAR, maybe similar to what you did last year. Should we look at what you're approved for or what you executed in the repurchases is a better guide number since they are quite a bit different?
+
+Question_59:
+
+    Thanks, good morning. I just have a few housekeeping questions left. I think you mentioned a mark-to-market gain in Asset Management revenues, wondering if you can just quantify that so we can straighten it out for our forecast?
+
+Question_60:
+
+    Perfect. And then on the Investment Bank, on the comp to income ratio, it is clearly at the right end of your guidance. I am just wondering has there been any change in the deferred versus expense this year, and then I guess related do we enter 2014 with a similar amount of awarded not yet expensed?
+
+Question_61:
+
+    Thanks very much. I just wanted to follow-up on the loan growth expectations. If we adjust for the typical seasonality associated with the credit card loans, which obviously is high in the fourth quarter, it looks like your core growth rate in loans was something like 60 or 70 basis points sequentially, which would obviously translate into roughly a 2.5% annual growth rate.
+
+Question_62:
+
+    Yes. So it just seems that the 2.5% seems like a fairly robust figure, so I wanted to get your view about what the run rate of core loan growth might be?
+
+Question_63:
+
+    Okay. So it sounds like continuing along this trajectory with potential strength in the back half of next year?
+
+Question_64:
+
+    So I'm just trying to reconcile that back to the NII dollar expectations which seem fairly flat. But if we are -- if the loan growth continues fairly strong and the expectation is to continue to deploy capital into securities opportunistically, and the CIO portfolio is approaching breakeven, why is the expectation not for a stronger net interest income dollar growth?
+
+Question_65:
+
+    Hi, thanks. Just two final follow-ups. Just on the commitment side, as you talked about adjusting the trade book and as we see the commitments continue to come down, how aggressively are you focusing on the commitment side from here, in terms of balancing the long-term growth potential versus the risk weightings and capital build?
+
+Question_66:
+
+    Sure, okay. Great, and the one follow-up on just the run-off -- (Multiple Speakers).
+
+Question_67:
+
+    And then one follow-up on the fixed income side, within that comments earlier about the run-off businesses. Is there a way you can update how we should think about the potential sale of physical commodities, and what proportion it is of the $15.5 billion of FIC revenues this year. And to Marianne, to your point about how that is in a relative profitable sense?
+
+Question_68:
+
+    Yes, thank you very much. Most of my questions been answered, but I wanted to talk a little bit about your mortgage origination platform. It looks like you dropped from about $40 billion to $23 billion, and your overall market dropped like 25%, and that's like a 40% drop which drops probably your market share below 8%.
+Can you add some color to that? Is that mainly a function of the refis going away? Should we see an increase in market share down the road?
+
+Question_69:
+
+    And now that we have got -- I know you don't want to make any really comments about political figures. But now that we have got that Mel Watt coming to town, that is probably going to be more focused in extending the credit box that we have seen over the last couple of years, where most of the companies don't really want to get away from high FICO, high credit quality product. Do you --what type -- do you think that Watt can be successful in opening the credit curve, and what types of things would you want to hear where you would start extending that credit -- the credit box?
+
+Question_70:
+
+    Yes, good morning. I have a couple of questions. The first one, maybe I suppose goes back to Sunday and the news that came out of [Bar]. I mean, I have the last 16 quarters we have been talking about regulation and you have often been quite aggressive in talking about the impact of some of that regulation.
+But it seemed like we have reached the tipping point on Sunday, whereby we step back to most rules suggested in June, and came out with something that was sensible, but actually also was going to support the growth of your business, and indeed the growth of the economy. Do you think we are at a stage now where we can feel that we are over the worst of the regulation, and we can actually get on with running our and your businesses?
+
+Question_71:
+
+    Okay, and the second question really relates down to the mix of your Investment Banking revenues. Clearly, what we have seen is obviously the downward on fixed income for some time now for a bunch of these, some of which you have touched on. But I suppose -- what a lot of people are talking about is the fixed income will no longer quite be the dominant parts of the revenue pool for big investment banks as it was. But in your case and one or two other big players, it's obviously very important business. Is your view, and perhaps don't just talk about yourself, but the really big players, the very successful players in fixed income, will actually probably be seeking to take share with what is going to be a smaller part going forward?
+
+Question_72:
+
+    Hello, good morning. I had a couple questions regarding the Basel SLR. Specifically I wanted to clarify a comment where you made earlier where it sounds as though you expect the US regulators to adopt the revised Basel framework from over the weekend as a final SLR calculation approach. And I didn't know if that guidance was in the context of the higher 5% SLR requirement, which is being imposed on the US G-SIBS.
+
+Question_73:
+
+    Okay, no, that's helpful. And then just looking at both the risk base and leverage based ratios, it sounds as though for the SLR, there are a lot of mitigation opportunities at your disposal. On a pro forma basis, which ratio do you anticipate will represent the binding constrain on capital return going forward?
+
+Question_74:
+
+    Okay, thank you. And then transitioning to a risk-based ratio that is maybe I guess not spoken about as often, the Tier 1 capital ratio, that ultimately could compel increased preferred issuance. We did see capital market within the first six months of the year, and I didn't know how we should be thinking about the level of preferred issuance you are targeting going forward. Is it consisting with the 150 basis points noted within the Fed's proposal, or should we be thinking about that differently, i.e. some of the mandated buffer will be met with incremental equity?
+

@@ -1,0 +1,188 @@
+Question_1:
+
+          Hi, good morning. Okay, so a couple of questions. One is on the GSIB proposal. Obviously it looks like you're at the 450 over the 7% minimum and I know we can't exactly see, because we don't have all the rules around the short-term wholesale funding rule, but I'm wondering where you line up in that bucket; if you're close to the low end of that range. Is there anything that you could do to move down a bucket?
+
+Question_2:
+
+          Right. It's a bit of a challenge because it's relative to global peers, so how do you run the business -- the follow-on question is how do you run the business when you've been used to trying to gain as much marketshare as you can, but now gaining marketshare works against you on this G-SIFI?
+
+Question_3:
+
+          Okay. I assume we'll hear more on it at Investor Day.
+
+Question_4:
+
+          Yes, hi, Marianne. Just following up on Betsy's questions, your hope is to grow or I guess your expectation is to grow the common equity Tier 1 from the 10.1 today to did you say 50 basis points this year you hope to add to that?
+
+Question_5:
+
+          Okay. And I guess could you give us some sense of what the assumptions embedded in there are in terms of RWA mitigation? I guess Street estimates and earnings and some expectations for capital return and I guess is that pace enough to get to what you see as the new GSIB buffers where it looks to us you might have to be at 11.5, 12. Is it just a timing question that you have time to get to 11.5, 12? If you could just walk through that, it would be helpful. Thanks.
+
+Question_6:
+
+          Okay. And then just a follow-up on that is on TLAC. You mentioned in some of the notes here that you might fill any potential shortfall to the current TLAC with additional common equity Tier 1, which I assume you mean as opposed to kind of debt issuance or preferred. Just wondering why you think that would be the best approach since you might already be building set one for a GSIB buffer.
+
+Question_7:
+
+          Okay, got it. That's what I thought. I was just looking at that footnote 10 on page 20. Maybe just we could take a look at that afterwards.
+
+Question_8:
+
+          Good morning. Just wanted to talk about expenses and initially focus in on the litigation charge of $1 billion after-tax. It's pretty clear, as you said, that the bulk of it goes to the Investment Bank and that it's FX as you said. But should this give us a sense that you now feel that it's reasonable -- that you have reasonable and probable basis to think in terms of what your settlement would be say with the DOJ or are there other elements that drove the increment?
+
+Question_9:
+
+          Okay. And then more broadly on expenses, just given that we've seen another decline in net interest margin that we've got a flattening yield curve environment and quite a bit of sluggishness elsewhere, and of course all the regulatory capital requirements that continue to build, should we expect that you'll revisit your $58 billion-ish expense target in some way to bring that meaningfully down?
+
+Question_10:
+
+          Hi, I'm following up on the expense question. If you look at slides 2 and 3, it looks like your adjusted efficiency ratio of 61% in the fourth quarter and 60% for the year got worse from 59% either the prior quarter or prior year. So it's gone the wrong direction and I thought you said that you had some peak in costs in midyear and I hear what you're saying about guidance at Investor Day and adjusted expenses in 2015 down, but can you give any more ins and outs on why you think the efficiency ratio on a core basis should improve?
+
+Question_11:
+
+          It's been three years of stalled progress with overall efficiency. I know you have some of your reasons with regulatory costs. You mentioned 2016 and 2017 benefits, but can investors see an improvement in efficiency expenses for revenues in 2015?
+
+Question_12:
+
+          Good morning. You had some good loan growth in consumer and in particular credit card in the fourth quarter. I'm just wondering how much of that is normal seasonality versus maybe some strengthening underlying demand for the consumer.
+
+Question_13:
+
+          Okay, then just separately in terms of the sharp decline in energy in general and I guess oil specifically, how do we think about some of the puts and takes with your customer base? Obviously, this should be good for the consumer, maybe mixed for corporates and institutional. There might be some risk to certain countries. Like how should we think about this holistically and how do you try and stay on top of this?
+
+Question_14:
+
+          Yes, good morning. My primary question is there's clearly been a lot of ink spilled recently in conversations again about a potential breakup of JPMorgan, especially relative to the higher capital buffers that could come from the Fed. And I guess, Jamie, could you remind us of how you're thinking about the benefits of keeping the franchise consolidated for the shareholders versus some of the conversation that investors are having today about breaking up or shrinking the bank in order to step down on your capital buffers?
+
+Question_15:
+
+          Understood. And just a follow-up question to that, Marianne, if we look at the GSIB scoring process, not the proposed Fed process and we think about the five pillars that drive the buffers, it seems like if we look at publicly available data that where JPMorgan really sticks out is under the complexity pillar. Is there any way to move that down without giving up significant meaningful revenue and is that the bucket of focus in terms of potentially managing buffers from here?
+
+Question_16:
+
+          Hi, thanks. Can we revisit the energy conversation for a sec? I mean in my experience when any asset class falls this much so quickly, it's usually pretty bad and I heard your comments and I completely agree that it's great for the consumer and net-net positive, but am I doing the math right? If it's 5% of your outstandings, is that on the $743 billion of loans (multiple speakers)?
+
+Question_17:
+
+          Commercial, okay. Because what I want to get at is you made a comment it's 5% of outstandings; a lot of it is secured. I'm sure you have some reserves against it. It's just -- it seems like an odd thing. I know it's early and we'll see if it stays down here, but it seems like a big deal and yet it doesn't seem like a big deal to you guys. So I just want to make sure that we talk about what your exact exposures are and why you feel better than most people I talk to.
+
+Question_18:
+
+          The only related follow-up I have is I don't know if the same thing is happening in oil. I know in and around October 15 when we had wild swings in the 10-year, people talked about less liquidity at the banks being a partial contributor. I'm curious to see if you think there's something to do with that on the oil side too because everybody's been downsizing commodities. And then the bigger question is does anybody care about it, are the regulators watching and paying attention and do you think some of this is contributing to the bigger volatile swings we're seeing?
+
+Question_19:
+
+          Good morning. Marianne, I just wanted to follow up on some of the regulatory discussion that we've had. You mentioned back in December that you felt that even though at the 11.5% buffer there may not be as big a difference in terms of capital requirements between you and some of your US peers as the initial numbers may initially indicate. It sounded like that may have been a focus on the short-term wholesale funding buffer, which obviously hasn't been released. You mentioned in December you felt that that would be around 50 basis points in terms of at least a starting point for you all. Is it your sense that there could be calibrations above and below your level of 50 basis points or do you think at this point it could be a blanket number across all of the big banks?
+
+Question_20:
+
+          Fair enough. And then, Marianne, just for a follow-up, in terms of your outlook for GDP, I think in December you also mentioned that you expected around 3% GDP growth is your operating assumption. A little stronger in the second half than the first half. Given your comments on when you think rates are going up, it doesn't sound like that has changed very much, but given your conversations about oil and some of the other growth numbers that have come out, has that changed very much?
+
+Question_21:
+
+          Thank you. Good morning. Jamie, you were very clear on the success of the global franchise that you guys have built and the success that you've been having with it. Is there any evidence that you're seeing some pricing increases or you can generate some pricing increases because of this franchise? And if not yet, what do you think it's going to take where you'll be able to really get some better pricing because of the value of the franchise that you present to your customers?
+
+Question_22:
+
+          And then as a follow-up, in the Corporate & Investment Bank, the world now has been operating under the Volcker rules since July of 2014. Can you share with us is there any secular trends that you're seeing because of that? And I noticed that your compensation expense as a percentage of revenue was a real low 27% versus 35% a year ago. Is that reflective of the changes because of the Volcker rule?
+
+Question_23:
+
+          Hi, good morning. So first question I have is on actually the debt capital markets business. Clearly, the results were quite impressive in the quarter. Certainly better than what the public proxy suggested and I was hoping you could give some additional color as to what drove this strength and then maybe how that informs your outlook in 2015 given that, on the last earnings call, Marianne, you noted that there could be some pressure on that business certainly going into next year or now this coming year?
+
+Question_24:
+
+          Certainly. Switching gears for a moment just back to the capital discussion, I just wanted to get a better understanding as to what drove the RWA inflation in the coming quarter. It sounded as though it was really primarily a function of counterparty credit risk inflation. I just wanted to get a better sense as to whether that was driven by some of the pressures on the corporates in the oil and energy space and also whether your $1.5 trillion target that you reaffirmed, whether that does contemplate the potential risk for further inflation in the coming quarters if those pressures continue.
+
+Question_25:
+
+          Thanks, good morning. My question was on the Consumer & Community Banking business. There are a couple of moving pieces this quarter with the sale of the card results, but also underneath that it looked like a couple of the fee-related areas might have been a little soft. I was just wondering if you can try to disaggregate that for us and was there anything that was also more of a one-time in nature or seasonal about those businesses this quarter.
+
+Question_26:
+
+          Okay. So it's a today versus tomorrow thing. And then on a follow-up, coming back to the energy discussion, you mentioned that it would be net to the consumer business and I just wanted to ask you to flesh that out for us. As you think about the benefits that you'd expect to get from the decline in oil prices, is it growth, is it spend, is it credit? How would you disaggregate that and give us an understanding of either magnitude or time to see that benefit?
+
+Question_27:
+
+          Good morning. Just want to follow up on the card fee income discussion. If you looked at your new accounts opened year-over-year, you were flat. You're starting to seem -- you seem like you're starting to lap that higher amortization of acquisition costs. So is it fair to assume that we are at least getting closer to an inflection point where we're going to see fee incomes more track more closely with growth in spend or is there something else going on there?
+
+Question_28:
+
+          Right, but I was just speaking specifically to the fee income where you were down I think 7% year-over-year. I would think that would start to turn positive at some point.
+
+Question_29:
+
+          Okay, fair enough. And maybe just one quick question on the expense side. You talked about the simplification impact on revenues and expenses. You're still at sort of a net negative about $200 million pre-taxes. Should that get closer to zero? Is it just it takes a little longer to get the expenses out versus the revenues or is that going to be a permanent drag?
+
+Question_30:
+
+          Good morning. A quick question on derivatives and equities. You guys highlighted the strength there. Were there any one-timers in those results because it certainly seemed like 4Q was volatile. Also did the uptick in equities VAR have anything to do with the revenue trends there?
+
+Question_31:
+
+          And that's true across (multiple speakers).
+
+Question_32:
+
+          Got it. And that change in VAR due to volatility was sort of across the board in the buckets, not just in the equities VAR?
+
+Question_33:
+
+          Okay. And then sticking with capital markets, thinking about how we're starting the current quarter, it does feel a lot like deja vu here in the beginning of the fourth quarter where the markets are beginning with some pretty unconstructive volatility. I know we're very, very early going, but is that a fair comparison to make and are we starting off on a pretty tough foot here? Obviously there's a lot of road to hoe here, but any comments on that would be helpful.
+
+Question_34:
+
+          Great. Last small cleanup one on capital markets. I know you've mentioned that there's going to be a lag from business simplification, but was any of the decline in comp in CIB tied to business simplification here? Just trying to think about how much of that drop might have been due to some other items aside from --.
+
+Question_35:
+
+          Yes, thank you very much. On the mortgage banking side, you're definitely picking up marketshare from probably your -- you were shedding marketshare up until probably the second quarter of this year and one of the chatters out there is that you've gotten more aggressive in the correspondent markets and the comment you made, Jamie, back in I think June of this year was that you wanted to get out on -- maybe not get out of, but lessen your exposure to those low FICO, high LTVs, i.e. FHA loans. I was wondering if you are still trying to lower your marketshare in FHA loans. Can you make some comments about being more aggressive on the correspondent side too?
+
+Question_36:
+
+          And then some of the rule -- on a follow-up -- some of the rule changes you're seeing coming out of GSEs that try to spur I guess loan demand is you're seeing the GSEs starting to do 3% down payment loans. Is that something that JPMorgan would go down underwritten correctly or is that just too risky?
+
+Question_37:
+
+          Good morning. Just a couple of follow-up questions. Marianne, you talked about some of the loan growth that you've experienced and expect to continue to experience and also the driver of the RWA reductions. But can you just help us understand what we should expect from your GAAP balance sheet given that a portion of the RWA reduction sounds like it is coming from runoff?
+
+Question_38:
+
+          Sure. I guess I was thinking about it more from the perspective of the loan portfolio. It sounds like the expectation is --.
+
+Question_39:
+
+          Got it. So if I were to summarize all of the guidance that you gave today with those comments, it sounds like the expectation is for modestly higher net interest income, fee income reflecting whatever volatility we suffer from in the capital market space, an absolute decline in operating expense, but likely some increase in the provision. Is that generally correct?
+
+Question_40:
+
+          You've been consistent about -- on the issue of dividing the firm up into constituent companies about the strategic benefits of it all, but I wonder if you've done any contingency planning on what if it ever came to the fact that it was too much of a drag to keep it all together? And I guess the question I have is is it even possible to unscramble the egg and specifically the issue I'm wondering about is you've got over $160 billion of debt at the parent company level. If you were to break the Company up into a consumer bank, a wholesale bank and an asset management business just for argument's sake, is there a way to fairly allocate that debt to the three various lines of business or how would one even go about that?
+
+Question_41:
+
+          Good morning. Thanks very much. On the question of legal costs, and I realize you'll refresh your disclosure in the 10-K, but can you say anything about whether there are other cases or buckets of cases out there that have the potential to cost $1 billion in any one quarter?
+
+Question_42:
+
+          Good morning. Two questions. Marianne, we had some numbers last week that indicated rising delinquency in auto loan portfolios and I think your commentary about your losses this quarter kind of confirm that. Are the numbers right now aberrational or is this a seasoning trend or how do you see this?
+
+Question_43:
+
+          Do you feel confident that this is not sort of the canary in the coal mine with regard to perhaps other consumer segments?
+
+Question_44:
+
+          Jamie, one final, hopefully final question on the breakup issue. We all listen to what you say about the strategic value of your businesses and the complementary nature of the businesses, etc. and it all sounds very logical. But in Washington, there is still a belief that your Company in its present form is a danger to the global financial system. Is there any -- in your view, is there any level of capital that is going to mitigate the too big to fail issue or does it go beyond that?
+
+Question_45:
+
+          Thank you. Marianne, can you tell us -- obviously, you've built up your HQLA in the quarter and your net interest margin came down. How much of the margin pressure was due to the increase in the HQLA?
+
+Question_46:
+
+          Are you guys -- I notice that the deposits at the central banks, as you pointed out, grew very largely in the quarter. Is this a level that now you're satisfied with? And also connected with that, what as outsiders should we look at that will drive the LCR ratio either higher or lower in terms of your calculation that you're going to be doing on a quarterly basis going forward?
+
+Question_47:
+
+          Totally agree. One last thing on those deposits of the central banks, I know some of the big custody banks indicated that they were going to charge their customers that have euro deposits because the ECB is now charging for the deposits at the ECB. Did you guys do that in the quarter and if so how did the customers react when you passed on that cost to them?
+

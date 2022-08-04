@@ -1,0 +1,556 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2013 Facebook Earnings Conference Call
+07/24/2013 05:00 PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * David Ebersman
+   Facebook, Inc. - CFO
+ * Deborah Crawford
+   Facebook, Inc. - Director of IR
+ * Mark Zuckerberg
+   Facebook, Inc. - CEO
+ * Sheryl Sandberg
+   Facebook, Inc. - COO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Justin Post
+   Merrill Lynch - Analyst
+ * Youssef Squali
+   Cantor Fitzgerald Securities - Analyst
+ * Eric Sheridan
+   UBS - Analyst
+ * Briain Pitz
+   Jefferies & Co. - Analyst
+ * Laura Martin
+   Needham & Company - Analyst
+ * Ben Schachter
+   Macquarie Research Equities - Analyst
+ * Ken Sena
+   Evercore Partners - Analyst
+ * Ross Sandler
+   Deutsche Bank - Analyst
+ * Heather Bellini
+   Goldman Sachs - Analyst
+ * Jordan Rohan
+   Stifel Nicolaus - Analyst
+ * Mark Mahaney
+   RBC Capital Markets - Analyst
+ * Anthony DiClelmente
+   Barclays Capital - Analyst
+ * Scott Devitt
+   Morgan Stanley - Analyst
+ * Rory Maher
+   Hillside Partners - Analyst
+ * Douglas Anmuth
+   JPMorgan Securities - Analyst
+ * Mark May
+   Citigroup - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good afternoon. My name is Jay and I will be your conference operator today. At this time I would like to welcome everyone to the Facebook second-quarter earnings conference call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks there will be a question-and-answer session. 
+(Operator Instructions) 
+Thank you very much. Ms. Deborah Crawford, Facebook's Director of Investor Relations, you may begin. 
+
+--------------------------------------------------------------------------------
+Deborah Crawford,  Facebook, Inc. - Director of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you. Good afternoon and welcome to Facebook's second-quarter earnings conference call. Joining me today to talk about our results are Mark Zuckerberg, CEO, Sheryl Sandberg, COO, and David Ebersman, CFO. 
+Before we get started, I would like to take this opportunity to remind you that during the course of this call, we will make forward-looking statements regarding future events and the future financial performance of the Company. We caution you to consider the important risk factors that could cause actual results to differ materially from those in the forward-looking statements in the press release and this conference call. These risk factors are described in our press release, and are more fully detailed under the caption Risk Factors in our quarterly report on Form 10-Q filed with the SEC on May 2, 2013. In addition, please note that the date of this conference call is July 24, 2013, and any forward-looking statements that we make today are based on assumptions as of this date. We undertake no obligation to update these statements as a result of new information or future events. 
+During this call we will present both GAAP and non-GAAP financial measures. A reconciliation of GAAP to non-GAAP measures is included in today's earnings press release. This call is being broadcast on the Internet, and is available on the Investor Relations section of the Facebook website at investor.fb.com. A rebroadcast of the call will be available after 6.00 PM Pacific time today. The earnings press release and an accompanying investor presentation are also available on our web site. I'd also like to mention that we recently launched our Facebook IR page at facebook.com/facebookinvestorrelations. While we don't currently intend to use the page as an exclusive vehicle for corporate disclosure, the IR page is designed as a curated resource for anyone interested in getting better acquainted with the Company. 
+Now I'd like to turn the call over to Mark. 
+
+--------------------------------------------------------------------------------
+Mark Zuckerberg,  Facebook, Inc. - CEO    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Deborah. And thanks, everyone, for joining us today. We made some really good progress this quarter with the growth and engagement of our community, the release of new products like Instagram video, and advertising growth, especially on mobile. When it comes to mobile, I'm very pleased with the results. We now have more daily actives on mobile than on desktop. Nearly 0.5 billion people use Facebook on their phones every day. And soon we'll have more revenue on mobile than on desktop, as well. This progress is the result of investments we started making more than a year ago and in some cases years ago. I appreciate the patience and trust of our team, our community, and our investors have given us. And we're looking forward to seeing our other long-term investments achieve great results, as well. 
+One of the questions I frequently get asked are what are the big changes we want to make in the world over the next five or ten years. Now that we've connected 1 billion people, what are the next big ambitions? There are three main goals I'd like us to achieve. Connect everyone, understand the world, and help build the knowledge economy. Connecting everyone is about growing our community to reach the next 5 billion people. Our mission is to give all people the power to share and make the world more open and connected. And that means everyone, not just people in developed countries. Most people in the world don't yet have smartphones or data access, but we know they want to be connected. We're focused on making this possible while also strengthening engagement within our existing community. 
+Understanding the world is about helping people share not just day-to-day updates, like text messages and photos, but also building up long-term knowledge about the world, like what people are interested in, which restaurants are good, which hotels your friends have stayed at, and so on. We should be able to build intelligent services that help you use your network to answer lots of questions for you that no other service can. And we want to lead our community to create a graph of all that understanding to power this intelligence. 
+Building the knowledge economy is about helping people create companies and jobs using information. The way I see our advertising products, we aren't just building a strong monetization engine for our Company. We're creating tools to enable new growth to jobs and businesses through our platform, and to support a larger economic shift in the world based on knowledge and information. I'm proud of the work we're doing here to help developers create apps to help local businesses find customers, to help great brands tell their stories. And this is a core part of our mission. 
+Now let's talk about the progress we've made in each of these areas, starting with connecting everyone. The Facebook community has grown steadily this quarter, adding 45 million new monthly actives. And the number of monthly actives is steady or increasing across demographics and countries. One thing that's surprised me as we've grown is I've always expected our ratio of daily actives to monthly actives would decrease as later technology adaptors used our service. The opposite has actually been true. And now 61% of monthly actives are daily actives. And that ratio has just continued to include. In our most penetrated markets like the US, more than 70% of our monthly actives use our services daily. And, now, more than 700 million people worldwide use Facebook daily as of today. 
+As more social services get created, one question is how it affects the sharing and time that people spend on Facebook. You could naively assume that more new services means people spend less time on Facebook, but that isn't happening. In fact, people on average are spending more time on Facebook than ever before. It's possible that, because the market is expanding due to mobile, even as time spent per person increases on Facebook, maybe our market share could decrease. But that doesn't seem to be happening either. According to third-party metrics like ComScore and Nielsen, Facebook's share of time spent in the US is either steady or increasing. And we believe it's either steady or increasing everywhere else, as well. This makes sense to me because Facebook helps you maintain your real identity in relationships, which are universal needs. We believe that if we execute well, we have a good shot at growing the amount of time that people spend using Facebook, while also maintaining or increasing our overall share of time spent. 
+One specific demographic I want to address is US teens. There's been a lot of speculation reporting that fewer teens are using Facebook. But based on our data that just isn't true. It's difficult to measure this perfectly, since some young people lie about their age. But, based on the best date we have, we believe that we have close to fully penetrated in the US teen demographic for a while. And the number of teens using Facebook on both a daily and monthly basis has been steady over the past year and a half. Teens also remain really highly engaged using Facebook. It's also worth mentioning that these stats are for Facebook only. Instagram is growing quickly, as well. So, if you combine the two services together, we believe our engagement and share of time spent are likely  growing quickly throughout the world. 
+Next, let's talk about building more useful services on the path to understanding the world. The newest product I'm most excited about from our last quarter is Instagram video. Adding video fits really naturally with the Instagram mission of capturing and sharing the world's moments. And it's off to a great start. People are already uploading hours of video to Instagram every minute. I'm really proud of the team, and I think they did a great job with this product. When I first talked to Kevin about this he had a really smart insight. Instagram has always been about helping people capture moments in a way they are proud of. Filters were necessary for photos because when Instagram started most cameras weren't good enough to take high-quality photos. But lack of filters isn't what's holding back videos from being great. It's that they're shaky and feel unprofessional. Kevin realized that if we could deliver a product that helped people produce stable videos that would really change the landscape. And I think it already is. 
+Now, some products like video fit into the flow of what people are doing, and they take off quickly. Others, like Graph Search and Home, are completely new kinds of products, and they're just going to take longer to develop. I think it's the right strategy to have a balance of long-term foundational new products and ones that fit an immediate demand. We're committed to building all of these into market-leading products. 
+Finally, let's talk about building the knowledge economy and what that means for our core business. This quarter has been a strong period for us. A lot of new businesses have signed up to advertise with us. And we now have more than 1 million active advertisers. Our newsfeed ads products are working well for them. One of the things I watch most closely is the quality of our ads and people's sentiment around them. Right now ads, on average, make up about 5% or 1 in 20 stories in newsfeed. We haven't measured a meaningful drop in satisfaction when we ask people about their experience with Facebook. We're comparing that to the result we get when we ask the same question to people using a version of Facebook with no feed ads at all. 
+Now, that said, in recent studies people have told us that they notice the ads more. So we're going to invest more in improving the quality. Our top priority is to expand the number of marketers and overall demand in our system rather than just increasing the number of ads that we show. We believe that this will help us improve the quality of the ads that we show by creating a more competitive auction. And this will create the best experience for people who use our products, the best returns for more marketers, and the best results for us. 
+That's my update for this quarter. We made a lot of progress in the last three months on growing our community engagement, releasing a successful major product, and generating strong financial results. This quarter also marks the end of our first year as a public company. And I think we've created a good foundation for the future. I want to take a moment to thank everyone who works at Facebook, and everyone who's a part of this great community. You are all helping to connect the world and push it forward. I'm grateful to have the chance to work with all of you on this. So, thank you, and thanks to everyone on this call for joining us today. I'm look forward to having more to share next quarter. 
+And now, Sheryl. 
+
+--------------------------------------------------------------------------------
+Sheryl Sandberg,  Facebook, Inc. - COO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Mark. Our advertising business gained significant momentum this quarter, growing 61% year over year to $1.6 billion. Our mobile ad revenue grew significantly, as well, and was approximately 41% of total ad revenue, up from about 30% in Q1. This growth was robust across all regions. And each of our four marketing segments increased spending with us this quarter. We believe this is because our ad products are delivering impressive ROI for each of these types of marketers. 
+Direct response marketers, including eCommerce companies, increased their spend significantly. Year-over-year ad revenue from eCommerce companies doubled in the second quarter. Direct response marketers are taking advantage of our high click-through rates and competitive CTCs to grow their businesses. These marketers are typically very measurement-focused. And they quickly increase their budgets as we deliver compelling ROI. 
+Revenue from mobile app install ads also continues to accelerate. The ad market is relatively new but is already large and growing very rapidly. We believe that Facebook is one of the most effective ways for developers to acquire new customers at competitive rates. We're increasing our share and helping to grow this market. 
+Local businesses also grew spend significantly. We surpassed 1 million active advertisers this quarter, more than double the number we had only a year ago. We believe that this rapid growth is being driven by our unique ability to target ads, and the simpler ad products we rolled out in the past year. We're all really excited that we can help local businesses grow around the world. One of my favorite local examples is right in our backyard, Artisan State, a San Francisco business that prints photos books. The owner told us that running newsfeed ads gained them so many customers so quickly that they had to pause their campaigns to let their manufacturing catch up. Nearly 18 million local businesses now have Facebook pages. While we are excited to hit 1 million active advertisers, we know that this is just a small fraction of the local businesses on Facebook. So this remains a large growth opportunity for us. 
+And, finally, brand marketers also continue to grow spend. We have a massive and engaged audience around the world that brands can use to grow awareness and drive scale. Every night 88 to 100 million people are actively using Facebook during prime time TV hours in the United States alone. One recent example is from Reckitt Benckiser, a global CPG company. Their campaign for Lysol targeted moms and drove a 2 times return on ad spend for their brand. Their campaign for Air Wick was even better, driving a 5 extra turn on ad spend. As they have seen these results, they have more than doubled their ad spend with us over the last year. 
+Newsfeed ads are performing very well. In an analysis by Datalogix of 55 ad campaigns on Facebook over the past six months, marketers saw a median return on ad sales of 3 times for campaigns that did not include ad in newsfeed, which is very solid performance. For campaigns that included newsfeed ads, the median return on ad sales was nearly double at 5.9X. During the second quarter we increased the number and type of ads in newsfeeds. At the same time, our click-through rates and cost per click metrics for newsfeed ads remained strong during the quarter, providing a good indicator of healthy and growing advertiser demand, and continued user interest in these ads. 
+Custom Audiences is another key product that continues to gain momentum. This product enables our clients to enhance their ad targeting by marrying their data with ours in a privacy-protective way. In Q2 the number of marketers using Custom Audiences more than doubled relative to Q1. 
+We also continue to innovate around our mobile ad products. In April, we launched ad targeting for future friends. This helps marketers, everyone from multi-nationals to local businesses, reach people in emerging markets who they could not easily reach before. While these ad markets are not especially large today, they'll become increasingly important in the years to come. 
+In summary, we believe we're making strong progress executing our strategy. As I have mentioned in previous quarters, we are investing in mobile, measurement and product innovation. The results we're reporting today demonstrate the early returns on these investments. Looking ahead, we're enthusiastic about the long-term prospects for our business. The time people are spending on mobile devices is increasing dramatically, yet mobile represents just 2% of ad spend globally and 3% in the US. We have a massive and growing mobile user base. We have an impressive share of mobile time spent. And we have one of, if not the, most effective mobile ad products. Together, this positions us well to lead the mobile ad market. 
+We believe that over time marketers will increasingly rely on Facebook, not just to reach people wherever they are but to fundamentally transform the way they build their businesses. As Facebook delivers personalized experiences to over 1.1 billion people, we also have a unique opportunity to deliver a more personalized advertising experience. As I meet with marketers all around the world, I find more and more that they are understanding the benefits of this opportunity. As a result, Facebook is poised to play a central role in the evolution of marketing. We know we still have a lot of hard work to do, but we're excited about this quarter and the opportunity in front of us. 
+Now David. 
+
+--------------------------------------------------------------------------------
+David Ebersman,  Facebook, Inc. - CFO    [5]
+--------------------------------------------------------------------------------
+
+          Thanks, Sheryl, and good afternoon, everyone. Today I'd like to update you on our progress in Q2 against our key financial objectives -- increasing revenue, investing to drive our future growth, and positioning the Company to maximize long-term returns for our shareholders. It was a great quarter across the board as we continue to benefit from and effectively navigate the transition to mobile. 
+Let's start with our network. Usage and engagement on Facebook remain extremely strong, as evidenced by the following. On an average day in June, 699 million people used Facebook, up 27% from last year. This represents 61% of the 1.15 billion people who accessed Facebook at any point during the month of June. Additionally, time spent per person on Facebook continues to increase. In aggregate across everyone in our network, time spent on Facebook exceeded 20 billion minutes each day in June. Separately, Instagram continues to grow rapidly with impressive engagement. And we announced last month we had over 130 million actives using the service. Overall, we're really pleased by the unprecedented growth and engagement of our community at this scale. 
+Now let's turn to the financials. In Q2, total revenue was $1.81 billion, up 53%, or 54% when adjusted for constant exchange rates. Ad revenue was $1.6 billion, up 61% in the quarter, or 63% when adjusted for constant exchange rates. This was our strongest quarter in terms of advertising revenue growth since the third quarter of 2011. The performance was strong throughout the world, with ad revenue in each of our geographic regions growing by greater than 50%. Growth in advertising revenue was driven by an increase in the number of marketers, overall advertising demand, and the strong performance of newsfeed ads. Newsfeed ads work. They've been remarkably effective at delivering high levels of engagement, a significant increase in click-through rates and overall number of clicks. And marketers have increased budgets meaningfully in response. 
+Overall ad impressions were up 43%. And the average price per ad was up 13% compared to last year. Ad impressions are up due to more people using our service worldwide, combined with the impact of reducing the price floor late in 2012, which resulted in more ads being shown, particularly in developing markets. In the US and Canada, where the price floor changes had a smaller impact, ad volume increased 6%. And average price per ad increased over 40% year over year, driven by the growth of higher performing newsfeed ads. Total payments and other fees revenue was $214 million in Q2, an increase of 11% versus last year. Payments revenue from gains specifically was up 7%. But we believe 11% represents the best apples-to-apples comparison if we adjust for items such as the change in revenue recognition timing we made late last year. 
+We were pleased to see King's continued rapid growth on our games platform in Q2. King's strategy of launching games, like Candy Crush Saga, on Facebook, and subsequently launching on mobile, has proved to be an effective approach that enables people to seamlessly play games across desktop and mobile. And we expect other game developers to pursue a similar strategy. We believe Facebook continues to offer a compelling platform for developers to build great games and businesses. 
+Overall RPU increased 25% compared to last year, to $1.60 per user for the quarter, including a 35% increase in the United States and Canada, as well as 30%-plus gains in all our other regions. 
+Turning now to expenses, in Q2 our GAAP total expenses were $1.25 billion. Excluding stock compensation, non-GAAP total expenses increased 52% to $1.02 billion, primarily driven by head count and infrastructure. We ended the quarter just shy of 5,300 employees, up 33% from last year. And we continue to be pleased with our success in attracting talent. Our Q2 GAAP operating income was $562 million, representing a 31% operating margin. Excluding stock comp, our non-GAAP operating income was $794 million, a 44% non-GAAP operating margin. 
+Our GAAP tax rate for Q2 was 39%. And our non-GAAP tax rate was 37%. GAAP net income was $333 million, or $0.13 per share. And non-GAAP income was $488 million, or $0.19 per share. We spent $268 million on CapEx in Q2 as we continued to invest in our data centers and facilities. While the relatively lower spend on CapEx in Q2 is partially the result of timing of purchases, it also reflects the returns from a significant effort by employees throughout the Company to make our software and hardware more efficient. CapEx will remain one of our primary areas of spend, since we need a powerful infrastructure to provide content-rich and personalized information to all the people who use our service around the world. But projects like Open Compute, and many others, are providing great returns for us. And helping ensure we're able to invest our resources in a disciplined and official manner. 
+Of note, free cash flow in Q2 was over $1 billion. This is much higher than we expect in coming quarters, as Q2 free cash flow benefited from a $419 million tax refund and light quarterly spend on CapEx. But, still, $1 billion in free cash flow is a nice milestone for us against an important financial metric. In Q2, similar to prior quarters, upon the vesting of employee RFUs, we withheld shares and paid the associated income taxes for our employees. Which provides an outcome similar to Facebook having repurchased approximately $153 million worth of shares in the quarter. We ended Q2 with $10.3 billion in cash and investments. 
+Now I want to conclude by sharing some thoughts about the second half of 2013. We expect newsfeed ads to remain the main driver of revenue growth in the second half of the year. And we believe we have a great opportunity to continue to drive long-term growth by improving the quality and relevance of these ads. However, remember that newsfeed ads really began to contribute to our revenue in the third and fourth quarters last year, which will make for more difficult year-over-year comparisons in Q3 and Q4 relative to Q2. Looking at expenses, consistent with what we've said previously, we plan to invest in our business. And continue to expect that our total non-GAAP expenses, including cost of revenue but excluding stock comp, will likely grow in the neighborhood of 50% for the full year 2013 compared to 2012. We also continue to expect that this over full-year expense growth rate will be faster than our year-over-year revenue growth rate for the full year 2013 compared to 2012. 
+In terms of our tax rate, we expect that our Q3 and full-year non-GAAP tax rate will be a few percentage points higher than our Q2 rate. And, finally, we expect 2013 CapEx to be in the neighborhood of $1.6 billion. This is down from our prior estimate of $1.8 billion due to a combination of efficiency gains and changes in timing of purchases. Overall Q2 was a very strong quarter for us. We believe we're executing well, in particular with regard to the mobile transition, the investments we've been making over the past year are paying off, the business is growing rapidly, and we're excited about the opportunities ahead of us. 
+Now let's open the call for questions. 
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+    (Operator Instructions) 
+Douglas Anmuth with JPMorgan. 
+
+--------------------------------------------------------------------------------
+Douglas Anmuth,  JPMorgan Securities - Analyst    [2]
+--------------------------------------------------------------------------------
+
+    Great, thanks for taking the question. Just wanted to drill down a little bit more on the ad revenue growth here in the quarter. And it was very helpful to get the four segments broken down. But can you just help us understand a little more, Sheryl, your comment on the increased number, and then the type of ads in the newsfeed in 2Q? I'm trying to understand if this is more specific product-driven or if this is just the combination of all the efforts that have been going into newsfeed ads essentially over the last year. Thanks. 
+
+--------------------------------------------------------------------------------
+Sheryl Sandberg,  Facebook, Inc. - COO    [3]
+--------------------------------------------------------------------------------
+
+    Over the past year on these calls we've been talking about our three priorities in growing our ads business -- mobile, measurement and product innovation. I think what you're seeing here is all three of these are paying off. Obviously the transition to mobile is a really big one. We had almost no mobile ads a year ago. We're up to 41% this quarter. We've done a lot on measurement. And product innovation newsfeed ads has been the most important thing we've done there. We've done other things, as well. In terms of the marketer segment, all four marketer segments are growing and contributing to our growth. So, we're seeing both the increased supply that we talked about with newsfeed ads, but also the increase in demand that all four of these marketer segments represent. 
+
+--------------------------------------------------------------------------------
+Douglas Anmuth,  JPMorgan Securities - Analyst    [4]
+--------------------------------------------------------------------------------
+
+    And just as a follow up, can you help us understand how impactful or how big mobile app install ads are within the mix? 
+
+--------------------------------------------------------------------------------
+Sheryl Sandberg,  Facebook, Inc. - COO    [5]
+--------------------------------------------------------------------------------
+
+    We don't break out by segment, the four market segments. But, again, all four are growing. Mobile app install ads, they're small but they're important and they're growing rapidly. It's basically a totally new market. People who are selling either mobile apps as their revenue, or things that are bought through mobile apps, are looking for a way to find new customers. And we represent one of the only ways and a very effective way to do that. So, we're growing quickly and I think we're helping to grow this market. 
+
+--------------------------------------------------------------------------------
+Douglas Anmuth,  JPMorgan Securities - Analyst    [6]
+--------------------------------------------------------------------------------
+
+    Thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+
+    Heather Bellini with Goldman Sachs. 
+
+--------------------------------------------------------------------------------
+Heather Bellini,  Goldman Sachs - Analyst    [8]
+--------------------------------------------------------------------------------
+
+    Great. Thank you very much and congratulations. I was wondering, you talked about before improved targeting and relevance of newsfeed ads that lies ahead. I was just wondering if you could share with us the progress you think you've made on this initiative and what's to come. 
+
+--------------------------------------------------------------------------------
+Sheryl Sandberg,  Facebook, Inc. - COO    [9]
+--------------------------------------------------------------------------------
+
+    Targeting is really important because what takes an ad and makes it a good ad is whether it's relevant to you. When I see something on Facebook or anywhere that I'm interested in, that's a great experience. When I see something that I'm not interested in, that's not. So we've done a lot of work around targeting. The most important work we've done over the past years, and I think you're seeing its results in this, is around Custom Audiences, which allows people to use their data in a privacy-protective way with us. It enables them to show different ads to people who are current customers versus new customers who are interested in different things. And I think we're really pleased with the adoption. The number of marketers using Custom Audiences more than double doubled in Q2. And we're now up to the 50 Ad Age 100 who have already started using the product. We also think there's room to improve. We can do more, and we will continue to do more to improve the targeting, the relevance of our ads. 
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+
+    Mark Mahaney with RBC Capital Markets. 
+
+--------------------------------------------------------------------------------
+Mark Mahaney,  RBC Capital Markets - Analyst    [11]
+--------------------------------------------------------------------------------
+
+    Great, thanks. Two questions, please. Could you talk about thoughts on monetization on Instagram. And maybe just potentially how you think about the ability to monetize that versus your core Facebook asset. And then, secondly, Sheryl, could you talk about, on a vertical basis, where you think the biggest white space opportunities are for advertising revenue for Facebook Are there particular industries that you look at that, say, are materially under-represented on Facebook where you could have the greatest growth going forward? Thanks a lot. 
+
+--------------------------------------------------------------------------------
+Mark Zuckerberg,  Facebook, Inc. - CEO    [12]
+--------------------------------------------------------------------------------
+
+    Sure, I'll answer the Instagram question. Kevin has always been clear that we're building Instagram to be a business. And that we expect that over time we're going to generate a lot of profit from it, and probably through advertising. Now, that all said, right now it's just growing so quickly. The number that we just said was 130 million monthly actives. The video product is growing really quickly. There are so many directions to expand this in, that we think that the right focus for now is to continue just focusing on increasing the footprint of Instagram. And when the right time comes, then we'll think about doing advertising, as well. And I think that's going to be a really big opportunity. 
+
+--------------------------------------------------------------------------------
+Sheryl Sandberg,  Facebook, Inc. - COO    [13]
+--------------------------------------------------------------------------------
+
+    In terms of growth opportunities, I think in terms of vertical categories we have big growth opportunities across the board. There are certainly verticals where we're stronger than others. We're very strong, for example, in CPG. But even though we've grown spend significantly, we're still a tiny portion of the spend of CPG advertisers. So, even in the verticals where I think we've done very well starting to penetrate, there's a lot of room for growth. I think as you think about different industries using the power of online marketing, we see different levels of adoption. But I'm a believer that over time this is where people are spending their time. And any marketer who's trying to reach people is going to spend their resources here, as well. 
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+
+    Jordan Rohan with Stifel Nicolaus. 
+
+--------------------------------------------------------------------------------
+Jordan Rohan,  Stifel Nicolaus - Analyst    [15]
+--------------------------------------------------------------------------------
+
+    Thanks so much. I think it's fairly easy, when talking to advertisers, to assess that there's been this latent demand for advertising on Facebook. But when you look across the globe it's a little bit harder to address the advertising community. Can you talk about the growth of the ad sales force and the ad ops, and all the people required to really bring that outside of the major US and Western European markets. And, specifically, is there a chance that you believe that Asia Pacific and rest of world markets can see a meaningful continued and sustainable shift higher in RPU than where we are today? Thank you. 
+
+--------------------------------------------------------------------------------
+Sheryl Sandberg,  Facebook, Inc. - COO    [16]
+--------------------------------------------------------------------------------
+
+    Yes, I'm a big believer that there are revenue opportunities that exist all over the world. And our growth was very strong across regions, including outside of the US for this time. We're up to over 40 offices, so we have sales teams on the ground in over 40 offices. And we're seeing really good adoption and really good growth across. You mentioned Asia. I was actually in Japan and Korea meeting with advertisers just a few weeks ago. And we are seeing companies that really weren't doing much with us a year ago increasingly adopt us as part of a core part of their spend. So I remain very optimistic about our growth across Asia and the rest of the world. 
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+
+    Youssef Squali with Cantor Fitzgerald. 
+
+--------------------------------------------------------------------------------
+Youssef Squali,  Cantor Fitzgerald Securities - Analyst    [18]
+--------------------------------------------------------------------------------
+
+    Thank you very much. Two questions, please. Maybe, can you talk about the mix of growth in direct selling versus programmatic selling for you guys? And where do you see that going forward? And in terms of just on the cost side, looking at the investment -- and, by the way, David, thanks for the color about operating expenses guidance for the second half. But as you look at longer term, how far can you see that 50% increase in operating expenses still being sustained as you -- just looking at 2014, I know you're not guiding through 2014 right now, but just as we look at the model going forward, how far do you think you can sustain growth and operating expenses faster than growth in revenues? Thank you. 
+
+--------------------------------------------------------------------------------
+David Ebersman,  Facebook, Inc. - CFO    [19]
+--------------------------------------------------------------------------------
+
+    Thanks for your question. Your first question about direct selling versus programmatic, the mechanism that most people buy ads from, from  Facebook, is through the option that we offer. But that doesn't mean that we don't have a sales force that's out calling on clients. Sheryl can expand on that, if she wants. 
+
+--------------------------------------------------------------------------------
+Sheryl Sandberg,  Facebook, Inc. - COO    [20]
+--------------------------------------------------------------------------------
+
+    Yes. We sell both directly through our own sales team, both in person and online -- what I think you mean by programmatic, which is through third parties, such as DSPs and others. One thing worth noting is that FBX, which is part of that programmatic selling, is actually a very small part of our business. And I think sometimes people don't understand that. That piece is quite small. We are expanding both our direct selling efforts, both the sales teams and online, as well as the third parties we work with. And we think having a healthy and growing ecosystem on both sides is really good for the development of our business. 
+
+--------------------------------------------------------------------------------
+David Ebersman,  Facebook, Inc. - CFO    [21]
+--------------------------------------------------------------------------------
+
+    And you asked about investments looking forward to next year. I think philosophically is the easiest way to answer that, which is, we still think we're early in the journey of building the service that we want Facebook to be. And there's lots of work ahead of us to do and lots of things to build. And our plan will be to continue to invest aggressively in the areas that we think are important to improve our strategic positioning, and to drive our ability to grow revenues and profits over the long run. We also know that to be the great company that we want to be, we have to be disciplined in everything that we do, and focus our spend on the areas that are really most important. So, the challenge for us, just like any company, is finding that right balance. I really can't comment on 2014 yet, honestly, just because I don't know what 2014 is going to look like. We tend to plan in six-month blocks, and I think have our act together pretty well for what we're going to try to do in the second half of this year. But haven't begun the conversation about next year yet. 
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+    Anthony DiClemente with Barclays. 
+
+--------------------------------------------------------------------------------
+Anthony DiClelmente,  Barclays Capital - Analyst    [23]
+--------------------------------------------------------------------------------
+
+    Thanks a lot. I have one for Sheryl and one for David. Sheryl, I'd be interested in hearing a little bit about the relative progress of impression-based selling versus performance-based. I know you mentioned the e-commerce -- the doubling from e-commerce from direct response. And I just wanted to know if you've increased the amount of inventory that you're selling on an impression basis versus performance. And then, David, I had a follow up on the CapEx. It just seems like an interesting time for CapEx to be coming in when video usage and video uploads could be growing --. 
+
+--------------------------------------------------------------------------------
+Sheryl Sandberg,  Facebook, Inc. - COO    [24]
+--------------------------------------------------------------------------------
+
+    I think we may have lost the question, but I'll take the first half while we wait for the second piece to come back. On the first piece, our system works that you can buy by CPM or CPC, and we let advertisers choose. I think both parts of our business are healthy and growing. I think when people talk about impression-based purchasing or buying, what they're really trying to get at is brand. And brand is a very important one of our four segments, and one that's growing. When you think about what brand spenders are doing, they're trying to get discovery. And I think we've made a lot of progress there. We now work with every one of the global Ad Age 100 over the past year. Now that said, people are in different parts of that spectrum. We have brand advertisers who are looking for discovery, who have advertised with us for a long time, proven the value, and are really expanding. And we have others that are newer, that are experimenting, that aren't as convinced yet. And it's our job to get there and convince them. 
+I think what people are increasingly seeing is we have a big brand opportunity. We have a massive and engaged audience, 88 to 100 million people in the US during prime time hours on Facebook. We offer discovery. And we have a unique opportunity to take people all the way through the funnel. In one example, a recent one that I really like, T-Mobile did an ad campaign with us to attract people to sell new phones. They used our offer ads to do it. 9% of the people who claimed the offer converted to T-Mobile within 10 days. And they had over a 20 times return on their ad spend, which is just incredibly strong in the industry. And I think that shows the power of what we can do with impressions, taking people all the way through the funnel. 
+
+--------------------------------------------------------------------------------
+David Ebersman,  Facebook, Inc. - CFO    [25]
+--------------------------------------------------------------------------------
+
+    And, Anthony, I'll try and answer your question about CapEx, as best I could. You got cut off, as you probably know. So I only got -- well, I don't know how much of it I got. But I got enough to give it a shot. And, really, the best way I can think to answer it is to describe for you the variables that influence what CapEx requirements are for the Company. So, clearly, the number of users is near the top of the list. And also the time at which the users use the service. So, adding users who are off peak, the Facebook peak, provides less of a burden for our infrastructure than people who are using it at the same time as our peak hours, because we can leverage what we've built to peak. 
+A second thing is definitely the level of engagement of those users. And that seemed to be where you were going with your question about vide. That is and will continue to be, we hope, something that drives up requirements for our infrastructure, because it means people are really engaging and finding new ways to use the service. What has helped us, I think, is the two variables that come next. One is just the cost of the equipment itself in the data centers. And over time Moore's Law and other things, and competition in the market, have helped us to really be able to bring down the cost for each unit of equipment we use. 
+And then the next variable which I mentioned in my remarks, which I think is a really important one, is just the efficiency of what we build. So, over time, I think Facebook has impressively succeeded at making the hardware we use more efficient, and the software that we run on it more efficient in terms of how much compute power that it needs. The last variable, of course probably the hardest to predict, is product development. It's just what we build and how that influences what the compute requirements are. So, clearly, the variable you emphasized, which was engaging with higher content things, is one of the things that will influence CapEx over time. But it's a pretty complicated equation that I think right now we're managing well. I think we're pleased with how 2013 is coming together in that regard. 
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+
+    Justin Post with Merrill Lynch. 
+
+--------------------------------------------------------------------------------
+Justin Post,  Merrill Lynch - Analyst    [27]
+--------------------------------------------------------------------------------
+
+    As we look back at this mobile ramp, back in 3Q last year, it's been pretty lumpy, and it bounces around quarter over quarter. But it looks like a pretty big inflection this quarter. Can you help us understand why it has been so lumpy, so we can think about going forward? And maybe what caused the inflection this quarter. And then I really appreciated the time spent metric. I think you said 20 billion minutes per day. Can you tell us how that compares to, say, a quarter ago or a year ago? Thank you. 
+
+--------------------------------------------------------------------------------
+David Ebersman,  Facebook, Inc. - CFO    [28]
+--------------------------------------------------------------------------------
+
+    In terms of the progression of mobile, we're really pleased overall that newsfeed ads, in general and on mobile in particular, are working so well in terms of the performance they're providing to marketers, and how users are engaging with them. For a new product like this, I don't think we should be that surprised that the quarter-to-quarter progression is going to be harder to predict than it would be for a more mature product. I think one of the things that happened in the second quarter is that, as the investments we've made started to really come together, we had a lot more demand in our system that met the quality bar that we set for feed. So, we were able to place that demand intelligently in a manner where it performed well, and didn't have a meaningful impact on the user experience. So I think that more feed-eligible demand was a big part of the story. 
+And I think one of the really good pieces of news for us is how well the price held up as we did that, as we increased the number of ads we showed in feed. For many of our ads, as you know, marketers are bidding for clicks in an auction, and the auction determines the price where supply equals demand -- the cost per click price. And in the second quarter -- and this statistic I'm going to give you is relative to the first quarter of this year because it's hard to do a year-over-year for mobile and for newsfeed because it just didn't really exist a year ago -- so Q2 relative to Q1, the number of clicks in our system went up a lot. And we might have assumed that price would decline as click number increased, because we're basically pushing out the supply curve and changing the point where supply would meet demand. And that's not what happened. Cost per clicks for feed ads increased, and really demonstrating to us that demand was growing rapidly, as well, as we were increasing the supply of ads we were showing. It's not a perfect comparison because Q2 is seasonally stronger than Q1, but I don't think the seasonality explains the trend I just provided. And I think that's a really encouraging metric for us. 
+Your second question was -- I wrote it down. Hold on. Oh, time spent. Unfortunately, we don't have a lot of longitudinal data for time spent. It's not something that we had instrumented well going back more deeply in time because it's hard. It's hard on every interface and it's particularly hard on mobile. We feel pretty good about where we are now in terms of the quality of the instrumentation. It is up on a per user basis. As you would imagine, quarter-over-quarter sequentially on a per user basis it will be growing slowly. On an aggregate basis, of course, it's benefited from the fact that we have such a nice and consistent increase in the number of daily users of this service. 
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+    Ross Sandler with Deutsche Bank. 
+
+--------------------------------------------------------------------------------
+Ross Sandler,  Deutsche Bank - Analyst    [30]
+--------------------------------------------------------------------------------
+
+    Great. Thanks, guys. David, just a continuation of what you were just talking about. On the mobile newsfeed ads, is the 5% number -- 5% of stories being ads -- the right number? And is that consistent across geos? And then is the growth a function of -- you just said price is going up sequentially. Obviously your mobile DAUs are going up, or MAUs are going up sequentially. And you're probably also seeing improving click-through rates. So, of those three variables -- users, click-through rate, and price -- which is driving the sequential increase the most in mobile? Thanks. 
+
+--------------------------------------------------------------------------------
+David Ebersman,  Facebook, Inc. - CFO    [31]
+--------------------------------------------------------------------------------
+
+    In terms of the 5% number, again, what we know is where we are now, and we're pleased that things are going as well as they are at the current level. The number was zero a year ago. It's increased steadily over the past year. And the 5% number is an average number globally. It does differ by geography and it also differs by person. It will be higher for people for whom we have a lot more ads that are targeted towards them and are relevant for them. What we're trying to do is find the right balance ideally for each user, where we're balancing their experience with Facebook and the performance of the ads. And continually tweaking the product, learning from our experience, to try and do that as well as we can. Going forward, I think we've been consistent in saying the biggest opportunity for us is to improve the quality of the ads so that we can show ads that are engaging and relevant for the users involved. 
+Your question about what drove the increase, I think everything contributed. I think that's one of the things that's encouraging about where we are, is we do have more users, we have more demand that enabled us to show more newsfeed ads. We're really pleased with how click-through rates have held up. And I mentioned what was happening in terms of cost per click increasing sequentially. So it's a nice balanced contribution from the variables that determine what our revenue performance is. 
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+
+    Brian Pitz with Jefferies. 
+
+--------------------------------------------------------------------------------
+Briain Pitz,  Jefferies & Co. - Analyst    [33]
+--------------------------------------------------------------------------------
+
+    I'm wondering if you could give us a sense for what the major hurdles are to overcome before deploying a major video ad product on the core site. As you're out talking to potential clients, can you help us understand what demand looks like for that product? And then maybe separately, just a sense for what you're seeing in Europe from a macro perspective, just given some of the mixed views we've heard on the economy over there. Thanks so much. 
+
+--------------------------------------------------------------------------------
+Sheryl Sandberg,  Facebook, Inc. - COO    [34]
+--------------------------------------------------------------------------------
+
+    On video ads, we have a current video ad product because marketers can embed a video in a page post. And we see a lot of marketers using that product and seeing good results. So the demand to do more on video on Facebook is there. And we're exploring how we can expand that, but we don't have anything new to announce today. In terms of Europe, we hear the same things, and obviously on the macro environment. But our growth has been very strong. We had a new head of our European operations, as well, Nicola Mendelsohn, who just started. We're excited to have her. And we are experiencing strong growth. 
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+
+    Ben Schachter with Macquarie. 
+
+--------------------------------------------------------------------------------
+Ben Schachter,  Macquarie Research Equities - Analyst    [36]
+--------------------------------------------------------------------------------
+
+    Congratulations on a really outstanding quarter. Mark, I want to ask about the platform strategy. Just broadly, how has the strategic vision to allow third parties to provide services to the network evolved over the past year? And what needs to happen to have more of a contribution from non-advertising-based businesses? And then, David, just quickly, for modeling, the mobile ad revenue, can you talk about how that progressed through the quarter? Did it exit June much stronger than it was earlier in the quarter? Thanks. 
+
+--------------------------------------------------------------------------------
+Mark Zuckerberg,  Facebook, Inc. - CEO    [37]
+--------------------------------------------------------------------------------
+
+    Yes, I can take the platform question. The strategy for that, we've shifted a bit to focus on building more business tools for developers. A lot of what we're seeing is folks have shifted towards using products like mobile app installs. Originally we had a little bit of skepticism about how happy developers would be with a system where they would pay to get more distribution. But what we've actually found is that the NPS is really high for this because it's just a lot more stable than anything else that they've had in the past. And it's the most stable way they have to grow their apps. What we're basically focused on doing now is we think about advertisers in terms of these use cases that folks have. There's local businesses, there are great brands, there are developers who are building apps, there's eCommerce. And we're really focused on building out the platform to be one of those big verticals to be a big part of the business. There's also the games part of the platform, which is the first piece of platform that we launched. And that is just continuing to grow at a slower but steady rate. 
+
+--------------------------------------------------------------------------------
+David Ebersman,  Facebook, Inc. - CFO    [38]
+--------------------------------------------------------------------------------
+
+    Your second question was about progress through the quarter. Nothing notable to report there. It was really a strong quarter from the beginning to the end. 
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+
+    Scott Devitt with Morgan Stanley. 
+
+--------------------------------------------------------------------------------
+Scott Devitt,  Morgan Stanley - Analyst    [40]
+--------------------------------------------------------------------------------
+
+    Thanks. I had a bigger picture question for Mark. I was hoping you could give a score card one year in relative to your founder letter. I know it's been only 14 months, and that's a short period of time. But it'd be interesting to hear your views on the Company's performance against the longer-term aspirations and core values that you put in the letter. Thanks. 
+
+--------------------------------------------------------------------------------
+Mark Zuckerberg,  Facebook, Inc. - CEO    [41]
+--------------------------------------------------------------------------------
+
+    I think we're early. One of the interesting things over the past six months or so is reaching 1 billion people was this big rallying cry for the Company for a long period of time. And I think as we've passed that, we've seen the ambition that the Company has, grow. Reaching 1 billion users was a great first thing to focus on because no one had ever built a service that had 1 billion active people who are signed in, had a real identity before. But, in a way, it's actually just an abstract. There's nothing magical about 1 billion. The real goal is to connect everyone in the world, and help people map out everything that there is. What I think what we're seeing as some of the products succeed is just the ambition increase to be able to do more of these, and taking on more longer-term things. 
+At the same time, I think what you have is, we weren't happy with the quality of our mobile experiences, rewinding 18 months. So we had just a lot of foundational work to do. And I think coming into this year we could tell internally that we were turning a corner on that. We were in good shape and could start to play a bit more offense. But, as I think the numbers from this quarter suggest, I think we're really starting to see the up side of some of the investments that we've been making over the last period. 
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+
+    Mark May with Citigroup. 
+
+--------------------------------------------------------------------------------
+Mark May,  Citigroup - Analyst    [43]
+--------------------------------------------------------------------------------
+
+    Thanks for taking my question. I had two. One of the things that stood out in your prepared remarks was I think you mentioned a 40% year-on-year increase in average price for ad in North America in Q2. I was hoping you could remind us how that compared to, say, Q1. And given that I think you contributed that to higher-performing ads, if maybe you could call out specifically what one or two either ad units or ad targeting enhancements were the key contributors to that growth. And then, secondly, David, I think you called out the more challenging comps as you enter into the second half of the year. Are you suggesting that it's unreasonable for us to look at the sequential growth that you saw in the second half of 2012 and assume that that rate of growth is repeatable this year? 
+
+--------------------------------------------------------------------------------
+David Ebersman,  Facebook, Inc. - CFO    [44]
+--------------------------------------------------------------------------------
+
+    Okay. In terms of pricing, we were pleased with the pricing growth in the first quarter, too. The net across the world was a 3% average in the first quarter. But that was much higher in the US and Canada because, again, for the same reason it wasn't impacted by the price floor change. It was above 25% in the US and Canada, and was even stronger in the second quarter. And, similarly, in other territories, I think pricing's just going really well. And would be stronger than the results show if not for the impact of the price floor. We'd probably have numbers that are similar to the US and Canada, if not stronger, in our other regions, as well. 
+In terms of the comps, I don't think there's anything particularly complicated to what I was saying. It's just if you're looking at the percentage growth rates for Q2, you're comparing to a quarter last year that really didn't have much mobile revenue or newsfeed revenue in it at all. And that really started to ramp up in the third quarter and the fourth quarter. So it's there in one side of the comparison going forward. 
+
+--------------------------------------------------------------------------------
+Sheryl Sandberg,  Facebook, Inc. - COO    [45]
+--------------------------------------------------------------------------------
+
+    In terms of where the growth is coming from, in terms of ad units, in terms of our market segments, direct response marketers were a very big contributor to the growth. It's why I started with them in the remarks and in the Q&A. ECommerce doubled year over year, and they're doing that by using a bunch of our different ad products. Everything from posts to offers to other things. But it's really about looking for those contributions. We've also seen a lot of growth, as I said, in mobile app install ads. Small market but growing rapidly. And it's a market where we offer a product that there's almost nowhere else to get the kinds of return and opportunity we offer. 
+
+--------------------------------------------------------------------------------
+David Ebersman,  Facebook, Inc. - CFO    [46]
+--------------------------------------------------------------------------------
+
+    I'm just going to add one more thing just in case I, in any way, created any confusion. I have no evidence that I did yet. But the price per ad that I was talking about in this question reflects not the same thing as the cost per click that I answered in a question earlier, because price per ad will also incorporate the click-through rate as well as the class per click for a click-based ad. And also includes ads that are purchased on an impression basis. So, most of the pricing metrics we provide are per ad, inclusive of click-through rates and impression-based ads. The CPC metric I gave earlier was just, I think, a specific and useful metric in understanding how much strong demand contributed in the second quarter. 
+
+--------------------------------------------------------------------------------
+Operator    [47]
+--------------------------------------------------------------------------------
+
+    Ken Sena with Evercore Partners. 
+
+--------------------------------------------------------------------------------
+Ken Sena,  Evercore Partners - Analyst    [48]
+--------------------------------------------------------------------------------
+
+    Just maybe if we could drill into the comment around eCommerce spending doubling. It seems as though FDX and third-party effort is growing fast, but it's small. And the same with the app install effort. But can you talk a little bit about what drove that doubling year on year? Thanks. 
+
+--------------------------------------------------------------------------------
+Sheryl Sandberg,  Facebook, Inc. - COO    [49]
+--------------------------------------------------------------------------------
+
+    I think direct response marketers have had more opportunities to use our system, use our product. And we've also made a very major investment in helping them measure returns, and helping them connect what's happening both online and, as well, as throughout the system. So, direct response marketers tend to be buyers, they have an ROI metric. They're looking for that ROI metric, and their budgets are flexible around those ROIs. So, as they've invested with us, and hit their ROI metrics, their budgets go up and they make those adjustments very quickly. That's why, when they start using the products and see the value they create, they're able to grow very quickly, even within a quarter or within a week or within a month, because they adjust to their budgets. 
+
+--------------------------------------------------------------------------------
+Operator    [50]
+--------------------------------------------------------------------------------
+
+    Rory Maher with Hillside Partners. 
+
+--------------------------------------------------------------------------------
+Rory Maher,  Hillside Partners - Analyst    [51]
+--------------------------------------------------------------------------------
+
+    A couple quick questions. First, on hiring, there's been a lot of discussion in the press about tech companies' need for more highly skilled workers. And I'm curious if you're feeling pressure to find that kind of highly skilled talent. And what areas you find hardest to fill. And maybe some successful ways that you're finding good engineering talent. And then, secondly, on the advertiser mix, have you guys discussed your mix of brand advertisers by category, like auto, retail, telecom, that kind of category mix? And are there any that have grown particularly well the past year? 
+
+--------------------------------------------------------------------------------
+Mark Zuckerberg,  Facebook, Inc. - CEO    [52]
+--------------------------------------------------------------------------------
+
+    Yes, I can take this. Hiring great people, especially engineers, is one of the biggest challenges that any technology company has. We're doing really well against the hiring goals that we have. But there's a systemic issue where our country doesn't produce the volume of engineers that the companies would want to hire. And I think that that's a lot of what you hear these companies talking about. We're doing really well competitively right now. We have a really strong program on colleges where we can continue to attract a lot of the best people who are graduating. We do really well at hiring senior engineers from across the valley, as well. But it's just something that we invest a huge amount of time in. It's really important. 
+
+--------------------------------------------------------------------------------
+Sheryl Sandberg,  Facebook, Inc. - COO    [53]
+--------------------------------------------------------------------------------
+
+    In terms of where we're growing by category, I've mentioned CPG, gaming, retail. These are vertical categories where we're very strong. But, again, we're growing. You're watching people really experiment. One of the things that's been really fun to see, even though it's not a paid product, is GE's Instagram work. GE is doing super interesting photos on Instagram, which show us that other industries are also going to adapt to the social environment and to some of the new ways to reach customers globally. 
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+
+    Laura Martin with Needham & Company. 
+
+--------------------------------------------------------------------------------
+Laura Martin,  Needham & Company - Analyst    [55]
+--------------------------------------------------------------------------------
+
+    Great numbers, guys. Congratulations. Two questions. One on, could you guys quantify the custom advertising bucket? I know you said it was up 100% quarter over quarter. And a lot of the brands are talking about this as a key growth area. So I'm real interested in how big it's starting for you guys. And then my second question is, we're also talking to a lot of companies that target your metrics using your UPI integrations. And that creates an arbitrage. I'm wondering if over time you foresee that being a stable ecosystem. Or are you guys going to try to ease those guys out over time and grab some of that upside that these arbitragers that are using your platform are garnering today? Thanks. 
+
+--------------------------------------------------------------------------------
+Sheryl Sandberg,  Facebook, Inc. - COO    [56]
+--------------------------------------------------------------------------------
+
+    On the first, Custom Audiences is small but growing in importance. We doubled -- what I said was we doubled the number of marketers using the product Q2 over Q1. And that also has included getting us to 50 of the Ad Age 100. As I've talked about, the large brand advertisers, the Ad Age 100, have a long sales cycle, and it takes a lot of work to get them to adopt products. So, seeing adoption this quickly of something, we think, shows how powerful that targeting is. In terms of some of the more programmatic ways people buy, we think it's really healthy for us to have multiple sales channels. We like having a direct sales channel, which we have in our over 40 offices. We like having online and robust sales because that means that, even in countries where we don't have offices, we have the ability to sell into those markets. We also like having an ecosystem of what we call PMDs -- third-party sellers who can work with our clients to provide some of the features that we don't have, or some of the capabilities that they may not have in-house. And so for us we'd like to see all of those sales channels continue to grow and thrive. 
+
+--------------------------------------------------------------------------------
+Operator    [57]
+--------------------------------------------------------------------------------
+
+    Eric Sheridan from UBS. 
+
+--------------------------------------------------------------------------------
+Eric Sheridan,  UBS - Analyst    [58]
+--------------------------------------------------------------------------------
+
+    Thanks, guys. Congratulations on the numbers. Mark, a longer-term question focused on your initial comments. How have some of the recent products that are consumer-facing that you guys have launched, like Graph Search and Facebook Home, taught you what the consumer acceptance is for certain things, learnings about how the platform can be developed and evolved over time? I would love to get your take-aways on that. 
+
+--------------------------------------------------------------------------------
+Mark Zuckerberg,  Facebook, Inc. - CEO    [59]
+--------------------------------------------------------------------------------
+
+    I think that there are a bunch of different kinds of products that you can ship. Every day we ship a lot of tweaks to the products, or small changes to existing products. Then there are going to be products like Instagram video which is really doing well. And it fits very naturally into the current flow of how people use Instagram to capture moments that they're proud of. So that makes sense, and I think the team did a really good job there. Things like Home and Graph Search are really new use cases. In the case of Home, it's a new category of products that's different from anything that exists out there. And I think of it more of a seed that we're planting, that is going to create a completely new pillar of the ecosystem, rather than drafting off of behavior that people already have in the system today. So, I definitely think that we just have to look at this over the long term. And when we're building models for the Company, we basically think that this is going to be something that we will invest in for years. And we expect these to become market-leading products. And they're doing things that no one else really has the strategic position or content to be able to build these products. So we're excited about them. They're just going to be longer-term bets. But I think you want to look at the different things we're doing in terms of how naturally they fit into the flow of a person's day-to-day life today, to get a sense of how quickly it's going to ramp up over time. 
+
+--------------------------------------------------------------------------------
+Deborah Crawford,  Facebook, Inc. - Director of IR    [60]
+--------------------------------------------------------------------------------
+
+    Great. Thank you for joining us today. We appreciate your time. And we look forward to speaking with you again next quarter. 
+
+--------------------------------------------------------------------------------
+Operator    [61]
+--------------------------------------------------------------------------------
+
+    This concludes today's conference call. You may now disconnect. 
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2017 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

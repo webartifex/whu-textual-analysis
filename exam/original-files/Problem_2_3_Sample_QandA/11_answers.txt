@@ -1,0 +1,284 @@
+Answer_1:
+
+          So to -- obviously we don't have any particular insight. I think the comments you're referring to were comments about the support for evaluating the possible inclusion of some or all [of it]. And so really it hasn't changed relative to previous comments and the door has clearly been left open for that, but we have no further information. And so far it's evaluating the possible inclusion of some or all of the surcharge, so we're just going to have to I suppose and see.
+Meanwhile, as you know, we are -- and by the way, if it happens for us it would happen for everyone. We have shown you before -- not that that's a good outcome, but we've shown you before that we think that regardless the competitive peers set that we have is going to cluster at or around similar capital levels. And so if everybody has to increase their minimum, it is going to be a similar position for everyone.
+Meanwhile, we are continuing to execute on everything that we've already told you we are going to do to optimize our capital. Our commitment is to go to firmly within the 4.5% bucket for the surcharge, and if we believe we can do it and it's economic and it's not going to hurt our clients, we may go further. So we will respond when we see the rules and we are not going to stop continuing to do the best we can to optimize our returns based on scarce resources.
+
+Answer_2:
+
+          We actually haven't really changed our point of view since the investor day and previously about the fact that we are expecting retail deposit -- and there are other people who have slightly differing views. But we are expecting retail deposits to reprice higher and faster in this cycle than in previous rising rate cycles, given the competition for good, high-quality, LCR-compliant retail deposits; given the advancements in mobile banking; given the awareness in the general environment around low rates and the desire to participate in rising rates. So when we think about our sensitivity and our reprice, we model it in assumption that it's going to be higher, somewhat higher.
+
+Answer_3:
+
+          Obviously, when you talk about trading, when you have two months to go in a quarter you don't know the exact number and repricing is a complex issue. I'll give you some very specific things and then I'll tell you why it's hard to figure out exactly what shows up.
+Clearing, we've definitely seen people start to charge for clearing and effectively charge the balance sheet 25, 50 basis points. It's a small business so I don't think it's going to dramatically affect those lines. Prime broker, we've seen similar type of thing.
+Repo, it seems that people are charging pretty much for repo. We need to get a return on it. Exotic derivatives, which are again very small, are being repriced to, I would say, full capital and liquidity. Muni credit has probably been repriced a little bit. Again, it's a small market.
+If you go to credit and trading, so credit we've really not seen any repricing effectively in commercial credit. You've seen a little bit in mortgage to make up for the extra costs in mortgage. You've seen a little bit in auto; it got more aggressive, not less aggressive. So trade finance you've seen a little bit of repricing, and I know these are not all trading numbers.
+What you don't see, Mike, is that in a lot of cases, while you may have repriced a little bit, you're also shedding business so that you have -- as you are protecting your margins by -- because of AML costs you are going to not do certain types of business anymore. In FHA the lifetime cost of servicing, you cut back on FHA volumes, etc. So you're protecting your margins, but you're actually shrinking your revenues in some cases. That's happening a little bit in clearing and prime broker and stuff like that; you want your best clients.
+In other categories clients are -- like deposits, we haven't seen repricing effectively, I don't think, in non-operating deposits. On the other hand, some clients are saying let's restructure our relationship; it makes more sense for you, JPMorgan. I'm willing to give you other business which is not credit sensitive, etc.
+It's kind of a whole of the amount of things taking place in there, but the goal is to get a proper return on your capital, not necessarily to show revenue growth in that line item. It's very easy to show revenue growth.
+
+Answer_4:
+
+          Mostly what you see in trading is just volume related and spread related, etc. Even in trading, spreads are narrow but breadth is also very low, which means spreads get gap out pretty quickly, which eventually could be good for trading. So it's unclear (multiple speakers).
+
+Answer_5:
+
+          I'm talking about basis points, 20 basis points, 15 basis points, 10 basis points. That's all you need in some of these things to get an adequate return on capital as we currently look at capital.
+
+Answer_6:
+
+          So what I said, and hopefully it was clear, is that we actually exceeded our commitment. We actually shrunk our non-operating deposits by more than $100 billion and not just through our consumer deposits, but we are also able to grow wholesale operating deposits. So we had a good mix shift both in consumer versus wholesale, but also within wholesale and so we feel really great about that.
+There are two priorities after that. The first is protecting that position and making sure that we are able to not have inflows of those deposits as the industry continues to absorb them. But the second is we will likely look to potentially push a little farther, but it gets harder and harder each margin, the next $5 billion or $10 billion, as you get more and more closely aligned to operating accounts and operating business. And we've always said that we want to do this for the right reasons, for capital efficiency, but not do it in a way that's going to materially harm our clients. So that's the lens.
+
+
+          The [product] has also been made in the Level III assets: derivative receivables, certain balance sheet items, RWA. So the effort to optimize the balance sheet for G-SIFI, etc., is not going to stop; that we are going to continue to do.
+
+
+          But you know what, I don't anticipate us launching another and announcing another program. We've already done a little better. We will continue to try and do a little better.
+In terms of revenue impact, not very much right now, as you might very well know, because you can see that the balance is much more on a spot basis that on an average basis. But the equation looking forward will be much the same math we said at investor day, approximately 25 basis points revenue on approximately $100 billion average for a half a year, but there would be some expense benefits on FDIC costs, etc. So not a very big number.
+I think that was the question?
+
+Answer_7:
+
+          A little bit, yes.
+
+Answer_8:
+
+          Yes, so let me do this in two parts, and I'm going to start with the consumer businesses, where the commitment is actually a couple of years old and we are sort of well, well on our way to delivering against that -- the commitment $2 billion dollars in 2017 versus 2014. It's not exactly linear, but you can consider it to flow through time.
+And if you look at the CCB page on whatever page that is, I think we show that for the first half of the year our expenses are down over the first half of last year by $0.5 billion. So that gives you a sense for how we are tracking. On the CIB, obviously the commitment is somewhat newer; at investor day this year $2.8 billion in 2017 versus 2014.
+I would characterize that in two parts. $1.5 billion is business simplification. The majority of business simplification -- not all, but the majority -- will come out of our run rate in 2015. And you've already seen that in the first and second quarter when you've seen the $300 million, $400 million expense reductions in each of the quarters on business simplification.
+The other $1.3 billion, which is all the reductions in technology and operations and headcount, is going to be things. We are working on it actively -- we have programs, we have people -- but it's going to be more of a 2016 and 2017 benefit. If I was to look at the first half of 2015 versus the first half of 2014, take the $500 billion in consumer and business simplification in the CIB space -- that's probably the right way to size it, about a quarter so far this year.
+
+Answer_9:
+
+          Yes.
+
+Answer_10:
+
+          RWA, advance RWA is down $36 billion, $37 billion; [one five three six]. We said a little greater than $1.5 trillion. We are still on track to be $1.5 trillion or a little greater, $1.5 trillion advanced at the end of the year. Standardized right now is at $1.5 trillion, $1.5 trillion, so pretty close to $1.5 trillion against the target at the end of the year of $1.55 trillion.
+That's a little better, but obviously on the standardized you have some upward pressure as we continue to grow those really great loans that we are growing. If you look to our investor day targets, we are still hoping to maintain the discipline around both of those at approximately $1.5 trillion through time.
+
+Answer_11:
+
+          Of course. I'll do it in three parts. First of all, it is growing pretty solidly or strongly, so either in-line or in many cases better than the industry across most of the product categories. The one that's growing the most strongly because of the way we are portfolioing loans is mortgage, so that's driving some of that outperformance. And the one that is most challenging, but still growing, is middle market. Fiercely competitive; everybody is chasing that sector.
+But you can go through the businesses. We had 6% loan growth, 8% loan and lease growth in auto; 6% business banking; 19% core in consumer; 4% in commercial, so 3% core in card. So it's solid to strong pretty much across the board; most competitive in middle-market and flattered by portfolio and mortgages.
+
+Answer_12:
+
+          What I said earlier is not inconsistent; it's entirely consistent with what we said last quarter. We built reserves modestly for oil and gas last quarter on the back of the spring redetermination of borrowing base. We feel another modest reserve this quarter.
+And we said we don't -- we might expect more reserves in the second half of the year. There's another redetermination cycle in the fall and it's I'm not going to say likely, but it's possible we will be selectively downgrading some clients. If none of that is out of our expectations, it's completely normal levels considering the cycle and how we think about the credits, we are still very happy.
+And we are not going to make any comments on regulators.
+
+
+          Those reserves do not mean we're going to have losses.
+
+
+          Correct. We are reserving for downgrades; doesn't necessarily mean that they are going to be cash losses.
+
+Answer_13:
+
+          So credit, like charge-offs, have been very benign across the whole sales base. They have reverted to somewhat more normal levels in auto, so I'm not expecting there to be a big step changes in the underlying charge-offs in the wholesale space. We continue to see improvements at a slower pace in mortgage, but at 21 basis points we are sort of getting down there.
+And card, while it is slightly above -- 2.6% above our 2.5% is also pretty much getting there. It's one of the reasons why we've said expect the second half to look like the first half in terms of order of magnitude and expect net-net low for long.
+
+Answer_14:
+
+          I would say in the non-credit -- sorry, just to clarify the comment on oil and gas; we said they will not necessarily translate into losses. We are not going to predict which ones will or won't.
+On the reserves, for non-credit-impaired portfolio we are continuing to see improvements in charge-offs as well as home prices, albeit a little bit more gradually. So I would still expect there to be more reserve releases over the course of the next 18 months in hundreds of millions of dollars in total; not billions any longer, of course. We have $1.8 billion reserved right now.
+In the post-credit-impaired space clearly that's life-of-loan model and so we will continue to evaluate that model against parameters that we have in it and expectations, so that will be what it is at the time. And in card we're not expecting any significant reserve actions.
+
+Answer_15:
+
+          So you are absolutely right; all the underlying phenomenon are still there. We are still seeing spread compression, but we are seeing very strong growth in spend. We aren't quite lapped yet on new accounts going through the revenue rate. We will eventually be, but it's a good thing to be adding these new accounts that will drive strong spend in the future.
+So I would say our near-term guidance is that we are expecting our revenue rate to be at the lower end of that 12%, 12.5% range. And, yes, over time as spread compression abates and we continue to drive strong growth with the quality of our products and our partnerships we would expect that to start to edge up.
+
+Answer_16:
+
+          Yes. We told you we would hope to drive core loan growth in the card space low single digits and this quarter it was 3%.
+
+
+          I just want to emphasize -- Marianne mentioned it, but emphasize; Chase Paymentech, which is seeing really good growth, probably 50% faster than the industry, but we are also signing people with Chase Paymentech combined with ChaseNet. We are running real volume across it and we are signing up a lot of folks for that and ChasePay. So the strategy of ours is kind of coming to fruition and we hope it will be a good driver; happy customers and good growth for the next 10 years.
+
+Answer_17:
+
+          Obviously we don't give you lots of details on our issuance plans. You are right; one of the drivers for us to issue in part, not exclusively, was it's not -- as you know, we were Tier 1 leverage constrained in CCAR and so as a result of issuing this we not only helped TLAP, but we help our CCAR stress capacity. And we are about 164 RWA. So we are not going to talk about forward issuance but we've made progress.
+
+Answer_18:
+
+          So to start with Volcker, we aren't expecting Volcker to have an impact in the near-term trading outlook. We've been talking very consistently over an extended period of time about the fact that we've reshaped our business through time to be compliant in substance and in form with Volcker. And so while that was real reshaping of the business, the last 18 months have been really focused on getting operationally ready around the reporting and the metrics; it's been hard work and we are ready.
+So I don't expect it to have a direct impact on our near-term trading. Clearly over time we need to continue to evolve the feedback loop with regulators, but that will be entirely gradual.
+With respect to the trading, it is too early for us to say anything specific about the second quarter -- sorry, the third quarter -- except to say we are -- all other things equal, we would expect to see normal seasonality from the market. Nothing has changed that fundamentally wouldn't have us expecting normal seasonality in the third quarter.
+
+
+          I just want to point out that trading, if you look at it over a long period of time, has been -- we've become very consistent. I think in 2014 we had no trading loss days and even this year there were only a handful of trading loss days. Obviously some areas are up and some are down, but our shares are high. I think we are doing a great job servicing clients.
+We are adopting all the new rules. Like [50%] of interest-rate swaps are on SEF today and I think it's 95% of FX trading by transaction is electronic. You can do a lot on your mobile phone or iPad now, so the business is actually doing fine. The returns on risk are very good. We used to report that, but kind of return on VAR are very good. It's become a much more stable business that clients need overtime.
+
+
+          Right. And just to add to that, I would say that we also talked about, in the period of transition towards a more normal economy and rising rates, you might see some shocks like this. We've weathered both the EMEA bond sell off and China well, and it just speaks to the strength of our risk management discipline. And we generally do pretty well in more difficult markets.
+
+Answer_19:
+
+          So with respect to -- we saw a stronger seasonal purchase market. We actually gained a little share in the purchase market in the quarter and refi held up pretty well because of pipelines coming into the quarter. But we are expecting that to grow seasonally in purchase and in refi to pull that down to smaller levels in the third seasonally. And no direct impact from the disclosure requirements.
+
+
+          Part of the quarter is the reserve takedown, so don't double count that. That may not be there next quarter.
+
+
+          Right.
+
+Answer_20:
+
+          The way I would think about it is normal tax rate for the year is 30%, plus or minus. Just given the way tax reserving is it's usually biased to being fairly conservative and so, as you know, we have seen discrete tax gains periodically, some of them not insignificant, resulting from completion of settlements and audits with tax authorities. Not to say that you should necessarily model in directly 30%, but we don't predict or forecast the tax benefits.
+
+Answer_21:
+
+          It's definitely the latter and I think it's perhaps a little too early to tell on the former.
+
+Answer_22:
+
+          Jumbo.
+
+
+          Yes. So over half are jumbo, the other are conventional performing fee plus.
+
+Answer_23:
+
+          We have a fairly large securities portfolio and our decisions around that are in part driven by our overall interest-rate risk positioning, but with respect to the mortgages it's fundamentally a better execution decision for us. We will portfolio or loan where it makes economic sense to do it relative to distributing it, other than jumbo where, clearly, they will always go on our balance sheet.
+
+
+          If you can put a jumbo on a higher ROE than a Fannie/Freddie, you would do that. And part of the investment portfolio is for liquidity and obviously, because non-operating deposits are down, proportions of that will come down too.
+
+Answer_24:
+
+          There's been a lot of press and reports, including recently, on market liquidity and there are a number of factors playing into it. It's true that liquidity, in some cases, has dried up quite quickly when there's been extreme volatility and it fed on itself. But the reality is that we've talked about the fact that that was likely to be a phenomenon that happened more frequently as we transition to a more normal environment.
+We are very disciplined about how we trade and support our clients and generally we've been able to weather them very well, as has generally the community. Not that we know, but we haven't got any stories or horror stories around (inaudible) a bond sell-off or other things this quarter. So I think it's definitely an issue; one that we need to watch, one that has multiple root causes, and one that we are generally taking in our stride.
+
+
+          And look at the big picture and we pointed it out, the financial system -- like in the United States banks are much more sound. Trading books have more capital liquidity. The whole system is better off. So you can't look at one piece and say what will that do.
+The second is that these -- obviously there's less liquidity in the marketplace and it's a whole bunch of factors. It's hard to tease out exactly which one, but trading books have more capital and more liquidity. I think people are a little worried about potential Volcker rule violations, so they are being a little more cautious.
+There are obviously structural changes in electronic trading, HFT, and each business is slightly different. So not every -- I wouldn't say everyone is affected exactly the same. It's also true that the system is pretty resilient to what happened with the currencies and treasury, and that's a good sign.
+I think what we are going to be really cautious about is when markets aren't that good. JPMorgan is fine. We are not talking about whether or not JPMorgan is going to have a hard time with liquidity. We are not. The question I really would have is, when markets are tough, will there be a feedback from -- these violent markets, will there be more volume or less volume.
+Someone was quoted the other day saying markets always pull back when there are tough times; that is true. The question is will be harder and worse, will it feed back into the real economy. It's not will there be lack of liquidity.
+During the crisis they were two market makers out there and we were one of them and so you need them a little bit, but it doesn't stop markets from gapping out. We are not saying this is a terrible thing, just being very cautious about it. And we are always trying to be very cautious.
+
+Answer_25:
+
+          So I can tell you that obviously we took the feedback from the regulators as the industry did exactly as you would expect, entirely seriously; put loads of resources and effort to bear in making as much progress as we thought was humanly possible over the course of the period. And we feel that we made very, very -- I would agree with you; the industry, but JPMorgan specifically, made very, very significant progress in addressing the feedback between getting it and the July submission date. And obviously we feel like we have a credible plan.
+That's not to say that we won't continue and some of our plans, and you saw it in some other disclosures. We are going to continue to work very hard at simplifying our legal entity structure over the next few years and interconnectedness and operational resiliency and all the things -- and reporting readiness, all the things that are going to make it even better.
+So we think we made very, very significant progress. We think our plan is credible. We don't know exactly when we will get feedback, probably in the fall.
+
+
+          And we respond to every single thing regulators raise with the huge resources to meet their needs. It will probably be iterative over time about they'll make more demands this year, etc. and --. By the way, I think there is a 50-page public part that you can actually read and it shows you. That's a 50-page summary of I think a 200,000 page detailed report.
+
+Answer_26:
+
+          It's very broadly competitive and we compete obviously with big banks, regional banks, and non-banks. It's not that we are losing loans and deals most often on price. It's normally on size of holds or non-bank taking whole deals or on structures, but it's very, very competitive. Everybody likes the sector for growth and everybody likes -- so everybody is trying to make progress.
+We are being very, very disciplined, and as a result of that, slightly lower growth than the industry average. And you might not always want us to always grow at the industry average. You want us to hold true to discipline.
+
+
+          Remember, we looked at the whole relationship. I forgot the exact number, but if you look at the middle market relationship, I think something like half, maybe even a little bit less, of the revenues are from the lending.
+
+Answer_27:
+
+          The way I would characterize it is we had a period of time following the Wampum merger where we were in new markets and we didn't have the right distribution footprint where we were building. We said about a year and a half ago that we felt like we had the right footprint as a macro matter, about 5,600, and that now we are around perfecting that, which is about consolidating certain branches where it makes sense but building new ones where makes sense. Consolidating them together where it makes sense.
+You will see I think Gordon said approximately 150 net down in each of the next couple of years and that's probably still the right way to look at it, but it's really perfecting the network. Moving branches to the areas we like where there's a high density of affluence. And then, as you know, really looking at the nature of branches: so the footprint, the way we are using them, the way we are staffing them, importantly, moving them to more advice and less transaction, more automation.
+Definitely responsive to the evolution in customer preferences. And mobile and online is not only a fantastic customer experience evidenced in our experience stat, but it's also a lower cost to serve, so we are also improving the profitability of the very highly transactional customers. I think Gordon used the word omnichannel. We have a place for everything in our suite and branches are very important. We're just going to be evolving them to continue to meet customer needs.
+
+
+          One add is that we are thinking about attacking a new city for the first time, like in a major way, because we want to see how that works out.
+
+Answer_28:
+
+          In the non-operating deposits within the wholesale deposits, the majority is the CIB, but not quite two-thirds. And then you've got the commercial bank and you've got a little bit in asset management. So it is the majority of the number, but there are still sizable numbers, particularly in the commercial bank in the financial (inaudible) space.
+And then, when you look at our overall balance sheet, you see cash going down because of the deposits. You see securities going down, but strong loan growth offsetting, and then small reductions in trading and secured financing.
+
+Answer_29:
+
+          Are you doing year-over-year?
+
+
+          You're starting in the wrong time period.
+
+
+          Are you starting at the year-end or year over year?
+
+Answer_30:
+
+          Well, we are getting more operating deposits, too.
+
+
+          We talked about the deposit reduction is overachieving in non-op and improving mix in operating. So, trust me -- and I'm not looking at what you're looking at, so I do trust you -- but trust me that 60%-ish of it is CIB.
+
+Answer_31:
+
+          We will clarify off this line because (multiple speakers).
+
+Answer_32:
+
+          The M&A -- we don't think Greece has affected the M&A dialogue very much, because it's been very active pretty much around the world. And when I say around the world, it's also like European companies coming to America and American companies going to Europe, etc., and those conversations continue.
+
+
+          A lot to Europe, yes.
+
+
+          A lot to Europe, yes. So Greece had no real effect on that. Greece is a very, very small percent of the Eurozone in total, so economically it's not a driving factor for most of the companies there. Psychologically maybe it's going to affect some people, but I don't see why a company that has its own ambitions is going to change them because of Greece.
+
+
+          And would just -- with respect to the backlog, I would say it's very good.
+
+
+          We did see a tremendous amount of something that we've almost never seen before, of American companies financing in euro because it was cheaper to do that, even if you swap back to dollars. So you saw a lot of American companies going to Europe to do that.
+
+Answer_33:
+
+          I think if you go back to last quarter, Brennan, and take a look at the remarks from last quarter, we talked about the change in presentation of some expenses versus revenues for the ADR business that drove a reduction, but just a classification issue. And then in addition we did lose a large client at the end of last year and that is having an impact. I think if you go back and look at the second quarter, hopefully that will make it clear.
+And so the guidance, when we did those -- when we made that presentational change and obviously we talked about the client exit a few quarters ago, the guidance was, given those, we would expect the revenues to run between $950 million seasonally. And this is obviously a strong season and, therefore, it at through $950 million and $1 billion seasonally and, therefore, it's at the $1 billion.
+
+
+          So Marianne gave you all very specific guidelines, which we don't normally do, on treasury services, investor services, and expenses in the commercial bank because a lot of you have your models wrong. And Sarah finds it very frustrating that you can't get it corrected quarter after quarter, so we've said here is the number that is actually our best guess. So, please, put it in your third- and fourth-quarter models.
+And mortgage revenue was another one which has been ongoing to us. And what's the other one so we can just get it on the table whatever it is?
+
+Answer_34:
+
+          Nancy, it's really important -- when we talk about these numbers, by the way, RWA and branches, we are not making commitments to anybody. That's our best guess knowing what we know today, but we reserve the right to change that on a moment's notice for whatever reason that makes sense for the Company and the clients.
+And so branches -- it is very important that you look at branches city by city until you have the right footprint. So if you remember, the old A&P which never changed its locations and it never changed sizes and it failed. Any retail business should always be adding in new communities, subtracting in some; having the branches to adjust to a new reality, whether it's getting bigger or getting smaller.
+In our case it's getting smaller, but again we are not getting smaller because we are guessing at this stuff. We are getting smaller because of the less need for operations and branches now. People are doing far more on mobile phones like that.
+So we actually do it city by city. You don't set an overall guideline and say you have to do X, Y, or Z. It's city by city. And so, for the most part, in the WaMu footprint, I think Florida and California for the most part, city by city we went in and added what we thought we should have.
+Wampum -- remember we also added on top of that small business, private banking, some middle-market, other businesses that WaMu wasn't even in. It was part of the expansion of those businesses, too. And so when I said a new city, I'm talking about what we've never really done -- I was talking about this way back to BankOne and the stocks when we did the merger with JPMorgan -- is going into a city de novo that we never been in. There you've got to look at how many branches you are going to open, how long is it going to take. And so we do want to do one of those and that will have nothing to do with WaMu because they are also places that WaMu wasn't.
+
+Answer_35:
+
+          No. I don't think there's been a retreat from open markets there either.
+Remember, we've always said about China is you got to look and plan for the long run, which we do in all businesses. McKinsey has a report that shows that they are going to have 25% or so of some of the Fortune 1000 in I think it was 10 or 12 years. Enormous growth in their companies. Their companies are going overseas. Their companies are doing more M&A.
+We did that one unique transaction where ChemChina bought Pirelli in Italy. Obviously, when we have a unique network, we can help a Chinese company and an Italian company at the same time, so we are building there for the long run.
+As a risk management tool we've always said that the way we treat that is we will be prepared for very tough times and I think it's a mistake not to grow because you're going to have tough times. I have never seen an economy that didn't have tough times. If you went back to the United States, when J.P. Morgan was building JPMorgan back in 1850 and 1860, look every single time that you panic because America had a recession there would be no JPMorgan. So we are not going to change.
+What we've seen with the officials in China is that they are very responsive to changes, and you can argue whether they should have gotten that involved in the stock market. You can't manipulate stock markets. But they are very responsive to lending.
+They've changed their reserve policies, their RMB policies, the QFII policies, the Hong Kong Shanghai Connect. Not everything they do is going to work, but they still seem very committed to more and more market reform, more and more of taking SOE -- rationalization of SOEs and taking them public, so some market discipline there. Creating more of a consumer society.
+And what we've always said -- and I think they have the wherewithal to meet their short-term objectives of growth, but we expect that they will have bumps in the road. We expect that and we are going to look right through that. The fact that their -- I also remember their market went from $4 trillion value -- so it's a $10 trillion economy. It went from $4 trillion market value to $10 trillion; now it's back to $6 trillion. I think those are the numbers.
+The American stock market has done that roundtrip a couple times itself and so the American economy is $18 trillion. I think our stock market is $25 trillion, so there will still be huge opportunities there. If they ever completely reverse what they are talking about doing, you will see it in far more significant ways than them getting involved in the stock market.
+
+Answer_36:
+
+          Marianne, you showed a NIM thing that NIM would go back to 265 to 275. And, remember, when we say deposit beta it is by product, by --and it's got gamma, so the first 25 basis points, the second are a different 25 basis points, they are different than the third 25 basis points. It's a pretty intensive analysis to try to get accurate; that's what we're trying to do. And it's all in that number that was presented and we don't think that's changed dramatically.
+As Marianne said, we are assuming that whatever happened in the last cycle, this one will be worse. In other words, you will gather less of the benefit from rates going up than we have in the past.
+
+Answer_37:
+
+          Listen, there's a unique --.
+
+
+          Yes, (multiple speakers).
+
+
+          It is a unique circumstance when you're at zero. There are a lot of things that happen when rates grow to 25 basis points that there will be -- you will pass very little of that also. And we also see that -- we will see that in money market funds. We will see that in some forms of deposits, etc.
+The beta gets much higher as rates go up. If I had to guess, I would say we are conservative, not aggressive.
+
+Answer_38:
+
+          Yes, the credit downgrades included oil and gas and we called it out just because in total oil and gas was $140 million of our total net $250 million reserve build. But also I said that there were select names, it's like a dozen names, so it's not really like there's another sector, just very discrete names.
+
+Answer_39:
+
+          No, we are not going to give you that. We disclose -- when you say mortgage duration, obviously we build into all of our models mortgage duration. You guys can calculate that yourself by looking at disclosures in the 10-K that show mortgages at 3%, 3.5%, 4%, 4.5%, etc. And obviously we can change that at will with our investment portfolio and things like that.
+It's all in the NIM already. So obviously we have negative convexity in our portfolio.
+

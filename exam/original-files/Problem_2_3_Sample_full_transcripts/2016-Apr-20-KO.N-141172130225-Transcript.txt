@@ -1,0 +1,602 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2016 Coca-Cola Co Earnings Call
+04/20/2016 09:00 AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * James Quincy
+   Coca-Cola Company - President and COO
+ * Kathy Waller
+   Coca-Cola Company - CFO
+ * Muhtar Kent
+   Coca-Cola Company - Chairman and CEO
+ * Tim Leveridge
+   Coca-Cola Company - VP and IR Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Judy Hong
+   Goldman Sachs - Analyst
+ * Robert Ottenstein
+   Evercore ISI - Analyst
+ * Mark Swartzberg
+   Stifel Nicolaus - Analyst
+ * Bryan Spillane
+   BofA Merrill Lynch - Analyst
+ * Dara Mohsenian
+   Morgan Stanley - Analyst
+ * Ali Dibadj
+   Bernstein - Analyst
+ * Brett Cooper
+   Consumer Edge Research - Analyst
+ * Bill Chappell
+   SunTrust Robinson Humphrey - Analyst
+ * Kevin Grundy
+   Jefferies & Company - Analyst
+ * Bill Schmitz
+   Deutsche Bank - Analyst
+ * Amit Sharma
+   BMO Capital Markets - Analyst
+ * Vivien Azer
+   Cowen and Company - Analyst
+ * Steve Powers
+   UBS - Analyst
+ * John Faucher
+   JPMorgan - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          At this time, I would like to welcome everyone to the Coca-Cola Company's first-quarter 2016 earnings results conference call. 
+Today's call is being recorded. If you have any objections, please disconnect at this time. All participants will be in a listen-only mode until the formal question-and-answer portion of the call. 
+(Operator Instructions) 
+I would like to remind everyone that the purpose of this conference is to talk with investors, and therefore questions from the media will not be addressed. Media participants should contact Coca-Cola's Media Relations department if they have questions. 
+I would now like to introduce Tim Leveridge, Vice President and Investor Relations Officer. Mr. Leveridge, you may begin. 
+
+--------------------------------------------------------------------------------
+Tim Leveridge,  Coca-Cola Company - VP and IR Officer    [2]
+--------------------------------------------------------------------------------
+
+          Good morning, and thank you for being with us today. 
+I'm joined by Muhtar Kent, our Chairman and Chief Executive Officer, James Quincy, our President and Chief Operating Officer, and Kathy Waller, our Chief Financial Officer. Before we begin, I would like to inform you that you can find webcast materials in the Investors section of our Company website at www.Coca-ColaCompany.com that support the prepared remarks by Muhtar, James, and Kathy this morning. 
+I would also like to note that we have posted schedules under the Financial Reports and Information tab in the Investors section of our Company website. These schedule reconcile certain non-GAAP financial measures, which may be referred to by our senior executives during this morning's discussions to the results as reported under Generally Accepted Accounting Principles. Please look on our website for this information. In addition, this conference call may contain forward-looking statements, including statements concerning the long-term earnings objectives, and should be considered in conjunction with cautionary statements contained in our earnings release and in the Company's most recent periodic SEC report. 
+Following prepared remarks this morning, we will turn the call over to your questions. In order to allow as many people to ask questions as possible, we ask that you limit yourself to one question. If you have multiple questions, please ask your most pressing question first, and then re-enter the queue in order to ask any additional ones. 
+Now I would like to turn the call over to Muhtar. 
+
+--------------------------------------------------------------------------------
+Muhtar Kent,  Coca-Cola Company - Chairman and CEO    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Tim, and good morning, everyone. 
+18 months ago I communicated a clear five-point plan to reinvigorate our growth and increase profitability. In February we reported a successful transition year in 2015, where we made tangible progress on our plan, and delivered the full-year expectations we laid out. 
+I'm pleased to report that in the quarter -- first quarter of 2016, we took another positive step in the macro environment that continues to be challenging. Today, I will touch briefly on a few key highlights in the quarter before handing off to James to provide a more detailed review of our operational performance. 
+We're in the midst of transforming The Coca-Cola Company to one that is even more focused on our core value-creation model of building and supporting strong brands, enhancing customer value, and leading our franchise system. During the first quarter, our continued focus on our five strategic initiatives enabled us to gain value share and deliver positive top-line growth with underlying margin expansion. With the first quarter behind us, we see the challenging global environment continuing, but we remain committed to our full-year targets we laid out in February in both the top- and bottom-line performance. 
+From a highlights perspective, we continue to execute our strategic initiatives. In the first quarter, we unveiled our new global One Brand marketing strategy for trademark Coca-Cola under the Taste The Feeling campaign, which is elevating system engagement with our employees, bottling partners, and customers. The initial consumer response is encouraging and positive. 
+Additionally, we added to our portfolio of fast-growing still beverages. We closed our Chinese plant-based protein acquisition of Culiangwang in March. We also invested in Chi, the leading juice and value-added dairy company in Nigeria, Africa's largest economy. Both transactions are further proof points of how we are strengthening our leading stills position, effectively responding to evolving consumer preferences. 
+Finally, we're accelerating our global re-franchising efforts. In North America, we continued to make progress against our stated goal of re-franchising 100% of our bottling operations by the end of 2017. Including the territories announced this morning, we have transferred or signed agreements on almost 2/3 of the US territories we originally acquired from CCE. 
+Looking outside of North America to Western Europe, our Coca-Cola European Partners transaction remains on track to close by the end of the second quarter. In Africa, the regulatory approval process continues. The South Africa competition commission has recommended for the competition tribunal to approve the Coca-Cola Beverages Africa merger with certain conditions. The tribunal is set to meet in May to review the pending transaction. 
+In summary, we recognize that we still have much work to do, but we have defined a clear path to transform the Company, and we are making consistent progress to create long-term value for our share owners. The Coca-Cola Company is becoming stronger, more efficient, and more focused on our core strengths of marketing and brand building, customer value creation, and leading our franchise bottling system. 
+We're making progress implementing our disciplined global revenue growth management strategy. We're also building new growth opportunities with still and sparkling brands that we develop internally, we acquire from the outside, and we invest in through partnerships. Our franchise bottling system is also getting stronger, faster, more nimble, and more closely aligned. In short, my colleagues and I are getting up every single day with a fresh passion for doing the things that will create long-term sustainable value. 
+I'll now hand the call over to James, who is going to provide you with a more detailed look at our operating performance in the first quarter. 
+
+--------------------------------------------------------------------------------
+James Quincy,  Coca-Cola Company - President and COO    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Muhtar, and good morning everyone. 
+From an industry perspective, we gained global value share in NERTD beverages in the quarter, with increases in both sparkling and still beverages worldwide. We gained value share in all but one of the sub-categories in stills, where there we maintained value share. 
+We delivered 2% unit case volume growth, as solid performance in many of our developed markets was partially offset by challenges in emerging markets suffering from the worst of the macro slow-down. This had a disproportionate effect on sparkling volume growth, as the non-alcoholic beverage industry in many of these markets is more weighted towards sparkling beverages. 
+Consolidated price mix grew 1%, cycling 3%, as solid underlying pricing was partially offset by 1 point of segment mix. We accelerated our price mix across every operating segment except Asia-Pacific versus the first quarter last year. Given the geographic footprint of our own bottling investment group, our consolidated price mix was lower. Given the scale of our pending re-franchising, as you consider the sustainability of our distilling pricing strategy, I think it's helpful to exclude BIG and focus instead on our core business, which delivered 2 points of global price realization. 
+Results were also impacted by one less day in our fiscal quarter compared to the same period last year, which reduced organic revenue growth by roughly 1 point. As a result, we delivered 2% organic revenue growth, including 1 point head wind from one less day. 
+In the quarter, structurally adjusted comparable currency-neutral income before tax grew a solid 9%, with the underlying margin expansion reflecting our focus on productivity, as well as the timing of operating expenses. Notably, this expansion occurred alongside the continued growth in our marketing investments. 
+Now to describe more clearly our operating performance, let me briefly describe our results in three groupings of our markets. First, in markets where our strategies are in place and being executed fairly well, we are seeing strong results. This cluster is led by North America, Latin America, also includes Japan and India. Here, strong marketing, disciplined revenue management, and improving execution are driving results. 
+For example, specifically in North America, we delivered 2% organic revenue growth, with one less day, 3 points of price realization, led by 3% sparkling price mix, and good operating leverage in the quarter. North America also grew value share again this quarter, and continued to successfully implement its accelerated re-franchising program. 
+Latin America delivered double-digit organic revenue growth, due to a strong focus on consumer and customer segmentation, despite worsening conditions in Brazil, Venezuela, and Argentina. In Mexico, brand investments, including new products such as del Valle Nada, a sparkling fruit drink, as well as Ciel mineral water and Ciel flavored water, helped increase unit volume by 5%, with growth across all major categories. 
+Our Japan business unit had a very strong start to the year, supported by several recent innovations, such as I Lohas Peach, an extension of our premium water brand, and a premium-priced Georgia coffee bottle can. We also leveraged innovation from China, launching Lemon Plus C, which is seeing strong early results. These products enabled our value share to out-perform volume share as they skew higher to higher revenue single-serve packaging. 
+Finally, India. Here we delivered strong performance in the quarter due to the rapid scaling of a new price pack architecture across sparkling and juice segments, coupled with brand marketing and execution efforts. In addition, we expanded our still beverage portfolio in India, with the launch of Vio, our latest value-added dairy beverage. 
+These positive results give us confidence our strategies are working. While we are making progress in these markets, we also recognize there is more work to be done, and the opportunity for improvement in these good, performing markets continues to be significant. 
+The second group is comprised of markets where we are taking action to positively transform our Business for the future. Here I would include Europe, where we continue to make progress to the establishments of our newly integrated Western European bottler. Here, several key markets performed very well, led by Spain, up 3%, Germany up 1%, and in the Central and Southern European business unit we grew volume 2%. We look forward to improving performance in Europe as the year progresses. 
+A second transition market is our African business, where we are taking steps to strengthen our bottling business through the creation of new Coca-Cola Beverages Africa bottler. As Muhtar mentioned, we are also taking steps to diversify our brand portfolio through our investment in Chi, and we continue to improve our execution in key markets on the continent, as exemplified by improving performance in South Africa and Nigeria, where we grew unit case volume 7% and 13%, respectively. 
+The final bunch of markets where we face clear macro head winds in 2016, Russia and Brazil continue to be challenging. China's transition to a consumer-led economy is putting pressure on commodity-dependent emerging and developing markets. The lower oil price continues to weigh on the Middle East and other oil-driven economies. While Argentina is taking the right steps to secure its economic recovery, short-term results are challenging. 
+Let me refer to a few of these markets. In China, we are adjusting our plans to reflect these realities. China's macro environment was challenging in 2015, and that continued to be so in the first quarter. While the economic slow-down is not new, the degree to which the NERTD industry was impacted this past quarter was worse than expected. Key success factors going forward require focusing on both affordability and premiumization through segmented growth strategies. 
+The more premium segments continue to grow in China, as consumers who purchase these products are relatively insulated from broader economic issues. We are working to increase our premium offerings like sleek cans and Schwepps Plus C in high-value channels. 
+At the same time, however, we continue to evolve our price pack architecture to deliver affordable options in both single-serve and multi-serve packages to ensure we can capture key occasions and recruit new consumers. While the top line has been challenging, our initiatives have enabled us to gain both value and volume share in China in the quarter. 
+Turning to Brazil, here we are segmenting our price pack architecture to provide packages at key affordable price points, while delivering and driving pricing to cover inflation. This strategy enabled us to gain volume share during the quarter. Finally, in Brazil -- in Russia, we gained value share driven by good marketing and promotional activities, with a focus on premium sparkling beverages and juice. Given the volatility in these markets, we are proactively managing our investments, keeping an eye towards the long term, but ensuring our near-term investments have the right pay-back. 
+The challenging macro environment is also a key reason why productivity is critical. We remain on track to deliver more than $600 million in productivity savings this year, enabling us to fund our brand and growth investments, while covering cost inflation and driving margin expansion. 
+We are delivering these savings through a disciplined process that involves our entire leadership team and associates. Ultimately, it's about building a culture that is focused on getting better every day whilst also improving the employee experience. This quarter, the results of our ongoing efforts were evident in supporting the underlying strong operating margin expansion. 
+Before I hand over to Kathy, let me conclude by saying we are resolutely focused on evolving our growth strategies, and transforming our business to deliver sustainable shareholder value. With the challenges around the world, we will focus on what we can control in order to deliver solid revenue growth and strong underlying operating margin expansion through the effective management of our portfolio, price mix, and productivity efforts. 
+With that, I'll turn the call over to Kathy. 
+
+--------------------------------------------------------------------------------
+Kathy Waller,  Coca-Cola Company - CFO    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, James, and good morning, everyone. 
+I would like to touch upon a few areas of our financial performance in the quarter before providing our full-year outlook. Starting at the top line, as James mentioned, our 2% organic revenue growth was impacted by one less day in the quarter, as well as by our segment mix, as our Bottling Investments Group grew at a slightly slower rate than our core business. 
+Let me take a moment to explain what we mean by segment mix, and why the impacts will be more pronounced in 2016 and 2017, until we have finished our previously announced re-franchising actions. Starting in the first quarter, we revised our operating segments so that our Company-owned bottling operations in North America are now reported within our Bottling Investments Group. This greatly increases the relative size of the bottling segment to the rest of our geographic segments. Since our bottling operations earns significantly higher revenues per case than concentrate operations, slower growth among our Company-owned bottling operations results in negative pressure on our consolidated price mix, regardless of the underlying pricing in either the bottling operations or our core business. 
+However, due to the relatively lower profitability of our bottling business, slower growth among our bottling operations has an opposite effect on our consolidated margins. At gross profit, our comparable margin declined, as we were impacted by currency head winds, the effects from North America re-franchising, and the sale of our legacy energy brand to Monster. Excluding the year-over-year effects of these items, we would have seen gross margin expansion driven by a benign cost environment, benefits from productivity, and segment mix. 
+As you think about the downhill, keep in mind that the cost environment becomes more difficult to cycle in the second quarter and beyond, due to the timing of when commodity prices eased last year. Our comparable operating margin improved about 25 basis points on a consolidated basis. Similar to gross margin, currency head winds, the North America re-franchising, and the sale of our legacy energy brands to Monster impacted our operating margins. Comparable currency-neutral operating margins increased 140 basis points in the quarter. Excluding these effects, we achieved strong operating leverage in the quarter, driven by the benefits of our productivity initiatives, the timing of certain expenses, and segment mix. 
+Looking at our productivity initiatives, the first quarter benefited from the timing of when certain productivity initiatives were implemented last year. For example, the majority of the head count reductions began in April, with Europe's implementation closer to the mid-year, so the associated expense savings began in the second quarter. As you think about the remainder of this year, while we expect solid currency-neutral ex-structural operating leverage, we expect some of these drivers to moderate as we begin to cycle more difficult comparisons. This was reflected in our previously provided full-year guidance. 
+Let me stop here and touch briefly on an ongoing structural impact to provide additional clarity based on some of the questions I have received from you. At CAGNY, we noted that by the time we complete our re-franchising, we will see significant increases in both gross and operating margins. 
+While that is the case, I want to remind you that until we would get to increase the transfer of our production operations in North America, the existing re-franchising of the distribution business actually has a dilutive effect to both growth and operating margins. Given that we do not expect the sale of production assets to significantly increase until 2017, our margins will continue to be affected by this dynamic this year. 
+Moving to cash flow, we generated $1.1 billion in cash from operations before making a nearly half billion dollar contribution to our pension plan. Looking ahead to the remainder of the year, we expect our cash flow growth rate to be more in line with our earnings growth rate. 
+For 2016, we increased our annual dividend by 6% to $1.40 per share, our 54th consecutive annual dividend increase. Our net share repurchases during the quarter totaled approximately $150 million. For the full year, we expect to achieve the $2-billion to $2.5-billion range that we communicated during our last earnings call. 
+Turning to outlook, the first quarter reflected more challenging operating environments in markets like China and Brazil. We see that our strategies are working, however, in key markets like North America, Japan, and India. Further, our strategies allow us to scenario plan to adjust to market dynamics. Therefore, we are maintaining our currency-neutral outlook we previously provided. However, we are updating the expected impact from currency. 
+We expect organic revenue growth of 4% to 5%, and comparable currency-neutral EPS growth of 4% to 6%, inclusive of a 3- to 4-point structural head wind to income before tax. 
+Moving to currency, while current spot rates have improved since our fourth quarter call, these rates have been extremely volatile, as well. Therefore I will caveat our currency outlook, knowing that it is definitely subject to change. We will update you accordingly as we move through the year. 
+Based on current spot rates, hedging activity, and what we are cycling, we now expect the full-year impact of currency to be a 2- to 3-point head wind on net revenue versus our previous expectation of 4 points. Relative to income before tax, we now expect an 8- to 9-point head wind, as compared to our previous expectation of a 9-point head wind. 
+As you model the second quarter, there are a couple of items to consider. We expect the net impact of acquisitions, divestitures, and other structural items to be a 2- to 3-point head wind on net revenue, and a 3-point head wind on income before tax. Based on current spot rates, hedging activity, and what we are cycling, we expect that currency will be a 2- to 3-point head wind on net revenue, and a 6-point head wind on operating income. 
+In addition, we will be cycling the Euro debt re-measurement gain we recorded in Other Income during the second quarter of 2015. For this reason, we expect an 11-point currency head wind on income before tax as we cycle this gain. 
+In closing, we are working diligently to deliver our commitment for 2016. We continue to focus on our core capabilities of building brands, driving customer value, and leading the system, so that when we complete our re-franchising, we will be a lower-risk, higher-return business, with even greater confidence to achieve our long-term growth target. 
+Operator, we are now ready for questions. 
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Thank you. We will now begin the question-and-answer session. 
+(Operator Instructions) 
+Our first question is from John Faucher of JPMorgan. Your line is now open. 
+
+--------------------------------------------------------------------------------
+John Faucher,  JPMorgan - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Thank you. Good morning, everyone. 
+
+--------------------------------------------------------------------------------
+Kathy Waller,  Coca-Cola Company - CFO    [3]
+--------------------------------------------------------------------------------
+
+          Good morning. 
+
+--------------------------------------------------------------------------------
+John Faucher,  JPMorgan - Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Good morning. As I look at your revenue performance this quarter, it highlights a concern that maybe the portfolio was still a little too CSD-heavy, despite some of the great results on the non-carb side. You've talked about -- James talked about this at CAGNY, 5% NARTD dollar growth longer term. 
+But given the fact you guys still under-indexed on the non-carb side that's providing really the majority of the growth in both dollars and volume for the category, don't you need to further accelerate the shift in the portfolio away from CSD, sparkling into non-carb? Is there a way to move that faster? On top of that, obviously the weakness in the CSD side this quarter with flat volumes, what do you think is really the right volume number on the CSD side going forward that gets you to your algorithm? Thank you. 
+
+--------------------------------------------------------------------------------
+Muhtar Kent,  Coca-Cola Company - Chairman and CEO    [5]
+--------------------------------------------------------------------------------
+
+          Hi, John. It's Muhtar here. I'll just preface by saying the following, and then pass over to James. First, you know how much we've done and how much we focus on creating successful brands in our still portfolio. Of the $20-billion brands we have now, 14 of them are still brands, and our still business is performing well. Whether we take value-added dairy or enhanced hydration or juices and nectars or juice drinks, we play in all of those categories. In 2015, we gained share in all of those categories. 
+If you look at how -- whether it's in developed markets or emerging or developing, our still beverage portfolio is being enhanced all the time. Also, and even in the case of waters and premium waters from Japan all the way through to Latin America, performing very well. 
+You just heard now again, we've invested in -- we just recently invested, as you know, in Suja in the United States. We invested in Chi and Culiangwang in China. We continue to always reference that wherever we look, and if there's opportunities for bolt-on acquisitions, we will look at those favorably. If there are also opportunities for organic development of brands like Fair Life, we will certainly look at those also favorably, as we have done. 
+I think we're very satisfied with our portfolio. Certainly we've got more work to do, as we have said in the call and in the remarks; but right now we feel that we've -- our portfolio is being transformed very well, and transitioned very well, and we are in a pretty good place -- and more work to continue. James? 
+
+--------------------------------------------------------------------------------
+James Quincy,  Coca-Cola Company - President and COO    [6]
+--------------------------------------------------------------------------------
+
+          Let me add one last thought, perhaps, John. At CAGNY, we talked about we have a 50 share of sparkling, and a 15 share of the stills. I think it's worth remembering that over the last 15 years we've gone from stills being less a single-digit part of our portfolio to now over 25% of our portfolio. 
+I think there's a long-term track record of generating growth and value in stills. Even given today our market position, we expect to continue to grow faster in stills. As we said in the call, we are gaining share in every sub-category apart from one where we held it. We'll continue to look for bolt-on acquisitions to accelerate our growth. I think it's going to continue to be a faster-growing part of the business. 
+
+--------------------------------------------------------------------------------
+Muhtar Kent,  Coca-Cola Company - Chairman and CEO    [7]
+--------------------------------------------------------------------------------
+
+          Also, just on the sparkling you asked, we certainly see also continued growth opportunities in our sparkling portfolio. That is naturally with the focus on revenues, it will skew more towards revenues, but certainly also as we have demonstrated and with our new campaign for Taste The Feeling campaign just being launched, and everything else that we are doing in terms of the investments with our aligned partners, we see growth opportunities in revenue, and also in volume in our sparkling beverage portfolio. 
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          Thank you. Our next question is from Steve Powers of UBS. Your line is now open. 
+
+--------------------------------------------------------------------------------
+Steve Powers,  UBS - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          Great, thanks. Good morning. Maybe sticking with the top line, I just want to better understand where you expect to source top-line acceleration from over the remainder of the year, against a difficult macro environment, and increasingly difficult year-over-year compares. I get that you were probably closer to 4% organic growth this quarter excluding the calendar shift and the price mix drag of BIG, but BIG will be with you over the balance of the year. In that context, is there truly enough in your control to have confidence in sequential improvement, or are you expecting the macros to improve? Along side all that, is it fair to say you're guiding us more towards the lower end of 4% to 5% at this point versus the mid-point? 
+
+--------------------------------------------------------------------------------
+Muhtar Kent,  Coca-Cola Company - Chairman and CEO    [10]
+--------------------------------------------------------------------------------
+
+          Hi, Steve, it's Muhtar. First, I think we did expect the first quarter to trend slightly below the full year, driven by a couple of things. One, the macros are trending to the bottom -- toward the bottom in the first quarter, recognizing that the environment continues to be challenging, but we will continue to monitor that closely. 
+The launch of our new campaign in the first quarter will certainly benefit the back half of the year. The benefit of Olympics marketing as we move into the second and third quarter, one less selling day which certainly you also mentioned. I think we are confident definitely in the strategy and initiatives in place to support our growth targets over the course of the year, and believe that we will land again in the corridor that we have stayed at in the past in February. James or Kathy, do you want to add anything? 
+
+--------------------------------------------------------------------------------
+Kathy Waller,  Coca-Cola Company - CFO    [11]
+--------------------------------------------------------------------------------
+
+          No. 
+
+--------------------------------------------------------------------------------
+Muhtar Kent,  Coca-Cola Company - Chairman and CEO    [12]
+--------------------------------------------------------------------------------
+
+          All right. 
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+
+          Thank you. Our next question is from Mark Schwartzberg of Stifel. Your line is now open. 
+
+--------------------------------------------------------------------------------
+Mark Swartzberg,  Stifel Nicolaus - Analyst    [14]
+--------------------------------------------------------------------------------
+
+          Thanks. Good morning, everyone. Question on North America. We now have the filings you've given us, and we can therefore see the level of profitability here in CCR, which is pretty low. I think when you back out the numbers, you get a 2% operating margin. I'm sure there's some accounting matters in there that this isn't the forum to go into, but it does raise the question of what really has been going on in terms of profitability for CCR here in North America. 
+Could we -- if you think it's appropriate, I think it would be helpful to talk a little bit about the trends in that business as you have seen them, now that we're seeing a level -- the margin I'm getting is a 2% operating margin. Can you talk a little bit about the trends and what you think they reflect? It certainly speaks well to what you get left behind, if you will, but it raises questions about what someone might pay for that kind of business? 
+
+--------------------------------------------------------------------------------
+Kathy Waller,  Coca-Cola Company - CFO    [15]
+--------------------------------------------------------------------------------
+
+          Sure, Mark. There are really -- we look at the margins in CCR, the three primary drivers for what you're seeing. First of all, we have shifted some of the territories. We have transitioned some territories to date. We did that obviously before we put the financials out there earlier this quarter. 
+Then if you remember, we incurred back in early 2010, 2011, 2012 time period, there was a significant hit to us from a run-up in commodity prices that certainly adversely impacted margins. Then the third thing I would say was we had to incur incremental costs to prepare that business for now being ready to be franchised and to strengthen that business. I think what we're seeing is improvement in the results that I would say today. Those three things really are impacting what you saw in the financials that we put out there. 
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+          Thank you. Our next question is from Bryan Spillane of Bank of America. Your line is now open. 
+
+--------------------------------------------------------------------------------
+Bryan Spillane,  BofA Merrill Lynch - Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Hi. Good morning, everyone. I wanted to go back and tie a couple of comments that have been made about the effect that BIG had on organic sales growth for the quarter. I want to make sure I understand it correctly. If we look at sales excluding BIG and we add back the extra -- the effect of the extra day, organic sales growth was around 4%, is that correct? 
+
+--------------------------------------------------------------------------------
+James Quincy,  Coca-Cola Company - President and COO    [18]
+--------------------------------------------------------------------------------
+
+          It's James here. Look, volume grew 2%. Core price mix was 2%, so that's the right answer. 
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+
+          Thank you. Our next question is from Judy Hong of Goldman Sachs. Your line is now open. 
+
+--------------------------------------------------------------------------------
+Judy Hong,  Goldman Sachs - Analyst    [20]
+--------------------------------------------------------------------------------
+
+          Thank you, good morning. One of the markets where you point out you're taking more actions is Europe, and certainly from a top-line perspective, continues to be a pretty challenging market -- deflationary pressure there. I wanted to get a little bit more color. Really, what are some of the more tangible actions that we can see? How much dollars are really going in, in terms of the marketing investments that we should expect to see some of that improvement really coming through, and how long that would take as you think about for the balance of the year? 
+
+--------------------------------------------------------------------------------
+James Quincy,  Coca-Cola Company - President and COO    [21]
+--------------------------------------------------------------------------------
+
+          Judy, it's James here. A couple of things on Europe. One, it is worth noting that in this quarter, there was a disruption to the business in GB due to the supply chain. There's a one-off impact that we expect to see not recurring in the balance of the year. I think that's worth taking into account, and it was a material impact. 
+Now looking for the rest of the year, you will see in the numbers we had pretty decent price mix in Europe in this quarter, and we are also looking to see volume improving versus the fourth quarter -- not just because of the supply situation, but also the new programs, the launch of the new marketing campaign, the launch of a new Coke Zero variant starting in GB, plus the Euro Cup, which will be in France this year. 
+Of course, shortly we will hopefully complete CC Coca-Cola European partners, where there are very strong plans being put in place to drive that forward. I think some temporary factors, and the build-up of our ongoing investments should drive a better result in Europe in the balance of the year. 
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          Thank you. Our next question is from Dara Mohsenian of Morgan Stanley. Your line is now open. 
+
+--------------------------------------------------------------------------------
+Dara Mohsenian,  Morgan Stanley - Analyst    [23]
+--------------------------------------------------------------------------------
+
+          Hi, good morning. I wanted to delve a bit more into the Asia-Pacific pricing number in the quarter, a negative 5%. Can you run through how much of that was due to geographic or product mix or other factors, and thoughts going forward in the remainder of the year on if that pricing pressure will moderate, and how mix should trend in that segment? 
+
+--------------------------------------------------------------------------------
+James Quincy,  Coca-Cola Company - President and COO    [24]
+--------------------------------------------------------------------------------
+
+          Sure, James here. Let me -- I'll come to the numerical piece. Let me start off with -- the Asia-Pacific price mix is always a little bit of an oddity, because it's a group that brings together Japan and Australia, which are very high-revenue markets, but don't grow as quickly, along with a lot of emerging markets -- not just China, but India, Indonesia, and the Philippines, which grow much faster. 
+There is an ongoing mechanical effect that creates a negative price mix for this group, which you can see over the years in Asia-Pacific. In 2013 full year it was minus 4%. In 2014, it was minus 2%. In 2015, it was minus 2%. In the first quarter of 2016 obviously it was minus 5%, but it was cycling a very atypical plus 3% in the first quarter of last year. 
+I think what you will see is in the future quarters, it is a little volatile and bumpy, but the long-term trend is for a negative price mix in Asia, because of the dynamic of the fast growth of the emerging markets versus Japan and Australia. 
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+
+          Thank you. Our next question is from Ali Dibadj of Bernstein. Your line is now open. 
+
+--------------------------------------------------------------------------------
+Ali Dibadj,  Bernstein - Analyst    [26]
+--------------------------------------------------------------------------------
+
+          Hi, guys. I'm still getting a lot of skepticism from investors about the 4% to 5% organic revenue growth target for the year. Openly, you don't sound 100% confident, and it feels likes there's a lot of kind of messiness and moving parts. Can you try again? Can you talk about what specifically you're seeing right now that gives you confidence in the 4% to 5% organic sales growth for the year? Clearly whether it's a 3% or a 4%, you delivered a 3% in some sense this quarter, so you're below pace. 
+Maybe in that you can tackle what you expect Eurasia, Africa to get to, why do you expect it to get better? Europe, you mentioned you're going to invest more and you hope that to get better, but we've sometimes heard that before. Why is it going to be better in Europe? 
+Then maybe as a jumping-off point as well, you can talk about what you're learning in North America, because that seems to be doing better for sure. A footnote, I'm not quite sure where you grow organically North America, because you want us to add 3 points back for concentrated sales up to unit case sales for one day missing. I'm not quite sure how to get there, so some explanation would be great. But just more specifics, very clearly on what gives you the confidence in your top-line target for the year? Thanks. 
+
+--------------------------------------------------------------------------------
+Muhtar Kent,  Coca-Cola Company - Chairman and CEO    [27]
+--------------------------------------------------------------------------------
+
+          Ali, I'll start just by saying, as I indicated, first on the core, with one less selling day and on the core price mix of the core business without BIG, we certainly did get to the 4% in this quarter. What we feel looking at the downhill comparisons and looking at also all the programs in place, looking at how our business performance in all the different quarters and different groups, we feel confident that we still will achieve what we have said in February in terms of the top line for the full year. 
+The marketing program, the additional marketing, the new marketing program that has just been launched, and then not having the one less selling day. Then also the continued franchising and all the programs that the bottlers have in place. Our US business is performing very well with its revenue growth, with its price mix, with its brands, with its portfolio. That will continue in -- we have every confidence that it will continue. 
+Then we will see -- we do believe that macros have -- are at the bottom, and that there will be in the second half a certain degree of improvement in the macros. Even if they do not -- if they stay the same, we feel confident with the current macro situation that we will get to the corridor that we have specified, we have indicated and shared with you in February. Any other comments, James, Kathy? 
+
+--------------------------------------------------------------------------------
+James Quincy,  Coca-Cola Company - President and COO    [28]
+--------------------------------------------------------------------------------
+
+          No, I think the one thing I would add, Ali, is obviously there's a strong momentum in the North America business. We called that out as the place where the strategies are working. Then the other countries I put in the other two buckets, there's degrees of implementation of the strategy. You can go to around the world. There were places which were struggling in 2014, and maybe even in 2015. As we've been executing the strategy, the momentum is starting to come back to some of those countries, and it's starting to build over time. 
+I think, as Muhtar said, the first quarter was within the envelope of expectation for our guidance, and we can see based on what we are doing within our control, within a reasonable scenario of macros, we will stay within that corridor for the rest of the year. But in the end, only results will answer the questions. 
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+          Thank you. Our next question is from Brett Cooper of Consumer Edge Research. Your line is now open. 
+
+--------------------------------------------------------------------------------
+Brett Cooper,  Consumer Edge Research - Analyst    [30]
+--------------------------------------------------------------------------------
+
+          Thanks. The re-franchising that you announced today includes the creation of a new bottler from outside the industry. You have spoken a lot about the collective willingness of your existing bottlers to invest and a desire for more territory. Can you help us understand why you went outside of the existing system for this re-franchising? Is there something you're seeing from other new bottlers that makes this more appealing to you guys? 
+
+--------------------------------------------------------------------------------
+Muhtar Kent,  Coca-Cola Company - Chairman and CEO    [31]
+--------------------------------------------------------------------------------
+
+          I think on that, predominantly we have existing bottlers that are expanding, if you look at the percentages of territories that have been franchised. Then we have, in order to ensure that we can get to the right level of diversity in our bottling business and the right level of also representation, we have also selected some new partners like in Florida, like in Chicago, and like now, the most recent one announced. 
+We feel that is a healthy mix and that's also a healthy balance, and we have the right -- very much the right approach and the right alignment with our expanding bottling partners, whether they are just entering our system, or they are proven expanding bottlers like the ones that we have mostly franchised new distribution to in the past year. 
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+
+          Thank you. Our next question is from Bill Schmitz of Deutsche Bank. Your line is now open. 
+
+--------------------------------------------------------------------------------
+Bill Schmitz,  Deutsche Bank - Analyst    [33]
+--------------------------------------------------------------------------------
+
+          Hi, good morning. Can you guys give us a little bit more granular bridge on the gross margin decline this quarter, and then maybe some broad-stroke outlook for the rest of the year? I know the comps get easier as the year progresses, but it would be really helpful to aggregate the FX impacts, some of the re-franchise impacts, then what you're thinking for the rest of the year? 
+
+--------------------------------------------------------------------------------
+Kathy Waller,  Coca-Cola Company - CFO    [34]
+--------------------------------------------------------------------------------
+
+          Certainly, Bill. Really, the gross margin decline is really impacted by two things, really. It's currency and it's the structural impact. Currency, I think like 80 basis points, would have added 80 basis points back to our gross margin. The structural impact actually would add significantly more than that. It's really as simple as that. It's really about currency and our structural adjustments. 
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+
+          Thank you. Our next question is from Kevin Grundy of Jefferies. Your line is now open. 
+
+--------------------------------------------------------------------------------
+Kevin Grundy,  Jefferies & Company - Analyst    [36]
+--------------------------------------------------------------------------------
+
+          Thanks, good morning. Question, how much of the slow-down in the top line in the quarter was macro slowing in the NARTD category versus execution? You spoke to share gains in both stills and sparkling, so it would certainly seem to be broader slowing in the category? 
+Then of course there's been a lot of discussion on the top line. It would seem like the lower end of your 4% to 5% organic sales outlook would be prudent at this point. A follow-up question on that. How much visibility do you have on productivity and other levers to deliver the high end of the ES growth guidance range, should you come in toward the lower end on the top line? Thank you. 
+
+--------------------------------------------------------------------------------
+James Quincy,  Coca-Cola Company - President and COO    [37]
+--------------------------------------------------------------------------------
+
+          Let me take a bite of that, Kevin. I think the answer on the slow-down, we don't get all the category numbers necessarily. Clearly, as we're gaining share in that top-line number, there's got to be some weakness in the category versus the long-term target of 5%. I think we talked a little bit about that at CAGNY, about how our expectations for 2016 and 2017 were below the long-term 5% dollar value for any RTD. There's definitely some of that. 
+I think you can see the macros influencing the industry in the sense that a number of the emerging markets, particularly the commodity ones, where we have had the slow-down, and that's clearly flowing through into the industry. 
+I think what I would highlight is we're going to focus on what we can control. We have a long-standing game plan of what to do in countries that are in crisis, focusing on really gaining a lot of share to set ourselves up profitably for the long-term, as we did in a lot of countries in the past. It seems to be working now as we gain share in the Chinas and the Russias and Brazils. It will pay off in the end. 
+I think the visibility, look, we are managing to our corridors at the top and the bottom line. We feel that this quarter was within the envelope. Clearly the macros slightly better, slightly worse, will be an influence in where we end up; but we've got a lot of management left to do in the balance of the year. 
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+
+          Thank you. Our next question is from Bill Chappell of SunTrust. Your line is now open. 
+
+--------------------------------------------------------------------------------
+Bill Chappell,  SunTrust Robinson Humphrey - Analyst    [39]
+--------------------------------------------------------------------------------
+
+          Thanks, good morning. Can you just -- 
+
+--------------------------------------------------------------------------------
+Kathy Waller,  Coca-Cola Company - CFO    [40]
+--------------------------------------------------------------------------------
+
+          Good morning. 
+
+--------------------------------------------------------------------------------
+Muhtar Kent,  Coca-Cola Company - Chairman and CEO    [41]
+--------------------------------------------------------------------------------
+
+          Good morning, Bill. 
+
+--------------------------------------------------------------------------------
+Bill Chappell,  SunTrust Robinson Humphrey - Analyst    [42]
+--------------------------------------------------------------------------------
+
+          Talk a little bit more about, now that you've unveiled the one-brand packaging -- I guess it's being launched in Mexico -- expectations for that, and maybe what you've learned as you've tested it out? I say that just -- I understand it's certainly going to be more efficient from an advertising, marketing front on the one brand strategy, but didn't know if you expected a sales lift, or if there's been any confusion from consumers as they have seen it? Thoughts as we've started to launch that? 
+
+--------------------------------------------------------------------------------
+Muhtar Kent,  Coca-Cola Company - Chairman and CEO    [43]
+--------------------------------------------------------------------------------
+
+          Bill, this is Muhtar. We've said from the beginning first that the new campaign is not just a new campaign, but also it's a new strategy in terms of the one-brand strategy, and that it's got many advantages. We expect it to give us significant efficiencies and effectiveness. 
+But also in terms of how we communicate with our consumers, it will certainly play into that as we execute the strategy, and we've now launched the new campaign. Then I'll let James comment in terms of you asked the Mexico specific example, but also there's also many other places where it's been tested, and tested favorably. Go ahead, James. 
+
+--------------------------------------------------------------------------------
+James Quincy,  Coca-Cola Company - President and COO    [44]
+--------------------------------------------------------------------------------
+
+          Yes, Bill, a few thoughts. One, the initial pilot markets, the two sources of very clear impact were one, it helped us expand and grow the zero-calorie variant of Coca-Cola by driving availability and driving trials. We would expect to see benefits on the zero-sugar variance. 
+The second big area of benefit is it helps us create what we would call corporate blocking.  In other words, we execute in stores all the variants of Coca-Cola together as one big block, has a much greater store impact, visual impact, engagement with people who are shopping the stores. 
+I think slightly more strategically and back to Muhtar's point, this is an implementation of a strategic idea. I'm sure we'll evolve it. I'm sure we'll make it better, but it's the strategic idea that's important. It's not just about the efficiency in the advertising. It's about helping consumers join and stay in the Coca-Cola franchise, whatever the ingredients they want to manage, including their management of added sugars, whether that's in drinks or any other categories that have added sugar in. This has a number of benefits that are going to play out strategically, and we will keep improving the execution. 
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+
+          Thank you. Our next question is from Amit Sharma of BMO Capital Markets. Your line is now open. 
+
+--------------------------------------------------------------------------------
+Amit Sharma,  BMO Capital Markets - Analyst    [46]
+--------------------------------------------------------------------------------
+
+          Hi. Good morning, everyone. 
+
+--------------------------------------------------------------------------------
+Kathy Waller,  Coca-Cola Company - CFO    [47]
+--------------------------------------------------------------------------------
+
+          Good morning. 
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+
+          James, as we look to the rest of the year and 2017 as well, can you also talk about the progress of the small pack architecture? We've heard a lot about that in North America, but if you can give us a little bit more detail, where are we with that in rest of your divisions? Is that a source of incremental growth or price mix as we go forward? 
+
+--------------------------------------------------------------------------------
+James Quincy,  Coca-Cola Company - President and COO    [49]
+--------------------------------------------------------------------------------
+
+          Yes, a few thoughts then. Clearly, North America has had a lot of traction in pushing forward smaller packages away from the traditional two-liter and multi-pack of cans. It is worth noting that some of those packages are premium packages, and some of those are intended to create affordability or low-price-point entry points for the category, whether it be the mini cans. That combination does generally help price mix. 
+You can see that starting to roll out across other parts of the world. I think Latin America has traditionally been very good at that. You do see more of it coming into Asia-Pacific and Eurasia on a global basis. The immediate consumption packages out-paced general volume growth, so it is part of our strategy to push more into smaller packages. 
+Just this last month, India launched a new technology, very small package, with a special technology that allows a much longer shelf life in ambient environment of rural India, so it will be able to get to many more places. A lot of innovation in the technology. A lot of innovation in the package and the sizes and the occasions and the channels, so that we can bring down the price points for affordability, take advantage of premiumization, and also offer people the right amount of any beverage that they want to actually consume. 
+
+--------------------------------------------------------------------------------
+Amit Sharma,  BMO Capital Markets - Analyst    [50]
+--------------------------------------------------------------------------------
+
+          Thank you. 
+
+--------------------------------------------------------------------------------
+Muhtar Kent,  Coca-Cola Company - Chairman and CEO    [51]
+--------------------------------------------------------------------------------
+
+          One point I would just add, Amit, would be that the US compared to the rest of the world, the prevalence of small packages was much less in the United States three or four years ago compared to the rest of the world. If you look at Europe and places like Spain, or if you look at many countries in Latin America, you had much more prevalence of smaller packages then in the United States. 
+In a way, the United States in the last four or five years, but particularly last two and a half years, has moved very rapidly to the 12-ounce glass to the 8-ounce glass to the 7.5-ounce can, to the 8.5-ounce aluminum bottle. That has really worked. Those are all growing double digits in the United States because of two -- the consumer customer preferences, and also benefiting our system because they have a higher price per liter. That's in a way playing out from what was already prevailing in many parts of the world in the past. 
+
+--------------------------------------------------------------------------------
+Operator    [52]
+--------------------------------------------------------------------------------
+
+          Thank you. Our next question is from Vivien Azer of Cowen and Company. Your line is now open. 
+
+--------------------------------------------------------------------------------
+Vivien Azer,  Cowen and Company - Analyst    [53]
+--------------------------------------------------------------------------------
+
+          Good morning. 
+
+--------------------------------------------------------------------------------
+Kathy Waller,  Coca-Cola Company - CFO    [54]
+--------------------------------------------------------------------------------
+
+          Good morning. 
+
+--------------------------------------------------------------------------------
+Vivien Azer,  Cowen and Company - Analyst    [55]
+--------------------------------------------------------------------------------
+
+          I was hoping we could talk a little bit more about the health of brand Coca-Cola. In your press release, you called out softness either around the total brand family or trademark Coca-Cola in a number of geographies. While I appreciate that you have a lot of new initiatives between Taste The Feeling and new packaging, in the past you guys have said that it does take time for some of those advertising initiatives to actually gain traction and show up in brand health and volume. How should we think about the trajectory of trademark Coca-Cola as you roll out these new initiatives, please? Thank you. 
+
+--------------------------------------------------------------------------------
+James Quincy,  Coca-Cola Company - President and COO    [56]
+--------------------------------------------------------------------------------
+
+          Vivian, I think a couple of things. One, obviously most of our campaigns are weighted into the second, third, and fourth quarters. Those are the biggest quarters. Even Taste The Feeling, we announced it this quarter, but it's only really hitting at towards the end of the quarter and rolling out in the rest of the year, as with the Euro Cup and the Olympics. I think a lot of the programs are going in later this year. They -- obviously the execution is there, so we would expect to see better performance in trademark Coca-Cola going into the downhill. 
+I would make one other note, which is the relative change in where global growth is coming from, or industry growth is coming from -- a little more in developed and developing, a little less in emerging -- tends to create a portfolio effect that weighs a little more against sparkling and therefore Coca-Cola, because those emerging markets tend to be more sparkling orientated. You see North American, Latin America, Japan, with stronger stills growth. We do expect to see growth. We would expect to see it coming back. There is a geographic mix impact, but when we look at the markets, we believe we will be back on track with Coca-Cola. 
+
+--------------------------------------------------------------------------------
+Operator    [57]
+--------------------------------------------------------------------------------
+
+          Thank you. Our next question is from Robert Ottenstein of Evercore ISI. Your line is now open. 
+
+--------------------------------------------------------------------------------
+Robert Ottenstein,  Evercore ISI - Analyst    [58]
+--------------------------------------------------------------------------------
+
+          Great, thank you very much. I wanted to follow up on the questions on the one-brand strategy, and specifically ask when you look at let's say the full implementation of that two, three years from now, do you think the benefit will be 50/50 between cost savings and efficiency and greater demand? How do you see that breaking out? Specifically, also in terms of the answer to the prior question on that, how exactly is this strategy helping drive trial and availability for Coke Zero? Thank you. 
+
+--------------------------------------------------------------------------------
+Muhtar Kent,  Coca-Cola Company - Chairman and CEO    [59]
+--------------------------------------------------------------------------------
+
+          Robert, it's Muhtar here. I think first, in terms of the efficiencies, the most important benefit will be simpler and less-fragmented communication with the consumer. That will be the biggest benefit. But also, it will certainly help provide -- create more efficiencies and effectiveness in our non-working DME, and therefore will also provide some productivity in that respect. But the most important benefit will certainly be a less cluttered and better and more direct communication with the consumer base. 
+In terms of the trial of product, that will certainly come as a result of that, of what James mentioned in terms of better presence in the store, in terms of better merchandising, in terms of better interruptions in the store, and also in terms of the communication piece. 
+We believe that the most important benefit of this will infuse and will come to brands like Coca-Cola Zero with more availability, better communication, and have the broad perspective of the global campaign, as opposed to every different brand under the Coca-Cola trademark having their own campaigns. That will be how I think the benefits will come. We -- trials and pilots so far have proven that in Europe and other parts of the world. 
+
+--------------------------------------------------------------------------------
+Operator    [60]
+--------------------------------------------------------------------------------
+
+          Thank you. I would now like to turn the call back to Muhtar Kent for closing remarks. 
+
+--------------------------------------------------------------------------------
+Muhtar Kent,  Coca-Cola Company - Chairman and CEO    [61]
+--------------------------------------------------------------------------------
+
+          Thank you, James, Kathy, and Tim. We're in the midst of transforming The Coca-Cola Company to one that's even more focused on our core value creation model of building strong brands, enhancing customer value, and leading our franchise system. At the same time, we continue to evolve and strengthen our global bottling system as we accelerate re-franchising, and as we return to a predominantly concentrative model with significantly higher margins and returns. 
+We remain confident that the long-term dynamics of our industry are promising, and we absolutely believe that The Coca-Cola Company is well-positioned to deliver long-term value to our shareholders. As always, we thank you for your interest, your investment in our Company, and for joining us this morning. 
+
+--------------------------------------------------------------------------------
+Operator    [62]
+--------------------------------------------------------------------------------
+
+          Thank you, speakers. That concludes today's conference. Thank you for participating. You may now disconnect. 
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2017 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------
