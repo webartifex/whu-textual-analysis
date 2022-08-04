@@ -1,0 +1,19 @@
+This is the text for the introduction to regular expressions.
+
+In the first example, we search for the year of birth of current and former CEOs.
+These are sentences that I made up:
+Microsoft's former CEO Steve Balmer (born in 1956) graduated from Harvard in 1977.
+Michael Dell was born in 1965 in Houston and founded Dell Inc in 1984.
+Walmart is currently run by Doug McMillon, who was born in 1966.
+
+The following three examples are taken from the Wikipedia pages of the three people.
+Steven Anthony "Steve" Ballmer (born March 24, 1956) is an American chief executive who is the former chief executive officer of Microsoft from January 2000 to February 2014, and is the current owner of the Los Angeles Clippers. Source: https://en.wikipedia.org/wiki/Steve_Ballmer, June 22, 2017.
+Michael Saul Dell (born February 23, 1965) is an American business magnate, investor, philanthropist, and author. He is the founder and CEO of Dell Technologies, one of the world’s leading providers of information technology infrastructure solutions. Source: https://en.wikipedia.org/wiki/Michael_Dell, June 22, 2017.
+Carl Douglas "Doug" McMillon (born October 17, 1966) is an American businessman and is the president and chief executive officer (CEO) of Wal-Mart Stores, Inc. Source: https://en.wikipedia.org/wiki/Doug_McMillon, June 22, 2017.
+
+Here are some numbers:
+1,234,567
+8,901
+34
+56.82
+539,234,353.41
