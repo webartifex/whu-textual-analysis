@@ -1,0 +1,159 @@
+Answer_1:
+
+    We're focusing more on shorter form content to start. So the thesis that we have now, is that there are different parts of short-term content. There is the type of content that people produce socially for friends. There's promotional content that businesses and celebrities and folks will produce.
+But there's also a whole class of premium content, that the creators need to get paid a good amount, in order to support the creation of that content. And we need to be able to support that with a business model which we're working on through ads to fund that. So the biggest change that I think that we're going to see, on the consumption and news feed, and in the tab over the next year or two, is going to be much more video inventory and content coming in, as we work through and make that business model start to really click for a lot of folks.
+Over the longer term, I think as that works, people will experiment with longer forms of video as well, and all kinds of different things. But that I think is the primary focus for the foreseeable future.
+
+Answer_2:
+
+    Yes, Doug, I think you asked about platforms. I mean, we've always been focused on a variety of getting our services on a variety of platforms, but the main focus is obviously on mobile.
+
+Answer_3:
+
+    I can start on that latter question. Our goal really is to kick start an ecosystem of partner content in the video tab, for example, and our model is really oriented towards revenue share with creators. We are funding some seed content to get the ecosystem going, but the focus is on rev share. And then, I think your question was on, how the core use case between Facebook and Instagram differs?
+
+Answer_4:
+
+    Yes, I can take that one. There are a number of differences. I think a lot of this comes down to the graphs and the community that you have, and the different places. Instagram is a follow model, right? So it's -- they're not all bidirectional friendships. A larger portion of the content is public content.
+More of the content is visual, where Facebook has a mix of text and news and links, and visual content like photos and videos. Instagram creates a pure experience, that's focused on photos and videos. So all of those good and subtle decisions that Kevin has made over the years, add up to creating a different kind of community that, what we're finding -- and that's great -- is that it's really complementary to what people are doing on Facebook.
+And some of what we found is that, as we encourage people to use both Facebook and Instagram, engagement on both can increase. So that is great. And that I think speaks to how you can build these different kinds of communities, with different connections, in a way that really is creating new value in people's lives.
+
+Answer_5:
+
+    On the video ad opportunity, we're seeing consumer video exploding on our platform, as Mark has talked about, and that really creates the opportunity for video ads in the feed. And a lot of this happens within the current news feed product. People post videos, people consume news feed stories. Those stories include video stories from consumers, and then we have an opportunity to serve ads. As consumer video has grown in news feed, it's given us that opportunity for video ads, because the format of the ads fit the format of what consumers are doing. And we're seeing a lot of great examples of people using ads in the feed across Instagram and news feed.
+In terms of monetizing some of our newer attempts at products and news feeds such as ad breaks, those are really in early experimental stages. And for now, we're really focused primarily on our core business, our core ad products of which video is one.
+One of the things that's really important in this, is helping marketers understand that they need to optimize those video ads. That an ad that works really well 30 seconds in other platforms, in more traditional platforms, can work on ours, but the ones that are optimized, and use our targeting really perform better. And we're working hard with advertisers to help them see that.
+So to share one example, Motorola working with Ogilvy and [Modomento] launched the Moto Z phone. And they did awareness boosting before they launched, targeting Android users, and Verizon subscribers, and they optimized their video for the Facebook and Instagram mobile feed. And then, after they launched, they did purchasing ads, and retargeted people who had viewed those initial ads. That's just a great example of someone using video ads, optimizing a format, but also using the pretty unique targeting we can offer to drive sales.
+They measured that they had over 3.5% lift in sales, driven by the Facebook and Instagram video ads. And so, we're pretty excited about the opportunity we have in our current business, and we're going to work client by client, to get the video format of those ads right, get the targeting to be as good and as deep as it can be, and make sure we're measuring all the way through to sales.
+
+Answer_6:
+
+    And Eric, you were asking about content, and where that's going to get picked up in the P&L. There's no real simple answer in that. I would say, in general, where we're going to be rev sharing with creators, that's going to be picked up in cost of revenue. So that's probably the simplest answer.
+But as we do arrangements to get the ecosystem going, some of that could get picked up in the sales and marketing. And then, we have content as well that's getting picked up in R&D for the efforts we're making with Oculus. So you're seeing some of those get spread across several different lines in the P&L. So it's not going to be a clean, one spot where you're going to find it.
+
+Answer_7:
+
+    Sheryl, do you want to take the question on video measurement, and how that's evolving?
+
+Answer_8:
+
+    Yes. So new platforms demand new measurement. And so people are measuring all kinds of different things, from viewability, to how many people see the ad, to how long they run the ad. We're focused on all of these metrics, and working hard with third-parties, and with our advertiser to get those metrics right.
+We really believe that at the end of the day, what matters the most is, all the way through the sale. What matters the most is the [AB] test, that these people saw ads on Facebook and Instagram, these people didn't, and here's the sales lift. And all the other metrics, although important and we're working hard, are proxy metrics. And those metrics are going through a platform shift that we need to work on.
+
+Answer_9:
+
+    And then Mark.
+
+Answer_10:
+
+    And for video search, search is a big priority, and the thing that we're working on across all of the different verticals, not just video, but also all the posts on Facebook, all of the content that people are selling in marketplace, the groups that people are joining and sharing, and all the news content. And it's an area that we've been working on for a while. It's growing steadily, and doing well, and we hope to have more updates on that soon.
+
+Answer_11:
+
+    Mark, it's Dave. I can take those, on the metrics. From the price volume perspective, yes, the price per ad increased modestly 3%.
+There's lots of different underlying metrics, but the overall kind of reported metric is really, continues to be driven by the mix shift away from right-hand column ads, which are lower price and lower value. And then, obviously impression growth is driven by the user's time spent in ad load.
+In terms of the opportunities for price, it's really just continuing to focus on making our ads better targeted, more relevant, improving all the different ways in which we can drive better outcomes for our advertisers, and sort of meeting them with the results that they care about, and delivering those results. We think there continues to be great opportunities to do that, and how the supply demand dynamics play out, will kind of impact the overall direction of price. And it's going to depend obviously, also on regional mixes too, because some regions are -- have obviously lower prices.
+I think the other question was on video. Video is one of the big drivers of engagement growth on Facebook. It's also helpful on Instagram, where we're also seeing the benefit of ranking changes. So we continue to see good engagement, and time spent growth across the Facebook family, and on just Facebook, and video is a part of that story. So it's an important part of that story.
+
+Answer_12:
+
+    Yes, I'll take a few of those. So on elections, we run a very large and diversified business. So there are these events that are obviously, big like the US elections, the World Cup, Super Bowl, but there are enough of these all around the world, that no one event is that big for our business. Even last quarter, political spending, even within the US alone, was not a top 10 vertical for us.
+When you think about ads in Messenger, we right now are really focused on consumer growth and engagement, because we know that over time that creates a monetization opportunity. We're seeing a lot of organic connections between businesses and consumers. We're now, per month at 1 billion messages sent between people and businesses, and we think that's very promising for our ability for people to use this platform, to make those connections that will ultimately drive the business opportunities.
+We're in the very early stages, some of those ads you're seeing are [exploring] how to build more of these connections. But right now, we're going to remain focused on the user experience, and the experimentation we're doing.
+
+Answer_13:
+
+    Yes, Justin, just adding to the question on elections, I'd also point out that our reported daily active and monthly active numbers reflect usage in December. So even for the US, that doesn't really pick up the election period, just because the way that we tabulates those results.
+On millennials, we were really pleased. This was a fantastic quarter for overall growth of the Facebook community, our strongest absolute MAU and DAU additions year-over-year since being a public Company. So we're really pleased with that. So within that context, we're not breaking out specific cohorts. But we remain a great place for advertisers to reach millennials, and Instagram is obviously another great place to reach millennials. And we continue to build our products to serve a wide variety of audiences, including millennials as well.
+
+Answer_14:
+
+    Sure. So Mark, Asia benefits probably more than any other region, around the sort of three factors that I called out in my prepared remarks. And those are internet.org efforts, Android product improvements that we've continued to make a big area like Android, our Facebook Light platform on Android has been a great grower for us.
+But then particularly, in the fourth quarter, wanted to call out that we've seen an increase in third-party promotional free data plans in places like India. So that clearly, is having an impact in APAC, and India was our strongest growth market. So that would be something that I would say, was a little bit more unique this past quarter.
+
+Answer_15:
+
+    Yes, sorry. Mark's going to take China question.
+
+Answer_16:
+
+    Sure. So as I've said a number of times before, our mission is to connect everyone in the world. And it's hard to do that over the long-term, if we don't find a way to serve the more than 1 billion people who live in China. So that's certainly a thing that we're going to look out -- at over the long-term. And the specific time horizon that you mentioned, I think it's really hard to predict how this will play out, or what we will end up doing.
+But one of the big things that we need to think about here is, of course, we're only going to do this in a way, that we're comfortable with over the long-term. So obviously, something that we're going to continue engaging in, and thinking about, how to move forward on. And long-term, it's very important, but no news at all in the near-term.
+
+Answer_17:
+
+    I'll take Messenger and WhatsApp, then you can take ad load. So yes, is the basic answer that Messenger and WhatsApp serve somewhat different utilities for people. WhatsApp really takes the place of SMS in a lot of the markets where it operates.
+The graph is based on phone numbers. You're as likely to text your barber, or somebody that you're going to transact with, you would have a phone number with, as you would be a friend. Whereas on Facebook Messenger, the graph is your friends. And you're more likely to say, wish an acquaintance happy birthday on Facebook Messenger than on WhatsApp, where you might not have their phone number in the first place. So you can think about some overlap in the core use case, as you might message your close friends and family on either.
+But what we found in general, is that if you look at some of the markets that are strongest for both of them, they could each grow in those markets. And as messaging has become more affordable and more reliable for people, the volumes of messaging have just gone through the roof, in terms of what people want to do.
+Looking at -- my understanding from looking at a bunch of analytics is that the peak of global SMS reached somewhere in the low 20 billion messages per day. And we already have many times more than that, three times or more than that, across WhatsApp and Messenger. And of course, there are other messaging products in the world, besides these as well. So we're pretty confident that this is going to keep on growing.
+I do think to your point that the monetization paths are going to be somewhat different, reflecting the difference in product philosophy. So Messenger is much more focused on being an expressive and rich environment, that has lots of different types of content. Kind of more like Facebook to the Instagram example that we used before, whereas WhatsApp I think is a much more utilitarian experience, with a much more stark UI, where there's just not as much emphasis on having a lot of different ways to engage.
+So we did the experiment that you asked about before, around ads in Messenger and different ways that businesses can interact. And there is a lot of flexibility on how we can explore there, which is why I think you'll see some more of that on the Messenger side, than on the WhatsApp side in the near-term. But giving businesses the opportunity to connect in WhatsApp, and reach the people that they want, and eventually have increasingly, hopefully transactional interactions, I think will be a really useful thing on that platform as well.
+
+Answer_18:
+
+    Heather, it's Dave. Just on Instagram versus Facebook and ad load, clearly the biggest driver of our business is core Facebook, just in terms of sheer size, and even sheer contribution to growth. Instagram is growing quicker on a percentage basis, but it's much smaller.
+The ad load opportunities are higher on Instagram, because Instagram is at a lower ad load than Facebook. So there is an opportunity for us to continue to grow ad load on Instagram probably beyond -- in a longer time frame than there is on Facebook, because of that disparity in terms of where they are today.
+But given the scale of Facebook and the importance driving overall revenue, that's why I continue to express what our expectations are for advertising growth in 2017, and the reduction in the growth rate that we expect, given the potential to grow ad load on Facebook, that we expect come down in 2017.
+
+Answer_19:
+
+    Yes. So when you think on measurement, your question gets to the heart of the matter, which is there's a lot of conversations on what we measure. And when you see platform shifts, as you are in the ad market for more traditional forms of media, to display, to now mobile, we're seeing those metrics change. And there's obviously, a lot of conversation, and a lot of concern out there about what we're measuring.
+We think the answer to all of this, is to remember that what really matters is going all the way through, from the ad itself to the sale, whether that sale is online or offline. And we are working hard, to work on the data in a privacy-protected way to be able to do that. And we're making progress across verticals, across our large customers. I don't have the percentage of exactly how many customers are working on this type of measurement with us.
+It's certainly growing. It's certainly something we're working on vertical by vertical. But it has really important impacts, not just in their ability to serve the right ad, to the right person, at the right time, but also their ability to optimize their ad for our format. That once they understand what's really moving their products off shelves, online and off, that's where we get to the real work we need to do, to optimize the ad, and really work on the targeting.
+And so, I remain very optimistic. We have a lot of hard work to do, to get to all of our ad campaigns having that kind of measurement. That's going to take a long time. But the more we can do it, even in studies with each client, the better our ads get.
+
+Answer_20:
+
+    Oh, buy button. Yes, sorry, just to address the buy button. The core of our business is really connecting people with what they care about. And so, we're looking at getting the right message, the right time.
+We've worked hard on product ads that get to products. So you've seen us work on dynamic ads, carousel ads, estimated store visits, things that help our ads business sell products. You are seeing us take other steps, like a buy button, like the marketplace launch, which are really aimed at improving some of the experiences we think people are trying to have, and already having in organic ways on Facebook. But the core of our focus is, still very much focused on ads, and how we can do ads at the product level.
+
+Answer_21:
+
+    Sure, Ken. I mean, we obviously are focused on hiring top engineering talent. It's key to our 2017 goals, and executing on our 3, 5 and 10 year road map, the one that Mark outlined. One thing that we're optimistic about is, our ability to hire technical talent outside of the Bay area, as well as in the Bay area. And that's because we built up engineering locations in key areas like Seattle, London, New York, Boston, Tel Aviv.
+So we've got other markets in which we can recruit, and grow engineering and other technical teams. And that's really different from where we were a couple years ago. So that's an important part of the infrastructure that we put in place in the last two years that we're pleased with.
+
+Answer_22:
+
+    Well, I think AI is going to be great for the experience that people have in our community. So there are a few types of systems here that we're working on, around understanding content. One is around visual content, and the other is about language.
+So for visual content, we want to be able to look at a photo, and understand what's in it, right? And whether that's something that you're going to be interested in, right? And similarly, we went to be able to look at a video, and watch it, and understand whether that's something that you're going to be interested in. And you can imagine that, today we consider putting things in your news feed that you're connected to in some way, right? That are from a friend, or a page that you're following, or that one of your friends liked.
+But there's no reason that we shouldn't be able to match you up, with any of the millions of pieces of content that you might be interested in, that get shared on Facebook every day, except for the fact that we don't have the AI technology to know what those are about, and if they match your interest today. So but a combination of being able to understand the texts that people message, read the articles that people would want to look at, watch the videos, look at the photos, are going to be great too.
+Another area where I'm really excited about this, is our ability to keep the community safe, right? So there's an increasing focus on objectionable content, right, and a lot of unfortunate things, right, that people share on Facebook. And it's a minority of the content, but I'm really focused on making sure that our Company gets faster at taking the bad stuff down.
+And we can do better with people. But ultimately the best thing we can do is build AI systems that can watch a video, and understand that it's going to be problematic, and violate the policies of our community, and that people aren't going to want to see it. And then, just not show it to people, before bad experiences happen -- and things like violence get spread through -- violent content gets spread through the network. So I think it's -- both going to be -- AI is both going to be great on showing people content -- that's really good, and helping us enforce the community standards that we have, to make sure that everyone has a good and fair experience.
+
+Answer_23:
+
+    So I'll take video first, and then I can talk about VR as well. So for the video tab, the goal that we have for the product experience, is to make it so that when people want to watch videos, where they want to keep up to date on what's going on with their favorite show, or what's going on with a public figure that they want to follow, that they can come to Facebook, and go to a place, knowing that that's going to show them all the content that they're interested in.
+So that's a pretty different intent, than how people come to Facebook today. Today for the most part, people pull Facebook out when they have a few minutes, when they want to catch up, and see what's going on in the world, with their friends and in the news, and everything that's going on. So that's very different from saying, hey, I want to watch video content now. And that's what I think we're going to unlock with this tab.
+So all of the content that is on Facebook is eligible to go in the tab. I mean, we're showing video content, not all the rest of it. But there isn't a concrete difference between what can be a news feed, and what could be here. It's just that the experience is designed to deliver on that promise of, you want to watch videos, you want to keep up with the content that you watch episodically, week over week. This is going to be the place where you go to do that.
+I do think that it's going to get a lot stronger, once the business model really starts to click here, right, because a lot of the best episodic content is professionally created. And those folks needed to make a good amount of money in order to support their business model. So having mid-roll ads, we're committed to doing this in a way, that's very good on the user experience.
+But that is going to enable the kind of content that I think is going to take this to the next level. The early trends are good, but I think this is really going to be an area, that is proportional to the amount of quality content that is in the system, and the business model is really going to be the thing that enables that.
+
+Answer_24:
+
+    All right, sorry, I forgot about that for a second. All right, so VR and AR, what can accelerate that? I think that there are parts of this that are on a good trajectory, and parts where we're a little behind where we would want to be.
+I think, Samsung shipping 5 million Gear VRs -- I mean, that's their product, not ours, but we build technology that powers it. I think that's quite a good result, right, and one that we're very happy with, and just shows how strong of a company Samsung is, at being able to build these products, and sell them through into the world.
+On the side of the products that we built, Rift and Touch were both a little delayed. That was obviously somewhat of a disappointment. And if you want to accelerate development, obviously we need to get our products in the market at a good pace.
+But in terms of the content development, I actually think that's coming at a reasonable clip. Early on, there is this issue which is that if you're a [AAA] game developer, until there's a certain volume of units in the field, you're not going to be able to make enough money to fund your game development, just based off of people buying your content. So that's why we're investing so much capital in content, to seed the ecosystem, and solve this chicken and egg problem of, you need the content in order to create the ecosystem.
+But I don't think that there is really a strategy to pull this in from 10 years to 5, I just think it's going to be a 10 year thing. I mean, the analogy that I always use is, the first smartphone came out in -- sorry, 2003, right, the Blackberry and Palm Trio, and it took 10 years to get to 1 billion units. And I don't know, if there was something that folks could have done to make that happen fast, but I think that was pretty good.
+And if we can be on a similar trajectory, of anywhere near 10 years for VR and AR, then I would feel very good about that. And I feel like we're making the right bets now to plant the seeds for that. But I would ask for the patience of the investor community in doing that, because we're going to invest a lot in this, and it's not going to return, or be really profitable for us for quite a while.
+
+Answer_25:
+
+    Operator, we have time for one last question.
+
+Answer_26:
+
+    So Anthony, I can just take the first part of that at least, which is look, our focus was on kick-starting the ecosystem here, for the video tab that Mark talked about. We're looking at a wide range of content, and we're really working towards a revenue share model with creators. We're certainly going to be seeding content to get the ecosystem going, but that's not about doing big deals. So we'll -- we're certainly looking at a variety of different types of content to look at.
+
+Answer_27:
+
+    I think you got it.
+
+Answer_28:
+
+    Great.
+
+Answer_29:
+
+    Great. Super. Thank you for joining us today. We appreciate your time, and we look forward to speaking with you again.
+

@@ -1,0 +1,56 @@
+Question_1:
+
+    Sheryl, one on Audience Network and LiveRail, maybe you can give us a little better sense of the depth of the conversations with advertisers and what that might do to the platform longer term, 2014 and beyond, in terms of broadening out Facebook's advertising effort? Second question, Dave, on the Oculus and WhatsApp, is there any way to get a sense of employee counts at the companies or the pressure that we might see from OpEx going forward?
+
+Question_2:
+
+    If you could share with us any qualitative commentary about the breadth of mobile ad revenue, there's always a lot of debate back and forth about how big mobile app installs are, and if there is anything you can share with us about how the breadth of these, the breadth of mobile has been changing over the last year or so.
+The follow-up question would just be related to how your conversations with advertisers are changing as people start to think collectively about their TV and video budget together? I'm just wondering if you're starting to see your conversations with big TV advertisers start to change somewhat over the last six months or so? Thank you.
+
+Question_3:
+
+    Mark, there's been talk, and I know it was on your blog, about testing a buy button within the platform. I was hoping you could talk about how important you think commerce is to Facebook going forward and then perhaps also payments, as well. And then secondly, Sheryl, you mentioned some of the major brands that advertised during the World Cup. Can you talk about how you get the follow-through from those brands now that major event has passed and how you keep those ad dollars on Facebook? Thanks.
+
+Question_4:
+
+    I had one question for Mark on the product side, and one for Dave. Mark, App Links just launched, but if you go out a few years, how much do you think something like deep linking could increase engagement or add effectiveness for Facebook? For those 1 billion links that you have up and running already, what are you seeing in those early tests?
+Dave, we know you don't break out the price versus volume metrics for mobile, but just directionally, could you give us some color on how the ad impression growth in mobile compares with the 31% MAU growth in mobile? Thanks.
+
+Question_5:
+
+    I'd like to follow a little bit on the ad pricing, obviously up 123%. Sheryl, maybe you can comment a little bit about the organic growth, like for like ads there, and do you see opportunities to continue to see nice pricing growth as you look out the next couple of years? And then, as you think about the new ad formats, video and other things, would you think that could continue to drive pricing higher, meaning new ad formats could drive even more value than the existing ads that you have on Facebook. Thank you.
+
+Question_6:
+
+    Anything you could share with us with regards to China and efforts to develop more of a presence there? On David Marcus coming over, somebody with a huge payments background running the Messaging product, it's kind of like hiring, signing Messi up to the Miami Heat, like it's a little of an odd transition. Are we looking at it wrong? Is there any particular reason why he wouldn't be more focused on payments? Thank you.
+
+Question_7:
+
+    On WhatsApp, I realize it hasn't closed yet, but can you give us any indications on the user trends and engagement, et cetera. Sheryl, you mentioned India where we see a lot of usage coming out of there for WhatsApp, in particular. Any comments there would be helpful.
+
+Question_8:
+
+    Sheryl, I think attribution could be big opportunity, especially for local businesses to help them realize ROIs or if people are going from online to offline. With 30 million businesses now on Facebook, how are you helping those businesses realize the online to offline conversion through Facebook in order to drive more dollars going to local businesses? Thanks.
+
+Question_9:
+
+    You mentioned over 1 billion users, 80% of app developers use the Facebook log-in on iOS and Android. When we think about Facebook as a platform, can you provide any stats on the number of developers who are starting to build their experience on Facebook? How integrated do they need to be to see things like app linking, data formats, autoplay video, or other? Thanks.
+
+Question_10:
+
+    The first one is on video ads. You mentioned it's the early days on video advertising. I was wondering if you could talk to some of your early learnings, what you're pleased with, and where you see areas for improvement and which metrics you're gauging to determine when to undergo a broader rollout. Secondly, I think you mentioned the larger, higher quality rail desktop ads. There's been some changes in experimentation around that inventory.
+How has the advertiser receptivity been to those ad units compared to the old right rail? Where are those dollars coming from? Is that new dollars to the platform or are they shifting from old sponsor stories or old right rail? Thanks.
+
+Question_11:
+
+    Maybe a question in a different direction regarding privacy and maybe you could just walk us through your current thoughts? The reason I ask is because Facebook recently introduced the anonymous log-in product at f8 this year and new services like Save are hidden from friends unless users specifically opt-in. Can you just give us a sense, is this kind of a change of strategic shift in thinking or tone with regards to privacy? Thanks so much.
+
+Question_12:
+
+    On mobile advertising and ad loads, just curious what you're seeing in terms of the ad load thresholds is that you're at the point now where the relevancy and quality of ads means that you can tick that up, perhaps, a little bit. On Oculus and virtual reality applications, how should we think about the pace of development of this technology and the potential integration with Facebook's applications? Thank you.
+
+Question_13:
+
+    Mark, you talked about a focus on public content. Does that include a focus on exclusive content and should we expect that you'll pay for or have revenue share agreements with the content with some key public figures? Separately, on search, I think you still have quite a large team working on improving search, but from our vantage point, we haven't seen many changes since the original beta graph search product launch.
+When should we expect to see those improvements and how would you rank search in terms of you priorities? Finally, just a quick housekeeping question, David, the D&A continues to trend down over the past few quarters. Why is that happening and should we expect that to continue? Thanks.
+

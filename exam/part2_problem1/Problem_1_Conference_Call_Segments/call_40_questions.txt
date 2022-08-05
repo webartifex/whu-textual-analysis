@@ -1,0 +1,152 @@
+Question_1:
+
+    Brian, I have a question on digital banking. I guess, right after the crash, when you guys sort of first began to emphasize digital and mobile banking, you were sort of the leader in the industry in that regard. And do you still feel that you have that leadership position? Is it important that you keep it? And what are your thoughts about what you need to do to do that?
+
+Question_2:
+
+    Is there a direct relationship? Or is there any kind of quantification that you've done of X mobile transactions means Y fewer branches? Is there that direct a relationship?
+
+Question_3:
+
+    Okay. And just one quick follow-up for Paul. Paul, you mentioned in Global Banking that all categories of loans grew except CRE. Is that a [self-selection] or could you just expand on that a bit?
+
+Question_4:
+
+    A little drilling down on your comments on deposit cost drive. So we go from, I guess, 8 basis points last year to 24 this or 11 to 24 over the last quarter. How much of that increase is what you mentioned in wealth management? I heard your comment on bringing them a competitive cash alternative. I'm just curious is it CD versus money market? Is it all coming from current clients?
+
+Question_5:
+
+    Got you, and so there's a competitor too, who had put out some high priced or high rate CDs in an effort to gather new client money. This is more of just compensating clients for being good clients, giving and sharing a little bit of the love with...
+
+Question_6:
+
+    I appreciate that.
+
+Question_7:
+
+    Okay, cool. And just a curious follow-up on the comment you guys have in the slides on targeted growth and client-financing activities and equities. Is that just growing PB with clients?
+
+Question_8:
+
+    Wanted to ask about expenses. The magnitude of improvement was nice surprise this quarter. I think you were targeting kind of a $100 million year-over-year improvement. You got something closer to $300 million or more. Just wondering where did you kind of outperform your own expectations on expenses this quarter? And is this run rate ballpark kind of a good jumping off point, Paul?
+
+Question_9:
+
+    And in terms of next year when you think about the $53 billion target, it doesn't look like you might need it, but do you have any expectations that the roll-off of the FDIC special assessment kind of will help you can get to that target? And just maybe a reminder of how much that expense stepped up for you.
+
+Question_10:
+
+    Okay.
+
+Question_11:
+
+    Okay. And then, I guess, just on capital return, Brian. With that CET1 growing nicely, anything that you could see now that would stop you from approaching more of a peer capital payout next year? And then can you just remind us what kind of CET1 ratio would be good target for you, knowing what you know now about regulatory minimums?
+
+Question_12:
+
+    Okay. And just one quick follow-up, Paul, on that FDIC expense roll-off. Is that's in the numbers now? You kind of running close to almost the $13 billion per quarter, it's almost at $53 billion annualized. Are you just saying that if you didn't get that step down, it gets a little tougher to get to the target?
+
+Question_13:
+
+    A couple of questions. One, as we go towards the $53 billion, can you just give us a sense as to the source of the improvement, consumer versus corporate?
+
+Question_14:
+
+    I'm just thinking about the digital efforts. Obviously, you put a lot of time in the call on the consumer side. Just wondering rate of change on corporate is that where you think the digital efforts are picking up.
+
+Question_15:
+
+    So then the follow-up is a question I get from people a lot of times, which is we get the expense improvements. Are there any pressures that we should also be making in here when you talk about cash management, fee rate, some of the fintech disruptors, look at these fee pools and say, oh, this is too high. I'm going to go after that. I'm assuming that you're staying ahead of that threat. I'm just wondering is there a fee rate that we should be making sure that we're including when we give you the expense side?
+
+Question_16:
+
+    And then consumer expense ratio of 51%, that as you're getting more people onto your Zelle platform, et cetera, is there a line of sight to that going sub-50 at some point?
+
+Question_17:
+
+    Your branch count continues to go down, I guess, down 3% year-over-year, but deposits are up 4% year-over-year. And I'm trying to get a distinction between retention of deposits when you close branches, a retention of customers because according to your 10-K in 2015 and 2016, the number of accounts declined by about 2% but at the same time, deposits continue to grow just like the entire decade. So my question is what is your retention rate of deposits? And what is your retention rate of customers when you close a branch today and why the difference?
+
+Question_18:
+
+    I'm not sure if you disclosed this. So what is the retention of deposits when you close a branch today? And what was it a few years ago?
+
+Question_19:
+
+    Okay. And just last question. You've mentioned -- I mean, digital banking is up. Global Banking is up. You mentioned 1,100 branches that's equivalent of it. That's good. So have you reached the [chipping form] where you can go from 4,500 branches down to 3,500 branches or 4,000. How far can you go?
+
+Question_20:
+
+    I had a follow-up question regarding the discussion earlier about GWIM deposit competition and just some of the efforts that you cited to compete with other cash alternatives. I was hoping you could qualify the actual magnitude of deposit price increase that we saw in the quarter and maybe just give a little bit more context as to what prompted the action. And, Paul, I know you gave some color here. I'm just trying to get a better understanding as to whether this is really driven by increased competitive pressures or is it more a function of the DOL, which actually requires that some clients receive reasonable compensation on some of their assets, including cash.
+
+Question_21:
+
+    And so my understanding then is that if we do see rate hikes from here because much of this increase was a function of your efforts to catch up with the competition, that should we see the NIM trajectory increase? Or how should we think about the outlook from here? If we get additional rate hikes?
+
+Question_22:
+
+    Got it. And just one more for me on the credit side. The trends there continue to be quite positive. You appear to be doing a lot better than many of your peers in that regard. I know the guidance that you've given previously at least in the near term was that provision should approximate net charge-offs. We did begin to see those in healthier building consumer. I'm just wondering how we should think about the near-term provision trajectory from here?
+
+Question_23:
+
+    Okay. It means, this $900 million as like a charge-off run rate at least in the near term a reasonable expectation?
+
+Question_24:
+
+    I was wondering if you could just elaborate a bit in terms of what you're seeing on the loan demand side, both on the commercial corporate as well as the consumer and, obviously, the industry has slowed down overall. Would you make some comment about seeing more activity in pockets of consumer? And then along with that, just your outlook for loan growth in the near term here.
+
+Question_25:
+
+    And then as we think about the deposit growths driving the balance sheet growth, you've got this side of yield curve and some people -- my personal view is if we get additional increase in the short end, you might have further flattening. I'm just wondering about the thought process to keep building the securities book and the mortgage book. You're seeing some banks shrinking the securities book and building cash instead. And obviously, there's a cost of doing that, but just a thought process to keep building securities here as the curve has flattened pretty meaningfully.
+
+Question_26:
+
+    Yes, just a point I was getting at is, you're paying up a little bit on the deposit side in the wealth management business, you're paying up a little bit on the Global Banking side, and on the one hand, you can afford to pay up to help out the customers and keep them in your products, but at the same time, with the flattened yield curve, just makes it less economical to do so I think.
+
+Question_27:
+
+    Yes. First question was on the first mortgage production that you mentioned. You said that you're putting most of that on the balance sheet. Can you just give kind of a description of the type of paper that it is? Is it just 3-year conforming? And then what does that do to the duration of the loan book for the consumer?
+
+Question_28:
+
+    Okay. And then you didn't call out the hiring of the sales staff of about 2,000 year-on-year. I mean, how do we measure the success of those hires? Is -- how much of that is already in the run rate? I mean, was it an opportunity to take market share? Or were you understaffed in certain areas? I mean, how should we think about the increase in sales staff?
+
+Question_29:
+
+    Paul, I wanted to follow up on the customer credit. There's been last day or so a lot of concern about card. Your card losses have been up a little bit, but very manageable, but I did notice you did -- and you mentioned you built a card reserve to now 3.5%. I'm just wondering what kind of normalization are you expecting on the card losses to follow -- to start, sorry.
+
+Question_30:
+
+    Okay. So just expected gradual seasoning, and you're not expecting any kind of vintage major shift in the recent growth?
+
+Question_31:
+
+    Understood. And then as a follow-up to that in terms of the new Preferred Rewards card, how will that work through? Will there be any type of amortization of rewards cost, et cetera, that we should think about in terms of the card fees line? How -- or is that just also kind of already been as part of the spending you've been doing?
+
+Question_32:
+
+    Maybe quick question on rate sensitivity. It looks like it didn't change despite absorbing another rate hike this past quarter. Is that sort of indication that you've gotten slightly more asset sensitivity -- asset sensitive as the quarter went on? Or how do we think about your -- the flat rate sensitivity?
+
+Question_33:
+
+    Was there any change in the short versus long-end sensitivity?
+
+Question_34:
+
+    Okay. I mean, maybe just a broader question on consumer credit. I mean, I think this has been a big issue. I heard your comment in cards, but maybe just taking -- looking at the consumer as a whole, do you feel like there's any stress points out there that gives you some pause. I think that's really what's going on in the industry or at least in a lot of investors' minds worrying about is this the start of a new upward cycle in consumer credit costs? And how do you think about that?
+
+Question_35:
+
+    You'd mentioned, Brian, on the call about going into different markets with de novo expansion of your retail branches. Can you give us some color on how long it takes to get to those branches to break even? And then second, how long does it take to get them to a level of profitability that's similar to your legacy branches?
+
+Question_36:
+
+    Very good, and then second, we're all familiar with the treasury white papers that have come out about where they think regulation as you go through the banks. When you guys review what has come out? What are the top 1, 2 or 3 items that when you sit down with the new Vice Chairman of the Fed, Quarles, what are you going to talk to him about? And as part of that answer, can you share with us your thinking on where is your operational RWA? And is that a big issue for you to talk to the regulators about changing in the future?
+
+Question_37:
+
+    Very good, and then just finally, Paul, you mentioned that, I think, on the call about the higher rep and warranty expense. Can you guys kind of frame for us what's left there? And, obviously, I'm assuming we're towards the tail end. But do you guys know about what's left?
+
+Question_38:
+
+    I want to ask about a follow-up on efficiency in cost performance beyond 2018. And where you think your efficiency ratio can go to? So you've, obviously -- you've brought down your efficiency ratio to 60%. If you get to the $53 billion, whenever that is, '18 or whenever you get there, around '18, can you drive down your efficiency ratio even further to $57 billion, $58 billion? So you're pretty close to sort of your competitors, despite the fact that your business mix is one that has more wealth management and which has a higher efficiency ratio. So how should we think about your ability, the opportunity set to continue to drive positive operating leverage over a multiyear period and get your efficiency ratio down even further to the mid- to low 50% range? And I know it's a difficult question to answer, and it depends on a lot of things. But with technology and AI and cognitive computing and digitization and mobile banking, can we see efficiency ratios that maybe a few years ago we wouldn't have even thought about for a bank like Bank of America?
+

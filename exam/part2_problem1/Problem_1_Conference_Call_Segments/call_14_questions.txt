@@ -1,0 +1,69 @@
+Question_1:
+
+    Thanks a lot. Lots here, but international retail revenue -- the international retail segment really stood out. Revenue accelerated. Seemed like a bit of a milestone also that the CSOI turned positive in a non-Q4 quarter. Can you shed any more light in what the key driver there was? And, how sustainable it is? And, AWS just mathematically, the comps get tougher starting in Q2, just given what happened in 2014. Is that something that we should be taking into account in terms of thinking about how the rest of the year may progress? Thanks.
+
+Question_2:
+
+    Thanks for taking the question. Just wanted to ask you about unit growth overall and if we look back over the last three quarters, you've accelerated it now to a materially higher level than what we saw in 2014 and the first half of 2015, and I realize in 3Q last year you had Prime Day. I was hoping you could comment on the overall acceleration we've seen here and key drivers behind that? And, if there's something different perhaps than what you talked about on international?
+Also, on AWS, can you talk about the underlying drivers here of margins and thinking about that a little bit going forward primary sources of leverage? As you open up six new regions in coming months, should we expect this to be constant build-out? Or, something that's more lumpy over time and more in waves? Thanks.
+
+Question_3:
+
+    Great. Thanks. Looking at the active customer account number, it looks like growth slowed pretty significantly, about 10 percentage points. Just curious if you can give us a sense of anything that might be throwing that number off, assuming we're reading it the right way? And then, as you roll out on AWS -- as you roll out the fixed new availability zones over the course of the year, is there a way to quantify what kind of an impact that's going to have on the capacity at AWS?
+
+Question_4:
+
+    The first one is on Prime. You've had two straight years of around 50% Prime subscriber growth. Curious about how you think about keys to driving Prime sub-growth going forward? And, the thought process behind the reported monthly Prime subscription? And, the second one on the logistics investments, there's been a lot about truck investments and logistics investments. Any comments at all about learnings, and what you're seeing from some of the investments in your truck fleet and your own delivery network? Thanks.
+
+Question_5:
+
+    Great. Two questions related to Prime overseas. Could you talk about the status of Prime in international markets? How far rolled out it is in most of your major markets? Then, you talk about Prime Fly Wheels, and you did last year. But, it seems likes those Fly Wheels spun faster than you expected in the fourth quarter of last year that caused some near-term expense issues for you? Can you talk about how you're thinking about planning against that as the Prime Fly Wheels are getting broader for you, how do you try to get ahead of that into the peak season later this year? Thank you.
+
+Question_6:
+
+    Thank you. I have two. I think it's the first time 1Q 2011 that we see tech and content counted as a percentage of revenue declining or flat. Is it just a sign of your inability to increase investment in line with revenue growth? Or, is there something going on, if yes, what?
+Secondly, Brian, you said that the growth of Prime has been driven by investments you have made or are making. You gave the examples of devices that you are selling. I think it's a mathematical certainty that Prime subscribers would accelerate in North America at some point from 50% growth. As penetration increases and growth slows, will we see a deceleration in the investment levels? In other words, how do we think about the effect of deceleration in Prime on the North American margin structure in the future? Thank you.
+
+Question_7:
+
+    Thanks for the question. Any comments on your business in India? How is that market ramping up? On the competitive front there, any sense of where the local incumbents may actually have some advantage in the region? Thanks.
+
+Question_8:
+
+    Thanks. My question is on the international margins. They're quite a bit below where they were many years ago and trailing the US. Maybe talk about the dynamics there and what is it going to take to catch up over time? Thanks.
+
+Question_9:
+
+    Great. I just had two questions on AWS. First, last fall at re:Invent, you disclosed that data management revenue was at a $1 billion run rate. Can you provide an update on that figure? And, maybe talk about how much of AWS revenue today is outside of the storage and compute layers.
+And then, the second question is on the AWS margin. I think everybody is trying to learn more about the structural long-term margin, and it was down a tad quarter-on-quarter. Is that solely from FX impact? Or, was there some seasonality of expenses? Any color on what's driving the AWS margin, and how we should think about that over the longer term? Thank you.
+
+Question_10:
+
+    Thanks for taking the question. Looking at the gross margin, impressive performance in Q1. There were a few headwinds it looked like in gross margin in Q4. Wanted to understand how we should think about the puts and takes in gross margin. It has evolved to be a much higher number in the last few years. What some of the puts and takes are going forward especially with respect to content costs? Thanks.
+
+Question_11:
+
+    Thanks. Couple of questions. First, if you can update us on your new advertising initiatives in terms of how the sponsored links are performing? Additionally, if you can give us an update on Prime Now. Seems like you've rolled out a number of cities for that. How that's involving and the traction with Prime Now? Thank you.
+
+Question_12:
+
+    Thanks. Your capital lease-driven property and equipment acquisitions is down again year-over-year. So, will you help tie this to perhaps the overall usage growth at AWS? Or, maybe the changing nature of how your enterprise customers may be using the platform to be more compute versus storage or database-heavy? I think historically on the e-commerce side, you have been price followers as opposed to price leaders. AWS, you have been price leaders for the most part for actively taking down price. Now, given your leadership position, do you think you'll continue to be price leaders? Or, do you think it's now time for you to follow instead? Thanks.
+
+Question_13:
+
+    Great. Thanks. The North American EGM segment outperformed our expectations of growth accelerating on a year-over-year basis. Given you don't break out GMV by vertical within the EGM segment and given the strong growth at massive scale, can you cite any key verticals that were particularly strong?
+Second question is just an update on Fresh. Rollout has obviously been much slower than Prime Now. How should we think about the Fresh rollout and the impact over the long-term? Thank you.
+
+Question_14:
+
+    First, congratulations on the great quarter. Couple on Prime and one on China. First, a point of clarification. You answered a previous question by saying that you will significantly increase investment in Prime. Was that specifically in reference to video? Or, should we expect new types of offerings beyond video and music?
+And, secondly on Prime, membership is likely hitting some saturation levels for certain demographics in the US? Do you intend to focus on more lower income households for growth there? Then finally, on China, anything notable to call out there that's been different over the recent past driving results? The free trade zone, et cetera?
+
+Question_15:
+
+    Thanks for taking the question. I want to go back to North America but focus on margins. 5.5%, 5.4% margins, I think that's the highest level since maybe Q2 2010 and resumes the margin expansion we saw for most of last year. Just hoping we can understand -- help us understand a little more what's driving that? I'm sure the more mature Prime Fly Wheel you mentioned that's happening in Europe. Is there anything else that's going on besides Prime Fly Wheel, maybe more efficient shipping or things along those lines? Thanks.
+
+Question_16:
+
+    Thank you. Two quick ones. Back to India for a second, I was wondering if you could talk about the regulatory environment there, particularly how it pertains to Amazon cloud tail? Two, on logistics, could you talk about excess capacity in logistics as you build out air, freight, sea, et cetera. Would you ever entertain delivering other Companies' items, i.e., like a FedEx or UPS?
+

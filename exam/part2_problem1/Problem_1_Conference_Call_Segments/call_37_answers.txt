@@ -1,0 +1,231 @@
+Answer_1:
+
+    Sure. Maybe the simplest way to answer that question would be to take you back to 9/30 when the interest sensitivity on the long end was $2.1 billion. We saw a 75 basis point increase in long end rates since then, so 75 basis points times $2.1 billion is $1.6 billion. At that time, the short-end sensitivity was $3.3 billion. We saw 25% of 1%, 25 basis points, so 3.3 times 25%, that's another $600 million. So together, that's $2.4 billion that you can see just in the change in the interest sensitivity. If you divide that by four, you get your $600 million.
+Again, I would emphasize that we see NII growing from there as we move through 2017 assuming again we have modest loan growth, modest deposit growth and a stable short and long-term interest rate environment.
+
+Answer_2:
+
+    Yes, conceptually, we've captured the decline in sensitivity -- we are going to capture the decline in sensitivity that you've just experienced in our NII over the next 12 months. You can see that under the calculation I just did for you.
+
+Answer_3:
+
+    Yes, John. So this morning, as part of our release, we announced that we got approval for a de minimis of $1.8 billion to add to the $2.5 billion we have for the first half of this year to bring the repurchase volume to $4.3 billion for the first half here. So we applied for that obviously in December and got the approval and our Board has approved it and that went out with the release this morning.
+In terms of next year, we will see what the scenarios are with all the caveats, but you've seen us constantly move our numbers up and we will continue to do that. Our cushions and stuff are strong on the earnings. The most important thing for us was to make sure the earnings power of the Company kept coming back and now with $17 billion of earnings, we feel confident we ought to be able to push forward.
+
+Answer_4:
+
+    And John, that $1.8 billion was the full 1%.
+
+Answer_5:
+
+    Right.
+
+Answer_6:
+
+    Right, the first two quarters all in the first half here.
+
+Answer_7:
+
+    Yes, the guidance includes the sale of the UK card business, but just to be clear, that's not going to close until probably mid this year. So that NII will be with us until it closes.
+
+Answer_8:
+
+    Yes, so, again, if you go back to 9/30, I think we told you we were using deposit betas in our modeling on interest-bearing deposits in the high 40s. And we said, hey, the first few rate hikes is going to be less and the later rate hikes, it's going to be more and that's what we are experiencing. So if you looked at our deposit betas right now, you would probably see it inching into the 50s. It's definitely moving up as we get more short-term rate hikes.
+
+Answer_9:
+
+    Well, again -- we will see what happens here. We had a rate hike a year ago and I think a number of people would have said that we would have had a pass-through, and I don't think there was a significant pass-through in the industry. We just had a rate hike in December and we are going to see how much pass-through we actually had. From a modeling perspective, in that guidance I gave you, from a modeling perspective, the pass-through rate on the next 100 basis points would be in the 50s. And again, it would be the same story. Less in the beginning, more at the end.
+
+Answer_10:
+
+    Well, I think the way to think about it, Glenn, overall is that we are doing on a customer basis. So when we -- Paul gave you the statistics earlier for the preferred rewards enrollments and things like that, so we are driving -- our priorities are to get our card used by our core customers and reward them for that who have other deeper relationships with the Company. So in a broad sense, we are getting paid through the NII line, as well as any other relationship they have, as well as the card income fee line that you see on deposit balances and other things, plus obviously the card balances.
+We've been pleased that we now have gotten through all the sales when you think about this quarter versus last year and so active accounts are moving up I think 2% or 3% or so. Year-over-year the active accounts are up, which shows the strategy is working. So while we make that investment you're talking about and that is part of the competitive dynamics, we feel good about the balances growing, so we are getting more NII from it, but importantly with our customers these are the best customers we have and so we're seeing their other aspects of relationship grow.
+
+Answer_11:
+
+    And again, strong risk-adjusted margins in that business, stable for us above 9%, charge-offs look great and as Brian said, we are standing at the higher end of the market.
+
+Answer_12:
+
+    Well, I think if you look at the page that showed the quarterly production in the Consumer section there, you can see I think it was three quarters -- last three quarters all over $20 billion in home mortgage loans and home equity loans. What you wouldn't know from the outside is, during the last year, we made a series of major changes in that business. We've consolidated internal platforms so we have one group, a fellow named Steve Boland who does a terrific job for us, delivering the product across all the businesses whether it's US trust, Merrill Lynch or the consumer business.
+In addition, we brought in servicing from third parties of our customers and we continue to do that. So even in a year where we've made tremendous transformations, you saw [$320 billion] plus. And so our view -- the team would tell me that the pipeline will be down because refinances are down and therefore expect less, but I think my view is that they should be able to continue to grow marketshare frankly because of the capacity that they were able to develop this year given those changes and still produce flow.
+That being said, it's a rate-sensitive product. So we've told you to think about the mortgage banking line as $300 million odd. It was a little higher this quarter just because of some of the dynamics, so it's a relatively modest line, but the production will be strong.
+
+Answer_13:
+
+    Look, we feel, as you point out, look, we feel really great about that business. It is performing very well. I would note the operating leverage we are getting, I would note, as you said, our discipline on risk and the reduction of VAR. So we have no complaints. We have a diversified product set that has a global geographic footprint. We have scale in every major market around the world and when you look at Global Banking and Global Markets together, I would argue that only three companies in the world can deliver what we can deliver for our clients and customers in every major market around the world.
+So there is tremendous opportunity there. We are not going to look exactly like every competitor every quarter. We have often said that when things are great, we might not be as high, but when things aren't so good, we are not going to be as low. So we feel great about it, but we think there's lots of opportunity and we would expect continued performance in that business.
+
+Answer_14:
+
+    Well, I'm not sure I understand the question. In terms of -- so let's just talk about it a bit. In terms of the allocation of capital, that's a process we go through once a year. We look at a number of different metrics, advanced approach, standardized approach, SLR. We look at internal models, economic capital and we arrive at what we think is the right amount of capital to give to our businesses based upon their business operations and risk. Remember, we've got $500 billion of operational risk capital that was assigned to us by the regulators. From my perspective, personal perspective, most of that is for businesses that we're no longer in, products that we no longer sell, risk that we no longer take. So a big chunk of that sits in all other and wouldn't really be appropriate to push it from a segment standpoint out to the businesses because they are not really using that risk capital.
+So is that what you are looking for or was there some other element of that question that I missed?
+
+Answer_15:
+
+    Look, we've made a lot of progress on CCAR. We've made -- the progress you are really seeing in the Company is lots of technical things we've done to be much better in CCAR in terms of improving how we do it, involving everybody in the Company, the qualitative aspects of it. I think from a quantitative standpoint, we've always looked like we've had enough capital. I think if you look at our stress losses relative to competitors, you can see responsible growth coming out in the Fed's models, not our models.
+So I think we feel really good quantitatively. I think we feel really good qualitatively. If you look at the stress capital buffer, that's not going to impact capital for us. We are probably -- we'd have to see how it all -- the rules -- this was a speech, so we don't really know what all the rules are going to say, but my guess is our stress capital buffer is below the minimum that would be required. So we feel like we are in a good position for CCAR 2017. We don't know what the scenario is yet. We don't know what the rules are, so there's a lot still changing, but we feel really good about the progress we've made and certainly our cushion from a quantitative standpoint.
+
+Answer_16:
+
+    I don't think you should anticipate any changes. We haven't changed since rates started rising. We feel good about the way we are. We are very focused on  our balance sheet deposits come in. That's what really drives the size of the balance sheet, deposits come in and the question is, within our risk framework, can we put those deposits to work with our customers and clients around the world. If we can, we put it to work within our risk framework. If we can't, it goes into some other place, either cash or the investment portfolio.
+
+Answer_17:
+
+    We are always balancing liquidity, earnings and capital, but we are not really sitting there every quarter figuring out what the most optimum duration is for us.
+
+Answer_18:
+
+    We are in very good shape.
+
+Answer_19:
+
+    Yes, but LCR isn't just cash. LCR includes highly -- lots of different securities go into the LCR calculation.
+
+Answer_20:
+
+    Betsy, to make it simple, the excess of cash coming in over loan growth goes half into mortgage-backed securities and half into treasuries at this point and the duration of what we do on the treasuries will be a little bit based on where we think rates are going and stuff like that. But it's driven -- just it goes into those two things because we have -- once we fund the loan balances, that's where it goes.
+
+Answer_21:
+
+    We are not trying to hold more cash than we need.
+
+Answer_22:
+
+    Yes, sure. So as I think Brian mentioned and I mentioned, we took the GSIB buffer down 50 basis points. It's at 9.5%, again compared to 10.8% on a fully phased-in basis. So that's 130 basis points of cushion at this point. We got there through things like reducing derivative notionals through riskless trade compressions. We got there by lowering level three assets, as well as overall optimization as the rules became a little bit more clear. So we've been working at this for some time. You've asked on other calls, I think other people have asked, we haven't really wanted to declare where we were, but now we've got to the end of the year. This is when the calculation really matters so we thought it was important to disclose that progress.
+I would also say that Global Markets, it's going to be up and down in any given quarter. The ending balances in the third quarter were up. They were a little bit less than the end of the fourth quarter just on client activity.
+
+Answer_23:
+
+    Well, Marty, we saw $50 billion odd of deposit growth year-over-year. Consumer business was the lion's share of that. To give you a sense, fourth quarter 2015 to fourth quarter 2016, checking balance in the Consumer business grew 12%. So the growth is strong and as you said, we expect to maintain pricing discipline in the Company. Obviously those are not interest-bearing, but on the interest-bearing side and you have seen that so far as the first rate move happened last year.
+In terms of deploying the economy, we made $20 billion more loans and we will continue to drive the economy and if we can't, we'll invest in mortgage-backed securities and things like that. So we are able to fund easily all the loan demand that we think is responsible to take on. In the fourth quarter, we saw loan growth and our commercial business picked up draws online stated at a high level and loan growth in the middle-market business was strong in the fourth quarter and we are looking for more of that in our small business. So you are exactly right. We are deploying it in the economy. There is not a lot of -- they are growing faster than loans and we believe that we can price with discipline.
+
+Answer_24:
+
+    Sure. So the hedge ineffectiveness was $168 million in the quarter, a negative obviously. And in terms of the other -- you are talking about the other income line, so --.
+
+Answer_25:
+
+    The other fee income. So that last quarter -- let me give you a sense. Last quarter, we had I think some -- that line is going to bounce around a little bit. Let me start with that. But the last quarter, we had some positive impacts in that line from loans related to our FEO portfolio. This quarter, it was negatively impacted by the UK PPI provision. That was $132 million and that's non-tax-deductible. So if you adjust for those two items, we would be around $300 million and I would say that's probably a good base for you to think about if you are modeling.
+
+Answer_26:
+
+    So thank you, Mike, for noticing the improvement because we feel really good about all the progress we've made. As you point out, earnings are up year-over-year on 15% and that's on a very significant earning base of $18 billion. We need to get our capital down. We are returning more capital to shareholders. That's going to help. We need to continue to grow. So we feel really good about the progress that we have made.
+Our return on assets metric is tracking in the right direction. Our return on tangible common equity metric is tracking in the right direction. So we will just have to wait and see. I think we get there even without a rate rise eventually, but certainly a rate rise is going to help.
+
+Answer_27:
+
+    Mike, a couple things. One is, if you look across the last three quarters, the return on tangible common equity was 10.5%, 10.28% and 9.92% and you have a fourth-quarter seasonal decline in trading. So it will pick back up in the first quarter and we look forward to that going back up. And on the efficiency, we've set the goal for $53 billion in expenses and with the rate increases, we will continue to drive that down and if you look through the year-over-year, it was down from 70 into 66 and the last couple of quarters have grown sub 65, around 65 and we will continue to move from there.
+
+Answer_28:
+
+    Well, the ATMs are coming down largely because, as you reduce branches, there's one or two and then third-party ATMs in places that aren't very efficient, so they will continue to wind down. So I wouldn't necessarily focus on that as being a separate question as we build them out. But if you think about -- on the branch, we're down -- for the year, we had 179 that closed, but we also renovated 205, put out 34 new ones. So we are continuing to invest; yet there is a steady downdraft in the total branch count. So we ended the year at 4,500, almost 4,579 so we will continue to work that count down again based on how the customer flows go. These are critical to serve the customers and so we end up as larger branches and smaller branches that are being folded in and we will continue to do that.
+
+Answer_29:
+
+    I think as you think about that number, Mike, focus on the active mobile users because that's going to be the interplay here. Active mobile users are up 16% year-over-year. On a big base, we grew active mobile users more than we grew in 2015 and deposit transactions are now 19% -- mobile deposit transactions are now 19% of all deposit transactions. That's the equivalent of 880 financial centers.
+So on the one hand, that says maybe you can optimize a little more, but, on the other hand, as I said in the lead-in, we still have a million people, almost a million people coming into the branch every day and they need that channel, they need it to transact, some of them, but a lot of them come in for advice and we want them to do that. So we need a certain footprint of financial centers.
+I think Brian alluded to the fact that we are adding financial centers all around the country, in certain markets around the country. So it's going to ebb and flow.
+
+Answer_30:
+
+    I think there was volatility this year around it just on the announced vote and things like earlier in the year. That was one of the events that I referenced. The nice thing is the balance in this business when you think about it. So it's balanced by product, it's balanced by geography. So when one thing goes -- if something else is going [well], we pick it up. So I'm not overly worried about -- we've got to get Brexit right as our Company and the industry and everything and there's a lot of discussion about that, but in terms of an impact on the trading revenue on a given day, it will ebb and flow and we will get through it. But the good news is, is the United States strengthens in the first part of the year. We have seen a good normal first quarter developing and we've seen customer activity strong, all of which bodes well. So we will get through it.
+
+Answer_31:
+
+    What I'd reflect on is that, as you came through the summer into the fall through the election, you saw -- both on the consumer side and on the commercial side, you saw increasing optimism. On the consumer side, you saw a bit of an acceleration and spending coming into the fall. So just if you think about the middle-market business, as I said earlier, the revolver utilization is on the high end of where it has been the past several years at 40% plus and that group, which is our middle-market business, our commercial real estate business, etc., added about $4 billion worth of loans in quarter four. So all that really relates to greater business confidence. So I think we feel very good where business is staying and you get the same reports from the small business side.
+So as I go out and visit these clients, they are very optimistic. They think policies will be supportive of growth in their businesses and they are facing all the things that we face. Can they find the good employees, can they find the final demand, but I think overall the optimism is very strong. And we are seeing it translate into some loan balances. I think it still will play out into early next year.
+
+Answer_32:
+
+    So we've got marketshare of around 3.5% and we are originating in prime and super prime with average FICO scores at 771 and debt to income ratio is at all-time lows. And I know this isn't necessarily completely responsive to your question, but credit statistics here are phenomenal. I think in the quarter, our net charge-off ratio was 19 basis points. So we are able to grow that. We did grow it in the quarter well and we are able to grow it within our risk tolerance.
+Now the fourth quarter was a great quarter in auto. I think we have all seen the numbers and we are expecting that growth to continue. Assuming a modestly improving economy, we are expecting that growth to continue in the first and second quarter. I guess as guidance I would give you auto growth in mid to low single digits. By the way, I've just been corrected here. Our net charge-off ratio in the fourth quarter was 35 basis points, not 19, but still well, well within our risk tolerance for that product.
+
+Answer_33:
+
+    It presents a concern and you watch it carefully, but where we keep our business, how we view this business is it's a very high credit quality business. It hasn't affected us, as Paul just said, but we see it in the industry and it's obviously a concern, but there's always some seasonality to those recoveries and those statistics reported, but overall with our high -- our FICOs are 770-ish range, so it's not really -- it doesn't really affect us.
+
+Answer_34:
+
+    You have it right.
+
+Answer_35:
+
+    You have it right. Well, actually the only thing I would add is the process itself in terms of the scenarios and things like that, but we've had plenty of cushion, so unless they change grammatically, you've got it right.
+
+Answer_36:
+
+    Yes, so we balance sheet, I think to be precise, 78% this quarter and we generally balance sheet all of the jumbos. So then the question is, for conforming, how much do we do. I don't really have that in front of me. We are starting to do more conforming, but we are certainly not doing all of it. Maybe a good guess would be around half.
+
+Answer_37:
+
+    Hey, Paul, just to think about that a second, that credit quality as mortgages is so strong that frankly it's not worth getting the guarantees and things like that. We have the liquidity to fund them and it's obviously jumbos, but even on the conforming, the credit quality of ours is at the top end and I think the charge-off ratio was 3 basis points in the fourth quarter. So economic gets better at keeping the pace for the guarantee.
+
+Answer_38:
+
+    Yes, it's finished up and we're still working through the last part of the conversion, but it's basically in-house.
+
+Answer_39:
+
+    It's still good.
+
+Answer_40:
+
+    It's still good and we still target that and you are exactly right. Rate increases will go to the bottom line.
+
+Answer_41:
+
+    That was the transfer of servicing that we just talked about on the previous question.
+
+Answer_42:
+
+    It's a good question, but we transferred servicing at the end of the quarter. When you transfer servicing, you've got to redo all the bill pay and that's just a result of not getting all those bill pays done over the quarter. By now, we are probably 90% of the way through that problem. It's just a timing issue.
+
+Answer_43:
+
+    I think 30 plus day in mortgage was actually down $40 million I think.
+
+Answer_44:
+
+    Absent that issue.
+
+Answer_45:
+
+    I don't think we have specific guidance on that. Our marketshare -- we are growing our deposits faster than the market, therefore your marketshare is growing. Where it's coming from exactly, Nancy, just for historical perspective, because you've been around this Company, this industry for a long time, I had them check something, but from 2007 to today, effectively, the deposits per branch have doubled and the checking account numbers are basically flattish and up maybe a percent or something like that. So think about the dynamics of that in terms of profitability. So we feel very good about the growth in deposits year-over-year, 12% in checking and 10% overall. So it's coming from somewhere. I just don't know where exactly.
+
+Answer_46:
+
+    The answer would be yes because --.
+
+Answer_47:
+
+    Think about it, I think Paul said earlier that mobile sales are 20%-ish, but that means 80% are not mobile, therefore they are coming through other call centers and branches. So it's an integrated business system and [Tong] and [Dean] and the team working there have done a great job of optimizing that if you look at the chart and watch the cost per deposit continues to work its way down while there's growth and then additional salespeople. So it's coming. The year-over-year rise in mobile sales is actually faster obviously, but it's still only 20% of the contribution.
+
+Answer_48:
+
+    The other thing interesting, by the way, we are using -- a statistic I really like is we have digital appointments. So people come into the branch, but they don't just walk in now. They are coming in for an appointment that they've made over their smartphone. So that really helps us from an efficiency standpoint as well. If we can get people to do that, it's better for them and it's better for us.
+
+Answer_49:
+
+    I think if you think about it, there are a couple of dimensions. Obviously that dimension is well spoken about out there. You saw yesterday I think the House passed a couple cost benefit analysis type requirements for the SEC and the commodities things. So I think there will be a body of work that will go on to balance, let's make sure we understand the pluses and minuses of a lot of this stuff.
+But, in reality, if you think about our Company, we have maintained -- we invest a lot of talent and capabilities in people, in compliance and risk in 2010, 2011 and 2012 and it's been relatively flat, but the Company has shrunk around it, so it's become a higher percentage, but it's not -- we are able to now start to optimize that and make it better and so I think if we get that, that's terrific. That will help us even do more potentially, but even if we don't, there's optimization to come now that we've crested -- all the different things that have gone on in the industry.
+So first it was the work of just collecting the bad mortgage and stuff went up, but now you are optimizing more the way we manage risk in a systems environment and stuff like that. So I look forward -- that's what helps us give confidence for the future path on costs overall.
+
+Answer_50:
+
+    Yes, sure. That's a little earnings prep talking to our head of our middle markets business, our GCB business and our small business banking. They are telling me that they are definitely seeing more interest from CEOs to have meetings. A lot of engagement around 2017 and what the environment might be. Things are feeling a lot more optimistic to those bankers and it's not just talk. Late in the quarter, we actually did see an increase in loan balances that was I wouldn't call it a spike, but there was definitely an acceleration late in the quarter, particularly in middle market and to a lesser extent in business banking.
+
+Answer_51:
+
+    Yes, so we have $500 billion of operational RWA. I think our closest competitor has 400 and then I think Citi is probably at 3 something. So we were given more by the regulators based upon the history of the bank, the acquisitions we did and the losses that were historical. But, as you know, we've exited a lot of those products. Bank of America never had a risk profile. It was more the companies that we acquired. So it's a little bit arbitrary. There are models out there for calculating operational risk capital. Those models, they are the subject of a lot of debate if you follow the Basel committee process.
+So we are focused on trying to get that number down, but it's going to take a little while and we are going to need more clarity from the regulators on how they want to calculate a company's operational risk capital, but that's something that would be very helpful to us if new models were approved that were a little bit more rational in terms of looking at historical losses versus the current operations of a company.
+
+Answer_52:
+
+    Yes, I do. The total DTA -- guys, keep me honest here -- but I think will be $19 billion, but let me give you the number that matters probably if you are thinking about the future. We are not here sitting, predicting any tax change, but what really matters, if there is US tax change in the US, is I will use 2015. In 2015, we had over $20 billion of US profits, pretax profits. That's an important number. And then the other number that's important is, at year-end, our DTAs that would be repriced if the tax rate changed equaled approximately $7 billion.
+
+Answer_53:
+
+    So that was the last question. Let me close by closing up 2016. We had a 13% increase in net income for the year, 15% EPS. We had a good operating leverage with 1% revenue growth and 5% expense growth and we announced today that we increased our stock repurchase program another $1.8 billion. So that closes off a good year.
+As we look forward to 2017, we will just continue to do what we told you we are doing -- focus on responsible growth and we look forward to the benefits of a faster growing economy potentially and increasing rate. So thank you for your time and we look forward to next time.
+

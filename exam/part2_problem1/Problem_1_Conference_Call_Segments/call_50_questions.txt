@@ -1,0 +1,60 @@
+Question_1:
+
+    I have two. The first one, can you talk a little about early advertiser and publisher feedback from the LiveRail in-app mobile product, and what are some areas where you see potential for improvements to drive faster adoption? And then on the OpEx side, appreciate your tightening the range, can you help us at all on expeditions for headcount growth this year and what are the biggest areas you see investing in incremental employees this year?
+
+Question_2:
+
+    One for Sheryl and one for Mark. Sheryl, just wanted to ask you to talk a little bit more about big brands, give us a sense for what's working best in terms of products? And then also how penetrated do you think Facebook is now with some of the larger brands? And, Mark, what are the signals that you'll be looking for to tell you when it's the right time to ramp up the advertising on Instagram more? Thanks.
+
+Question_3:
+
+    I just had two quick ones. I was wondering, Mark, I think you mentioned you're seeing 1 billion searches per day on mobile. I was wondering if you could give us an update on your initiatives here. And also, when you think about Facebook as a microcosm of different applications, at some point is there a plan that we will be able to use this search functionality to go across all the different Facebook apps that we might have installed on our mobile devices?
+
+Question_4:
+
+    Maybe one for Mark and one for Sheryl. Mark, you talked about the family of apps at Facebook. As more and more people are consuming professional content, different verticals like news, sports, and video format on Facebook, how do you think about the use case for the consumption of that content inside the main Facebook app versus maybe an even separate app for more professional content long-term for Facebook? 
+And then for Sheryl, appreciate the color you gave us on the evolution of targeting on Facebook. Wanted to know, either qualitatively or quantitatively, if you could talk a little bit about the way those ads are performing as you continue to evolve the product set around targeting on Facebook and off, in particular around dynamic product ads and what that might mean for closing the loop longer term? Thanks so much, guys.
+
+Question_5:
+
+    Question for Dave and then maybe one for Mark or Sheryl. FX-adjusted ARPU growth this past quarter was about 35%, which is, by our math, about one-half of what it was last year. Within mobile, it was about 45%; that's about one-third of what it was last year. Other than tough comps, what else is driving the decline? Is it just Q1 seasonality getting more pronounced? Is there anything else? Who would have thought that maybe video advertising would have actually have had the opposite effect. 
+And then, maybe Mark or Sheryl, what's your experience so far with voiceover IP? What is the strategy over time? Is that something you can start charging for or -- either through maybe a subscription or is there another way of monetizing it? Thanks, guys.
+
+Question_6:
+
+    One question for Mark, one for Sheryl. Mark, there's just this explosion in these messaging platforms worldwide and you obviously bought into one. The growth has been greater than we would have expected and perhaps you, too. Has your thinking changed on the opportunity, or maybe the need, but really the opportunity to integrate WhatsApp and Facebook over the next couple of years because of the growth of WhatsApp to date? 
+And then, Sheryl, you mentioned some verticals that are doing well. I was wondering if I could ask about automotive and insurance, just a couple of verticals that have always been skewed very heavily towards TV advertising, and the question is whether they've really skewed up more now on Facebook given the autoplay video ad format? Thank you.
+
+Question_7:
+
+    Two questions, one for Mark and one for Dave. Mark, just going back to the video question again real quick, I'm wondering, given all the noise around over-the-top and long-form content, and given your push in video, I'm just curious as to whether or not you think Facebook can or should be a player in more studio content or professionally driven content? And then, Dave, for you, just in terms of CapEx, you gave guidance for this year, but again, given the ramp-up in video and search, how should we think about CapEx longer term relative to, either in absolute terms or maybe relative to revenue growth? Thanks.
+
+Question_8:
+
+    Two questions. One more on video. With the explosive ramp in video views over the last six months, could you discuss the video advertising ramp this year and then maybe talk about the video versus static ads within the Newsfeed? And then the other question would be, you referenced Facebook hitting 2 million active advertisers in the first quarter, and with over 30 million company pages, how should we think about the advertiser TAM for Facebook next year and over time? Thank you.
+
+Question_9:
+
+    Dave, maybe you could help us break down the 55% ad revenue growth a little bit between usage, are you increasing ad loads at all? Maybe you talk about the formats or is Instagram helping at all? Just a little granularity on that, or maybe it's just a format shift, but just help us understand what the key drivers are and how much room you still have to go on each of these things? Thank you.
+
+Question_10:
+
+    Just two quick questions. First, on the Newsfeed organic reach, and then Mark, one on Apple Watch and wearables. On the Newsfeed, you guys recently made tweaks to alter the algorithm in favor of friend-oriented content. And then, on the other hand, you're also moving towards hosting publisher content from New York Times and Buzzfeed and folks like that.  So how are you balancing out organic reach between these algorithm changes and then whether or not professional content is hosted inside of Facebook versus coming from a third-party website? 
+And then the second question is, Mark, how do you view the shift to wearables with smaller screens and shorter interactions? It looks like you guys have got most of the apps on the Apple Watch. Just wondering what you're doing to adapt to these new smaller screens? Thanks.
+
+Question_11:
+
+    Two more quick questions on video. Roughly what percentage of videos are currently monetized via ads? And where do you see it headed over time? And as you look at the early video ads on the platform, how is pricing comparing to other ad formats? Thanks.
+
+Question_12:
+
+    Mark, does the OpEx guide assume an Oculus product for consumers this calendar year and will the initial products focus on gaming or more on some of the experiences that you showed at F8 around non-gaming, like that Saturday Night Live demo? And then separately, beyond searching within Facebook, should we expect to see Facebook leverage its 2 million advertiser relationships against third-party search queries? For example, when a user searches on, say, Yahoo or maybe soon an Apple device, Facebook might tap its advertisers to provide relevant sponsored results? Thanks.
+
+Question_13:
+
+    Dave, I just wanted to return to I think Justin's question about the drivers behind ad growth. You mentioned gains made in relevance and quality and formats. Wondering if you could provide any quantitative color around ad engagement trends, clicks, shares, likes, or anything like that? And then, secondly, one quickly for Sheryl.  In your SMB discussions, wondering if you are ever asked to help facilitate transactions in that space or if that's an area of small business that you are interested in? Thank you.
+
+Question_14:
+
+    I had two. You've recently announced plans to enable longer form video content, as well as to allow those videos to be syndicated or distributed on third-party publishers. What, if any, initiatives do you have to help with this content, contributors and the publishers, to generate revenue from those videos? And then, secondly, on public content, what, if anything, are you doing to try to secure more unique public content that's potentially unique to Facebook from personalities and other sources? Thanks.
+

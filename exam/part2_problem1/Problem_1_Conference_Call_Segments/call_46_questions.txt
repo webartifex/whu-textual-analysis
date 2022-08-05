@@ -1,0 +1,69 @@
+Question_1:
+
+    I was just wondering, Mark or Sheryl, if you can share with us your vision of payments for Facebook, and how the Company might be able to play a role in reducing the friction that exists today when users are trying to engage in mobile e-commerce. And then the follow-up question was just going to be if you could share with us what inning do you think we are in, in terms of improving the relevancy of the ads that you are showing? Thank you.
+
+Question_2:
+
+    David, just wanted to ask you a little bit more about margins, in particular. If we look at this quarter, it looks like the incremental margins here are 78% or so. So, I was hoping you could drill down a little more just on the drivers within cost of revenues and how you are thinking about the sustainability of that going forward. 
+And is the 40% to 45% growth that you mentioned in non-GAAP OpEx, is that taking into account the acquisitions at all? Just thinking about how you can get to that level of spend given what you are starting the year. Thanks.
+
+Question_3:
+
+    I think for Mark, how do you think about the evolution of browser technology, HTML5, and development tools versus native apps? If you look two to three years out, do you think native apps could finally become less important for many use cases? Or, in other words, maybe you guys were not wrong when you tried HTML5, you were just too early. Thank you.
+
+Question_4:
+
+    Congratulations, David, on your future endeavors, as well. Mark, maybe a quick question for you about the way in which you think Facebook, and the various applications Facebook is developing also, move towards a communication ecosystem longer term. A big picture question on where the various applications go, the ones that are in the process of being acquired and the ones you are developing organically. 
+And then second question, to use the baseball analogy again, as you continue to take ad impressions out of the Facebook platform, wonder if we should think about where you get to longer term on a level of ad impressions that you think are the perfect mix for balancing engagement and monetization, and what inning we are in that process. Thanks.
+
+Question_5:
+
+    I wanted to ask a question about engagement. By one measure, DAU over MAU, it's at an all-time high. But no doubt you always have a body of last users. I'm wondering if you could share any color on what types of algorithm or product tweaks that you've made have yielded the most return or the greatest return in terms of re-engaging last users. And then, secondly, just quickly, any color you could provide on your estimate of the overlap of Instagram and Facebook users, perhaps based on the linking of those accounts. Thank you very much.
+
+Question_6:
+
+    First, David, let me add my congratulations on your success. And good luck with the future role. Mark, beyond games, do you see other categories of apps that are ramping? And do you need to see that or can games continue to be the primary driver of app install and app engagement ads? 
+And then, separately, on Graph Search, do you see the potential for more partnerships for Graph Search in terms of additional data sets and distributions partners? Or is this more go-it-along? And then, finally, maybe for Sheryl or David, can you just give us a sense on pricing trends on app install ads? Thanks.
+
+Question_7:
+
+    Just a small item. It looks like the Asia engagement metric, the MAU, was down sequentially, slightly. Was there something there that impacted that in Q1 or was there something competitive there you think might be impacting that part of the business, like the big mobile messaging services? Thanks.
+
+Question_8:
+
+    Congratulations, David. And best of luck in your new endeavors, as well. One question for David and one for Sheryl. 
+David, I just wondered if you could talk about your mix of impressions in terms of brand versus direct response. How has that changed this quarter versus prior quarters? And what else can be said about that split? 
+And then, secondly, for Sheryl, just wondered if you could give us a little more of an update on premium video ads. Specifically, I'm curious as to how those are sold. Are they sold on an impression basis or on a performance basis, or some hybrid of the two? 
+And then I know you don't give pricing by property, but is there a way to think about the premium or premium multiple of price that premium video ads would go for as compared to core News Feed ads? Thanks for any color on that.
+
+Question_9:
+
+    On those autoplay videos, as an average Facebook user, I've noticed them more and more in my News Feed, and I think they're really neat. I think all my friends love watching videos of my kids play basketball. The question I'd have for you is what have you seen internally in terms of engagement. I assume that since I'm seeing more, other people are too, and that users like having them in. But is there any way you could quantify or maybe talk broadly about the impact that's having on usage? Thank you.
+
+Question_10:
+
+    I have a couple questions. On the app installs, can you help us at all understand what -- I know you gave us the number of total apps, but maybe how that revenue as a percentage of total, how important it is to you? And then there's a lot of competitors targeting that market with new products. Maybe you could outline some of Facebook's competitive advantages in that market. 
+And then one for Dave. We will miss you. Maybe you could talk a little bit about maybe some things Facebook could do to offset some of the dilution from the acquisitions, if anything. Thank you.
+
+Question_11:
+
+    David, can you talk a little bit about the ad load during the quarter? We saw noticeable increases here in the holidays and through Q1 versus that 5% or 6% you mentioned back on the Q3 call. Is the new ad load we are seeing sustainable, do you think, going forward? 
+And, second, maybe Mark or Sheryl, can you just talk a little bit about timing for monetization of Instagram? Are there any thresholds, either in terms of users, user engagement, whatnot, before you can ramp that advertising, or advertise on that platform? I think, David, you were talking earlier about maybe reaching 1 billion, but I think that was a general comment. Thanks.
+
+Question_12:
+
+    The first one is, I wonder if there's any way we can generalize or correlate around the growth in mobile monetization with the shift to 4G LTE, and whether this could be a driver, as well, of improving monetization internationally, as those higher-speed networks are deployed in new markets. And then, secondly, regarding Nearby Friends, just wondering how you plan to tie that feature and data set into more of a commercialized local offering for businesses, whether that's geo targeting or other related services. Thank you.
+
+Question_13:
+
+    First of all, I was wondering, with regard to the WhatsApp acquisition, I was wondering if you could update us on the status, if the current situation with Russia poses any issues given the development team space there. And then, separately, I was wondering if you could talk Nielsen and the use of OCR with respect to advertisers' interest in using OCR tools. Do you find that that's making a difference at the present time in terms of brands spending money with you, in general?
+
+Question_14:
+
+    Just two quick questions. Facebook's on pace to represent around 20% of global display advertising or non search advertising in 2014. Do you view that as your addressable market? And, if so, what do you see as the potential market share you guys can capture relative to the -- I think, Sheryl, you said it is 23% mobile consumption, ex-China, globally today. 
+And then the second question is, there's been some press recently that Facebook is looking at building peer-to-peer money transfer services. Is that a market that you view as an opportunity? Would that fit into Messenger or potentially a standalone app? Thanks.
+
+Question_15:
+
+    Just wondered if you could discuss how Facebook's potential mobile ad network would provide additional value to advertisers than other existing mobile ad networks. And then just a second question for David. I don't know if you could help quantify what meaningfully lower year-over-year ad revenue growth is, or just give us a sense of how to think about it for modeling purposes. Thank you.
+

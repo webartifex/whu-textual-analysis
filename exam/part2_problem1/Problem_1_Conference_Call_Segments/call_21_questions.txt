@@ -1,0 +1,201 @@
+Question_1:
+
+    Good morning. A couple of follow-ups. I guess starting on the expenses, I appreciate the outlook on the legacy costs. As we think about kind of the All Other expenses that you pointed to of $13.3 billion, with some seasonal stuff this quarter, maybe you could just frame what we can expect for that level or for that bucket for 2013.
+
+Question_2:
+
+    Exactly. The $13.3 billion that you pointed to in the fourth quarter.
+
+Question_3:
+
+    Okay. So as we think about that $13.3 billion, I guess we could take out $600 million for New BAC, but was there other bulk or how much I guess of the seasonal stuff is there that maybe we should adjust for?
+
+Question_4:
+
+    Okay. And then just in terms of like underlying, call it, inflation or just normal investments, if we take that $13.3 billion 4Q to 4Q, would you expect that to be down, so you have kind of minus $600 million from additional BAC savings and there is always some offsets from inflation or investments? Do you think that net number will be down?
+
+Question_5:
+
+    Okay. And then just separately, if we look at the FICC revenue, a little bit weaker than maybe we have seen so far; although it is still early in the earnings process here. And I guess I noticed that the asset level in the trading book went up, the VAR doubles quarter-to-quarter and just wondering if there was anything unusual in terms of positioning that you would point to.
+
+Question_6:
+
+    Sorry, benefits meaning higher revenue?
+
+Question_7:
+
+    Okay, all right. Thank you.
+
+Question_8:
+
+    Hi, Bruce, does the goal of reducing the delinquents in LAS, the 150,000, does that include additional planned MSR sales that you might have in mind?
+
+Question_9:
+
+    Okay. And what kind of pace throughout the year would you expect for reducing that $3.1 billion LAS expense by your goal of $1 billion by the fourth quarter? Kind of steady throughout the year or is it lumpy?
+
+Question_10:
+
+    Okay. And then getting to Matt's question earlier, if we -- just a lot of moving parts on your expenses. If we look top of the house, trying to think about a jumping-off point for total BAC expenses that you start in the first quarter, it seems like you might be in the $17 billion ballpark with the stock option expense. Does that feel like the right area?
+
+Question_11:
+
+    Okay. And with the Fannie settlement this quarter, how should we think about the rep and warrant provisioning going forward here? Will you need to add on a quarterly basis to the rep and warrant provision?
+
+Question_12:
+
+    Okay. And then one last thing on NII. Was that a pretty clean number? Was there any impact from hedging or premium amortization in the NII number this quarter?
+
+Question_13:
+
+    Okay. And your guidance of the kind of $10.5 billion is the run rate you think for the next couple quarters and that is excluding any of that, right?
+
+Question_14:
+
+    Okay. Thanks.
+
+Question_15:
+
+    Thank you very much. Hey, guys, on your guidance for NII, which was really good, you talked about a steady -- I mean you can maintain that net interest margin at current levels. What about average earning assets? Do you think you can maintain your average earning assets at these levels or grow them?
+
+Question_16:
+
+    Okay. And then I have to ask one mortgage question. I asked the same question in the third quarter, but I think, Brian, you have been out in a lot of interviews talking about how much you like mortgage banking. But you still really are just going to be focused on retail. Am I correct? And on retail, are you focusing just on your own customers or will you be focusing on customers outside of your deposit mix or your customer base?
+
+Question_17:
+
+    Guys, thank you very much.
+
+Question_18:
+
+    Good morning. First one is a question on risk-weighted assets. On one of your slides, you show Basel 1 assets going actually up a little in the quarter, Basel 3 coming down. It is all in the net change in credit and other risk-weighted assets. And I am just curious what do you see on the credit side that drives that model enhancement? And the reason why I ask is it makes sense. Intuitively, it is just different to the tune of half, the Basel 1 to Basel 3 jump. It is different versus all the other big banks.
+
+Question_19:
+
+    That is super helpful. I think you just said it, but I just want to confirm. This happens on an annual basis. In other words, whether the balances come down on paydown, run-off, charge-off, whatever or credit improves, the models get updated on an annual basis and there is no permission process. In other words, this just happens in real-time?
+
+Question_20:
+
+    Okay, really appreciate it.
+
+Question_21:
+
+    Yes, that is super helpful. I appreciate all of that. Inside the average balance sheet, the securities yields went up 11 basis points in the quarter. Most banks are trending lower as things run off. This is part of your defending the NIM, so I get it. Just curious, is it just expanding a little bit on the duration curve? Just curious what you are doing on the asset side to help support those yields.
+
+Question_22:
+
+    Okay, thanks, Bruce. I appreciate it.
+
+Question_23:
+
+    Good morning, guys. With the capital ratios up significantly and credit quality getting better, the mortgage repurchase risk getting resolved over time, could you give us any thoughts in terms of how you are thinking about capital return for 2013? We have had a number of the other big banks -- JPMorgan, Wells, USB -- at least give us some insight in terms of how they are thinking about capital return for this year going into the CCAR and wondered if you would be willing to do the same? Thanks.
+
+Question_24:
+
+    Well, I mean you are already above the capital ratios that you need to be at, at least according to FSB guidelines. Now that you are generating -- continue to generate excess capital, is that something that you think you would like to return to shareholders over time or is that something that needs to be retained in the near term for safety and soundness reasons or till you get more litigation resolved? Or any thoughts in terms of the excess, above and beyond where you have indicated you sort of intend to run the Company?
+
+Question_25:
+
+    Okay, thanks. And then I guess my second question is just fairly technical. But when I look at what you have outlined in terms of reserve recapture, it looks like about $900 million in terms of loan-loss reserve, a $2.2 billion provision and $3.1 billion of charge-offs. But it looks like the loan-loss reserve itself dropped by about $2 billion from the third quarter. Can you reconcile that for me?
+
+Question_26:
+
+    Okay. And then that is not coming through the charge-off line?
+
+Question_27:
+
+    Okay. All right, thank you.
+
+Question_28:
+
+    Good morning. Thanks for taking the question. So a quick one following up actually on one of Ed's questions. And it is related to your capital levels and the SIFI buffer. Is there any view from your guys' perspective that you will intend to run with a buffer above the required 8.5% because many of your money center competitors are going to be running at the 9.5% level. So maybe either for funding market reasons or potentially competitive reasons, is it in your mindset or strategic vision that you might run a bit above that 8.5% level or is that the wrong way to think about it?
+
+Question_29:
+
+    Okay, that's fair. And then thinking about maybe the fact that you guys might be in the market to sell another chunk of MSRs or at least you hear about that through speculation from various sources. Is the idea behind that, we are at a point where that is not really a capital issue for you all anymore, right, because you are below the threshold from that perspective. So is it more about getting an opportunity to further eliminate and push down these legacy costs or is it that you just strategically don't view the business as very attractive and you just want to be out of it altogether? Can you help maybe give some color around that thought process?
+
+Question_30:
+
+    Cool. Thanks for that. And then last one, the $1 billion decline in mortgage costs, the legacy costs you guys provided from the $3.1 billion to the $2.1 billion by 4Q, just kind of curious about the starting point there. The $3.1 billion, I thought that included $0.3 billion of compensatory fees from this Fannie deal. So why is that the starting point rather than like $2.7 billion? Is there something in that $0.3 billion that is recurring or what is the deal there?
+
+Question_31:
+
+    Yes, well, clearly, it has been really tough to try to forecast how this would run down and you guys are clearly not alone in having challenges. Everybody in the industry I think has been struggling with that. So just was kind of curious whether or not there was something in there. Better to understand it. Thanks for giving the color.
+
+Question_32:
+
+    Good morning. A couple of other questions on mortgage. One is around the Fannie settlement. So now you will be originating through Fannie as you used to, regular way mortgages for the Home Loan section. I am wondering how fast you think you can get your marketshare back up as a result of that.
+
+Question_33:
+
+    Right. It is just that when you stopped originating through Fannie, the share came down rather sharply in a short period of time. So I was just wondering if, with higher throughput, you might be able to do more there.
+
+Question_34:
+
+    Right.
+
+Question_35:
+
+    Right. Okay. And then lastly on Home Loans, should we expect -- are you anticipating more reinvestment in the Home Loans group to drive that faster throughput or do you think you are at the investment spend that you want to make in that business?
+
+Question_36:
+
+    Good morning, guys. First question, on the credit card business, Brian, could you just give us some color about what is going on right there? I mean your numbers are not robust and I am wondering -- I know you have lost share there. What is being invested into that business?
+
+Question_37:
+
+    Okay. Secondly, Bruce, if you could just speak to the comp ratios in the Investment Bank and how you guys are trying to position yourself relative to your competition?
+
+Question_38:
+
+    Great, thank you.
+
+Question_39:
+
+    Hi, first just a follow-up. The FAS 91 amortization expense, what would have been the change in the securities yield and the margin if not for that looking third quarter to fourth quarter?
+
+Question_40:
+
+    Okay. Do you just know generally I mean because you margin was up; that is good, and the securities yield is up 11 basis points, but do you think it would have been down if not for that?
+
+Question_41:
+
+    Okay, that's fine. And then going to the mortgage putbacks, so the Fannie settlement, you got that done. It sounds like you are feeling better about the rep and warranty expense. I think I heard you say it might go from $300 million to $150 million per quarter. So I sense you are feeling better.
+I'm trying to reconcile that with what is taking place with the MBIA versus Countrywide court moves and correct my thinking if anything is wrong here, but I think it is an issue of Bank America success or liability or is Bank America responsible for Countrywide? And as of January 9 and 10, the oral arguments were completed, so I understand it is in the hands of Judge Bransten, the New York State Supreme Court and the motion says that Bank America is responsible for Countrywide and if so, I guess that could put the $8.5 billion private-label settlement at risk. So my question is could that $8.5 billion settlement be at risk? Do I understand what is happening in the court correctly? And what happens if the $8.5 billion private-label settlement does not go through?
+
+Question_42:
+
+    So we are really just talking private label at this point?
+
+Question_43:
+
+    So what is the significance of the decision by Judge Bransten and the New York State Supreme Court? There was a Wall Street Journal article on January 11, some other chatter saying that if this motion goes against you and you are deemed responsible for the legal liabilities of Countrywide then that could be a negative event for you. Do you agree with that?
+
+Question_44:
+
+    Okay, but for that, we should, you think we will hear next month as opposed to midyear?
+
+Question_45:
+
+    Okay. Just last question on that because I am just trying to -- how do we get our arms around that risk? That is really my question and so if you wanted to just give advice to somebody -- okay, here is the potential hit if things go wrong, what would be your answer to that or just is there no answer?
+
+Question_46:
+
+    Great. All right, thank you.
+
+Question_47:
+
+    Good morning. You guys have done a great job countering the net interest margin pressure obviously with managing your long-term debt down. And maybe it is too early to think about this, but obviously under orderly liquidation authority in Dodd-Frank, there is some provision for bail-in debt and I was wondering how you guys are thinking about that and how you might implement it over time.
+
+Question_48:
+
+    Okay, that's fair. Just one last question regarding expenses. Obviously, you have stuck with your guidance on the New BAC and you told us where you are along the path of getting to those goals and you have updated us on the LAS expense reduction initiatives as well, but you are also talking about reinvesting and specifically around mortgage origination, but I think more broadly as well because obviously you don't want to ignore revenue growth opportunities. How do we reconcile those things and how much reinvestment at this point should we expect to see of the New BAC $8 billion and of the LAS $10 billion?
+
+Question_49:
+
+    Okay, so you would encourage analysts to continue to bring those entire amounts to the bottom line by 2015?
+
+Question_50:
+
+    Okay, that's great. Thank you.
+

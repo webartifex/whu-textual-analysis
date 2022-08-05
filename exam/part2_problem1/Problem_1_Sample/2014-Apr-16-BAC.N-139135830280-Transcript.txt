@@ -1,0 +1,1093 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2014 Bank of America Corporation Earnings Conference Call
+04/16/2014 08:30 AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Brian Moynihan
+   BofA Merrill Lynch - CEO
+ * Bruce Thompson
+   Bank of America Corporation - CFO
+ * Lee McEntire
+   Bank of America Corporation - SVP, IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Thomas LeTrent
+   FBR & Co. - Analyst
+ * Paul Miller
+   FBR & Co. - Analyst
+ * Jonathan McDonald
+   Sanford Bernstein - Analyst
+ * Mike Mayo
+   CLSA - Analyst
+ * Nancy Bush
+   NAB Research - Analyst
+ * Glenn Schorr
+   ISI Group - Analyst
+ * Ken Usdin
+   Jefferies & Company - Analyst
+ * Guy Moszkowski
+   Autonomous Research - Analyst
+ * Matt O'Connor
+   Deutsche Bank - Analyst
+ * Betsy Graseck
+   Morgan Stanley - Analyst
+ * Marty Mosby
+   Guggenheim Securities LLC - Analyst
+ * Jim Mitchell
+   Buckingham Research - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good day, everyone, and welcome to today's program. (Operator Instructions).
+It is now my pleasure to turn the conference over to Mr. Lee McEntire. Please go ahead.
+
+--------------------------------------------------------------------------------
+Lee McEntire,  Bank of America Corporation - SVP, IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you. Good morning. Thanks for joining us on the web as well as the phone this morning.
+Before I turn the call over to the CEO, Brian Moynihan, and CFO, Bruce Thompson, let me just say that we may make some forward-looking statements. For details on those, I will refer you to our -- page 24 and 25 in our earnings deck material, on either the website or our SEC filings. And with that I will turn it over to Brian.
+
+--------------------------------------------------------------------------------
+Brian Moynihan,  BofA Merrill Lynch - CEO    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Lee. Good morning, everyone, and thank you for joining us to review the first-quarter results.
+As you can see from our numbers we report a loss this quarter. That lost reflects the cost of resolving more of our legacy mortgage issues as well as adding reserves primarily for previously disclosed legacy mortgage related matters.
+As disappointed as we are in the bottom line results, we are pleased to report that the businesses reported earnings at a level that allow us to substantially offset these losses. And also at the same time, we are able to still grow and improve our Basel III standardized regulatory capital ratio during the quarter.
+Bruce will take you through the particulars of our results. But first I wanted to spend a couple of minutes looking at the progress we continue to make across the customer groups that we serve.
+In particular, we added some slides to the appendix on pages 17 and 18, which highlight multiyear trends across our customer groups. Let me just touch on a few of those and connect them to our results.
+When you think about our broad consumer franchise for mass-market consumers, affluent and wealthy consumers, as we think about the mass-market group, the strategy in our retail segment has been to lower the cost of service while we improve our customer experience. We do that by continuing to optimize our delivery networks of all types in response to customer behavior changes.
+Banking centers and basic teller transactions continue to decline as customers move their business to mobile and online transactions. Yet we still have many millions of visits each week to our branches.
+But in the aggregate, our self-service channels of ATM, online and mobile transactions continue to grow. This quarter, more than 10% of all the deposit transactions that consumers make in our Company are now done through mobile devices as people effectively carry a branch in their pocket. This, coupled with other measures, allowed us to reduce our costs in our consumer banking business, 4% from last year's first quarter and allows us to continue to invest in other areas to further improve customer satisfaction and grow sales.
+On the preferred side of our consumer business where we serve mass affluent clients, we continue to invest in this group by adding sales specialists. We now have more than 6,500 sales specialists concentrated in the top banking centers. We also increased service associates to drive satisfaction to these clients as well.
+The end result when you put all the consumer business together is the segment is organic deposit growth of $23 billion from last year to a total of $535 billion in deposits. On the investment side of this general consumer client base, our Merrill Edge assets grew 21% from last year and when we put the segment together, the earnings in our consumer and business banking business improved 15% year over year to nearly $1.7 billion this quarter.
+As we move through the wealthy part of our consumer client base, in our wealth management business with US trust and Merrill Lynch, client balances again grew this quarter, now totaled over $2.4 trillion. This has driven record asset management fees in this segment and we are seeing growing demand from these customers for other banking products as loans and deposits continue to increase. This business made over $700 million after tax this quarter and had a pretax margin of more than 25% for the fifth consecutive quarter.
+We'll move to our Company side of our house, our commercial and corporate client base, we continue to retain our leadership position in investment banking fees with $1.5 billion in fees received this quarter. We also saw solid loan and deposit flows this quarter in these -- from our commercial customers. These activities drove a 6% increase in revenue in our global banking business from last year.
+In our global markets business, which serves investment clients, we earned $1.3 billion after tax as our top-tier sales and trading platforms generated over $4 billion in revenue this quarter. So we put it all together we have leadership positions that we continue to work on in each area and continue to see good momentum across the quarter. We are pleased also to be in a position to return capital to shareholders as we increase dividends in addition to our newly authorized share repurchase program.
+As usual, as we see each day each quarter remain focused on executing this strategy that connects the capabilities of this Company with as customers and shareholders for your benefit. With that, I want to turn it over to Bruce to cover the earnings results.
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Brian, and good morning, everyone. I am going to start on slide 2 and work through the first-quarter results.
+We did record a loss of $276 million, or $0.05 per diluted share this quarter. Driving the loss during the quarter was litigation expense of $6 billion, which cost us roughly $0.40 a share during the quarter. We recorded $3.6 billion in litigation expense for the previously announced FHFA settlement and we recorded another $2.4 billion primarily associated with the increase in reserves for previously disclosed legacy mortgage related matters.
+Revenue during the quarter on an FTE basis was $22.8 billion, which was $1.1 billion higher than the fourth quarter of 2013, but below the $23.4 billion we saw in the first quarter of 2013. On a linked-quarter basis, our revenues benefited from improved sales and trading results and asset management fees and were offset by lower net interest income as well as lower mortgage banking revenue.
+Compared to the prior-year period, revenue was down slightly on lower net interest income, mortgage revenue in sales and trading but did benefit from higher asset management fees. Total noninterest expense during the quarter was $22.2 billion, but did include $6 billion of litigation expense as well as $1 billion of retirement eligible incentive costs that we recognize during the first quarter of each year. If we exclude these items from both the first quarter periods for comparability of the underlying trends that we saw within the Company, expenses did improve by $1.2 billion, or 7% and were driven by lower LAS non-litigation costs as well as some of the new BAC improvements that we saw.
+Versus the fourth-quarter 2013, the slight increase in noninterest expense reflects increased revenue related compensation in our market business and was partially offset by the decline that we saw in our LAS non-litigation expense reductions. Provision for credit losses was $1 billion during the quarter, an increased $673 million versus the fourth quarter of 2013. In the first quarter this year, we released $379 million from our loan-loss reserves and that compares to a release of $1.2 billion in the fourth quarter of 2013.
+Before we move off of this slide, let me mention that we had a few other items in the quarter that in the aggregate benefited EPS by about $0.04 a share as higher equity and debt security gains, net DVA and the resolution of tax matters were positives and they were offset in part by the cost of retirement eligible incentives as well as the negative market-related impacts on our net interest income.
+One last point on FVO and DVA, this quarter and moving forward, we report the net impact of these two items as one net DVA valuation number for our derivatives and structured liabilities within our global markets business.
+On slide 3, you can see our period-end balance sheet increased from the end of 2013 as we grew both cash and securities in light of increasing liquidity requirements in our primary banking subsidiary. Ending loans declined $12 billion led by lower residential mortgages, principally within our discretionary loan portfolio as well as seasonal declines in credit card.
+Loans were up in our global banking segment, which I will cover in a bit. Period-end deposits were up $14 billion from the fourth quarter and are up year-over-year by more than $38 billion.
+Our tangible common equity ratio declined to 7% due to the increase in liquidity that I mentioned earlier. Tangible book value did increase slightly during the quarter and we repurchased 87 million shares for $1.4 billion, which completed our share repurchase program that we established at this time last year. Following our CCAR result, we announced a new $4 billion share repurchase plan as well as the intention to increase the quarterly common dividend to $0.05 a share in the second quarter of 2014.
+We move to slide 4, we look at our capital ratios under Basel III. Recall this is the first period reporting under Basel III transition which became effective January 1 of this year. Under the transition roles, our common equity Tier 1 capital was $151.6 billion, while our risk-weighted assets were $1.28 trillion, which resulted in a ratio of 11.8%.
+While there are no comparative reporting periods, we did provide pro forma fourth quarter of 2013 numbers to allow you to see the slight movement up in the ratio during the quarter. We do continue to provide our Basel III numbers on a fully phased-in basis as we have done in prior periods. The numbers in the chart reflect risk-weighted assets under the Standardized Approach with the common equity Tier 1 ratio improving to 9.3% and remaining above our 8.5% proposed minimum requirement in 2019.
+If we move to the advanced method, our CET1 ratio was 9.9% and was impacted by an increased level of risk-weighted assets related to operational risk, which were largely offset by reductions in other risk-weighted assets as well as the increase in capital. We move to supplementary leverage ratios, we estimate at the end of the first quarter of 2014, we exceed the recently updated US rules that apply in 2018. Once again, that would mean our bank holding company is above the 5% minimum and our primary banking subsidiaries, BANA and FIA, are both in excess of their 6% minimums.
+I also want to remind you that our Tier 1 capital and supplemental leverage ratios will benefit by approximately $2.9 billion in the second quarter of 2014, if we receive shareholder approval to amend our Series T preferred stock. One last item I want to note regarding capital in the first quarter of 2014, it includes the adjustment to capital allocations across our business line.
+We included a slide in the appendix that notes that the new allocation. As you look at that, you will see that the primary adjustments were allocating more capital to our global banking business, given the loan growth we have seen in that segment and to a lesser extent, increases in both our global markets as well as our global wealth management business. As a result of these changes, the amount of unallocated capital that tell that the parent declined from $16 billion to $5 billion at the end of the first quarter of 2014.
+If we move to slide 5, funding and liquidity, our global excess liquidity sources increased more than $50 billion to a record level of $427 billion as a result of seasonally strong deposit flows as well as some of the bank debt issuance that we did earlier in the quarter. Our total long-term debt of $255 billion was $5 billion higher than the fourth quarter of 2013. These figures do not include the $7.6 billion of debt issuance that settled on April 1 and was executed at more favorable spread than our existing debt footprint.
+That issuance has enabled us to maintain our strong excess liquidity position at the parent, despite the cash flows required by both scheduled debt maturities as well as recent litigation settlement. Our time to required funding remain very strong at 35 months with parent company liquidity unchanged at $95 billion.
+Moving forward, and as we consider the FHFA settlement, we would expect parent issuance to be below maturities as the focus evolves towards continued yield improvement following the past several years of sizable balance reductions within our debt footprint.
+If we move to slide 6 on net interest income, net interest income on a reported FTE basis was $10.3 billion, which was a decline of $700 million from the fourth quarter of 2013. That decline was driven by a swing of roughly $500 million associated with our market-related adjustments, or FAS 91. FAS 91 was approximately $300 million negative in the first quarter of 2014 compared to the $200 million benefit that we saw in the fourth quarter of 2013.
+The balance of the decline was largely due to two less interest accrual days in the first quarter of 2014 relative to the fourth quarter of 2013. Our net interest income, if we exclude those market-related adjustments, was $10.6 billion, once again down a little over $200 million from the fourth quarter of 2013. Other drivers in the quarter were lower average consumer balances and yields, which were largely offset by a reduction in long-term debt costs as well as continued declines in our deposit pricing.
+As a result of these net interest income impacts, as well as the higher earning assets, the net interest yield, once again adjusting for FAS 91, declined 3 basis points, 2.36% in the first quarter of 2014. As it relates to asset sensitivity in the balance sheet, we continue to remain poised to benefit from higher rates, particularly when the short end of the curve moves up. As we continue to manage our OCI sensitivity, we are also mindful of both liquidity and leverage rules.
+Our first-quarter 2014 increase in securities included shorter duration treasury securities instead of mortgage-backed securities and these treasury securities are much more LCR and OCI friendly, but do have lower yields. Given the continued growth that we have seen in our cash balances at central banks as we increase liquidity, we have adjusted our net interest yields to reflect the impact of adding these low yielding cash deposits once again at central banks into earning assets. This had no impact on net interest income but prior-period net interest yields have been adjusted to reflect the change.
+Given the added liquidity during the quarter, coupled with the average balance impact of seasonally lower consumer balances, we expect net interest income in the second quarter of 2014 may be slightly lower compared to this quarter's $10.6 billion level, excluding market-related adjustments, before moving up modestly throughout the second half of 2014.
+We move to our expense highlights on slide 7, noninterest expense was $22.2 billion in the first quarter of 2014 and once again included a $6 billion charge for litigation expense and a $1 billion cost for our retirement-eligible incentives. As previously mentioned, the $6 billion litigation expense did include the cost of the FHFA settlement as well as $2.4 billion in increased reserves associated with our previously disclosed the legacy mortgage-related matters.
+If we exclude the litigation and retirement eligible incentive costs, our total expenses were $15.2 billion and declined $1.2 billion from the first quarter of 2013 driven by lower LAS costs but were up roughly $200 million from the fourth quarter of 2013 on incentives related to improved sales and trading revenue. Legacy assets and servicing costs, ex-litigation of $1.6 billion declined more than $250 million from the fourth quarter of 2013. As you look at that $1.6 billion number, the savings we generated during the quarter were 40% of our targeted quarterly reductions that we have communicated to you previously.
+We continue to make progress on cost savings and as a result our expense program targets for both New BAC as well as LAS remain unchanged.
+Turning to slide 8, you can see our credit quality continued to improve again. Net charge-offs declined $194 million to $1.4 billion, or a 62 basis points net loss ratio. Delinquencies, a leading indicator of charge-offs, showed improvement again as well, and our first quarter of 2014 provision expense was $1.0 billion and we released approximately $400 million of reserves during the quarter.
+Looking forward, we would expect provision expense for the balance of the year to reflect both modest reductions in net charge-offs as well as reserve releases. Let's move to slide 9 and go through the different business segments, starting with consumer and business banking. Net income of nearly $1.7 billion in the first quarter of 2014 was up 15% from the first quarter of 2013.
+Lower expenses, higher service charges, a portfolio divestiture gain and lower credit costs all drove that improvement in the first quarter of 2013. Return on allocated capital within the segment remains very strong at 23% this quarter. As we reflect on customer activity during the quarter, mobile banking customers grew 19% from the first quarter of 2013 to 15 million customers and customer deposit transactions using these devices now represent 10% of all transactions.
+Average deposits of $535 billion are up organically $23 billion, or 5% compared to the first quarter of 2013 and our rates paid were reduced nearly in half to 7 basis points. Our brokerage assets surpassed $100 billion in the quarter and are up 21% year-over-year with the growth split fairly evenly between both increases in flows as well as valuations within the market.
+Our card issuance remains strong at 1 million new accounts in the first quarter of 2014, but our end-of-period balances are down seasonally from the fourth quarter of 2013. Importantly, our risk-adjusted margin remained above 9%. Overall, our credit quality within the segment remains strong as our net charge-offs declined versus both the linked-quarter period as well as the year-ago period.
+Provision expense was $812 million during the quarter. Net charge-offs improved $360 million from the year-ago quarter, and we released $69 million in reserves this quarter, which is $220 million less than the first quarter of last year and down $426 million from the fourth quarter of 2013.
+One litigation item to note before we move off the consumer results is the resolution we reached last week with the CFTB and the OCC on issues related to the marketing, sale and billing of credit card debt cancellation and ID theft protection products. This settlement included cash payments to both regulators and provides for redress to customers and was covered by reserves that had been established in prior periods.
+We move to slide 10, consumer real estate services, the higher loss in the quarter was driven by $5.8 billion of litigation within the segment. Let's first focus on the reported subsegment of home loans where we record the origination of consumer real estate.
+Our first mortgage retail originations of $8.9 billion were down 24% from the fourth quarter of 2013, in line with overall market demand and drove a 32% reduction in core production revenue as margins held relatively steady compared to the fourth quarter of 2013. We continued to reduce production staffing levels in the quarter, consistent with the volumes that we are seeing, but those expenses don't flow through the P&L immediately.
+Home equity originations of $2 billion were up from the fourth quarter of 2013 level. If we move to legacy assets and servicing subsegment, once again the driver here is the previously mentioned litigation costs. On litigation costs you saw the press release on March 26 regarding our settlement with FHFA, which identified the $6.3 billion payment and led to the $3.6 billion litigation charge this quarter.
+We are obviously pleased to have this matter put behind us. Within our earnings release we also included information regarding a settlement with FGIC and related parties on involved securitization trusts which resolves all outstanding litigation in rep and warranty claims on second lien loans for approximately $900 million to $950 million, depending on the final outcome of two of the remaining trusts -- two of the nine remaining trusts, excuse me.
+This settlement was covered by reserves that we had established in previous periods. The primary revenue component within the LAS subsegment, servicing revenue, declined $205 million versus the fourth quarter as the size of our servicing portfolio continues to decline as it aligns with our market share of production. And we also had less favorable MSR net hedge performance during the quarter.
+Also impacting revenue during the quarter was rep and warrant expense of $178 million, which increased by roughly $100 million from the fourth quarter of 2013, given the settlement during the quarter with FHFA. From a cost of servicing perspective, our 60-plus day delinquent loans were reduced by 15% to 277,000 units at the end of the first quarter of 2014. And once again, our LAS expense, ex-litigation, declined $262 million to $1.6 billion.
+We move to slide 11, global wealth and investment management, during the quarter, we achieved record revenue of $4.5 billion, which was up 3% from the first quarter of 2013 and 2% from the fourth quarter of 2013. The improvement was driven by record asset management fees during the quarter.
+Net income of $729 million was slightly higher than the first quarter of 2013, but was down modestly from the fourth quarter of 2013 as expense was 3% higher than both periods. Expense increased compared to both periods on higher revenue-related incentives increased volume-related costs as well as certain investments in technology. Notwithstanding those increases, our pretax margin remains strong, north of 25% for the fifth consecutive quarter.
+Our return on allocated capital was 25% but declined from prior period as the relative earnings stability was coupled with the increased capital allocations that I mentioned previously. Client engagement remains strong in the markets providing additional tailwind as our client balances increased $30 billion from the year-end 2013 to $2.4 trillion.
+Long-term AUM flows of $17.4 billion for the quarter were the second highest in our Company's history. Ending client loan balances of $120 billion reached record levels and are up 9% year over year.
+One other highlight I would like to mention is the core dated referral efforts that we are seeing across wealth management and the banking groups as we funded more than 300 Institutional Retirement plans worth more than $2.4 billion in client assets during the quarter.
+On slide 12, global banking, earnings during the quarter were $1.24 billion. Earnings compared to the first quarter of 2013 show a 6% improvement in revenue that were offset by higher expense.
+Investment banking fees for the quarter were $1.54 billion, consistent with what we saw during the first quarter of 2013, but 11% lower than the record level that we saw during the fourth quarter of 2013. We do believe for the second consecutive quarter this would rank us as a global leader in investment banking fees.
+The remaining revenue drivers in this business, treasury services and business lending, show very positive trends year-over-year across both our commercial as well as our corporate client base. You can see some of these metrics on page 26 of the supplemental information that we provide to you.
+Provision was up $116 million from the first quarter of 2013, driven by additions to our loan-loss reserves. The first quarter of 2014 included a build of $282 million versus a build of $81 million in the first quarter of 2013 and $434 million in the fourth quarter of 2013.
+The expense increase in the quarter of $186 million on a year-over-year basis relates to investments in technology for our global treasury services and lending platforms, additional client facing personnel and to a lesser degree, some litigation that we saw during the quarter within this segment. We look at the balance sheet, average loans are up $27.4 billion, or 11% compared to the first quarter of 2013 and are up $2.6 billion compared to the fourth quarter of 2013. The overall pace of growth that we are seeing has slowed from the past few quarters as pricing for loans is quite competitive and we have chosen returns over growth in certain cases.
+Return on allocated capital was 16% and is down from prior periods reflecting stable earnings that were more than offset by a 35% increase in allocated capital.
+We switch to global markets on slide 13, excluding net DVA, we earned $1.24 billion in the first quarter, which is in line with the first quarter of 2013 and up $893 million from the fourth quarter of 2013. Ex-DVA, sales and trading revenue was $4.1 billion, 1% lower than the first quarter of 2013, but 37% higher than the fourth quarter of 2013.
+Our FICC sales and trading revenue was down 2% compared to the first quarter of 2013, but we would note it would be down 15% after adjusting for a monoline write-down that we incurred in the first quarter of 2013. Our rates and currencies experienced declines for market volumes and lower volatility during the quarter. I would note that our FICC business did increase 42% over the fourth quarter of 2013.
+Equity sales and trading flat with the first quarter of 2013 and up 28% from the fourth quarter of 2013. Expenses were stable compared to the first quarter of 2013 and when we compare expenses to the fourth quarter of 2013, they increased $453 million on higher revenue-related expenses, after excluding litigation of $655 million that we recorded in the fourth quarter of 2013 within this segment.
+Our trading-related assets, on average, remain flat at $440 billion on a linked-quarter basis. Our return on allocated capital during the quarter was 16%, even after we consider a 13% increase in allocated capital.
+On slide 14 we show all other. Revenue was down $193 million from the fourth quarter of 2013 on lower net interest income, which was driven by the swing in market-related adjustments that I discussed earlier and was partially offset by higher equity investment gains which were driven by the final monetization of an investment. First-quarter 2014 expense includes the retirement-eligible incentive costs which are in line with last year but still drive the expense variance compared to the fourth quarter of 2013, and was partially offset by lower litigation costs.
+Provision benefit in the quarter was relatively flat to the fourth quarter of 2013 but did improve $385 million from the first quarter of 2013. Net charge-offs of $206 million improved $88 million from the fourth quarter of 2013, and $279 million in the first quarter of 2013.
+Our first quarter of 2014 results in this segment included $341 million reserve release compared to a release of $482 million in the fourth quarter and $235 million in the first quarter of 2013. During the quarter, our effective tax rate was impacted by our loss position. For the rest of 2014, we would expect an effective tax rate of approximately 31% absent any unusual items.
+We make a few comments before we open it up for questions. We obviously don't like to report a loss to shareholders but this quarter we achieved resolution of rulings around significant legacy matters -- FHFA, FGIC, CFTB and OCC as well as the positive court ruling on Bank of New York Mellon private-label securities matters, which is under appeal just to name a few.
+We established additional reserves to help address previously disclosed mortgage-related issues and we did that and still built our already strong Basel III standardized capital ratio. Our supplemental leverage ratios at both parent and banks are compliant well in advance of their 2018 implementation dates under the more stringent new rules.
+Our liquidity is at record levels and we are well positioned to meet the new LCR requirements. Asset quality is strong and improving. Our expense programs show good progress and most importantly, four of our five operating segments reported revenue and earnings that were essentially flat or higher than the prior year.
+In our fifth segment, legacy assets & servicing, we made progress on legacy issues. We drove down 60 day plus delinquent loans and our costs, excluding litigation, declined $1 billion from last year's first quarter.
+So as we move into the second quarter of this year, we feel that we are better positioned than we were coming into 2014. And with that, we will go ahead and open it up for questions.
+
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+    (Operator Instructions). Betsy Graseck, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Betsy Graseck,  Morgan Stanley - Analyst    [2]
+--------------------------------------------------------------------------------
+
+    Hi, good morning. A couple of questions. One on the litigation reserve build that you did in the quarter, you mentioned that the FGIC and the trust settlement were fully reserved for. So that means that none of the $2.4 billion increase in reserves in 1Q that you called out was for that settlement?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [3]
+--------------------------------------------------------------------------------
+
+    That's correct, Betsy. As we said, substantially all of the $2.4 billion related to a build in our litigation reserves for matters that we have disclosed previously.
+
+--------------------------------------------------------------------------------
+Betsy Graseck,  Morgan Stanley - Analyst    [4]
+--------------------------------------------------------------------------------
+
+    So I guess I am just wondering, if you could give us a sense or color as to what you are referring to there. It doesn't look like that went to the monolines or the PLS so is this something that is broadly mortgage related or is it something else? Given that it is such a large reserve build, does it suggest that there is another settlement on the near term?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [5]
+--------------------------------------------------------------------------------
+
+    You bring up a good point. It does not relate to the previously announced Article 77. It does not relate to the remaining monoline exposure, given that we settled the FGIC closure within the context of our reserve level, so it relates to other mortgage-related matters outside of those that we have disclosed previously.
+
+--------------------------------------------------------------------------------
+Betsy Graseck,  Morgan Stanley - Analyst    [6]
+--------------------------------------------------------------------------------
+
+    Okay.
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [7]
+--------------------------------------------------------------------------------
+
+    And I wouldn't interpret or necessarily assume that the build in the reserves suggest a settlement is eminent.
+
+--------------------------------------------------------------------------------
+Betsy Graseck,  Morgan Stanley - Analyst    [8]
+--------------------------------------------------------------------------------
+
+    Okay. Just moving to capital, on Basel III, you gave us some great information on the transitional to the fully phased in walk there in the appendix.
+I guess I am just wondering, you did narrow the gap between standardized and advanced by 30 bps. Could you run through how you did that in the quarter?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [9]
+--------------------------------------------------------------------------------
+
+    Sure, I think if you -- obviously, the numerator in both is the same and we saw during the quarter -- we saw improvements in OCI in the numerator and we saw some significant improvements in our threshold deductions. That numerator applies to both standardized as well as the advanced approaches.
+If you look at the standardized risk-weighted assets, the big driver down there, related to the reductions in our consumer real estate, both first mortgage as well as home-equity, is those portfolios reduced from longer dated assets. In addition, you had the seasonal decline within the card portfolio that helped, and that was moderated a little bit by the growth that we saw in commercial loans.
+So I think as you look at that Basel III standardized ratio, what was driving risk-weighted assets were actual reductions in exposure. There wasn't anything related to the models or assumptions that factored into that.
+If you move over to the advanced approach, where we reported at 9.9%, which was down a touch, the biggest change and we continue to work with and look to refine and take guidance that we are getting with respect to operational risk, the operational risk-weighted assets during the quarter as we continue to refine that, we're up about $50 billion and now represents almost 25% of our overall Basel III advanced risk-weighted assets. And I think as you look at relative to our peers, brings us -- puts us in line with where our peers are with that and we'll continue to refine and work through that in the future.
+
+--------------------------------------------------------------------------------
+Betsy Graseck,  Morgan Stanley - Analyst    [10]
+--------------------------------------------------------------------------------
+
+    Okay, that's great. Thanks for the color. Just lastly on expenses.
+You did show a nice reduction in core expenses. Could you speak to some of the things that have been hitting the headlines recently? Cuts in global markets, 5%, is this accurate?
+Is it part of New BAC, or is it more a normal course expense management? And then the branches are down 10% over the last two years. How much more optimization is there?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [11]
+--------------------------------------------------------------------------------
+
+    I'm sorry, Betsy, I missed the first part of your question on --
+
+--------------------------------------------------------------------------------
+Brian Moynihan,  BofA Merrill Lynch - CEO    [12]
+--------------------------------------------------------------------------------
+
+    On the global markets, the trimming that we did was announced as sort of the annual trimming that goes on. You remember we always are adding -- and we had, frankly, record hiring from schools this year coming in so we always are adjusting the head count to keep the expenses in line based on -- we are going to have a lot of new people joining us here as we get to the summer that we have already made offers to, and it is kind of the general vetting.
+So I wouldn't put that as anything other than day-to-day expense management and also just the natural turnover in the business. The second part, Bruce?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [13]
+--------------------------------------------------------------------------------
+
+    Yes, on branch optimization as we look at that, and I think you really get a sense for the progress within branch optimization when you flip to the Consumer and Business Banking segment. A chunk of that relates to new BAC, and you can see over the course of 12 months as we have taken the branches down by about 300 units, that has contributed to on a year-over-year basis the $180 million of expenses that we saw during the quarter.
+
+--------------------------------------------------------------------------------
+Brian Moynihan,  BofA Merrill Lynch - CEO    [14]
+--------------------------------------------------------------------------------
+
+    Betsy, so this is a long-term strategy, so whether it is New BAC or not, we will continue to optimize the platform. And what we show you back in the appendix slide is the mobile banking growth is pretty strong. So at the end of the day, if you look at it across the last 5 or 6 years we have more customers, a lot more deposits and a lot less cost structure as we reposition to meet the customers' changing uses of first computers then phones and the enhanced effect of the ATMs.
+So you should expect those techniques to continue. But be that as it may, we also still have 7, 7.5 million people come in our branches every week that are great opportunities to engage with customers that we also continue to see strong foot traffic. So we are manning this to meet those needs from both the people who come into the branch and the people who use the automated technique. And that is the challenge as we go forward.
+I think we have done a pretty good job of bringing them down and keeping the expenses moving with the customer flow.
+
+--------------------------------------------------------------------------------
+Betsy Graseck,  Morgan Stanley - Analyst    [15]
+--------------------------------------------------------------------------------
+
+    Right, but from here this branch level you think holds or you still have more work to do on pulling it down?
+
+--------------------------------------------------------------------------------
+Brian Moynihan,  BofA Merrill Lynch - CEO    [16]
+--------------------------------------------------------------------------------
+
+    We will adjust -- every month they keep looking at it and making adjustments as they look over multiple years in the future, but if you remember originally we said we would get around 5,000 out of New BAC. That was kind of a number we gave you and we are there.
+But also remember that what you define as a branch will change. We have these express branch formats where there are salespeople plus what we call ATAs, which are ATM machines that you can actually pull up -- work with tellers directly. It allows you to cash checks to penny, authenticate without your card to stick into the machine, the same things you do with a regular teller, and so it is all important to us.
+I think focusing on the numbers as opposed to the overall cost of the structure, all of the parts is and that is what I focus on. If you look at that, we continue to drive that down, taking all the costs of the whole infrastructure relative to the deposit base, that is down from -- it is down near 200 basis points.
+
+--------------------------------------------------------------------------------
+Betsy Graseck,  Morgan Stanley - Analyst    [17]
+--------------------------------------------------------------------------------
+
+    Got it. Thanks.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+
+    Glenn Schorr, ISI.
+
+--------------------------------------------------------------------------------
+Glenn Schorr,  ISI Group - Analyst    [19]
+--------------------------------------------------------------------------------
+
+    Thanks very much. Looking for a quick comment on the overall loan picture.
+There is always a lot of puts and takes, so the commercial side grew by 8% year over year. The consumer shrunk by 4.7%.
+A lot of that is run off. So can you just give a general comment on how you are feeling about loan growth, and then weave in there your commentary on the mortgage origination pipeline being up 23% in the first quarter. Thank you.
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [20]
+--------------------------------------------------------------------------------
+
+    Sure. The first is -- why don't we start -- if you start with the -- within the global banking segment, you saw loans relative to year end up about $2.5 billion and up more significantly than on a year-over-year basis.
+We say that we continue to see good loan demand within the commercial space. It is across both C&I as well as real estate, so we feel good about that.
+But as I did note that during the quarter, there were certain opportunities and things that we looked at that we did not do in that we very much have a focus not just on growing the loans but the returns that is generated from those loans. And going forward, you should expect to see us grow loans but we are going to be prudent and it needs to be at returns that makes sense and for those customers that we have good relationships with.
+If you move to the consumer side, as I did note, and you can see it when you look within the CSDB segment, that the majority of the loan reduction we saw in consumer was really three things. It was the payoff of first mortgage loans that were held for investment purpose within the investment portfolio; it was the continued reduction within the home equity business where we have about $3.5 billion of home equity loans that repay each quarter. Those tend to be older vintages, and we get back to the home equities that we are doing when I finish, and then the third was the overall card balances were down about $4 billion, which on a seasonal basis is what we would expect and we would look to see those card balances stabilize as we go throughout 2014.
+As it relates to new activity, we did note that the pipeline is up about 23%. What we saw was not materially different than others in the first month, two months of the quarter.
+Applications in volume were down with some of the weather, but we did see a pickup in that activity which led to, obviously, off of a low base, a 23% increase in the pipeline as we go into the second quarter. The other thing I would reference is if you look back, you can see that we have been able to increase and move up what we are doing on the home equity fronts where we have $2 billion of originations during the quarter.
+And I would just note from a credit quality perspective and what we are seeing there, those loan to values tend to be in the sixties with FICO scores deep into the 700s. So that area is providing an opportunity for us as well.
+
+--------------------------------------------------------------------------------
+Glenn Schorr,  ISI Group - Analyst    [21]
+--------------------------------------------------------------------------------
+
+    And summing it all up, I just -- I don't want to put words in your mouth but if you look at the net of up just 50 basis points for total loans year on year, it just sounds like it is better than that just because of the runoff and I just wanted to make sure that I get that specific comment.
+
+--------------------------------------------------------------------------------
+Brian Moynihan,  BofA Merrill Lynch - CEO    [22]
+--------------------------------------------------------------------------------
+
+    Especially in the consumer business, the runoff affects the overall numbers.
+
+--------------------------------------------------------------------------------
+Glenn Schorr,  ISI Group - Analyst    [23]
+--------------------------------------------------------------------------------
+
+    Okay.
+
+--------------------------------------------------------------------------------
+Brian Moynihan,  BofA Merrill Lynch - CEO    [24]
+--------------------------------------------------------------------------------
+
+    Because remember, we have still got the portfolios that we inherited from acquisitions that they are still running through the system.
+
+--------------------------------------------------------------------------------
+Glenn Schorr,  ISI Group - Analyst    [25]
+--------------------------------------------------------------------------------
+
+    Right. Follow up on the legal, you mentioned the first two were fully reserved for.
+The 2.4 adds to the reserve, where are we now in terms of the estimated losses above and beyond what you reserve for? In other words, I would think it could go down as you continue to add for the reserve.
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [26]
+--------------------------------------------------------------------------------
+
+    Are you referring to the range of possible loss that we disclose when we put the Q out?
+
+--------------------------------------------------------------------------------
+Glenn Schorr,  ISI Group - Analyst    [27]
+--------------------------------------------------------------------------------
+
+    Correct.
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [28]
+--------------------------------------------------------------------------------
+
+    Yes, I think we are working through and refining that. We don't put that out with earnings, we put it out when we file the 10-Q.
+But to your point, I don't think there is -- we obviously made progress with getting FHFA put behind us as well as FGIC and some other related matters. And we are working through where exactly that range of possible loss comes out, but hear your point.
+
+--------------------------------------------------------------------------------
+Glenn Schorr,  ISI Group - Analyst    [29]
+--------------------------------------------------------------------------------
+
+    Okay, appreciate it. And then last one on slide, I think it is 14.
+Just curious, the equity investment income, what is driving that? It seems to have a nice steady and upward trending slope.
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [30]
+--------------------------------------------------------------------------------
+
+    Yes, as we noted in the script, that we did complete the final monetization of an investment that was a decent chunk of that. So I would not expect to see those revenues at those levels going forward.
+
+--------------------------------------------------------------------------------
+Glenn Schorr,  ISI Group - Analyst    [31]
+--------------------------------------------------------------------------------
+
+    Okay, that's good for me. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+
+    Jonathan McDonald, Sanford Bernstein.
+
+--------------------------------------------------------------------------------
+Jonathan McDonald,  Sanford Bernstein - Analyst    [33]
+--------------------------------------------------------------------------------
+
+    Hi, Bruce, hi, I was wondering if -- just want to understand the dynamic of the net interest income outlook I guess in the second quarter. It is the increase in lower yielding liquidity on an average basis and that is going to push the NRI down a little bit.
+That overwhelms the day count. Is that what is happening in the second quarter?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [34]
+--------------------------------------------------------------------------------
+
+    Yes, keep in mind, you only pick up one day, Q1 to Q2, but I think you have a couple things, as I mentioned. You've got relative to the first quarter, you do have lower card balances given the seasonal bump that you see at year end that you carry a fair bit of during the first quarter.
+We did build up throughout the first quarter a significant amount of liquidity anticipation of those rules. That will contribute a little bit to the decline in the second quarter, and then as we solve for that, you would expect to see that move up, so nothing structural.
+We do have some seasonal stuff in the markets business that we do, that depresses things that touch in the second quarter. So as we said, it is obviously early in the quarter, but we are expecting a slight decline but then we would expect the trajectory to get back to the levels that we have previously talked about.
+
+--------------------------------------------------------------------------------
+Jonathan McDonald,  Sanford Bernstein - Analyst    [35]
+--------------------------------------------------------------------------------
+
+    Okay, and what is helping it grind higher beyond the second quarter, Bruce? Just as a reminder, what helps it grow in the third and fourth quarter and beyond?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [36]
+--------------------------------------------------------------------------------
+
+    Sure. I think, as you look at it, one of the things that we continue to work through is that the debt footprint will come down, although more modestly, but what we are seeing is as we look at the levels at which we raised debt going forward, the cost of that has come down significantly. So you have some pick up there.
+You obviously have some pick up with some of the loan growth that we are seeing within the commercial space. And we continue to take deposit pricing down as well, although we are down to levels that are harder to get much lower. And I do just want to remind you, John, I know you know this that as we give this guidance, it backs out and it excludes market-related impacts that come out of FAS 91.
+
+--------------------------------------------------------------------------------
+Jonathan McDonald,  Sanford Bernstein - Analyst    [37]
+--------------------------------------------------------------------------------
+
+    Okay, then on litigation expense, Bruce, with the big reserve build in the settlements this quarter, what is the outlook there? I know it is tough to forecast but should we assume that a few hundred million of litigation expense will persist for the next several quarters?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [38]
+--------------------------------------------------------------------------------
+
+    I think, John, I think you have to split between -- we continue to -- and I'd just remind, as you look at the litigation pipeline and you look at where we are, we have obviously gotten through the base rep and warrant with respect to the GSEs. We were able to get through and reach an agreement with FGIC, which is the fourth monoline settlement that we have, and then we are working through and the Article 77 case is going through a judicial process.
+So as we continued to reduce the number of outstanding litigation items that we have, that should obviously bode well for what I would characterize as the base litigation expense. That being said, I think we need to be realistic and you saw it this quarter that as it relates to the remaining couple of matters that we have disclosed, it can be lumpy and that it is just very hard to predict.
+But as we talked about in the presentation, during the quarter, we did have a pretty significant build as we continued to evaluate those positions as well as the discussions that we have that are parties to the litigation.
+
+--------------------------------------------------------------------------------
+Brian Moynihan,  BofA Merrill Lynch - CEO    [39]
+--------------------------------------------------------------------------------
+
+    John, I think the simple way -- if you think about things that -- litigation matters that sort of arrived after 2008/2009, the cost of those in the P&L is very modest. If anything it's sort of new -- these costs really relate to the stuff before the crisis and the [Bonner] cleanup.
+So your point about what would be the ongoing litigation costs would be much, much lower. But the question is the lumpiness Bruce refers to the transition we have got left on a few of these matters.
+
+--------------------------------------------------------------------------------
+Jonathan McDonald,  Sanford Bernstein - Analyst    [40]
+--------------------------------------------------------------------------------
+
+    Okay, and then, Bruce, just to clarify the provision commentary that you made, your outlook is for net charge-offs to grind lower modestly, and reserve release to continue, but probably at a smaller level than the 380 we saw this quarter.
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [41]
+--------------------------------------------------------------------------------
+
+    I think that is fair, John. It can bounce around in any one quarter, but I think the provision number broadly speaking is in line with what we would expect over the next couple quarters.
+
+--------------------------------------------------------------------------------
+Brian Moynihan,  BofA Merrill Lynch - CEO    [42]
+--------------------------------------------------------------------------------
+
+    So, John, one of the ways -- if you look at the supplemental material and the pages on the charge-off by product, you have got to remember that there is -- if you look at the credit card charge-offs, in US and domestic, they are down in the -- this quarter it was $700 million and a 3.75% charge-off rate. You're kind of hitting a place where the business is geared to have some amount of charge-offs and it is the way the business works, part of the cost of doing business through the credit costs.
+If you look outside that number, that is -- card charge-offs are like 80% of the charge-offs -- or 60%, 70% of charge-offs. And so they are going to be hard to get down a lot more. So there is work to do on mortgage charge-offs, home equity charge-offs, but if you look across the rest of the board, they are in pretty good shape.
+
+--------------------------------------------------------------------------------
+Jonathan McDonald,  Sanford Bernstein - Analyst    [43]
+--------------------------------------------------------------------------------
+
+    Okay, and last thing for me, just wondering if trading and fixed income in particular, do they have any notable sequential trends in the quarter? Did trading get better in March and early April as rate volatility started to pick up a little bit or anything like that?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [44]
+--------------------------------------------------------------------------------
+
+    I wouldn't highlight any real seasonality of note as it relates to drastic ups or downs throughout the quarter. The one piece that I would say that -- I think generally, rates in foreign exchange given where the market was and the fact that there was not a lot of volatility in the quarter was clearly negatively affected.
+And on the positive side, I would say that the overall credit trading businesses, whether it be loans, high-grade bond trading or high-yield bond trading, given market activity levels as well as our position from an underwriting perspective, were very strong during the quarter.
+
+--------------------------------------------------------------------------------
+Jonathan McDonald,  Sanford Bernstein - Analyst    [45]
+--------------------------------------------------------------------------------
+
+    Okay, thank you.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+
+    Paul Miller, FBR.
+
+--------------------------------------------------------------------------------
+Thomas LeTrent,  FBR & Co. - Analyst    [47]
+--------------------------------------------------------------------------------
+
+    Morning. This is actually Thomas LeTrent on behalf of Paul.
+Another sort of expense-themed question. There has obviously been an increased amount of regulatory scrutiny on MSR transfers. Can you [stretch] for me a little bit, whether if those transactions got delayed or pushed out if it would impact your ability to meet expense targets or just a little color there?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [48]
+--------------------------------------------------------------------------------
+
+    It's a very good question. What I would point out is, and if you go back to the fourth quarter of 2012, that was when we announced our significant MSR transfers and so as you look at where we are, as it relates to just pure MSR transfers, we are through the significant majority of what we would expect.
+We have got some cleanup in sparse smaller ones during the second, third and fourth quarters. We don't have any reason to believe, given they are small and who they are going to, that there will be a problem with the transfer. So we feel, and as it relates to getting to the expense targets with what is left to go, that will not be an issue for us.
+
+--------------------------------------------------------------------------------
+Thomas LeTrent,  FBR & Co. - Analyst    [49]
+--------------------------------------------------------------------------------
+
+    Okay. That's very helpful. Thank you very much.
+
+--------------------------------------------------------------------------------
+Operator    [50]
+--------------------------------------------------------------------------------
+
+    Ken Usdin, Jefferies.
+
+--------------------------------------------------------------------------------
+Ken Usdin,  Jefferies & Company - Analyst    [51]
+--------------------------------------------------------------------------------
+
+    Thanks. Good morning. I wanted to ask you about just operating leverage and, again, expense progress.
+So year-over-year, revenues plus or minus are down $1 billion and if I am looking at slide 7, I am looking at the core expenses were down a few hundred million and that is net of all the New BAC benefits. So can you talk to us about just the push and pull between the net BofA, the new BofA, New BAC reductions and then what cost inflation you are seeing, if any, underneath the core? And then as you look forward, just how we should expect that core line to interject, you know, the $13.6 billion excluding the retirement eligible?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [52]
+--------------------------------------------------------------------------------
+
+    Sure. Well, let me answer the last part of your question first, which is we would expect the core trajectory to trend down as we go throughout 2014.
+When you look at the -- and if you are looking on slide 7 and we compare the $13.8 billion to $13.6 billion, let me just consider and give you a couple numbers that affected that core. During the first quarter of 2014, as we continue to reduce headcount, we incurred over $100 million in severance expense on both an absolute basis as well as a year-over-year basis within those numbers, so you had $100 million to the negative there.
+The second thing is, and as we disclosed, we have been investing within corporate banking, cash management salespeople to a lesser extent, capital markets people and some of the technology that goes along with that. And we think as we look going forward we are through a lot of that investment but as I referenced in my comments, I would ask you to flip back up to page 26 because we are seeing the benefit from revenue growth from those investments and we would obviously expect those to moderate going forward.
+The other couple things that I would note there is if you look at, within the wealth management business, you need to consider within that area that we did have a $200 million-plus increase in revenue from asset management fees. So there is obviously compensation that goes out with that as well as some of the technology dollars that were spent for our Merrill One project that we have rolled out within the wealth management area.
+So I would just say as you look at that $200 million, the benefit from New BAC was clearly on a year-over-year, much more significant from that. But we are investing in the areas where we think and where we are seeing revenue growth. And we would obviously expect those investments, given that they have been made and are generating the revenues that you would expect those to moderate going forward.
+
+--------------------------------------------------------------------------------
+Ken Usdin,  Jefferies & Company - Analyst    [53]
+--------------------------------------------------------------------------------
+
+    Thanks, Bruce. And as just a follow-up to that, then, we are going to continue to see improvements to get to that $2 billion New BAC level by mid next year, but given what you anticipate on the revenue side, do you feel that that is enough to get you where you want to go in terms of profitability improvement or is there anything you can contemplate or need to contemplate as far as finding other incremental ways to fund those investments or drive more to the bottom line?
+
+--------------------------------------------------------------------------------
+Brian Moynihan,  BofA Merrill Lynch - CEO    [54]
+--------------------------------------------------------------------------------
+
+    Obviously we continue to look at that and we will continue -- we started after this -- as you know, in 2011, and so if you go back -- I think we had $80 billion-odd expenses when we started this thing and so we had been driving this down year after year after year but that doesn't mean it stops with New BAC. It's just the challenge inherent in the slow growth environment is how to manage the relative investment rate, expense growth rate versus revenue growth rate.
+And so that is something we as management continue to have to focus on. But if you think about the $13.6 billion and think about continuing to make some improvement against it and annualize that, add back whatever the $1 billion to the one-time retirement costs and then some litigation, you start to get into levels that we think are consistent with the earnings -- sort of restoring the normalized earnings pool.
+The question is -- and you are right, is that we have got to make sure that the investments we make are yielding the revenue benefits and we have got to keep the total expenses overall net. That is what we're up to.
+And I think the way to think about that is look at 3,500 more employees, headcount reduction this quarter and you will continue to see that work its way down. That is a leading indicator what is going to happen next quarter because those employees -- that is a spot-to-spot number went out there in the quarter but they are still in the payroll for the quarter.
+
+--------------------------------------------------------------------------------
+Ken Usdin,  Jefferies & Company - Analyst    [55]
+--------------------------------------------------------------------------------
+
+    Got it. One last one, just card income and service charges, a lot of other banks have been seeing weakness there, partially weather, partially regulatory, partial pricing changes. Anything that you guys are seeing or anticipate seeing on any of those fronts looking ahead?
+
+--------------------------------------------------------------------------------
+Brian Moynihan,  BofA Merrill Lynch - CEO    [56]
+--------------------------------------------------------------------------------
+
+    If you think about the longer-term trend there as we had a big change in terms of fee structures in the consumer business broadly going back a few years ago and you kind of came through all that and that affected, what has happened now is if you just look at our card activity, our purchases on our cards are up by 5% or so quarter to -- last year to this quarter -- first quarter last year, fourth quarter this year. So we continue to see better than market growth in the activity levels that the general spending levels and things like that which helps on the interchange.
+Once we got off sort of the reductions that were due to the change, interchange rule. And so I think it will keep grinding forward based on just general activity but most of the real downdraft came out in 2011/2012, early 2013 timeframe.
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [57]
+--------------------------------------------------------------------------------
+
+    The other point, too, is if you look at within the consumer business we actually saw service charges during the quarter were up about 3% on a year-over-year basis. So some of the card income tends to be seasonally higher in the fourth quarter. It drops in the first quarter then builds backup, but within the consumer space we were pleased with what we saw on the service charge line during the quarter.
+
+--------------------------------------------------------------------------------
+Brian Moynihan,  BofA Merrill Lynch - CEO    [58]
+--------------------------------------------------------------------------------
+
+    And so if you go back and look at 17, we have been producing from a sort of 700,000 to 800,000 run rate in new cards to 1 million-plus. And those cards are being used as a core card by the customers, and such driving up the pay rate's still high so the balances aren't moving much but the activity underneath is moving.
+And we are still replacing some affinity portfolios that we sold and things like that. So our view is that the transactional behavior of our customers continues to grow and will benefit in some of the fee lines too.
+
+--------------------------------------------------------------------------------
+Ken Usdin,  Jefferies & Company - Analyst    [59]
+--------------------------------------------------------------------------------
+
+    Okay. Thanks very much.
+
+--------------------------------------------------------------------------------
+Operator    [60]
+--------------------------------------------------------------------------------
+
+    Mike Mayo, CLSA.
+
+--------------------------------------------------------------------------------
+Mike Mayo,  CLSA - Analyst    [61]
+--------------------------------------------------------------------------------
+
+    Good morning. First, just a couple follow-ups. How much of the New BAC savings were achieved by the end of the quarter?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [62]
+--------------------------------------------------------------------------------
+
+    You should look at relative to the $2 billion a quarter, we are in the $1.7 billion area.
+
+--------------------------------------------------------------------------------
+Mike Mayo,  CLSA - Analyst    [63]
+--------------------------------------------------------------------------------
+
+    All right, so you have $300 million per quarter to be achieved by mid-2015?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [64]
+--------------------------------------------------------------------------------
+
+    That's correct.
+
+--------------------------------------------------------------------------------
+Mike Mayo,  CLSA - Analyst    [65]
+--------------------------------------------------------------------------------
+
+    Okay, and then the LAS savings, you have another $500 million a quarter to be achieved by the end of the year?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [66]
+--------------------------------------------------------------------------------
+
+    That's correct.
+
+--------------------------------------------------------------------------------
+Mike Mayo,  CLSA - Analyst    [67]
+--------------------------------------------------------------------------------
+
+    All right, so $800 million total, quarterly expense savings we should expect over the next year or so. So should we expect all of that to hit the bottom line?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [68]
+--------------------------------------------------------------------------------
+
+    You should expect it to hit the bottom line with just the one caveat that to the extent that there are revenue-related things that have costs attached to them, that could moderate that reduction. But ultimately, that would be a positive to the pretax income line.
+
+--------------------------------------------------------------------------------
+Mike Mayo,  CLSA - Analyst    [69]
+--------------------------------------------------------------------------------
+
+    Okay. Do you have an efficiency target for the firm? I am just looking at page 3 of the supplement and the efficiency ratio is kind of thrown off by the charges and it has been in the 70%s the last few quarters.
+97.68%, I don't think you consider that your core efficiency ratio. But, so what do you consider your core efficiency ratio and where should it be and where do you hope to get -- when do you hope to get there?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [70]
+--------------------------------------------------------------------------------
+
+    I think if you go back and look at what we talked about in the fourth quarter, where we talked about where we would like to get to from an ROA, return on tangible common equity, and we talked about once rates starting to move up that as we looked out, if we look out at a couple years, that efficiency ratio should be in the high 50%s.
+
+--------------------------------------------------------------------------------
+Mike Mayo,  CLSA - Analyst    [71]
+--------------------------------------------------------------------------------
+
+    Okay, so do you have a specific timeframe for that or just when rates go up?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [72]
+--------------------------------------------------------------------------------
+
+    I think as we look at it, it is just the point in time that rates are up roughly 100 basis points across the curve. And, obviously, to the extent that we don't see rates move up, we are going to need to run harder on expenses to try to get it to the extent that the rate environment doesn't move up.
+
+--------------------------------------------------------------------------------
+Mike Mayo,  CLSA - Analyst    [73]
+--------------------------------------------------------------------------------
+
+    Shifting gears, the tax rate excluding the mortgage charge for the first quarter was what?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [74]
+--------------------------------------------------------------------------------
+
+    I believe it was roughly -- it was about 50% -- somewhere between 58% and 60%.
+
+--------------------------------------------------------------------------------
+Mike Mayo,  CLSA - Analyst    [75]
+--------------------------------------------------------------------------------
+
+    I'm sorry, the tax rate? You said the tax rate going ahead will be 31%. I am just trying to figure out what was the core tax rate for this quarter, excluding the charge?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [76]
+--------------------------------------------------------------------------------
+
+    It would be -- the core tax rate we project out and look out over the years, the core would have been 31%, but you always have a little bit of noise when you -- and obviously it was a pretax loss. But the discrete item always kind of overwhelm things in a low period, but the base rate from which you are starting from is a 31% and it was just a little bit skewed given what we saw from a pretax loss perspective.
+
+--------------------------------------------------------------------------------
+Mike Mayo,  CLSA - Analyst    [77]
+--------------------------------------------------------------------------------
+
+    Okay. You had record wealth management for the quarter and one of the online brokers recently said that the big brokerage firms are doing better. Do you -- how much do you attribute the record wealth management to the environment versus what you are doing versus it is better to be a big broker?
+
+--------------------------------------------------------------------------------
+Brian Moynihan,  BofA Merrill Lynch - CEO    [78]
+--------------------------------------------------------------------------------
+
+    I am not sure what the context of that is, Mike, but the net flows in the wealth management business were around $11 billion, $12 billion this quarter, which was $16 billion or $17 billion -- nearly $17 billion to $18 billion due to long-term flows and $6 billion of short-term liquidity flows out through net of around $12 billion. If you look in the Merrill Edge platform, which is more akin to the online type of thing, I think we had 80,000-plus new accounts this quarter.
+The assets continue to grow; it topped 100 billion daily average trades. Darts are up I think 25% to 30% year-over-year, and so it continues to progress and we continue to see good asset flows there, too. So big, small, large, traditional, all that's sort of blended together, we operated the core consolidated franchise, you are seeing good momentum on both sides.
+
+--------------------------------------------------------------------------------
+Mike Mayo,  CLSA - Analyst    [79]
+--------------------------------------------------------------------------------
+
+    You are allocating more capital to GWIM as well as global banking and global markets. Is that increased capital allocation due to regulatory capital changes or a deliberate move by you guys to invest more for growth in those segments?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [80]
+--------------------------------------------------------------------------------
+
+    Well, let me just start -- the allocation of capital is how we take the capital that we have at the Company and push it out to the businesses. I think you need to go segment by segment within that, Mike, I think the first is that as you look at the global banking segment and look at the allocation and what we have done, the first is on a year-over-year basis you had average loans up about $30 billion so there were more loan balances against which you need to allocate capital.
+The second thing that I would say is as you look at that segment and you consider Basel III standardized ratios, they tend to risk weight almost all commercial loans at 100%, regardless of what the models would suggest they should be risk-weighted at. So I think the combination of the loan growth, along with some of the impacts from regulatory capital led us to increase what we did with respect to global banking.
+Within global wealth management, as you go back and refine operational loss models and assign operational risk capital, that was topped up as well as reflecting the fact that within the wealth management business that we have seen loan growth within that segment. So there was additional monies allocated there.
+And then as we look at, and just continue to refine and look at both comparables as well as asset mix we thought it was prudent to increase modestly what we saw within global markets. And as I said in my comments, when you consider it in the aggregate and we look at where we are at relative to peers, we have got virtually all of our capital at this point pushed out to the different businesses which is the way it should be.
+
+--------------------------------------------------------------------------------
+Mike Mayo,  CLSA - Analyst    [81]
+--------------------------------------------------------------------------------
+
+    I agree, so it sounds like it is partly business growth and partly regulatory related and partly a desire simply to have less unallocated capital?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [82]
+--------------------------------------------------------------------------------
+
+    I think the last one is what you have got to keep focused on.
+
+--------------------------------------------------------------------------------
+Mike Mayo,  CLSA - Analyst    [83]
+--------------------------------------------------------------------------------
+
+    Okay, and then lastly, the Bank of New York ruling was good; I did not expect that, but you still had a $6 billion charge this quarter and another $2.4 billion extra charge in the last 15 work days since the FHFA amount was announced. And I know you have had several questions on the call, but what is left as far as potential legal charges because it seems just so lumpy and within just a few weeks you could have another $2.4 billion charge, seemingly out of the blue for some of us. What is left?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [84]
+--------------------------------------------------------------------------------
+
+    I think when you look at it, as I commented, I think we give fairly fulsome disclosure in the 10-K as it relates to the matters that are out there. And when you look at the matters and compare where we are now to what is out there, that obviously from the K that FHFA was resolved and that was the $3.6 billion number we mentioned.
+You have seen resolutions during the quarter from an Allstate RMBS perspective. You saw resolution of force-placed insurance, you saw CFTB, OCC. And you saw the deal that we completed and announced with FGIC today.
+So as you work through and look at those matters, it largely with what's disclosed leaves you with respect to one monoline. And then in addition to the monoline the other remaining legacy mortgage-related matters that we put out in our disclosure.
+
+--------------------------------------------------------------------------------
+Mike Mayo,  CLSA - Analyst    [85]
+--------------------------------------------------------------------------------
+
+    All right, thank you.
+
+--------------------------------------------------------------------------------
+Operator    [86]
+--------------------------------------------------------------------------------
+
+    Guy Moszkowski, Autonomous Research.
+
+--------------------------------------------------------------------------------
+Guy Moszkowski,  Autonomous Research - Analyst    [87]
+--------------------------------------------------------------------------------
+
+    Thanks very much. Good morning.
+Let me just start out by saying on the litigation front I actually thought it was very good that you have provided now for a bunch of the issues that are actually still pretty visible out there, so that is just a thank you for having done that. I have a question for you on the control environment costs.
+Some of your competitors, JPMorgan and Citi, have spoken to billion dollar type numbers for increased control environment cost in the wake of CCAR issues over the last few years and obviously all of the heightened scrutiny. I was wondering if you could give us a sense for what your control cost increase has been over the last year or two?
+
+--------------------------------------------------------------------------------
+Brian Moynihan,  BofA Merrill Lynch - CEO    [88]
+--------------------------------------------------------------------------------
+
+    I didn't give you a number. Let me give you a way to think about it.
+In our environment, coming out of the extreme issues in 2008 and 2009, we built a lot of personnel and headcount to get after this stuff and we are still finishing up the cleanup. And so if you look in the expense base, a lot of that has been in expense base for a couple of years. And then so if you think about something like our audit team, we doubled the size of our audit team in probably 2010 and it has been held fairly constant against that.
+Against the backdrop we probably divested tens of businesses. And the rest of the headcount in the Company has come down fairly dramatically from a high of around 305,000, I think.
+So the amount of control environment relative to the total cost structure has gone up. But the raw numbers haven't gone up as dramatically because, frankly, we've put them back, just a lot of men, in the 2010/2011 timeframe.
+So, it is our duty to get it right, it is our duty to keep working on it and make sure that we get these things wrestled to the ground. But one of the key ways that we are doing this is by focusing the scope of the Company.
+So the force-placed -- or excuse me, the products settlement this quarter, we quit offering those products a while ago, it just took a while with the OCC and the consumer bureau to finish up the negotiations and finish up the rebate. We have been sending money back to customers but we quit offering the product as an example.
+And so the idea of narrowing the products set, narrowing the geographic scope of the Company, making the Company a lot less complex; we will always be big, but we make ourselves less complex. But against that, a growing -- a strong growth in the controlled cost in the 2009, 2010, 2011 timeframe and then a flattening of that but relative to a smaller company is actually an increase.
+
+--------------------------------------------------------------------------------
+Guy Moszkowski,  Autonomous Research - Analyst    [89]
+--------------------------------------------------------------------------------
+
+    Thanks. That's helpful color, certainly in terms of thinking about the timing. You did allude to some increase in technology investment in GWIM and obviously the margin they are contracted a little bit. Maybe you can give us a little bit of a sense for what this -- I think you alluded to Merrill One?
+
+--------------------------------------------------------------------------------
+Brian Moynihan,  BofA Merrill Lynch - CEO    [90]
+--------------------------------------------------------------------------------
+
+    Well, Merrill One is a new product they brought out and it has been successful. And like anything else, you put the product out there, you spend all the money to put the product together and then the assets come on it.
+And so we are feeling good about that tens of billions of dollars of assets that moved to the platform. It is a good platform for customers and for the advisors.
+I think more broadly, I talk about technology, if you look at the expenses we had going back after the crisis, we saw the Merrill transition expenses and all in we were spending around $3 billion on technology development a year. We now spend about $3.5 billion and obviously the transition expenses are out of there.
+So everything we are spending is to better the platform, better the business, invest in the growth. And again, some of your questions about costs, that number I don't expect to change going forward because it takes that kind of technology investment to drive the product capabilities of our Company, Merrill One being one product this quarter, along with a new card system, and new trading platform Tom and his team are in the middle of putting in, a new backbone for the Company in terms of our general accounting systems, which has been a tail end to going in and across the board.
+So across four- or five-year format, timeframe, we will replace almost every system in the Company but we would expect that to continue. So the GWIM, if we swung around off of last year we did more in other businesses, cash management, started building -- rebuilt the first -- the front end mortgage process and a lot of other things. This year we swung more to GWIM and it is really a decision of which business we invest in at which time and they asked for more investment this year.
+
+--------------------------------------------------------------------------------
+Guy Moszkowski,  Autonomous Research - Analyst    [91]
+--------------------------------------------------------------------------------
+
+    Thanks, and then final one for me. You gave the leverage ratio as being above the 5% and the 6% requirements based on the most recent NPR. Subsequent to that, I guess Basel came out in March with some suggested changes to the netting on a standardized basis for counterparty credit and I was wondering if you have any sense at this point what the impact on the leverage ratio would be of those changes, if implemented?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [92]
+--------------------------------------------------------------------------------
+
+    Well, I think the final supplementary leverage ratio rules that reflected that came out in April. And so the numbers that we have given you where we are above the 5% at the parent and the 6% at the bank reflects the impact of those rules with respect to netting and the other changes. So the numbers we have given you reflect that April release.
+
+--------------------------------------------------------------------------------
+Guy Moszkowski,  Autonomous Research - Analyst    [93]
+--------------------------------------------------------------------------------
+
+    That is from the Fed, right? The April release from the Fed?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [94]
+--------------------------------------------------------------------------------
+
+    Yes, that's correct.
+
+--------------------------------------------------------------------------------
+Guy Moszkowski,  Autonomous Research - Analyst    [95]
+--------------------------------------------------------------------------------
+
+    Right, no, what I was referring to is that Basel had come out with something in March which one would assume that eventually the Fed will adopt for the standardized approach to counterparty credit. And I think JPM alluded on Friday to the idea that that could add, depending on whether you look at the holding company or the bank unit upwards of 20 basis points to the leverage ratio because it takes into account the netting to a greater extent. And I was wondering if you had any -- if you had done any preliminary work on that?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [96]
+--------------------------------------------------------------------------------
+
+    I think I will say that our focus has been on wrapping up the work, given what the April pronouncement is. And I am not -- my understanding was that the Fed -- I think what came out in April is what we are assuming that we are going to need to operate in and if there is something else that changes where there is some benefit, that is great, but our assumption is we are going to be living with what came out on April 8.
+
+--------------------------------------------------------------------------------
+Guy Moszkowski,  Autonomous Research - Analyst    [97]
+--------------------------------------------------------------------------------
+
+    Got it, okay, thanks very much. Appreciate that.
+
+--------------------------------------------------------------------------------
+Operator    [98]
+--------------------------------------------------------------------------------
+
+    Matt O'Connor, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Matt O'Connor,  Deutsche Bank - Analyst    [99]
+--------------------------------------------------------------------------------
+
+    Good morning. If I could just follow up on the net interest income comments and thoughts. I guess just bigger picture, it seems like the outlook is a little bit lower than what you had previously thought, and I guess I think about building liquidity, it tends to be dilutive to NIM but not net interest income dollars. And some of the things you pointed to were seasonal.
+So just like big picture I guess when you think about where you had thought net II might be a couple quarters ago, looking out. What is worse?
+Is it more runoff than you thought? Less loan growth because you are tightening up versus what some others are doing or is it just the rates haven't moved at all, or some combination of all that?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [100]
+--------------------------------------------------------------------------------
+
+    I would make a couple points here. If you go back, the guidance that we have given is that we would grind up from roughly a $10.5 billion number and as we look out to the third and fourth quarter, that is what we see in our numbers.
+I do think there have been -- relative to if you go back two, three, four quarters ago, several things that have changed. The first is that as we have worked hard to get in the position that we are in from an LCR perspective, we have -- not only LCR but with the rate environment that we are managing the OCI risk that we have directed more of the investment portfolio to shorter dated treasuries and mortgage-backed securities.
+And as you go out over a couple of quarters, that has a negative impact. The second thing, as you look at where we are and you look at the forward curve, our assumptions on what yields are going to be that we can reinvest in outside of the switch and mix, obviously those yields have not moved to the extent that the forward curves would have suggested at that point.
+And I would say, generally with respect to the loan portfolio, I wouldn't say there is much changed. I do think the one thing to note that we have not talked about, if you look at within our global banking segment, this is the first quarter in a while where we have actually seen the loan pricing spreads stabilize and actually, in certain of the portfolios, move up a touch, so that is a positive.
+I don't think there is anything to your question, that material that there are just some small things here and there. And we wanted to update and share our thoughts with what we thought the second quarter would be, but longer-term, I think we are still in the same place as far as the 10, 5 grinding up.
+
+--------------------------------------------------------------------------------
+Matt O'Connor,  Deutsche Bank - Analyst    [101]
+--------------------------------------------------------------------------------
+
+    Okay, and then just switching topics, on the core LAS cost, so ex-all the litigation, you reiterated the target for year end, I think of about $1 billion or $1.1 billion. Still feel good about the $500 million per quarter late next year?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [102]
+--------------------------------------------------------------------------------
+
+    Yes.
+
+--------------------------------------------------------------------------------
+Matt O'Connor,  Deutsche Bank - Analyst    [103]
+--------------------------------------------------------------------------------
+
+    Okay, and is that something that we could see overshoot to the downside like we are seeing in charge-offs? Obviously like credit is getting much better than a lot of us would have thought a couple years ago? Do you think those core LAS costs end up just being much lower than expected once you work through all the issues?
+
+--------------------------------------------------------------------------------
+Brian Moynihan,  BofA Merrill Lynch - CEO    [104]
+--------------------------------------------------------------------------------
+
+    I would just say, I hope so but I wouldn't -- let's just get it down to that level and we'll figure out what we can do from there. It's been an arduous task and there is still a lot of work ahead.
+
+--------------------------------------------------------------------------------
+Matt O'Connor,  Deutsche Bank - Analyst    [105]
+--------------------------------------------------------------------------------
+
+    Okay. And then just lastly, on the SLR again, just care to provide any more details in terms of how much above 5%, how much of a 6%, roughly?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [106]
+--------------------------------------------------------------------------------
+
+    I would say that we have said we are above 5%. We have said that assuming that the Buffett preferred amendment gets done that adds roughly another 10 basis points, which obviously helps move us up.
+And you can assume that -- the only other guidance I would say is that the bank ratio relative to the limit is stronger than where we are with the parent today. But once again, the Buffett amendment will help.
+
+--------------------------------------------------------------------------------
+Matt O'Connor,  Deutsche Bank - Analyst    [107]
+--------------------------------------------------------------------------------
+
+    Okay. All right, thank you.
+
+--------------------------------------------------------------------------------
+Operator    [108]
+--------------------------------------------------------------------------------
+
+    Marty Mosby, Guggenheim.
+
+--------------------------------------------------------------------------------
+Marty Mosby,  Guggenheim Securities LLC - Analyst    [109]
+--------------------------------------------------------------------------------
+
+    Thank you. Three questions.
+One is, operational risk, you talked about that now represents about 25% of your risk-weighted asset, so in doing that in the past, that is very sticky. How do you think you can manage around that amount of capital just being trapped and the fact of all these past settlements that you have had to kind of live through?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [110]
+--------------------------------------------------------------------------------
+
+    Your point, Marty, is a good one, which is that the operational risk models are based on a fairly long time series as we look at it, and one of the things that we do continue to try to discuss and stress is that a lot of those operational risk losses are with respect to activities that we no longer engage and have no intention to engage. There are some of that dialog does continue, but your point, which is a fair one is that the time series are fairly long, and it will remain out there until the data runs out and I wish there was more that I could say but your point is a fair one.
+
+--------------------------------------------------------------------------------
+Marty Mosby,  Guggenheim Securities LLC - Analyst    [111]
+--------------------------------------------------------------------------------
+
+    I mean is the only true way is just almost disembark from mortgage because there was so much in that particular area, the only way to clean it up is to say maybe if that is all related to those mortgage settlements, mortgage-related settlements it is just not worth caring that baggage going forward even though it wasn't really your fault, it was the Countrywide legacy more than it was your own operations.
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [112]
+--------------------------------------------------------------------------------
+
+    Well, I think your point, Marty, is the one that we are working through. And in effect, we have done what you suggested that we have done in that if you look at those activities that led to those losses, we are no longer engaged in those activities.
+If you look out at -- we are not doing business with monolines from a new rep perspective. You look at private label securitizations, that activity was rep and warrants, it is not continuing.
+So we think we have largely done that and I think the question just going forward is if you have proven and you clearly are outside of the activity is there any relief to be had? Not the way that it works now and we will just have to work through and deal with it.
+
+--------------------------------------------------------------------------------
+Marty Mosby,  Guggenheim Securities LLC - Analyst    [113]
+--------------------------------------------------------------------------------
+
+    Got you. Secondly, you called out that mortgage servicing hedging was unfavorable this quarter. If you kind of look at the environment, it seemed like I have seen in others that it was actually a positive, not a negative. What was in particular happening in your mortgage service hedging?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [114]
+--------------------------------------------------------------------------------
+
+    There was really nothing. I think that the comment that we made was that the question of the hedging performance this quarter relative to a year ago. So the hedging was still a positive number, it was just less so on a year-over-year basis.
+
+--------------------------------------------------------------------------------
+Marty Mosby,  Guggenheim Securities LLC - Analyst    [115]
+--------------------------------------------------------------------------------
+
+    Got you. And then lastly, when you think about moving from your mortgage-backed securities into agencies and treasuries that have shorter durations, that is kind of throwing you to become more asset sensitive. Are you thinking about because the liquidity rules are making the balance sheet become more asset sensitive employing more interest rate swaps or off-balance-sheet hedging to rebalance and not become so much more asset sensitive due to these other pressures?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [116]
+--------------------------------------------------------------------------------
+
+    If you go back, we have been pretty consistent that the reason for the investment portfolio is to preserve the long-term value of the deposit. And as you look at that portfolio, it is very clear there are only three things that we do within that portfolio.
+There is treasury securities, there is agency securities and there is AA and AAA super-sovereign type activities. And as it relates to becoming a little bit more asset sensitive, we just think given the first -- and you have seen a large portion of it happen that to drive and get to the point we have with LCR, the shift in the portfolio helped this quarter.
+It has the same benefit, as I said, of shrinking and reducing your OCI risk as you go through this. And we are not interested in starting to try to do things from a derivative and other perspective to somehow change that. The investment portfolio needs to work with how we set it up and we are going to be prudent with respect to how we do it.
+
+--------------------------------------------------------------------------------
+Marty Mosby,  Guggenheim Securities LLC - Analyst    [117]
+--------------------------------------------------------------------------------
+
+    All right, thanks.
+
+--------------------------------------------------------------------------------
+Operator    [118]
+--------------------------------------------------------------------------------
+
+    Nancy Bush, NAB Research, LLC.
+
+--------------------------------------------------------------------------------
+Nancy Bush,  NAB Research - Analyst    [119]
+--------------------------------------------------------------------------------
+
+    Good morning, guys. Question on the mortgage business.
+I think there was an article in the Wall Street Journal this morning or somewhere that the business is getting off to a slower start than we would have thought given the spring bounce back that was expected from the winter weather. Has there been any rethinking, Brian, on sort of the eventual size and direction of the mortgage business there?
+
+--------------------------------------------------------------------------------
+Brian Moynihan,  BofA Merrill Lynch - CEO    [120]
+--------------------------------------------------------------------------------
+
+    Nancy, we kind of did that in 2011, we got out of all of the direct-to-consumer. So basically we have focused the business on really supporting the core customer base and not trying to drive standalone market shares in the scheme of things.
+And so what has happened to that is as we sold off the non-core servicing we have gotten down to a significant less number of loans serviced and your originations, $10 billion just this quarter are all direct-to-consumer, which is the second highest total in the country, direct-to-consumer mortgages so I think we are comfortable where we are. Now the question is, with the LAS aside, the core business, what does it look like?
+It will be a small business -- smaller business. It will generate customer, mortgages for our customers because it is a core product they need. But also that sales force, quite frankly, sells other products and does other things for us, refers people for other products.
+So I think that the days of being a 20% market share and stuff are far behind us. The days of being a 4% market share direct-to-consumer and growing are there and we will make a little -- we will make some money in it and we will make some money servicing those four loans through the delinquency statistics in those and what we have been doing in that are far superior to even what we would have predicted and that is how we will run the business.
+So effectively, we have done what you said. It is just that we are still sort of bound by the overhang of effectively the LAS portfolio still working through the system and the 300,000 delinquent mortgages of which only about -- the delinquency of the core portfolio is about 50,000, 60,000 of them.
+
+--------------------------------------------------------------------------------
+Nancy Bush,  NAB Research - Analyst    [121]
+--------------------------------------------------------------------------------
+
+    Also, could you make sort of a similar pronouncement about the card business, where you stand in terms of share and growth right now and are you where you want to be?
+
+--------------------------------------------------------------------------------
+Brian Moynihan,  BofA Merrill Lynch - CEO    [122]
+--------------------------------------------------------------------------------
+
+    That is different in the sense that, on the card side, we actually took it down unfortunately through charge-offs and (inaudible) more than not. But I think we have been relatively consistent on a domestic piece, around $90 billion-odd of outstandings and kind of grinding up and down from there and producing more cards that are coming out of the wallet first from our customer from 700,000 we showed you two years ago first quarter to 1 million plus this quarter and pretty consistently was 1 1/3 million plus the third quarter almost 1 million in the fourth quarter, another 1 million plus this quarter.
+But the core of what we see there is actually usage of those cards. They are still 60%-plus to our primary customers, but also usage of the cards because of the core three or four card products is driving it. And we have to go some good affinity program.
+So I think the card business is -- likewise, it is where we want it but it is a bit more of a payment stream business than it is a pure lending business as it was in some of the past. So the balances ought to be stable and ought to grow, but the high-quality portfolio of the payment rates in the 20%s now, means people pay us off because they are using a transaction card.
+
+--------------------------------------------------------------------------------
+Nancy Bush,  NAB Research - Analyst    [123]
+--------------------------------------------------------------------------------
+
+    And just finally, Bruce, you've indicated that net interest income is going to decline somewhat due to liquidity issues, etc. Is that same going to be true of the NIM or is there anything in the mix change coming in the near term that can send the NIM up, or the adjusted NIM up, from this 236 level?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [124]
+--------------------------------------------------------------------------------
+
+    Yes, I think -- I just want to be clear that we've said that we thought that the core MII ex-market-related impact would be down slightly in the second quarter and then build modestly through the rest of the year. What you will see in the second quarter, given that you have a full quarter of the liquidity, it is on the books, you would expect to see that the NIM in the second quarter moderate a little bit, given that you've got the full quarter of the liquidity and then, obviously, as it starts to grow during the latter half of the year, you would expect the NIM to follow that.
+
+--------------------------------------------------------------------------------
+Brian Moynihan,  BofA Merrill Lynch - CEO    [125]
+--------------------------------------------------------------------------------
+
+    And Nancy, over all, now that we have a better insight as to what these rules are we then have to go back and -- we've got a 7% change of common equity ratio so we have very strong common equity ratio. We have to go back and sort of look at -- Bruce actually -- with the rules now in hand he can start to go work and say, okay, how do we optimize the next round because in terms of how we create maximum liquidity per dollar a balance sheet size, right?
+
+--------------------------------------------------------------------------------
+Nancy Bush,  NAB Research - Analyst    [126]
+--------------------------------------------------------------------------------
+
+    Right. Okay, thank you.
+
+--------------------------------------------------------------------------------
+Operator    [127]
+--------------------------------------------------------------------------------
+
+    Jim Mitchell, Buckingham Research.
+
+--------------------------------------------------------------------------------
+Jim Mitchell,  Buckingham Research - Analyst    [128]
+--------------------------------------------------------------------------------
+
+    Hey, good morning. Hopefully I will keep these two quick.
+Just first on home-equity net charge-offs, I guess if you exclude the TDR impact last quarter, they were up and so were home equity NPLs. Could you just sort of talk through what is going on there?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [129]
+--------------------------------------------------------------------------------
+
+    Sure, there were two things that come Jim, banged this up -- good question -- to the tune of about $50 million each. There were some home equity stuff that we just wrote off that was going to have foreclosure costs that were greater than what it was going to be worth to try to get repaid.
+So that happened during the quarter. And then the second thing is there was some regulatory guidance that was given as it related it to second lien loans that were behind first lien that have been modified or charged-off, that we saw during the quarter. We think we got most of it in this quarter, there may be a little bit left in the second quarter, but a good question that those two items banged us up to the tune of about $100 million and that was the reason for the change.
+
+--------------------------------------------------------------------------------
+Jim Mitchell,  Buckingham Research - Analyst    [130]
+--------------------------------------------------------------------------------
+
+    Okay, that's helpful. Then just on the investment banking pipeline, any commentary?
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [131]
+--------------------------------------------------------------------------------
+
+    I think what we have seen is the overall markets continue to be strong. The pipeline and the amount of activity and discussions from an M&A perspective is encouraging. And I would say as we go forward that we talked about, we felt the pipeline was strong at the end of the year.
+And as we look at the pipelines, they have not changed materially one way or the other at the end of the first quarter versus the end of the year. And as we said, we feel very good about the quarter with the revenue side being north of $1.5 billion and the highest of any firm that has reported at this point.
+
+--------------------------------------------------------------------------------
+Jim Mitchell,  Buckingham Research - Analyst    [132]
+--------------------------------------------------------------------------------
+
+    Okay. That's great. That's it for me. Thanks.
+
+--------------------------------------------------------------------------------
+Bruce Thompson,  Bank of America Corporation - CFO    [133]
+--------------------------------------------------------------------------------
+
+    Super. Well thank you very much, everyone, for joining and we will talk to you next quarter.
+
+--------------------------------------------------------------------------------
+Operator    [134]
+--------------------------------------------------------------------------------
+
+    This does conclude today's conference. You may now disconnect. Have a wonderful day.
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2017 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

@@ -1,0 +1,56 @@
+Question_1:
+
+    Great, thank you for taking the question. I just had two -- one for Mark and then one for Sheryl or David. Mark, the first one, as Facebook's value proposition is connecting the world, how should we expect Facebook, in the future, to more specifically leverage deal location data to advertisers to make the ads even more useful for your users? And over what time frame should we expect that to play out in your mind? And then the second question for Sheryl or David would just be, you talked about brand advertisers taking a little bit more time, I think, that you might've liked. Just wondering if you could help share with us how your mix between DR and brand advertisers has played out over the course of the year, if you could just give us some rough ideas. Thank you.
+
+Question_2:
+
+    Hi, thanks. Sheryl mentioned some of the tools that have been added to make it easier for advertisers to access and use the ad platform. One example was objective-based ad buying. I was just wondering how much you would attribute reduction in friction, like the examples that were referenced on the call leading to direct and immediate increases in inflow of ad dollars versus be more gradual in nature? And then, secondly, for Mark, the concept of the knowledge economy. I was wondering how you envision what the consumer will be doing on the site five years from now, if today is more about sharing, and sharing is more developed in search and product integrations? How you think about that relationship between those three activities on the site over a five-ish year time horizon? Thanks.
+
+Question_3:
+
+    Thanks for taking my questions. Maybe this first one for Sheryl and then David. It seems like a year-and-a-half ago, around the time of the IPO, the Company was very focused on top-of-the-funnel brand-related advertising. But over the last year or so it's been much more around direct response. But certainly get the sense that on the top-of-the-funnel brand is starting to move in a more meaningful way. What's the Company doing and what are some of the main projects that you're working on that you think will really start to move the dial on the top-of-the-funnel segment of the market? And what role does video maybe play into that? And then for David, regarding the ad load comment, had ad load not increased in North America, give us a sense of what the ad revenue growth would have been if you normalized for that? Thanks.
+
+Question_4:
+
+    Great, thanks for taking the question. I just wanted to ask you about two things. First on video, can you talk about what you've learned from the recent launch of video on Instagram, and how that may have shaped your thinking on rolling out video ads on Facebook? And then, secondly, just following up on the ad volume, just to clarify, when you're saying the ad volume won't necessarily increase anymore beyond where it was at the end of 3Q, is that on average or in the more penetrated markets? And then can you comment relative to the 5% of stories in the News Feed that you mentioned last quarter? Thanks
+
+Question_5:
+
+    Great, thanks. Two questions. First, David, can you just give us some color why the reduction in the OpEx growth for this year? Were there certain investment projects you decided to cut, and what were those, and why? And then, secondly, Mark, this five-year vision of moving towards, going from push-based to pull-based, that opens up a lot of opportunities. That's been the sauce, maybe, behind Google, and an interesting part of Twitter, et cetera. But could you talk about the challenges in order to get there? And maybe both in terms of the user experience, the advertiser opportunity, how difficult, substantial the technology challenges are to get there? It's a very different direction and there's a lot of opportunity but how do you get from point A to point B? Thanks
+
+Question_6:
+
+    Thank you. Mark, after a successful revenue year you start next year with a clean slate. And you highlighted some big ambitions in your prepared remarks about access and improving search. Just maybe remind us how you think about driving profit growth as you look at the Company relative to your long-term objectives for the Company. Thank you.
+
+Question_7:
+
+    Thank you. Mark, can you talk a little bit more about how the knowledge and the Facebook graph compares with the knowledge in the overall web today qualitatively and quantitatively? And if you are planning to connect the World Wide Web graph to the Facebook graph when you think about the answers that you're going to give people in the future. Secondly, there's draft regulation in the European Commission, in Brazil at least, that may require Internet companies such as Facebook to store all their data locally. What do you think would be the impact on Facebook's CapEx and expenses if these regulations are indeed implemented? Thank you.
+
+Question_8:
+
+    Thanks. Can you give us some color on how many advertisers you guys ended the quarter, how that grew? And then if there's a way to think about how many advertisers have claimed pages, so we can get a sense of how deep the penetration is. Because it looks like you guys are more successful than other companies, and growing at a faster rate, particularly on the local penetration side. Thanks
+
+Question_9:
+
+    David, sorry to beat a dead horse but back to the ads per user comment. Can you just give us some color on, since you guys started the mobile News Feed ads a year-and-change ago, how much CPC and click-through rate improvement you've been able to drive? And should we think about it going forward, if mobile users are growing at 18% in the UK, 20% in the US, and I think 60% for ROW, should we think about revenue growth as a slight premium to that but somewhat correlated to that? Thanks.
+
+Question_10:
+
+    Thanks, guys. Two quick questions. One, following up on the last one with respect to ROI around advertising products going forward. I guess maybe more for Sheryl. But how do you guys think about the dialogue between advertisers and yourselves about ROI? And how much of that fits with measurement and attribution tools that you guys need to develop internally versus what they need to think about in terms of the ROI on your properties versus other online and off-line properties? And the second question on mobile app install ads, a question about the diversification of the advertiser base and how that's really developed since the product's been launched? Thanks
+
+Question_11:
+
+    Good afternoon. Thanks very much for taking the questions. You introduced hash tags in June and I'm just wondering if you could comment on usage trends, how strategically important hash tags are to indexing the knowledge graph going forward? And whether hash tags could become a meaningful part of an ad targeting opportunity in the future if usage catches on in a significant way? Thank you.
+
+Question_12:
+
+    Thanks. I have two, please. You continue rolling out a lot of new products. I was wondering if you could speak to the traction and any of the user adoption of the early topical and interest trending that you've rolled out? And then last quarter you talked about strength in e-Commerce driving some of the advertising. Which kind of verticals would you speak to this quarter? Ad as we're adding into the holiday season, are you still seeing e-Commerce being a big driver again? Thanks.
+
+Question_13:
+
+    Hi. I really wanted to ask you about the Instagram blog post that you put up the other week where you stated specifically that -- I think the quote from the blog was you want ads to be creative and engaging. And that seems pretty different than most of the advertising that I've seen on Facebook, whether on mobile or on the desktop. And wanted to ask you how do you think, or is it possible that if this strategy of advertising works well on Instagram, could we actually see a new form of advertising appear on Facebook sometime in 2014 or 2015?
+
+Question_14:
+
+    Thanks for taking the question. I'll take another crack at the number of businesses advertising. I was wondering if you could quantify the number of new small businesses, perhaps, or number of advertisers going beyond that 1 million in the quarter. The reason I ask is I'm trying to understand to what degree that maybe the shift to spending mix towards smaller businesses may have contributed to margin expansion? And maybe you could talk about the margin profile, the different segments of marketers bring to your business.
+

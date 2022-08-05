@@ -1,0 +1,148 @@
+Answer_1:
+
+    On payments, our payments business has been important in supporting some of the developer activity on Facebook, primarily games. And we continue to be interested in that. I think it's really important to know that our advertising business is very relevant for e-commerce. And that doesn't depend on taking payments, and it doesn't depend on a payment strategy, because we provide a really great opportunity for marketers to find customers who are then going to go ahead and buy their products both online and off-line. 
+In terms of relevance, I think we are in really early innings. I think people can see it from their own experience. Most people I talk to, and certainly the data we have across the base of people who use Facebook, suggest that the ads are getting more relevant. But, there's a long way to go. 
+Our goal is that every time you open News Feed, every time you look at Facebook, you see something, whether it's from consumers or whether it's from marketers, that really delights you, that you are genuinely happy to see. I think we hit that more than we used to with our ads. But I think the truth is we still have a long way to go to hit that bar, and that's the bar we are striving for.
+
+Answer_2:
+
+    Thanks for the question, Doug. I think Q1 is traditionally a light spending quarter for us because we budget with an annual cycle and often it take some time to ramp up the new programs. So, I don't think it's surprising that Q1 year-over-year increase would come in a little lighter than we expect for the full year. 
+Additionally, there were some one-time things that benefited the quarter that kept expenses down, particularly in cost of revenue as we continue to exit leased data centers and amend our supply chain. I think that, going forward, our expectation was and remains the 40% to 45% growth excluding the impact from the acquisitions. We will update that guidance once the integration plans are clearer and we have a better sense for what those spend patterns will look like. 
+In general, in terms of margins, the comments I would make are that we don't have a quarter-to-quarter target margin that we're managing closely to. To do so would require varying our spend patterns as revenue changes up and down over time. And I think that's the wrong way to focus on how you spend your money in the Company. 
+Our priority is really to try and make investments that are high quality, that drive the creation of value and make the business better. And since many of those investments take a longer period to mature, we want to be able to think about our spend increases over a longer-term horizon. As you can see, looking back at the last couple of years, and our plans for this year, there's been a pretty steady rate at which we've been growing spend, particularly in R&D and marketing and sales, where we really want to focus on making sure we are growing smartly and thoughtfully at a rate we can manage wisely, and doesn't get ahead of our ability to manage it. 
+On cost of revenue and G&A, what you can see in the Q1 numbers is the fruits of a lot of labor trying to manage those parts of the business really efficiently, and free up resources to invest elsewhere. So, I think we've always believed that Facebook has the opportunity to be a sustainably high-margin business, and we continue to believe that, noting that there were some individual items that helped us in Q1.
+
+Answer_3:
+
+    Timing matters a lot. I do think that there's nothing wrong with the standard of HTML5 technically. I think a lot of what we see is what the main platform providers want to push as the standard for developing on their own platforms. What we've seen is that both Apple and Google have really favored and made it easier to build high-quality experiences in their own proprietary formats, rather than the open Web format. 
+So, while our bias, for a number of reasons, would have been to have really pushed on HTML5 -- and I don't want to sound like we've walked away from this because a large number of people access Facebook from the mobile web. I don't know if we break that out specifically but it's quite a large number of people. So, we are continuing to develop that. But for the foreseeable future, we see the best path to continuing to deliver great experiences be by working on the native app experience that we have now.
+
+Answer_4:
+
+    Sure. I think I can probably take both of those. In terms of building out a whole communication ecosystem, the way that we think about the new apps and products that we are building is that people want to share all kinds of different content with all kinds of different audiences. 
+Sometimes you want to have a one-on-one conversation or text or chat or voice call. Up to having a small group conversation, to communicating, updating all your friends on something at once. And sometimes there's really good public content, whether it's news or premium video, or things like that. 
+At the intersection of each type of content and each audience, we think that there's a really compelling experience to be built. Facebook, historically, has focused on friends and public content. Now, with Messenger and WhatsApp, we are taking a couple of different approaches towards more private content, as well. 
+You're going to see us do more things in more private content, I think. That's an ecosystem that's growing incredibly quickly. And, also, that speaks to why WhatsApp and Messenger are both growing independently, quickly is because they actually serve pretty different use cases within private sharing and private context. 
+In terms of our investments, I think you want to look at it as -- I outlined this in my remarks but I think it's important enough to say again -- there are different stages of maturity for the different things that we're doing. The Facebook app by itself is the furthest along. More than 1 billion people use it. And it's not only one of the most used apps, probably the most used app, it's also the core of our business. 
+Then the second set of apps that we have are Messenger, Instagram, and soon, WhatsApp. Messenger and Instagram are each now greater than 200 million active users. I think the WhatsApp folks independently announced, I think it was yesterday, that they just passed 500 million actives. 
+These are apps that are now at a pretty big scale. And the immediate priority is going to be getting them to 1 billion people. So we're continuing to focus on that before focusing on monetization in the way that we have with the core Facebook app. So, that's the second page. 
+The third set are the new Facebook Creative Labs apps that we're just getting started. So, things like Paper and a number of other things that we might announce at some point. Those are even further along than even Messenger, Instagram and WhatsApp, where it will probably take a few years for those to even get to the stage that Instagram, Messenger and WhatsApp are at. Which, by themselves, are probably a few years away from being big and important business. 
+So, that's the pipeline of things that we see. And there's a full ecosystem of different ways that people want to share with different people. 
+In terms of ads, going to your second question, I don't actually think we have a strategy to decrease ad impressions. I think what you are seeing, and what David mentioned, we have News Feed ads, which are higher quality and perform better, and then we have this legacy of right-hand column ads on desktop, which generally are just showing higher volume and they perform less well per ad unit. 
+As we shift more toward News Feed, what you are seeing is the total raw number of impressions is decreasing, but actually, the amount of value that we're delivering is increasing. That might continue to shift as we continue to shift towards mobile. 
+But I think, overall, what we're trying to do is make it so that the individual load on a per person basis isn't increasing at a dramatic rate. But instead we are driving most of the wins in user experience, advertiser performance, and our own revenue through increasing the quality, primarily around News Feeds adds. And we think that there's quite a lot to go there, as Sheryl said. 
+We want to get to a state where the ad content is as good as the organic content. And we see that we are getting pretty close to that in a few countries, but we want to get to that everywhere.
+
+Answer_5:
+
+    Unfortunately, I don't think I'm going to have much color on either of those. We are constantly doing things to make it so that people can share the content that they want, that they have the tools that they need, and that we're showing the most relevant content to people. That is always going to be the way that people use the service, not through some kind of trick or something that we are using to reengage people. 
+One state that I think is pretty interesting is that you would expect naturally that, as the community continues to grow, and we are getting into later and later adopters, that the percent of people who are using Facebook, who use it every day, would decrease. And I've actually predicted for a long time that eventually that will flatten out, and I thought it would decrease. But actually, it continues to increase, much to our surprise and joy. And now this quarter, I think we are at almost 63% of people who use Facebook in a month will use it in a given day. 
+Another step that I think is actually quite interesting is we track how many people use Facebook not just every day. So, one day out of -- so, what percent of our monthly folks used it today. But what percent of people use it six out of seven days of the week. That number, for the first time in the last quarter, passed 50%. 
+So, that's pretty crazy, if you think about it. You have this really big engaged community, and not only are almost 63% of people touching it in a given day and using the service because it's really engaging content, but we've gone through a period where more than 50% of people have used it six out of seven days of the week, almost every single day of a week. That just speaks to, I think, the underlying fundamental strength in the content and the work that we're doing to serve the best content to the best people.
+
+Answer_6:
+
+    On app installs, I actually think we see more diversity in the customers and developers on mobile now than we saw on desktop with Canvas. Canvas, the business, was almost entirely games. And now we see that a lot of it is games, but a lot of it is other kinds of folks because everyone who is building apps on mobile needs installs, and we have the number one products out there for delivering that. So, we see that happening and we feel pretty good about that.
+
+Answer_7:
+
+    On pricing, we don't break out pricing by type of ad. But overall in the ecosystem our prices are up. As Mark said, the effect of price per ad shown is driven up by more ads in News Feed. And that's because News Feed ads have significantly higher engagement and click-through rates.
+
+Answer_8:
+
+    I don't know that I would read anything into that yet. We haven't identified that as a trend that we are focused on at this point. The numbers do bounce around a little bit from quarter to quarter in various regions.
+
+Answer_9:
+
+    Thanks, Anthony. I'm happy to take the first part of the question. In the first quarter, we delivered strong performance across all the advertiser segments that we focus on. So, I think they are all growing nicely. 
+We don't have a perfect measure for what kind of demand is brand versus DR, per se, because someone doesn't have to input that into the system when they come in. We have lots of things we do to try to find surrogates for that, and are happy to see that using some of that data we are seeing nice growth across the various segments.
+
+Answer_10:
+
+    On video ads, video represents a really big opportunity, really driven by consumer behavior. Smartphones are getting better and faster, and more people have phones that can provide a great video experience. So, you are seeing consumers do a lot more on video. There's also a lot more video going through News Feed that consumers are putting in, and that creates an opportunity for us, both on the consumer side and the ad side. 
+We have a current product in the market. It's a click to play video ad. It's part of a page post. You can post a video. Those are sold both CPM and CPC. And those are going really well, and I think explains some of the growth we're seeing in our ads business. 
+We also have been in early conversations with some clients about what would be a CPM auto play video ad. In terms of the expectations for that, we really want to see auto play video ads be something that's pretty common in the News Feed experience based on consumer usage before we push very hard in the ads business. 
+So, we remain long term very excited. We do expect that product to demand a premium product. But as I said in my remarks, we won't see a material contribution from it this year.
+
+Answer_11:
+
+    Our goal is to make News Feed as engaging as possible. I think we look at the engagement we have on mobile, we are getting 20% of mobile time on Facebook in the US. And growing globally, as well. I think you see that that engagement is great. 
+I'm sure your friends love seeing your kids play basketball. I think they'd probably like to see more of those. And when and if we deliver a really great ad experience, and ads that you love, something you're interested in, I think you're going to like that just as much. We look forward to the growth.
+
+Answer_12:
+
+    On mobile app ads, we've seen really strong adoption. And this is a very nascent but growing market. I think people sometimes think that a lot of our mobile ad revenue is coming from this one type of ad. And our mobile ad revenue is very broad-based. We know what you see in News Feed, and what we see, are ads from brand marketers, direct response, SMDs and developers. So, we are pretty distributed there and pretty happy about that. 
+I think it's not surprising that other people are entering this space. It's obviously growing. It's one that performs well. I think we continue to be excited by the results we are seeing for marketers and developers, the results we are seeing from consumers. And we think the fact that we've already been investing and learning and growing puts us in a great position to continue to have a very strong product offering, even in a more competitive space.
+
+Answer_13:
+
+    Justin, on the acquisitions, the most important thing we will do to, really, I would say, justify the dilution will be to make those acquisitions successful, and over time ensure that the unique assets that we are buying contribute to Facebook's success and to our cash flows over time. The business is obviously in healthy shape right now in terms of the cash it's generating. We look forward at the moment to really continuing to prioritize, where it's appropriate, investing that in the business to drive future growth.
+
+Answer_14:
+
+    As Mark alluded to earlier as it relates to ad load, what we're trying to do is optimize across multiple variables that really produce the best experience for people who use the network and help us to grow the business. Ad load is one of the variables that we look at. Of course, we also look at things like the size of the ads, the prominence of the ads, and, of course, the quality of the ads. What we are trying to do is continually really tweak all of those variables, and then measure what impacts we are having on engagement, on feedback from people, on revenue, and trying to optimize using that data and the changes that we've made. 
+I think the story there is a really good one. Things continue to go very well, obviously in terms of revenue which you see, but also in terms of engagement, in terms of feedback we get from people when we survey them. So we think we remain in a really very strong position in that way. 
+I actually would not validate the assertion that you gave that the ad load increased dramatically in the timeframe you described because that's not consistent in aggregate with our data. What I can say is that every person who uses Facebook has their own experience. The experience, including the ad experience, is personalized based on the other content we have available, based on how much they've engaged with ads we've shown in the past, et cetera. Ideally, we'd like to personalize not just the organic content that you see, but also your ad experience in a way that's really optimized for you and your interests.
+
+Answer_15:
+
+    On Instagram, Instagram is a great product. I think that's why you see so much engagement from people who are using it, and the growth passing 200 million. It's also a great advertising product. And there's just tons of demand because the pictures themselves are so visually appealing, and also there's so much consumer engagement. 
+We are in really early days. We have seen some great results. Just to mention one, Levi's is running an ad which is basically pictures of people wearing denim in really beautiful outdoor spaces. They targeted people 18 to 34 in the United States, reached over 7 million people. And importantly, they drove a 24-point lift in ad recall, which was 3 times the control group. 
+I think that shows that just as people engage with the consumer pictures on Instagram, they're going to engage with the right pictures for marketers. That said, we are very focused on consumer growth and we move slowly and deliberately in monetization. So, we don't see the need or the urge to ramp this as quickly as we possibly could, but really want to grow it slowly, grow it deliberately, and continue the growth on the consumer side and the great returns for marketers.
+
+Answer_16:
+
+    A lot of what we are trying to do with internet.org is make it so that everyone has the cellular networks that they need to be able to get on the Internet and access basic services, which we think are text-based communication services, whether it's things like social networks or messaging or email or search. Whether it's stock prices. Basic stuff like that, that people use on a day-to-day basis but don't require a huge amount of data. 
+We are pretty happy with the early progress that we've made. We have a multi-year initiative to work with operators around the world to roll out a program where folks can have free basic services. As I mentioned before, a lot of the initial work, the initial partnerships were in the Philippines and Paraguay. 
+What we are really pleased with, even just a few months of work, we were able to help almost 3 million people get access to data for the first time. So, there's no doubt that going from having no access to data to having some access is a huge jump in terms of the activity in business that we see that's available from people. 
+Moving towards things like LTE later on in the funnel will be helpful as we move towards richer types of content, like higher resolution photos and videos, because that will be important, especially as the mix of content that people share moves towards richer media. But we are really focused on both. And we have a huge investment, as well, in the Internet.org, just making sure that everyone in the world gets connected.
+
+Answer_17:
+
+    On Nearby Friends, it's a great new feature. It's an optional feature we just rolled out last week. I don't know if people have had a chance to try it yet. It's rolling out slowly but it's a great product experience, one we are excited to be able to offer. We use information like this to enhance all the services we provide, make things more relevant including relevant ads.
+
+Answer_18:
+
+    On the first, their development team is located in Mountain View, not in Russia.
+
+Answer_19:
+
+    They are doing extremely well.
+
+Answer_20:
+
+    Yes, they're doing really well.
+
+Answer_21:
+
+    The deal hasn't closed so we don't have anything to share. But I would just point you to a blog post that Jan wrote, I think it was yesterday, announcing that they had just helped connect half a billion monthly actives. They are growing very quickly. 
+I think that's up to about 460 million monthlies just a couple of months ago when we announced the deal with them in the first place. And I think that Jan specifically called out a few countries, including Russia and Brazil, and I think India, as some of the fastest growing markets for WhatsApp. I'd just direct you to that statement, and you should probably go read that for more information on how they're doing. And we will update you more when the deal closes.
+
+Answer_22:
+
+    On Nielsen OCR, anything that helps advertisers measure their spend is really important. I've talked on the call a bunch about how measuring online and in-store sales really matters. It also matters to marketers to be able to measure their spend compared to other investments they can make. 
+What OCR has done is given advertisers and marketers comparability between TV and digital and our spend. I think in those comparisons we do very well and I think that is part of the shift that's happening. And it's part of why we see growing interest from clients.
+
+Answer_23:
+
+    We've had a payments business for a while and we continue to have one, and nothing new to announce there. On the first question, I think our addressable market is much bigger than digital. And you see that in the trends. 
+The big trend that's happening is the shift from consumer time. Last year was the very first time those lines crossed, and consumers spent more time in digital, which is mobile and desktop, than they did on TV. That continues to grow. So, where we are right now is, the average US consumer, as an example, spends 4.5 hours per day on TV, but 5.75 on digital. And that's largely being driven by mobile. 
+That means that as consumer time and attention shifts, we think ad budget shifts, as well, particularly if you have good mobile ad products and you can measure results. So, we definitely believe there will be, and continues to be, a shift happening. I talked about a print shift happening with the example of Sport Chek in Canada. 
+But we see this across the board, that marketers are looking for the highest ROI they can find. And they should be comparing us and everyone else across. And they do that not just across digital but across print, across radio, across TV, across any other vehicle they can. 
+I think our investments in measurement really pay off here. We say to our clients all around the world -- we want to earn your business because we want to be the best dollar and the best minute you spend. Because both their dollars and their time are so valuable. We want them to compare us to the other investments they could make, to see who can drive the most value to their bottom line. And that's what we are focused on, and that goes way beyond digital.
+
+Answer_24:
+
+    On the ad network, we are in very early testing for mobile ad network. We do see a big opportunity, here. We think because we are people-based we have an opportunity both to provide greater reach for marketers and developers who are working with Facebook across other platforms, but also improve the relevance of the ads people see, both on and off Facebook. 
+I think that has been our core advantage and will continue to be. That said, it's really early days and we're in the early testing phase.
+
+Answer_25:
+
+    John, obviously the Q1 ad revenue growth rate was 82%, which is fantastic and a real tribute to the team and the platform. One of the things that contributed to that growth rate is the ramp-up of News Feed ads, that in Q1 of last year we were still really early in that part of the journey. And, so, the comparison between the state of News Feed ads in the Q1 we are reporting now and a year ago is meaningfully different. 
+As you'll remember from last year, News Feed ads really ramped up in the second quarter, and revenue growth ramped up, as well. So, that's just going to impact the comparisons in the subsequent quarters of the year. 
+Having said that, there's lots of things that we are focused on that will continue to drive our ad revenue growth, including more users and critically more marketer demand. So, bringing more marketers into the system, improving our products and tools to increase their returns and their ability to measure those returns, and generally improving the quality and relevance and value of the ads. Those are the things that we will stay focused on.
+
+Answer_26:
+
+    Great. Thank you for joining us today. We appreciate your time and we look forward to speaking with you again.
+

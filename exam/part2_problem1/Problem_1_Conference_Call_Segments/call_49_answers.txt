@@ -1,0 +1,167 @@
+Answer_1:
+
+    It's a great time for the brand question because over the past few weeks I've spent a lot of time kicking off 2015 with our largest agency partners and largest clients. I would say that people remain really excited about Facebook, but people are bigger believers, because we've had an opportunity to do more measurement over the past year. 
+So, I think there are two things about the Facebook platform that are really exciting for brand marketers. The first is the creativity and storytelling. And certainly, as you mentioned, video is a big part of that because video is a format that marketers have used for a long time to build emotional connection to brands. 
+The second is measurement. What clients want and what they should want is an ability to look at their ad spend and see how effective it is, not just in the brand lift metrics, even though those are important, but in moving products off shelves. Over the past year and a half, the investments we've made in building out that measurement have paid off. 
+So, when I sit down with clients at the beginning of this year compared to last year, we have more actual case studies of marketing we've done with them. We've been able to A-B test Facebook ads versus no Facebook ads, and what the effectiveness is on their sales. And I think across the board, we are showing very healthy, very competitive ROI. 
+The opportunity and the challenge, now, is to scale. Even for our largest clients globally we still represent a really small part of what they do. So, it's on us to prove to them that the results we're showing them in these smaller tests can happen in more brands, more countries with a larger part of their business.
+
+Answer_2:
+
+    Heather, it's Dave. 
+Just following up on that, where we land in the range of guidance on expenses will depend on a number of different factors. It's going to depend on how successful we are at hitting our recruiting goals, how much we ramp in areas like marketing, how quickly we deploy our capital against our CapEx plan, and then how we execute against our plan of ramping investments in new areas like Oculus, WhatsApp, Internet.org, et cetera. 
+We feel good about where we are. We're going into 2015 on a high note. So, I feel like we're making these investments from a position of strength, and excited about the opportunities to put more capital to work in 2015.
+
+Answer_3:
+
+    Sure. Our view on this is that there is a lot of unique content that people have shared in Facebook, a lot of personal content, recommendations from friends that you can get, that you just wouldn't be able to get through a traditional web search service or other app. We are on this multi-year voyage to basically index all the content and make it available to people and rank it well. 
+We started off by launching Graph Search, which I think included more than 1 trillion different connections in the first system. The second round of the search progress that we just started rolling out at the end of last year was Post Search, which now has indexed more than I think 1 trillion posts. The sizes of these corpuses are bigger than anything in a traditional web search corpus that you'd find. 
+It's an interesting and fun challenge to make this work. We're seeing that people immediately understand how they can use this and find content that they've seen in newsfeeds before or that they've posted with just a few keywords. We're excited about that but there's a lot more to do. 
+So, I'd say we're not really thinking about advertising in it yet. On the scale that our community operates, 1 billion searches per day is actually not that big compared to what we think the opportunity here should be. And we are just continuing to keep on working on it because there's just a lot of unique value that people should be able to get from their friends on Facebook through search.
+
+Answer_4:
+
+    I'll talk about the consumer products and then Sheryl can jump in about ads. 
+What we're seeing, and I alluded to this a bit in my opening remarks, is that there's been this evolution of content on Facebook over the last 10 years towards richer format that conveys more of the moments that people care about. So, if you go back five years ago, a lot of Facebook was primarily text and a little bit of photos. 
+Now, I think the primary mode that people are using to share is photos. And I wouldn't be surprised if in the future that shifted more and more towards videos. 
+So, we're thinking about how to enable consumption first of the content that people were sharing. And this year an increased focus on new opportunities around production. That way it's easier for people to capture the moments that are important to them, create higher-quality moments and pieces of content out of those, and increase their experiences through that. 
+So, there's a lot more to do here. And I think that this is going to be one of the big trends over the next three to five years, is the growth in video and richer content in our service.
+
+Answer_5:
+
+    From a consumer and marketer feedback on video ads point of view, those two things really go together. It's exciting that we've gotten to 3 billion video views per day because that means consumers are using video ads and enjoying them on Facebook and in newsfeed. 
+The way we think about our ads product is we want them to blend in with the consumer experience. So, the fact that we have this much consumer video on Facebook, means we have an opportunity to grow our ad business, and that's exciting for marketers.
+
+Answer_6:
+
+    Thanks for the question. When you think about what's happening, certainly the growth has been good. But it's still true that marketing dollars have not followed consumer time in the same percentages. 
+In the US, mobile gets 25% of consumer media time but only 10% of the ad budget. And to take one comparable example, that means that for every consumer hour spent on print, marketers spent $1, and they spend $0.07 per hour on mobile. Which means that we have an opportunity to grow. 
+One of the most important ways we grow is not just bring more marketers into Facebook, having them use more of our ad products, but, as you mentioned, better targeting. A more relevant ad is a better ad experience for consumers, but also drives a much higher return for marketers. And since we're running an auction, as our ads get more relevant and we provide higher ROI, we should be able to continue to grow. 
+I think we've done a good job over the last year making our ads more relevant. I think most people on this call would say that you see more relevant ads than you used to a year ago. But I still think some of the Facebook ads still have room for improvement in terms of relevance. And, so, we see a lot of room for improvement there, both in the ROI we deliver and in the experience we can provide consumers.
+
+Answer_7:
+
+    I'll add something to that just on the side of how we think about value through Facebook and then I will talk about the other apps. In terms of the product development that we do here, we have four major groups inside the Company. This is how our Company is organized. 
+We have one which is focused on growing the community; one which is focused on increasing content consumption and people's engagement; another which is focused on efficiency and helping people get the most value out of each moment that they're spending on Facebook; and then the fourth group is our core business which is focused on helping people to see the best ads and basically make the most money per moment that people are spending at the lowest cost and most efficiency in terms of serving people. 
+There is, I think, big upside in each of those four categories. Our community is growing. I mentioned in our comments up front that time spent across our services grew by 10% year over year per person, which is pretty meaningful. Utility and efficiency are increasing. And, of course, the ads business per person and the efficiency of our services are both increasing, as well. 
+So, I'm pretty excited about that and think we are organized in a way where we can continue executing against that. 
+That other opportunity is Instagram, Messenger and WhatsApp. I'm really excited about. And I do think that they're going to reach the level where they contribute to our business in a pretty big way. 
+But it's really important to get this right and not rush it. What I'd say around messaging is we're pretty early in that cycle. We are about where Facebook was in around 2006 or 2007, where, at that point, Facebook is really just a consumer product. There were no businesses in the ecosystem. 
+And a lot of people were telling us go put better ads in. And that felt wrong. I didn't think that that was going to be the right way to build the product or build the business. 
+So, instead, what we did was we built pages, which was a way for businesses to interact for free in the system and start creating organic interactions between people and businesses so we could figure out what the people using Facebook wanted from businesses within Facebook. And we build more tools for pages and businesses to engage. Our recent success with advertising is really just built on some of those organic interactions between people and businesses. 
+What you see in Messenger and WhatsApp now is we're still at the early end of that curve where the interaction is still primarily people to people, and businesses are starting to figure out, in the case of WhatsApp -- much less in Messenger, so far -- what the organic interaction is. But we're going to have to go through a whole cycle of figuring out how that works before it really makes sense to start monetizing them in a big way. But, yes, I'm a big fundamental believer that these are going to be very big contributors to our businesses over time, but we just have to do it right.
+
+Answer_8:
+
+    North America remains a really important market for us. And, as you said, we've had growth we are very happy with. It's still true that for any client, no matter how big they are for us, we represent a really tiny part of their ad spend. And we represent an under-investment in terms of where they can reach their consumers. 
+So we believe by continuing to make these investments we can really continue to grow. We get 20% of people's time on mobile phone in the US between Facebook and Instagram. We don't get close to that in terms of anyone's marketing spent or the time they spend. 
+What we say to our clients over and over again is that we want to drive their business. And that's probably the most important thing we're doing for these large North American spenders, is around the measurement work we've done. 
+Two years ago we were not able to measure all the way through to purchase off the shelves, and now we can. Yesterday, we rolled out a product we call Lift, which is really the next iteration of our measurement capabilities. It enables large customers to go in and set up ads with control test groups so that they can A-B test; this group of people saw a Facebook ad, this group of people didn't. And they can measure all the way through to conversion of whatever they are measuring, whether it's an online conversion to a sale. 
+We think the measurement out there online and digitally is not particularly accurate. People don't have real people-based measurement. Through our investments in Atlas and through our investments in the core Facebook measuring tools, we think if we can show the ROI marketers are getting, and we can increasingly do so, we can continue to penetrate the North America market.
+
+Answer_9:
+
+    Ben, it's Dave. 
+Also just building on what Sheryl said, worth noting that the drop in the value of international currency is impacted by results outside the US. So, some of what you're seeing here is the result of that. 
+It reduced year-over-year revenue growth rates by 7% to 8% in the different international regions. That's a big reason why you see the US doing much better, as well as the fact that that's just a more advanced market in what we've done in terms of just building up the advertiser base and getting adoption of our best targeting products, as Sheryl was talking about. 
+Going to your question on pricing growth, I would just reiterate what I said in my comments. It's largely due to the right-hand column redesign and then also this shift to mobile where we don't show right-hand column ads. That's really what's causing the pricing shift. 
+Then, fundamentally, we just continue to get better at targeting. That drives better engagement. And as we get better engagement, that drives better ROI for our advertisers, which ultimately, I think as Sheryl commented on earlier, gets reflected in better pricing for our ads. And that's a big opportunity for us. 
+And we are seeing that we're getting better and better at driving engagement from the ad units that we have, and getting that right ad in front of the right person. So, that's a big factor, as well.
+
+Answer_10:
+
+    On video ads, what really matters is that consumers are using video on Facebook because that gives us an opportunity, one, to provide a great consumer experience, but, two, to have ads match that consumer experience. If there wasn't consumer video on Facebook, video ads in your newsfeed would be very jarring. As a percentage of the videos you're seeing, video ads fit nicely into that experience. 
+I don't think it matters as much what the video content is. So, while we're certainly exploring some premium content -- as you said, we have an NFL Verizon test out there in the public eye -- we're already seeing pretty explosive growth without that kind of premium content in the system in large numbers. And, so, we'll continue to figure out. 
+We are certainly open to increasing video content either way, but we haven't quite figured out what the mix needs to be. And right now the growth is very strong. 
+In terms of Atlas, we just relaunched this fall and we're just seeing those deals get done in broad adoption. So, I think it's too soon for us to report that Atlas drives an increase in digital spend or an increase in any particular kind of spend. 
+But here's what we believe really deeply, which is that Atlas is going to revitalize marketing by making the measurement more accurate. If you look at how digital ads are being measured, they are being measured based on a cookie-based world that assumes that people have one device, largely a PC, and that's just not true. 
+Consumers have phones, they have tablets, they have PCs, as well. And the ability to understand that that's one person to serve an ad and measure all the way through correctly, we think it's going to massively improve the efficiency in the system as it gets adopted.
+
+Answer_11:
+
+    Our audience network efforts are still pretty new. We have a goal of serving more relevant ads to people off Facebook, which will provide greater reach for Facebook marketers and also a better opportunity to monetize for publishers. 
+We're seeing some nice results. Shazam reported that using Audience Network increased their revenue from Ad Networks by 37%. We believe that working with publishers, if we can increase the value of their inventory by providing more relevant and targeted ads, they are going to be really happy with that opportunity. And we are in the early stages of finding those partners.
+
+Answer_12:
+
+    On premium video content, we haven't figured out exactly how important this is to the ecosystem or how much we're going to invest or what kind of monetization we're going to offer. Video is growing quite nicely through the ecosystem right now. 
+We have made a lot of investments in public content, working with public figures to use the Facebook platform. We are by far the largest social platform and increasingly you're seeing public figures, everything from news broadcasters to journalists to public figures, do a lot on Facebook. And that's important to us because it provides the kind of sharing people want. 
+People come to Facebook to share with their friends and family but they also come to Facebook to connect with everyone from politicians to journalists to celebrities they want to connect with, and get news. And we've definitely seen public content grow as a percentage of what people get. 
+We also had some nice wins with the Golden Globes this year. Other things we're doing to go deep, we're doing some partnerships. We did In Davos at CNBC to show how we can help content creators increase their distribution and reach people directly on Facebook.
+
+Answer_13:
+
+    Anthony, it's Dave. 
+Just to be clear, the net revenue recognition for those products, that's how we did it in Q4, as well. Those are all small today. But there's not a change in accounting in 2015. That's how we accounted for those products in Q4. 
+As far as the net versus gross we just evaluated all the facts and circumstances and made the judgment that net revenue recognition was the most appropriate treatment here.
+
+Answer_14:
+
+    The stat that we shared of 3 billion a day is all native on Facebook. There are probably other shares from other video services, as well. But the way that those look in our services are if they're links to other sites. 
+The reason why I think native video is so valuable for people using our service is that, when someone uploads a video to Facebook directly, we can optimize how it's delivered. We can make it autoplay. We can find the right quality and bit rate to send down to the person based on their connection over time, and optimize all kinds of different things. 
+So, what I think people are finding from public figures to everyday videos that people are uploading is that the best experience that you can get is by uploading content native to Facebook, which is I think, a big part of the growth that we are seeing there.
+
+Answer_15:
+
+    I'm not sure I exactly understand the question. But let me see if I can take a crack at it, Colin. 
+We're seeing, obviously, great growth in DAU which is up 18%. We're seeing growth in time spent across the network, up 10% per DAU. So, you've got those underlying drivers of engagement driving growth. 
+We're also monetizing at higher rates because we're able to get better targeting into the ads and get better conversion for advertisers. So, that's reflected in better pricing. 
+So, there's a number of different factors that are coming into play. But, clearly, driving organic growth and engagement is critical in the business and we're seeing good success there.
+
+Answer_16:
+
+    One theme that I'd just add to emphasize here, because I think there have been a couple of questions to this effect, is our primary strategy for growing the ad business is increasing the quality of the content, not increasing the number of ads per story that people are seeing on Facebook. There are impacts like, as people consume more content on Facebook, within the ratio of ads, the organic content that we will show, they might see more ads. 
+But overall, our strategy is much less about increasing the volume of ads and much more about increasing the quality of the content and the quality of the targeting to get the right content to the right people. This is a pretty controversial strategy internally and we weren't sure if that was going to work out. But for the last year it's really fueled our growth in a good way and we feel very confident that this is the right path going forward, as well.
+
+Answer_17:
+
+    It matters to the kind of investors that we want to have, because we are really a mission-focused company. We wake up every day and make decisions because we want to help connect the world. That's what we're doing here. 
+Part of the subtext of your question is that, yes, if we were only focused on making money, we might put all of our energy on just increasing ads to people in the US and the other most developed countries. But that's not the only thing that we care about here. 
+I do think that over the long term, that focusing on helping connect everyone will be a good business opportunity for us, as well. We may not be able to tell you exactly how many years that's going to happen in. But as these countries get more connected, the economies grow, the ad markets grow, and if Facebook and the other services in our community, or the number one, and number two, three, four, five services that people are using, then over time we will be compensated for some of the value that we've provided. 
+This is why we're here. We're here because our mission is to connect the world. I just think it's really important that investors know that.
+
+Answer_18:
+
+    Paul, it's Dave. 
+Taking your second part first, we are really making investment decisions on short-term fluctuations in currency. So, I would say, in general, no, it's not affecting those decisions. 
+There are certainly big macro effects that are going on, and part of those are what's driving a lot of the currency fluctuation, as well. So, you have regions that are certainly growing more quickly and regions that are growing more slowly. 
+So, from a macro perspective, the United States is doing better in terms of growth versus Europe versus Latin America. You see those compounded in both currency and macroeconomic conditions in those regions. I'd say generally we've got more favorable market conditions in which to operate in the US. 
+Overall, I would say the business is driven by the fundamentals of us continuing to execute against our plan. Whether you're in a market that's suffering a little bit from a macroeconomic headwind, we still have the best mobile product in that market and we are growing. 
+So, I think, at the end of the day, it's the fundamentals of our business that are going to drive our success, and we're focused on that. But wanted to at least give some color around how the currencies might impact the 2015 results.
+
+Answer_19:
+
+    Q4 is a really important quarter in general, but it's a particularly important quarter for e-commerce. So, it's a timely question. 
+When you think about buy on Facebook, it's a small task in the US we started last quarter. It enables people to buy on pages. 
+To be clear, you're not buying from Facebook, you're buying directly from the merchant. And it's really an SMB product to give them capability they haven't had. 
+We'll see what happens in terms of where people convert, whether it's on Facebook. But we think the opportunity to connect consumers with the products that they then purchase is a really big one. Where we play in that most directly is the time and attention consumers have, as well as the information to do very relevant advertising, and we're going to stay focused there.
+
+Answer_20:
+
+    Robert, I think the bulk of the investment that we're doing is really focused on the capital and the OpEx to deliver against the core mission of enabling billions of people to connect and share. So, for the most part, we're looking at what do we need to deploy to deliver against the mission to deliver against our overall financial results. There are places where we can individually take out specific projects, whether it be M&A or specific capital investments, and then we'll look at those on an IRR basis for specific projects. 
+But you have to recognize that we're basically one large business, and we're operating against capital deployment against delivering, against the objectives of that business. That's the bulk of the spend that we do. But certainly we look at things on an ROI basis on an individual project basis, as well.
+
+Answer_21:
+
+    You are right that the focus for WhatsApp is on helping to connect a lot more people. When Jan and team joined us, one of the first things that we agreed on, and why I think it made sense for them to join, is that now they can focus for a few years on getting to 1 billion more than that and continuing to scale. 
+Beyond that, SMS is an incredibly global and universal product. And I think WhatsApp just has a huge opportunity to serve billions of people. 
+In terms of what the business looks like, at the end of the day, it's a distribution business, like Facebook and Instagram. How you most effectively convert that into business opportunity for customers, whether that's through payments or ads or other different kinds of structures, we'll figure that out, what the optimal thing will be. 
+But the first order thing to do is to help serve billions of people here, help continue to increase engagement. And if people are spending a lot of time in WhatsApp, sending more than 30 billion messages a day, which is really crazy when you think about the volume there compared to the global SMS volume overall. And I think if we do that, there will be a number of opportunities. 
+People asked me this question a while ago, about how we thought about games on Facebook, as well. I always thought about our canvass business on desktop, even though it was payment, as actually the same thing as our business on mobile around app install and engagement. 
+What developers tasked for is distribution. And whether they're doing that through payments or ads or whatever it is, it kind of is all the same. The most important thing is to help people connect, help people and businesses connect, create business opportunities. And then you get a small amount of the value that you are creating on top. 
+So, that will play out over the next set of years. It's one of the intellectual challenges that I'm really looking forward to tackling.
+
+Answer_22:
+
+    I don't think there's any single source of where the dollars are coming from. Certainly as consumer time and attention is shifting to mobile, the marketer time and attention, we pay a lot of attention to the marketer segments we work with. So, we're seeing strong growth from brand, from direct response like e-commerce, from SMBs and developers. 
+We stay pretty focused, not really on the source of where the money is coming from but what are the objectives people are spending against on Facebook so that we can meet all the different objectives. We understand that in order to continue to grow -- and we want to continue to grow -- we're going to have to serve multiple objectives on the Facebook platform, and that's what we're focused on.
+
+Answer_23:
+
+    Mark, I think the simple story is we're really pleased with how we're executing on the engagement front. 64% of people coming to Facebook monthly, coming on an average day, is, we think, a great stat. I think small changes are pretty much noise. We're really happy with it. 
+We talked about things like the video engagement. Mark shared some stats like how much photo sharing is going on across our properties. Overall, I think engagement is a great story for us and we are really happy with it.
+
+Answer_24:
+
+    Great. Thank you, everyone, for joining us today. We appreciate your time and we look forward to speaking with you again.
+

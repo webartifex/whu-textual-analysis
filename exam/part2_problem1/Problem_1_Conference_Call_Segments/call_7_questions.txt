@@ -1,0 +1,114 @@
+Question_1:
+
+    Hi. Thanks for taking my question. Two if I may. Tom, you mentioned in the past that China is an area of investment. Can you say little bit about what are the main drivers of investment there, whether it's marketing pricing fulfillment? And how would you decide on any given year how much you invest in China just given the size of the potential market and opportunity?
+And secondly, we saw a material deceleration in the North America Other revenues. Was this primarily driven by AWS deceleration, and is this deceleration a meaningful contributor to the losses implied in your next quarter guidance? Thank you.
+
+Question_2:
+
+    Thank you.
+
+Question_3:
+
+    Tom, can you talk a little bit about the deceleration in the units and then also in terms of the third-party dollar, it looks like you're kind of trending on 40% for a while. It ticked up a little bit to 41%. So if we adjust for Digital, how should that trend be looking? Thanks.
+
+Question_4:
+
+    Thanks for taking the question. When looking through the expense lines, Tech and Content seem to have an upward pressure in the quarter. Wanted to maybe get a little more granularity on what was driving that upward pressure and whether that's sort of a new run rate of expense as we saw in the first half of this year. Thanks.
+
+Question_5:
+
+    Thanks for taking the question. This is Kaizad Gotla in for Doug. I was wondering if you could just talk about the deceleration in your international EGM line. And then separately, now that you've had the Prime price increases in effect for about three months, wondering if you could just talk about any changes you have seen in sign-ups or conversions there. Thanks.
+
+Question_6:
+
+    Helpful. Thanks.
+
+Question_7:
+
+    Thanks for taking my question. Common sense based on sort of what you've talked about in the disclosures around the price -- the amount of the price decreases. But common sense would suggest that all, if not most, of the CSOI margin decline that you posted in Q2 year on year is related to the AWS price changes.
+And common sense would also suggest that given the significant volume gains that you are seeing in that business that Q2 might be the most impacted quarter from that yet the third quarter guidance suggests that it's having an even greater impact on Q3.
+Just wondering if you could help us think through that. Is there some timing issue related to the impact of that, or is there something else going on within the core retail business or maybe some other one-time items that might be impacting your Q3 outlook? Thanks.
+
+Question_8:
+
+    Appreciate the added detail.
+
+Question_9:
+
+    Great. Thanks for the questions. First question on FBA. Any insights on the penetration of third-party sellers using FBA? Maybe you could comment just directionally. Is the number trending up or down? And separately, it's been less than a week but can you comment on early feedback to Kindle Unlimited by customers and publishers? Do you expect this to be the model for digital book consumption in the future? Thanks.
+
+Question_10:
+
+    Great. Thanks. I was just wondering, you mentioned that you were happy with the results that you are seeing from the video content. I was wondering if you could give us a sense of how that manifests itself, whether it's more Prime subscribers, whether it's more consumption of downloadable video content within the ecosystem.
+And then, Tom, to the extent that you're talking about AWS volume increases on a year-over-year basis, can you give us a sense of how that may have trended over the course of the quarter as your AWS customers were able to sort of adapt to the price reduction in March?
+
+Question_11:
+
+    Great. Thanks.
+
+Question_12:
+
+    Great. Thanks. Just a couple of questions. First on AWS. Just wondering your take on the competitive environment in public cloud. Has it intensified over the past 6 to 12 months and just given the investments in AWS, how do you view AWS's competitive positioning?
+And then if you could just touch on the key drivers of EGM growth in North America and are those the same drivers of growth internationally or are there different drivers on North America versus International? Thank you.
+
+Question_13:
+
+    Thank you.
+
+Question_14:
+
+    When you mentioned that AWS is growing 90% year over year, what exactly is growing 90%? Is it storage? Is it something else? And then on the phone itself, are there any key differences in how we should be thinking about that piece of hardware versus other hardware you've done in the past where Jeff has discussed the notion of essentially wanting to break even.
+And then just a follow-up on that, how are you modeling the impact of the phones on the P&L in 3Q? Is it going to be more or less than the original content initiative? Thanks.
+
+Question_15:
+
+    Good afternoon. Many investments one area looks like where you are getting a return is in the gross margin. If I take out AWS, it looks like you are up nearly 200 basis points. What are the drivers of that eCommerce margin increase? Are you seeing it primarily on the first-party margin expansion, and if so, why and how much is coming from third-party unit increase? Thanks.
+
+Question_16:
+
+    Thank you. Tom, it might be a little bit of a disconnect when we've seen prior investment cycles such as distribution buildout or devices with say the Kindle reader, we did see the impact on units and accelerating growth in some of the categories. This time around, you've been investing for a couple years and I guess we are not really seeing the acceleration that some are looking for.
+Maybe you could talk about what gives you confidence in investing in devices like the Fire TV and the phone and all the content you are doing and are seeing some underlying signs that say activity is picking up. Maybe you could walk through that.
+
+Question_17:
+
+    Thank you.
+
+Question_18:
+
+    Okay, thank you very much. Going back to the $100 million in spend on the original content that you mentioned earlier, as the business -- as that part of the business grows, is there any reason to believe that the amount of spend on originals will go down? The assumption here is it will only go up. So is that $100 million a good level to work off of?
+And then going back to the Fire phone, just trying to understand the strategy around the product longer term. Is it, again, just to try to further build the Amazon ecosystem with all its benefits or do you think this is a -- this could be a self-funded business? Thank you.
+
+Question_19:
+
+    Thanks, Tom.
+
+Question_20:
+
+    Thanks for taking my questions. I have two. The first one is around CPG, consumer packaged goods. I was wondering, Tom, can you talk to some learnings in CPG so far of what's working and what you think is still holding back faster CPG adoption. Do you think you need a same day delivery offering at this point for CPG kind of given Google and given the traditional retailers push into that category?
+And then the second one, the close to 90% AWS usage growth, just to help us understand a bit more. What did that number look like in 2013? Thanks.
+
+Question_21:
+
+    Thanks.
+
+Question_22:
+
+    Thanks. I wanted to follow-up on that William Blair question about the gross margins, only because I know you don't focus on them and there's a lot of mixed factors that you correctly pointed out, but that's a record high gross margin for you, 30.7% ever. And it's in the context of a quarter in which AWS clearly came in because of the price cuts. And so there's something else that happened there that really caused that gross margin to gap up. Could you give us any color?
+I understand a lot of puts and takes in there. But something must've happened that was unusual to have that kind of result with the slowing down AWS contribution. Thanks a lot, Tom.
+
+Question_23:
+
+    Okay.
+
+Question_24:
+
+    Thanks. It looked like revenue per active customer accelerated again this quarter, I think over 5%. It was running closer to 2% to 3% last year. Could you help us understand what's driving that? Whether it's Prime particularly or anything -- any color on that. And when you gave the Prime numbers, second quarter more sign-ups, whether that was a gross or a net number. Thanks a lot.
+
+Question_25:
+
+    Thanks Tom. One of your executives in the UK recently mentioned the Company's goal of reaching 1 billion different products available for sale on the site. I wonder if there is an expansion in selection beyond what we've seen recently that could help accelerate growth and related to that, are you still relatively agnostic in terms of the splits between first and third-party unit sales. Thanks.
+
+Question_26:
+
+    All right. Thanks very much.
+

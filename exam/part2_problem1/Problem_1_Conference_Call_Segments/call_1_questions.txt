@@ -1,0 +1,72 @@
+Question_1:
+
+    Tom, it looks to us that you have successfully begun the transition of your logistics cost in the direction of being more of a fixed fulfillment cost, with lower unit base shipping costs, given that the growth rate of up on shipping is now meaningfully below the fulfillment growth rate. So the  question is, is that something that we should expect to continue now on the back of this meaningful fulfillment center expansion ramp? 
+Then separately, but on the same topic, we're also wondering, are there other parts of the business in which you can make this transition to more of a fixed cost in the future? Thanks.
+
+Question_2:
+
+    Just wanted to ask about the shift to third-party and in particular, I think last 4Q, you talked about shifting more of the business in the video game space in particular to third-party. Are there certain categories that you would specifically point to in this last 4Q where you made   a similar shift? Thanks.
+
+Question_3:
+
+    Looks like you're moving more in the direction of same-day shipping. Would you provide any thoughts or insights here? Should we anticipate a significant ramp-up of fulfillment center build-outs, particularly in Q2, Q3?  Maybe you could just comment more generally on your FC build-out plans, US versus international. Thanks.
+
+Question_4:
+
+    The paid unit growth deceleration to  32%; there seems a bit of a disconnect versus an active customer growth that didn't decelerate as much on a per-customer basis. Are you seeing some change in overall activity? Is that the impact of newer international markets?  Then just on the investment cycle, the last couple of calls,   you've consistently called out future investments, whether the $1.4 billion for Seattle or distribution center expansion. You didn't do it this quarter. I don't want to over-read into it, but does that mean that we're at the end of a major investment cycle? Thanks.
+
+Question_5:
+
+    I was wondering if you could give us just a bit of a sense of what you're seeing as you roll out fulfillment centers into new states. Obviously, the sales tax issue has been one that's come up a good bit. But  you've touched on the impact of being closer with faster delivery in those same states. Net-net, what do you see as being the impact on -- I'm not asking you to give us a state-by-state breakdown, but the impact of rolling out the fulfillment center footprint, taking both of those things into account?
+
+Question_6:
+
+    From a high level, can you remind us the margin difference between 1P and 3P? I know in the past you've talked about you  being agnostic between the two. But the growth in 3P and what your CSOI margin as  would imply that 3P has a little bit  higher margin. Is that the correct read-through? Thanks.
+
+Question_7:
+
+    On the device strategy, with Kindles and Kindle HDs, can you help us at all with what you're seeing with attach rate trends on digital goods, after people buy the Kindles? Then  generally, do you see a higher overall GMV per customer on Kindle devices than users on Amazon apps through other devices?
+
+Question_8:
+
+    As you guys build out the Prime membership and the SKUs available through FBA, you run into this challenge of increasing your unit volume of tail items.  At the same time, you need to get products to customers in much shorter shipping cycles. So can you talk about how the new fulfillment footprint helps on that front -- is your reliance on air going down as a percent of total items shipped? 
+Then if I remember correctly, you guys reclassified some FBA revenue early in 2012. Can you just remind us how that flows through the shipping revenue line and what would happen as you comp that in the beginning of '13? Thanks.
+
+Question_9:
+
+    Last year, you reported 4Q in the lower half of revenue range and you were able to call out Taiwan and video games category. Any reasons why revenues were   in the lower half this quarter and then if you look at gross profit growth, it clearly has accelerated to 40% growth, but unit growth decelerated to 32%. Can you describe what's driving that   accelerating gross profit in the face of lower unit growth?  Is it possible maybe you're letting the third-parties handle some of the maybe less profitable categories for Amazon? Could you talk about that at all? Thank you.
+
+Question_10:
+
+    I wanted to ask you on Amazon Instant Video, how you felt about your current offering and your ability to add exclusive content in a cost-effective manner through Amazon Studios? And  what the relationship is between adding more titles and uses on your hardware such as your Amazon Kindle devices? Thanks.
+
+Question_11:
+
+    Can you talk a little bit about the non-AWS drivers within that line, such as advertising?  As you look out, are there advantages to you in terms of having AWS, as far as offering things like buying, serving analytics through the AWS platform to advertisers? Where are you   in that roll-out phase now? Thank you.
+
+Question_12:
+
+    I wondered if you could comment on the pace of business throughout the fourth quarter. Did you see a particular deceleration in the month of December?  Second question, on international, I'm wondering are there any callouts in terms of specific countries that may have been weighing on profitability, countries where there's outsized dollars of investment going on, or accelerated investment at the current time? Thanks.
+
+Question_13:
+
+    In terms of -- there's not a lot of specifics. We have a long-standing practice of not talking about  trends within the quarter, and -- but  in terms of year-over-year growth or anything like that. Obviously, the  Q4 is very seasonal.   December is, by far,  the largest month  followed by November, but in terms of individual growth rates,   don't have a lot of comments there. 
+In terms of international, yes, there certainly are geographies that we're investing in heavily.   Certainly China would be one. Some of the newer --   some of the European countries, including some of the newer launches we're investing in.  So those are certainly -- you're seeing those represented in those segment results.
+
+Question_14:
+
+    In terms of your  recent margin profile, that's truly comparing US and International, over the past four quarters, the vast majority improvement of other have been less worse margin continuing of -- seeing have  been  due to US margins improving, whether International was, planning in the range of  300, 350 basis points. 
+In Q4, international declined just 160 basis points, so my question is, should we read this as a big enough of a trend that we saw,  how international -- how domestic margins increased over the last four quarters, whether international should follow the same route over the next foreseeable future?
+
+Question_15:
+
+    It looks like the first-party gross margin is actually  up fairly meaningfully year-over-year. I wonder if you can  talk about that within the context of how  Amazon Kindle hardware is impacting the  gross margin. Then separately, just any view on how video game sales  impacted  the year-over-year growth rates for the quarter? Thanks.
+
+Question_16:
+
+    The content cost for Prime Instant Video flow into the cost of goods line, even though there's no direct revenue associated with it, not into the tech and content line, right?  Is that right?
+
+Question_17:
+
+    Okay. So gross margins would have been even higher if  those costs were included elsewhere or broken out separately. Do you have any   common or -- to reduce the carrying value in your investment in LivingSocial, do you have a feel  on a broad strategic level as to whether the local deals business through Amazon Local or through LivingSocial is something that you care to keep investing in? Thanks.
+

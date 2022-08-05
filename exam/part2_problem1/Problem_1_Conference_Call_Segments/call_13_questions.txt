@@ -1,0 +1,108 @@
+Question_1:
+
+    Okay, thanks. So Brian, I think in the past, you've given some indication as to what usage growth may be at AWS. I was wondering if you have an update for that in the fourth quarter? And secondarily, is there any way to characterize what the pricing environment is right now for AWS as well? Thank you.
+
+Question_2:
+
+    Thank you.
+
+Question_3:
+
+    Thank you. Can you talk a little bit about the dynamics in fourth quarter, eCommerce, particularly in the US? Did we see more aggressive promotional activity? And maybe talk about how you tried to work that to continue to drive the Prime number of members going forward? Thanks.
+
+Question_4:
+
+    Perhaps how are you able to integrate that into holiday promotions?
+
+Question_5:
+
+    Sure. Just any additional color around Prime, and how you were able to integrate that into holiday promotions?
+
+Question_6:
+
+    Hey, thanks very much. Two questions, both on the logistics side. It seems pretty clear that you guys are trafficking in some old world assets, like truck trailers, and ship lanes, and air fields. Can you help, give us a sense as to maybe what we're trying to accomplish with that? If it's defensive to protect your service to your existing customers, or if you're looking to maybe start new businesses with those assets?
+
+Question_7:
+
+    Thanks for taking my questions. I've got two. The first one is just on gross margins. I think they were down about 200 basis points sequentially. It's the biggest fall in the fourth quarter in quite sometime. Anything you would call out there? Is it devices, or more sortation centers? Is there anything pressuring gross margins we should think about in the fourth quarter?
+And then on the fulfillment line, you mentioned FBA being a big driver of the growth in the fulfillment costs. Anything else you would call out, leading to incremental fulfillment costs? Maybe India or something else? Thanks.
+
+Question_8:
+
+    Great, thanks. One follow-up, and then another question. On the logistics and transportation side, I was curious if that's to date, just to supplement some of the other carriers? But more broadly or longer term, is there an ambition from the services side, to perhaps provide capacity to other companies?
+And then on AWS margins, was just wondering if we should expect more leverage there going forward? And whether Q1, whether that should demonstrate some seasonality, versus what we've seen in terms of sequential growth in prior years? Thank you.
+
+Question_9:
+
+    Hi. So a lot of headlines around Amazon's activity at SunDance. I was hoping maybe you could expand once more on the video strategy, and specifically are you seeing an inflection in Prime Video usage? And maybe, just also on your streaming partners program, what the general reception is like? Thank you.
+
+Question_10:
+
+    Two things, please. Any call outs on the macro side? Occasionally, you called anything -- you've called things out, anything this time? And then, could you talk a little bit about Amazon business?
+I know that there is a little bit of a line in the press release on it. I know you've had this for a couple of years. But any indications to the materiality of that, the kind of momentum it's gaining, the kind of traction it's gaining? Thank you.
+
+Question_11:
+
+    Thanks. Brian, question on the international retail business. I think you added well over $1 billion in revenue year-on-year in the quarter, but from a CSOI perspective, you really didn't see any improvement there. I'm sure there is -- there are a lot of different things going on.
+I just wonder if you could unpack that a little bit, and give us a sense of what profitability looks like maybe in some of your more mature, established countries and regions, relative to the investments you're making in other countries? So that we can kind of get a better picture of what's actually going on under the hood there? Thanks.
+
+Question_12:
+
+    Thanks for taking the question. Two things. Just first, on the North America EGM growth, if you could just talk about the 28% there? And the decel on an easier comp, and whether there's any particular factors within that we should be thinking about? And perhaps, if there was any weather and apparel impact there?
+And then second, last quarter, and I don't want to misquote you, but you said something along the lines of, being able to invest as you would like, and also deliver good profit, and that the pendulum wouldn't swing as far perhaps as it has in the past. Is that statement and thought still hold, as you head into 2016? Thanks.
+
+Question_13:
+
+    Great, thanks. I was wondering if you could give us a sense, as we look at the slowing growth in AWS, obviously, still from an incredibly high level, and still very strong growth there. But try and take that into context, with the growth in margins that you keep seeing in that business, to levels that certainly seem a lot higher than you would anticipate for an Amazon business. Is there any capacity constraint or management that, that's driving pricing strategy in AWS?
+We've heard the comments about the number of availability zones that are being launched this year, which is obviously about a big part of driving incremental capacity in that business. I'm just trying to balance those, think about how we should balance those three things?
+
+Question_14:
+
+    Sure, sure. Got it. Thank you.
+
+Question_15:
+
+    Thanks a lot. First question is, if you can provide maybe some context around linearity within Q4, more as a -- compared to your expectations? Obviously, you have a ramp-up into the holiday season, but was -- did December tail off faster than you expected, or did the ramp-up, did it spike higher than you expected? And then, just on the follow-up, maybe can you add some context about how the mobile played a role in the holiday season for Amazon? Thanks.
+
+Question_16:
+
+    Thank you. I have two. I want to go back to AWS margins. You talked briefly about purchasing an asset utilization. But do this explain the 800 bps or so, on your year-on-year margin expansion?
+And are you seeing anything else? Like is there any impact of scale driving leverage over fixed costs? Is there some benefit from revenue mix shift, like services, like Aurora and RedShift growing faster than EC2, or is all the margin expansion due to purchasing and asset utilization? So that's the first question.
+And the second, I have a question about your streaming content expenses or cost of revenues to be more precise. Last year, you told us they were $1.3 billion, but if you didn't give us a figure for 2015. In lieu of that, can you comment on whether 4Q saw higher than usual costs for streaming content, compared to other quarters in the year? Thank you.
+
+Question_17:
+
+    Thank you. You mentioned Amazon Dash in the press release. Can you give us some color around how you're viewing the traction there, both with customers, and with brands and devices? And then, maybe any update on Twitch? How is traffic and user engagement been trending on that site? Thanks.
+
+Question_18:
+
+    And maybe just quickly, end of year fulfillment and sortation centers?
+
+Question_19:
+
+    Hey, good afternoon. I want to just quickly revisit the margin pendulum question in some of your comments, as you mentioned that to kind of expect it to ebb and flow. Could you tell us if you expect it to ebb and flow, but moving higher? Or is ebb and flow just mean that, that it's kind of undetermined in 2016? And then, a second follow-up, is the robotics. Any update in terms of number of robots, or how you see that expansion going forward? Thank you.
+
+Question_20:
+
+    Thank you. Two questions. Was there any category mix impacts in the quarter on gross margins? That's just a quick one.
+And then secondly, as you look back at last year, you had some quarters where you really exceeded your guidance on the CSOI line. Maybe looking back, or just looking forward, what are the types of things that causes you to come in at the high end, versus maybe the low end, when you look back, or when you look forward? Thank you.
+
+Question_21:
+
+    Great. Thanks. Just wonder if you could give an update on the strategy around same-day shipping? How we should think about kind of further expansion of that? And kind of what parameters do you guys use to determine what markets to go in? Is it density of the market? Is it proximity of your distribution facilities? Just some color on that would be great.
+
+Question_22:
+
+    Great. Thanks for taking the questions. I wanted to ask more about North American operating margins, because I think they expanded just under 50 bps this quarter to 4.7%. And that compares to an average of 200 basis points thereabouts, expansion in the prior three quarters.
+So I'm just wondering, if in 4Q maybe higher FPA costs or something else in there that led to, maybe an expansion not as great as we saw in prior quarters. And then, following up on the Prime Now question just now, I'm wondering how an hour delivery or two-hour delivery has changed a consumer's perception of just delivery overall? Thank you.
+
+Question_23:
+
+    Great. Two questions, please. One, it seems like the Echo did perform well. Can you talk more broadly about your Internet of Things ambitions, and kind of how Echo plays into that strategy?
+And then, secondly, just wanted to know a little bit more about restaurant delivery? It seems a little bit outside of the wheelhouse. What's the impetus behind doing more in terms of food delivery, and what are your ambitions there? Thanks.
+
+Question_24:
+
+    Great, thanks. Two questions. First one, shipping costs were higher than we expected. I think it was 12.5% of net revenue, versus 11% last year.
+Just any color on the higher shipping costs? And is that percentage of net revenue a new normal, as we are in 2016 now, and as we look out? And then the second question on Prime Now, in 25 markets globally, how should we think about the total number of markets that, additional markets you can enter with the Prime Now offering in 2016? Thanks.
+

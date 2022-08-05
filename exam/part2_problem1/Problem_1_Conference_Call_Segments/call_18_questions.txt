@@ -1,0 +1,68 @@
+Question_1:
+
+    Got it. Saw on the front pages of release you're really focused on India. Can you give us a progress update on how you're doing? Any thoughts on how far you're willing to take the investment levels there? And what are your thoughts on maybe when international margins can start to make progress?
+
+Question_2:
+
+    Any thoughts on how much this is impacting your international profitability?
+
+Question_3:
+
+    Okay. 2 questions. The North American operating margins seem to come down like 70 bps year-over-year, and I know it's not a big focus of you, the margins. I get that, but it's sort of a change. You've had margins be flat or up year-over-year for quite some time and now they dip down. Just could you explain that? And then secondly, on these -- on the Echo devices, the Echo family, Alexa devices that are coming out, could you comment at all about what kind of impact you're seeing in terms of increased wallet or per share within household? Are you seeing that have an impact in terms of Amazon customers more likely to spend more once they have these devices in particular categories like groceries or household products, Pantry, products that they're more likely to spend because they have these devices in their houses, in their kitchens, in their living rooms?
+
+Question_4:
+
+    I have 2. Just the first one, Amazon always has a pretty big focus on efficiency. So I'd be curious to talk -- if you could talk about examples or areas where you've been able to iron out inefficiencies in the fulfillment process. And there's -- any still existing examples where you see low-hanging fruit to really improve fulfillment efficiency? And then just back to the point on investment, you didn't mention brick-and-mortar at all, yet there's been a lot of mention in the press about Amazon brick-and-mortar. I guess I'd be curious to hear how you think about the importance of an Amazon brick-and-mortar presence and how that fits into the long-term strategy.
+
+Question_5:
+
+    Brian, I think you mentioned accelerating growth within AWS on new products, and last year you added about 1,000. Can you just talk about maybe the plans for AWS and product growth going forward here in 2017 and the focus on innovation?
+
+Question_6:
+
+    Brian, a couple questions about your growing advertising business. We see more and more of it appearing on the site, and I was interested to hear a little bit more about how you expect that business to roll out internationally. I think it's largely U.S.-based today, but be curious to hear about that. And then second, I think it's fairly obvious what someone selling within the Amazon ecosystem would be interested in promoting on the platform. But maybe tell us a little bit about maybe over the long term, there are opportunities for sort of non-endemic advertisers within your platform.
+
+Question_7:
+
+    So you periodically disclosed usage growth for AWS, but it has been some time since we saw one. So we're wondering if you can update us in terms of where you are now. If not, I mean, should we think about the growth in your cash deployment as an indicator of the ongoing growth?
+
+Question_8:
+
+    I just want to ask you about CapEx. It looks like CapEx, including leases, more than doubled year-over-year. So I know you listed kind of a long list of the many investment opportunities here, but can you just point out anything else in particular that drove the pretty substantial increase there?
+
+Question_9:
+
+    I know that we talked about over the last couple quarters that part of the step up in CapEx was to catch up from the underinvestment in '15. Just curious if you'd say -- have you made a lot of progress in terms of catching up with some of the fulfillment needs that you saw necessary in the business at the beginning of last year? And then I know you just said that you're -- it still is early days in terms of advertising. But there's a perception out there that over the last year or so, that the company has sort of really begun to focus more on this business opportunity. Has something really changed at the business in the last year? And do you see advertising becoming a more meaningful part of the business over the near to midterm, I guess?
+
+Question_10:
+
+    Wondering if you could give us a sense of how we should think about the increase in unearned revenue. Obviously this quarter, the biggest increase that you've seen from at least from a dollar perspective. What does that say about the way customers are changing in the behavior in the AWS business? How should we think about the way that, that might be impacting pricing mix, near-term growth?
+
+Question_11:
+
+    Question on the transportation and logistics initiatives and, in particular, if you could share any of the facts or learnings thus far with air cargo. In particular, what kind of performance or cost efficiencies that you may be realizing or expect to realize from this effort.
+
+Question_12:
+
+    I was wondering if you could talk a little bit about where you are in terms of investment and capabilities in India at this point and how you think about that market longer term. And then secondly, also if you could just comment on the limitations and your willingness to invest more throughout LatAm, the way you have more recently in markets like China and India. And if I could, just finally, you've previously discussed satisfaction with the measurements of success for the video product in terms of consumer engagement and the effects on Prime. I was just wondering if you could comment on whether these metrics are continuing to improve as spending continues to rise on video and consumer awareness is seemingly growing as well.
+
+Question_13:
+
+    So is there -- just an accounting housekeeping, a way to think about stock-based comp. You guys aren't providing that by segment anymore, but the rates of growth kind of differed by the businesses. And so is there just a way to think about, a, will that be in the Q, or are you not disclosing anymore? And is there a way to think about would, I guess, the patterns be consistent with historical patterns by segment?
+
+Question_14:
+
+    Maybe I could take 2 away from the press release just to understand a little bit of the quarter-over-quarter cadence. The retail subscription services, that's a pretty big jump up in the growth rate year-on-year in Q1 versus Q4. I think that might be Prime memberships had come on to paid from trial, but just want to understand what maybe what some of the driver was of that quarter-over-quarter in terms of the growth rate. And net shipping costs actually grew at the slowest rate by our count in a couple years. It looks like you're starting to get some improvements there in terms of revenue over costs on the shipping line. I just wanted to know what that was in terms of what's driving that, and can we expect that to possibly continue.
+
+Question_15:
+
+    I have a follow-up and then a new question. The follow-up is would love an update. You talked about the fulfillment centers, but could you update us on where we are in terms of rolling out Prime Now facilities and sorting centers -- just a count? And if you feel that's an area to really ramp-up investment this year, or what you got last year is sort of what you need.
+
+Question_16:
+
+    And the sorting centers.
+
+Question_17:
+
+    But when you think about building out the capacity, it sounds like last year you had that big surge in fulfillment centers. There isn't a similar surge about to happen this year on some of those other areas?
+

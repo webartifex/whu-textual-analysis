@@ -1,0 +1,306 @@
+Answer_1:
+
+    That's correct, Betsy. As we said, substantially all of the $2.4 billion related to a build in our litigation reserves for matters that we have disclosed previously.
+
+Answer_2:
+
+    You bring up a good point. It does not relate to the previously announced Article 77. It does not relate to the remaining monoline exposure, given that we settled the FGIC closure within the context of our reserve level, so it relates to other mortgage-related matters outside of those that we have disclosed previously.
+
+Answer_3:
+
+    And I wouldn't interpret or necessarily assume that the build in the reserves suggest a settlement is eminent.
+
+Answer_4:
+
+    Sure, I think if you -- obviously, the numerator in both is the same and we saw during the quarter -- we saw improvements in OCI in the numerator and we saw some significant improvements in our threshold deductions. That numerator applies to both standardized as well as the advanced approaches.
+If you look at the standardized risk-weighted assets, the big driver down there, related to the reductions in our consumer real estate, both first mortgage as well as home-equity, is those portfolios reduced from longer dated assets. In addition, you had the seasonal decline within the card portfolio that helped, and that was moderated a little bit by the growth that we saw in commercial loans.
+So I think as you look at that Basel III standardized ratio, what was driving risk-weighted assets were actual reductions in exposure. There wasn't anything related to the models or assumptions that factored into that.
+If you move over to the advanced approach, where we reported at 9.9%, which was down a touch, the biggest change and we continue to work with and look to refine and take guidance that we are getting with respect to operational risk, the operational risk-weighted assets during the quarter as we continue to refine that, we're up about $50 billion and now represents almost 25% of our overall Basel III advanced risk-weighted assets. And I think as you look at relative to our peers, brings us -- puts us in line with where our peers are with that and we'll continue to refine and work through that in the future.
+
+Answer_5:
+
+    I'm sorry, Betsy, I missed the first part of your question on --
+
+Answer_6:
+
+    On the global markets, the trimming that we did was announced as sort of the annual trimming that goes on. You remember we always are adding -- and we had, frankly, record hiring from schools this year coming in so we always are adjusting the head count to keep the expenses in line based on -- we are going to have a lot of new people joining us here as we get to the summer that we have already made offers to, and it is kind of the general vetting.
+So I wouldn't put that as anything other than day-to-day expense management and also just the natural turnover in the business. The second part, Bruce?
+
+Answer_7:
+
+    Yes, on branch optimization as we look at that, and I think you really get a sense for the progress within branch optimization when you flip to the Consumer and Business Banking segment. A chunk of that relates to new BAC, and you can see over the course of 12 months as we have taken the branches down by about 300 units, that has contributed to on a year-over-year basis the $180 million of expenses that we saw during the quarter.
+
+Answer_8:
+
+    Betsy, so this is a long-term strategy, so whether it is New BAC or not, we will continue to optimize the platform. And what we show you back in the appendix slide is the mobile banking growth is pretty strong. So at the end of the day, if you look at it across the last 5 or 6 years we have more customers, a lot more deposits and a lot less cost structure as we reposition to meet the customers' changing uses of first computers then phones and the enhanced effect of the ATMs.
+So you should expect those techniques to continue. But be that as it may, we also still have 7, 7.5 million people come in our branches every week that are great opportunities to engage with customers that we also continue to see strong foot traffic. So we are manning this to meet those needs from both the people who come into the branch and the people who use the automated technique. And that is the challenge as we go forward.
+I think we have done a pretty good job of bringing them down and keeping the expenses moving with the customer flow.
+
+Answer_9:
+
+    We will adjust -- every month they keep looking at it and making adjustments as they look over multiple years in the future, but if you remember originally we said we would get around 5,000 out of New BAC. That was kind of a number we gave you and we are there.
+But also remember that what you define as a branch will change. We have these express branch formats where there are salespeople plus what we call ATAs, which are ATM machines that you can actually pull up -- work with tellers directly. It allows you to cash checks to penny, authenticate without your card to stick into the machine, the same things you do with a regular teller, and so it is all important to us.
+I think focusing on the numbers as opposed to the overall cost of the structure, all of the parts is and that is what I focus on. If you look at that, we continue to drive that down, taking all the costs of the whole infrastructure relative to the deposit base, that is down from -- it is down near 200 basis points.
+
+Answer_10:
+
+    Sure. The first is -- why don't we start -- if you start with the -- within the global banking segment, you saw loans relative to year end up about $2.5 billion and up more significantly than on a year-over-year basis.
+We say that we continue to see good loan demand within the commercial space. It is across both C&I as well as real estate, so we feel good about that.
+But as I did note that during the quarter, there were certain opportunities and things that we looked at that we did not do in that we very much have a focus not just on growing the loans but the returns that is generated from those loans. And going forward, you should expect to see us grow loans but we are going to be prudent and it needs to be at returns that makes sense and for those customers that we have good relationships with.
+If you move to the consumer side, as I did note, and you can see it when you look within the CSDB segment, that the majority of the loan reduction we saw in consumer was really three things. It was the payoff of first mortgage loans that were held for investment purpose within the investment portfolio; it was the continued reduction within the home equity business where we have about $3.5 billion of home equity loans that repay each quarter. Those tend to be older vintages, and we get back to the home equities that we are doing when I finish, and then the third was the overall card balances were down about $4 billion, which on a seasonal basis is what we would expect and we would look to see those card balances stabilize as we go throughout 2014.
+As it relates to new activity, we did note that the pipeline is up about 23%. What we saw was not materially different than others in the first month, two months of the quarter.
+Applications in volume were down with some of the weather, but we did see a pickup in that activity which led to, obviously, off of a low base, a 23% increase in the pipeline as we go into the second quarter. The other thing I would reference is if you look back, you can see that we have been able to increase and move up what we are doing on the home equity fronts where we have $2 billion of originations during the quarter.
+And I would just note from a credit quality perspective and what we are seeing there, those loan to values tend to be in the sixties with FICO scores deep into the 700s. So that area is providing an opportunity for us as well.
+
+Answer_11:
+
+    Especially in the consumer business, the runoff affects the overall numbers.
+
+Answer_12:
+
+    Because remember, we have still got the portfolios that we inherited from acquisitions that they are still running through the system.
+
+Answer_13:
+
+    Are you referring to the range of possible loss that we disclose when we put the Q out?
+
+Answer_14:
+
+    Yes, I think we are working through and refining that. We don't put that out with earnings, we put it out when we file the 10-Q.
+But to your point, I don't think there is -- we obviously made progress with getting FHFA put behind us as well as FGIC and some other related matters. And we are working through where exactly that range of possible loss comes out, but hear your point.
+
+Answer_15:
+
+    Yes, as we noted in the script, that we did complete the final monetization of an investment that was a decent chunk of that. So I would not expect to see those revenues at those levels going forward.
+
+Answer_16:
+
+    Yes, keep in mind, you only pick up one day, Q1 to Q2, but I think you have a couple things, as I mentioned. You've got relative to the first quarter, you do have lower card balances given the seasonal bump that you see at year end that you carry a fair bit of during the first quarter.
+We did build up throughout the first quarter a significant amount of liquidity anticipation of those rules. That will contribute a little bit to the decline in the second quarter, and then as we solve for that, you would expect to see that move up, so nothing structural.
+We do have some seasonal stuff in the markets business that we do, that depresses things that touch in the second quarter. So as we said, it is obviously early in the quarter, but we are expecting a slight decline but then we would expect the trajectory to get back to the levels that we have previously talked about.
+
+Answer_17:
+
+    Sure. I think, as you look at it, one of the things that we continue to work through is that the debt footprint will come down, although more modestly, but what we are seeing is as we look at the levels at which we raised debt going forward, the cost of that has come down significantly. So you have some pick up there.
+You obviously have some pick up with some of the loan growth that we are seeing within the commercial space. And we continue to take deposit pricing down as well, although we are down to levels that are harder to get much lower. And I do just want to remind you, John, I know you know this that as we give this guidance, it backs out and it excludes market-related impacts that come out of FAS 91.
+
+Answer_18:
+
+    I think, John, I think you have to split between -- we continue to -- and I'd just remind, as you look at the litigation pipeline and you look at where we are, we have obviously gotten through the base rep and warrant with respect to the GSEs. We were able to get through and reach an agreement with FGIC, which is the fourth monoline settlement that we have, and then we are working through and the Article 77 case is going through a judicial process.
+So as we continued to reduce the number of outstanding litigation items that we have, that should obviously bode well for what I would characterize as the base litigation expense. That being said, I think we need to be realistic and you saw it this quarter that as it relates to the remaining couple of matters that we have disclosed, it can be lumpy and that it is just very hard to predict.
+But as we talked about in the presentation, during the quarter, we did have a pretty significant build as we continued to evaluate those positions as well as the discussions that we have that are parties to the litigation.
+
+Answer_19:
+
+    John, I think the simple way -- if you think about things that -- litigation matters that sort of arrived after 2008/2009, the cost of those in the P&L is very modest. If anything it's sort of new -- these costs really relate to the stuff before the crisis and the [Bonner] cleanup.
+So your point about what would be the ongoing litigation costs would be much, much lower. But the question is the lumpiness Bruce refers to the transition we have got left on a few of these matters.
+
+Answer_20:
+
+    I think that is fair, John. It can bounce around in any one quarter, but I think the provision number broadly speaking is in line with what we would expect over the next couple quarters.
+
+Answer_21:
+
+    So, John, one of the ways -- if you look at the supplemental material and the pages on the charge-off by product, you have got to remember that there is -- if you look at the credit card charge-offs, in US and domestic, they are down in the -- this quarter it was $700 million and a 3.75% charge-off rate. You're kind of hitting a place where the business is geared to have some amount of charge-offs and it is the way the business works, part of the cost of doing business through the credit costs.
+If you look outside that number, that is -- card charge-offs are like 80% of the charge-offs -- or 60%, 70% of charge-offs. And so they are going to be hard to get down a lot more. So there is work to do on mortgage charge-offs, home equity charge-offs, but if you look across the rest of the board, they are in pretty good shape.
+
+Answer_22:
+
+    I wouldn't highlight any real seasonality of note as it relates to drastic ups or downs throughout the quarter. The one piece that I would say that -- I think generally, rates in foreign exchange given where the market was and the fact that there was not a lot of volatility in the quarter was clearly negatively affected.
+And on the positive side, I would say that the overall credit trading businesses, whether it be loans, high-grade bond trading or high-yield bond trading, given market activity levels as well as our position from an underwriting perspective, were very strong during the quarter.
+
+Answer_23:
+
+    It's a very good question. What I would point out is, and if you go back to the fourth quarter of 2012, that was when we announced our significant MSR transfers and so as you look at where we are, as it relates to just pure MSR transfers, we are through the significant majority of what we would expect.
+We have got some cleanup in sparse smaller ones during the second, third and fourth quarters. We don't have any reason to believe, given they are small and who they are going to, that there will be a problem with the transfer. So we feel, and as it relates to getting to the expense targets with what is left to go, that will not be an issue for us.
+
+Answer_24:
+
+    Sure. Well, let me answer the last part of your question first, which is we would expect the core trajectory to trend down as we go throughout 2014.
+When you look at the -- and if you are looking on slide 7 and we compare the $13.8 billion to $13.6 billion, let me just consider and give you a couple numbers that affected that core. During the first quarter of 2014, as we continue to reduce headcount, we incurred over $100 million in severance expense on both an absolute basis as well as a year-over-year basis within those numbers, so you had $100 million to the negative there.
+The second thing is, and as we disclosed, we have been investing within corporate banking, cash management salespeople to a lesser extent, capital markets people and some of the technology that goes along with that. And we think as we look going forward we are through a lot of that investment but as I referenced in my comments, I would ask you to flip back up to page 26 because we are seeing the benefit from revenue growth from those investments and we would obviously expect those to moderate going forward.
+The other couple things that I would note there is if you look at, within the wealth management business, you need to consider within that area that we did have a $200 million-plus increase in revenue from asset management fees. So there is obviously compensation that goes out with that as well as some of the technology dollars that were spent for our Merrill One project that we have rolled out within the wealth management area.
+So I would just say as you look at that $200 million, the benefit from New BAC was clearly on a year-over-year, much more significant from that. But we are investing in the areas where we think and where we are seeing revenue growth. And we would obviously expect those investments, given that they have been made and are generating the revenues that you would expect those to moderate going forward.
+
+Answer_25:
+
+    Obviously we continue to look at that and we will continue -- we started after this -- as you know, in 2011, and so if you go back -- I think we had $80 billion-odd expenses when we started this thing and so we had been driving this down year after year after year but that doesn't mean it stops with New BAC. It's just the challenge inherent in the slow growth environment is how to manage the relative investment rate, expense growth rate versus revenue growth rate.
+And so that is something we as management continue to have to focus on. But if you think about the $13.6 billion and think about continuing to make some improvement against it and annualize that, add back whatever the $1 billion to the one-time retirement costs and then some litigation, you start to get into levels that we think are consistent with the earnings -- sort of restoring the normalized earnings pool.
+The question is -- and you are right, is that we have got to make sure that the investments we make are yielding the revenue benefits and we have got to keep the total expenses overall net. That is what we're up to.
+And I think the way to think about that is look at 3,500 more employees, headcount reduction this quarter and you will continue to see that work its way down. That is a leading indicator what is going to happen next quarter because those employees -- that is a spot-to-spot number went out there in the quarter but they are still in the payroll for the quarter.
+
+Answer_26:
+
+    If you think about the longer-term trend there as we had a big change in terms of fee structures in the consumer business broadly going back a few years ago and you kind of came through all that and that affected, what has happened now is if you just look at our card activity, our purchases on our cards are up by 5% or so quarter to -- last year to this quarter -- first quarter last year, fourth quarter this year. So we continue to see better than market growth in the activity levels that the general spending levels and things like that which helps on the interchange.
+Once we got off sort of the reductions that were due to the change, interchange rule. And so I think it will keep grinding forward based on just general activity but most of the real downdraft came out in 2011/2012, early 2013 timeframe.
+
+Answer_27:
+
+    The other point, too, is if you look at within the consumer business we actually saw service charges during the quarter were up about 3% on a year-over-year basis. So some of the card income tends to be seasonally higher in the fourth quarter. It drops in the first quarter then builds backup, but within the consumer space we were pleased with what we saw on the service charge line during the quarter.
+
+Answer_28:
+
+    And so if you go back and look at 17, we have been producing from a sort of 700,000 to 800,000 run rate in new cards to 1 million-plus. And those cards are being used as a core card by the customers, and such driving up the pay rate's still high so the balances aren't moving much but the activity underneath is moving.
+And we are still replacing some affinity portfolios that we sold and things like that. So our view is that the transactional behavior of our customers continues to grow and will benefit in some of the fee lines too.
+
+Answer_29:
+
+    You should look at relative to the $2 billion a quarter, we are in the $1.7 billion area.
+
+Answer_30:
+
+    That's correct.
+
+Answer_31:
+
+    That's correct.
+
+Answer_32:
+
+    You should expect it to hit the bottom line with just the one caveat that to the extent that there are revenue-related things that have costs attached to them, that could moderate that reduction. But ultimately, that would be a positive to the pretax income line.
+
+Answer_33:
+
+    I think if you go back and look at what we talked about in the fourth quarter, where we talked about where we would like to get to from an ROA, return on tangible common equity, and we talked about once rates starting to move up that as we looked out, if we look out at a couple years, that efficiency ratio should be in the high 50%s.
+
+Answer_34:
+
+    I think as we look at it, it is just the point in time that rates are up roughly 100 basis points across the curve. And, obviously, to the extent that we don't see rates move up, we are going to need to run harder on expenses to try to get it to the extent that the rate environment doesn't move up.
+
+Answer_35:
+
+    I believe it was roughly -- it was about 50% -- somewhere between 58% and 60%.
+
+Answer_36:
+
+    It would be -- the core tax rate we project out and look out over the years, the core would have been 31%, but you always have a little bit of noise when you -- and obviously it was a pretax loss. But the discrete item always kind of overwhelm things in a low period, but the base rate from which you are starting from is a 31% and it was just a little bit skewed given what we saw from a pretax loss perspective.
+
+Answer_37:
+
+    I am not sure what the context of that is, Mike, but the net flows in the wealth management business were around $11 billion, $12 billion this quarter, which was $16 billion or $17 billion -- nearly $17 billion to $18 billion due to long-term flows and $6 billion of short-term liquidity flows out through net of around $12 billion. If you look in the Merrill Edge platform, which is more akin to the online type of thing, I think we had 80,000-plus new accounts this quarter.
+The assets continue to grow; it topped 100 billion daily average trades. Darts are up I think 25% to 30% year-over-year, and so it continues to progress and we continue to see good asset flows there, too. So big, small, large, traditional, all that's sort of blended together, we operated the core consolidated franchise, you are seeing good momentum on both sides.
+
+Answer_38:
+
+    Well, let me just start -- the allocation of capital is how we take the capital that we have at the Company and push it out to the businesses. I think you need to go segment by segment within that, Mike, I think the first is that as you look at the global banking segment and look at the allocation and what we have done, the first is on a year-over-year basis you had average loans up about $30 billion so there were more loan balances against which you need to allocate capital.
+The second thing that I would say is as you look at that segment and you consider Basel III standardized ratios, they tend to risk weight almost all commercial loans at 100%, regardless of what the models would suggest they should be risk-weighted at. So I think the combination of the loan growth, along with some of the impacts from regulatory capital led us to increase what we did with respect to global banking.
+Within global wealth management, as you go back and refine operational loss models and assign operational risk capital, that was topped up as well as reflecting the fact that within the wealth management business that we have seen loan growth within that segment. So there was additional monies allocated there.
+And then as we look at, and just continue to refine and look at both comparables as well as asset mix we thought it was prudent to increase modestly what we saw within global markets. And as I said in my comments, when you consider it in the aggregate and we look at where we are at relative to peers, we have got virtually all of our capital at this point pushed out to the different businesses which is the way it should be.
+
+Answer_39:
+
+    I think the last one is what you have got to keep focused on.
+
+Answer_40:
+
+    I think when you look at it, as I commented, I think we give fairly fulsome disclosure in the 10-K as it relates to the matters that are out there. And when you look at the matters and compare where we are now to what is out there, that obviously from the K that FHFA was resolved and that was the $3.6 billion number we mentioned.
+You have seen resolutions during the quarter from an Allstate RMBS perspective. You saw resolution of force-placed insurance, you saw CFTB, OCC. And you saw the deal that we completed and announced with FGIC today.
+So as you work through and look at those matters, it largely with what's disclosed leaves you with respect to one monoline. And then in addition to the monoline the other remaining legacy mortgage-related matters that we put out in our disclosure.
+
+Answer_41:
+
+    I didn't give you a number. Let me give you a way to think about it.
+In our environment, coming out of the extreme issues in 2008 and 2009, we built a lot of personnel and headcount to get after this stuff and we are still finishing up the cleanup. And so if you look in the expense base, a lot of that has been in expense base for a couple of years. And then so if you think about something like our audit team, we doubled the size of our audit team in probably 2010 and it has been held fairly constant against that.
+Against the backdrop we probably divested tens of businesses. And the rest of the headcount in the Company has come down fairly dramatically from a high of around 305,000, I think.
+So the amount of control environment relative to the total cost structure has gone up. But the raw numbers haven't gone up as dramatically because, frankly, we've put them back, just a lot of men, in the 2010/2011 timeframe.
+So, it is our duty to get it right, it is our duty to keep working on it and make sure that we get these things wrestled to the ground. But one of the key ways that we are doing this is by focusing the scope of the Company.
+So the force-placed -- or excuse me, the products settlement this quarter, we quit offering those products a while ago, it just took a while with the OCC and the consumer bureau to finish up the negotiations and finish up the rebate. We have been sending money back to customers but we quit offering the product as an example.
+And so the idea of narrowing the products set, narrowing the geographic scope of the Company, making the Company a lot less complex; we will always be big, but we make ourselves less complex. But against that, a growing -- a strong growth in the controlled cost in the 2009, 2010, 2011 timeframe and then a flattening of that but relative to a smaller company is actually an increase.
+
+Answer_42:
+
+    Well, Merrill One is a new product they brought out and it has been successful. And like anything else, you put the product out there, you spend all the money to put the product together and then the assets come on it.
+And so we are feeling good about that tens of billions of dollars of assets that moved to the platform. It is a good platform for customers and for the advisors.
+I think more broadly, I talk about technology, if you look at the expenses we had going back after the crisis, we saw the Merrill transition expenses and all in we were spending around $3 billion on technology development a year. We now spend about $3.5 billion and obviously the transition expenses are out of there.
+So everything we are spending is to better the platform, better the business, invest in the growth. And again, some of your questions about costs, that number I don't expect to change going forward because it takes that kind of technology investment to drive the product capabilities of our Company, Merrill One being one product this quarter, along with a new card system, and new trading platform Tom and his team are in the middle of putting in, a new backbone for the Company in terms of our general accounting systems, which has been a tail end to going in and across the board.
+So across four- or five-year format, timeframe, we will replace almost every system in the Company but we would expect that to continue. So the GWIM, if we swung around off of last year we did more in other businesses, cash management, started building -- rebuilt the first -- the front end mortgage process and a lot of other things. This year we swung more to GWIM and it is really a decision of which business we invest in at which time and they asked for more investment this year.
+
+Answer_43:
+
+    Well, I think the final supplementary leverage ratio rules that reflected that came out in April. And so the numbers that we have given you where we are above the 5% at the parent and the 6% at the bank reflects the impact of those rules with respect to netting and the other changes. So the numbers we have given you reflect that April release.
+
+Answer_44:
+
+    Yes, that's correct.
+
+Answer_45:
+
+    I think I will say that our focus has been on wrapping up the work, given what the April pronouncement is. And I am not -- my understanding was that the Fed -- I think what came out in April is what we are assuming that we are going to need to operate in and if there is something else that changes where there is some benefit, that is great, but our assumption is we are going to be living with what came out on April 8.
+
+Answer_46:
+
+    I would make a couple points here. If you go back, the guidance that we have given is that we would grind up from roughly a $10.5 billion number and as we look out to the third and fourth quarter, that is what we see in our numbers.
+I do think there have been -- relative to if you go back two, three, four quarters ago, several things that have changed. The first is that as we have worked hard to get in the position that we are in from an LCR perspective, we have -- not only LCR but with the rate environment that we are managing the OCI risk that we have directed more of the investment portfolio to shorter dated treasuries and mortgage-backed securities.
+And as you go out over a couple of quarters, that has a negative impact. The second thing, as you look at where we are and you look at the forward curve, our assumptions on what yields are going to be that we can reinvest in outside of the switch and mix, obviously those yields have not moved to the extent that the forward curves would have suggested at that point.
+And I would say, generally with respect to the loan portfolio, I wouldn't say there is much changed. I do think the one thing to note that we have not talked about, if you look at within our global banking segment, this is the first quarter in a while where we have actually seen the loan pricing spreads stabilize and actually, in certain of the portfolios, move up a touch, so that is a positive.
+I don't think there is anything to your question, that material that there are just some small things here and there. And we wanted to update and share our thoughts with what we thought the second quarter would be, but longer-term, I think we are still in the same place as far as the 10, 5 grinding up.
+
+Answer_47:
+
+    Yes.
+
+Answer_48:
+
+    I would just say, I hope so but I wouldn't -- let's just get it down to that level and we'll figure out what we can do from there. It's been an arduous task and there is still a lot of work ahead.
+
+Answer_49:
+
+    I would say that we have said we are above 5%. We have said that assuming that the Buffett preferred amendment gets done that adds roughly another 10 basis points, which obviously helps move us up.
+And you can assume that -- the only other guidance I would say is that the bank ratio relative to the limit is stronger than where we are with the parent today. But once again, the Buffett amendment will help.
+
+Answer_50:
+
+    Your point, Marty, is a good one, which is that the operational risk models are based on a fairly long time series as we look at it, and one of the things that we do continue to try to discuss and stress is that a lot of those operational risk losses are with respect to activities that we no longer engage and have no intention to engage. There are some of that dialog does continue, but your point, which is a fair one is that the time series are fairly long, and it will remain out there until the data runs out and I wish there was more that I could say but your point is a fair one.
+
+Answer_51:
+
+    Well, I think your point, Marty, is the one that we are working through. And in effect, we have done what you suggested that we have done in that if you look at those activities that led to those losses, we are no longer engaged in those activities.
+If you look out at -- we are not doing business with monolines from a new rep perspective. You look at private label securitizations, that activity was rep and warrants, it is not continuing.
+So we think we have largely done that and I think the question just going forward is if you have proven and you clearly are outside of the activity is there any relief to be had? Not the way that it works now and we will just have to work through and deal with it.
+
+Answer_52:
+
+    There was really nothing. I think that the comment that we made was that the question of the hedging performance this quarter relative to a year ago. So the hedging was still a positive number, it was just less so on a year-over-year basis.
+
+Answer_53:
+
+    If you go back, we have been pretty consistent that the reason for the investment portfolio is to preserve the long-term value of the deposit. And as you look at that portfolio, it is very clear there are only three things that we do within that portfolio.
+There is treasury securities, there is agency securities and there is AA and AAA super-sovereign type activities. And as it relates to becoming a little bit more asset sensitive, we just think given the first -- and you have seen a large portion of it happen that to drive and get to the point we have with LCR, the shift in the portfolio helped this quarter.
+It has the same benefit, as I said, of shrinking and reducing your OCI risk as you go through this. And we are not interested in starting to try to do things from a derivative and other perspective to somehow change that. The investment portfolio needs to work with how we set it up and we are going to be prudent with respect to how we do it.
+
+Answer_54:
+
+    Nancy, we kind of did that in 2011, we got out of all of the direct-to-consumer. So basically we have focused the business on really supporting the core customer base and not trying to drive standalone market shares in the scheme of things.
+And so what has happened to that is as we sold off the non-core servicing we have gotten down to a significant less number of loans serviced and your originations, $10 billion just this quarter are all direct-to-consumer, which is the second highest total in the country, direct-to-consumer mortgages so I think we are comfortable where we are. Now the question is, with the LAS aside, the core business, what does it look like?
+It will be a small business -- smaller business. It will generate customer, mortgages for our customers because it is a core product they need. But also that sales force, quite frankly, sells other products and does other things for us, refers people for other products.
+So I think that the days of being a 20% market share and stuff are far behind us. The days of being a 4% market share direct-to-consumer and growing are there and we will make a little -- we will make some money in it and we will make some money servicing those four loans through the delinquency statistics in those and what we have been doing in that are far superior to even what we would have predicted and that is how we will run the business.
+So effectively, we have done what you said. It is just that we are still sort of bound by the overhang of effectively the LAS portfolio still working through the system and the 300,000 delinquent mortgages of which only about -- the delinquency of the core portfolio is about 50,000, 60,000 of them.
+
+Answer_55:
+
+    That is different in the sense that, on the card side, we actually took it down unfortunately through charge-offs and  more than not. But I think we have been relatively consistent on a domestic piece, around $90 billion-odd of outstandings and kind of grinding up and down from there and producing more cards that are coming out of the wallet first from our customer from 700,000 we showed you two years ago first quarter to 1 million plus this quarter and pretty consistently was 1 1/3 million plus the third quarter almost 1 million in the fourth quarter, another 1 million plus this quarter.
+But the core of what we see there is actually usage of those cards. They are still 60%-plus to our primary customers, but also usage of the cards because of the core three or four card products is driving it. And we have to go some good affinity program.
+So I think the card business is -- likewise, it is where we want it but it is a bit more of a payment stream business than it is a pure lending business as it was in some of the past. So the balances ought to be stable and ought to grow, but the high-quality portfolio of the payment rates in the 20%s now, means people pay us off because they are using a transaction card.
+
+Answer_56:
+
+    Yes, I think -- I just want to be clear that we've said that we thought that the core MII ex-market-related impact would be down slightly in the second quarter and then build modestly through the rest of the year. What you will see in the second quarter, given that you have a full quarter of the liquidity, it is on the books, you would expect to see that the NIM in the second quarter moderate a little bit, given that you've got the full quarter of the liquidity and then, obviously, as it starts to grow during the latter half of the year, you would expect the NIM to follow that.
+
+Answer_57:
+
+    And Nancy, over all, now that we have a better insight as to what these rules are we then have to go back and -- we've got a 7% change of common equity ratio so we have very strong common equity ratio. We have to go back and sort of look at -- Bruce actually -- with the rules now in hand he can start to go work and say, okay, how do we optimize the next round because in terms of how we create maximum liquidity per dollar a balance sheet size, right?
+
+Answer_58:
+
+    Sure, there were two things that come Jim, banged this up -- good question -- to the tune of about $50 million each. There were some home equity stuff that we just wrote off that was going to have foreclosure costs that were greater than what it was going to be worth to try to get repaid.
+So that happened during the quarter. And then the second thing is there was some regulatory guidance that was given as it related it to second lien loans that were behind first lien that have been modified or charged-off, that we saw during the quarter. We think we got most of it in this quarter, there may be a little bit left in the second quarter, but a good question that those two items banged us up to the tune of about $100 million and that was the reason for the change.
+
+Answer_59:
+
+    I think what we have seen is the overall markets continue to be strong. The pipeline and the amount of activity and discussions from an M&A perspective is encouraging. And I would say as we go forward that we talked about, we felt the pipeline was strong at the end of the year.
+And as we look at the pipelines, they have not changed materially one way or the other at the end of the first quarter versus the end of the year. And as we said, we feel very good about the quarter with the revenue side being north of $1.5 billion and the highest of any firm that has reported at this point.
+
+Answer_60:
+
+    Super. Well thank you very much, everyone, for joining and we will talk to you next quarter.
+

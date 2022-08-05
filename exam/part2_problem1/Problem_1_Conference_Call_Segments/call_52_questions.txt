@@ -1,0 +1,55 @@
+Question_1:
+
+    Thanks for taking the questions. Mark, maybe one for you and one for Sheryl. For Mark, on virtual reality and Oculus, how do you see the development of the entertainment and content ecosystem around virtual reality playing out in 2016 and beyond? And what's the role Facebook's going to have to play in maybe seeding some of the content and entertainment side of VR. 
+And then for Sheryl, any color you can give us on Instagram? We've obviously seen a ramp-up now in advertising on the property. How the Company's thinking about ad load monetization, some of the opportunities and how those will be balanced against engagement. Thank you.
+
+Question_2:
+
+    Great. Thank you. I had two quick questions, as well. One, Sheryl, just to follow up on what you mentioned about Instagram, obviously, it's a very visual experience. I'm just wondering, when you're talking to advertisers, are they viewing this as a separate channel?  So I think there's been some questions as to the incremental nature of Instagram. It would seem like it could be extremely incremental, given these are the two top platforms in mobile. I was wondering if you could talk a little about what the advertisers say about blending the experiences. 
+And also, a question for Mark. I was just wondering if you could share with us how we might see your content strategy evolve over time and, in particular, just wondering what your view is on longer form content on the video side?   Thank you.
+
+Question_3:
+
+    Thank you for taking the question.  One for Mark and then one for Dave. Mark, you recently spent time in China and India. I was hoping to get some of your key takeaways, both in terms of Internet.org and also about Facebook's potential in China. 
+And then secondly, Dave, was hoping to get some early thoughts on OpEx for 2016, at least perhaps qualitatively, if you could walk us through some of the puts and takes for next year, Oculus in particular.  Thanks.
+
+Question_4:
+
+    Thanks for taking my questions. I have two, one for Mark and one for Sheryl. Mark, can you talk a little about what factors and metrics you consider when you're thinking about a multi-app strategy versus rolling out more products and offerings on Facebook?  There's a difference in Facebook Paper, Messenger, the video viewer on the platform. Just be curious how you think about multi-app versus adding more functionality to the mother ship. 
+And then for Sheryl, it sounds like there's still a lot of SMBs on the platform that are not yet paying advertisers. Can you talk about some of the biggest hurdles you need to overcome to get more SMBs paying and initiatives you have in place? Thanks.
+
+Question_5:
+
+    First one, Mark, could you talk a little about how much activity you see around Events on Facebook and maybe your views on whether Facebook could benefit from political activity or advertising?  And then Sheryl, could you talk a little bit about where ad loads are today? Is there still room there? And also just what your feedback you're getting on advertiser ROIs, is there still more room there?  Thank you.
+
+Question_6:
+
+    Thank you very much. Mark, on the subject of media content on Facebook, it seems like the big opportunity is for Facebook to be the portal with which to access the short form video content that you mentioned earlier, and maybe the idea is to keep the consumption of that content in line or inside the Facebook wall, the garden. So the follow-up question that I would have is how do you think you could best partner with the media providers and convince them the merits of bringing their valuable, in some cases expensive, content into the Facebook world, particularly at a time in media when they're really trying hard to guard their own existing ecosystems? 
+And then a question for Sheryl. I wonder if you could just touch on the relative growth of branded advertising versus direct response ads. You mentioned Total Ratings Point buying. Can you help us think about the mix of branded versus DR? And for you, do you think that DRP buying and video is going to shift your ad mix more towards branded over time?  Thanks.
+
+Question_7:
+
+    Great. Thank you. Two questions. With the explosive video consumption growth and growth in public content being consumed in the news feed, could engagement perhaps materially increase from current levels over the next couple years? 
+And then on WhatsApp, as it heads towards 1 billion [miles], and/or greater, could you give us a sense of how you're thinking about monetization of that platform and perhaps timing of the monetization? Thank you.
+
+Question_8:
+
+    Great. Thanks. Two questions. One, big picture, Mark, there's a lot of debate around what content is appropriate for Facebook to block and not block. I'm wondering if you could talk a little about how you decide what to censor and not censor in terms of on the content side. And then less big picture, but just in terms of fourth quarter, given it's a big retail quarter, any increased testing around direct retail on the platform? Thanks.
+
+Question_9:
+
+    Hello.  Thanks for taking the question. When you look at ad quality, I think when Facebook started, Sheryl, you were really adamant that you were focused on improving the ad quality and really making sure you were serving the highest quality ad to the right person. When you look at Instagram, I felt like you took incredible care to make sure that the advertising, like every ad was of the highest quality. As you've opened up the API, there's a tremendous amount of ads, some of them incredibly good quality, but some of them of lesser quality. How do you work to make sure that Instagram maintains what you started it with, which is incredibly beautiful ads that fit the platform, and so that you don't get criticized by users for pushing, not so much the amount of ads, but the type of ads?
+
+Question_10:
+
+    Thanks. I had two, if I could. We noticed a very impressive acceleration in user MAU growth, I'm focused on in the quarter. It seemed like it was pretty much in every region of the world. What, if anything, can you attribute that to? I know that you seem to be running more TV ads, at least where I live. But wonder if anything you could attribute that to. 
+Secondly, again on video, as more and more people and businesses are uploading video, I assume that there's a lot of good video content on Facebook, but I don't see all of it. Question is really around video discovery. What strategies do you have going forward to improve video discovery from what is today more of a push based model to something that may be akin to a pull based model where I can enjoy all the great video content that's on Facebook?  Thanks.
+
+Question_11:
+
+    Great. I just have one for Sheryl. Sheryl, you mentioned that Marriott and Mercado Libre are both using DPA and seeing comparable ROI to paid search. That's a pretty incredible data point. So I guess the question is, what kind of lift in ROI and overall budget do you see as e-commerce or travel marketers migrate from your first few products, like custom audiences and other, to DPA?  And are the yields that you're getting from DPA ads higher than other formats, like video and app downloads and those types of things? Thank you.
+
+Question_12:
+
+    Okay. Let me try going back to future use cases, and Mark, I think this was touched on a couple times. Can you talk about whether you're seeing greater attempts to do search, the search functionality on the site and how that could change over the next three to five years, and also comment on news and to the extent to which you're seeing a rising utilization by regular users of Facebook as a way to get news and what you can do to make that even easier for people, if that's something, a behavior you want to facilitate?  Thank you.
+

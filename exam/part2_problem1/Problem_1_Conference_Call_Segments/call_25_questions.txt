@@ -1,0 +1,349 @@
+Question_1:
+
+    Good morning, Bruce. I was wondering in terms of the core net interest income you mentioned that the seasonally adjusted starting point for the first quarter would be 10.6, but it sounds like you expect that to keep grinding higher with the debt paydowns and rates being a little bit higher on the long end. Is $300 million that we saw this quarter, is that a good representation of the pace that core NII could grow at?
+
+Question_2:
+
+    Okay. Any change, material change in your interest-rate sensitivity overall, Bruce, to long rates and/or short rates?
+
+Question_3:
+
+    Okay. Then I was wondering if you or Brian could speak at a high level about how you approach this year's CCAR. Are you looking to grow your buybacks off of the $5 billion common request from last year? And do you feel that you have improved the earnings enough and consistency here to start moving the dividend up yet?
+
+Question_4:
+
+    Okay. Then last thing is you mentioned, Bruce, the 8.5% return on tangible and hope that that goes higher over time. Your ROA was 64 basis points. I guess what kind of goals do you have for ROA and ROE over the next few years, and any thoughts on timelines that you will hope to get there on?
+
+Question_5:
+
+    Okay, thanks.
+
+Question_6:
+
+    Thanks, good morning. Couple of questions, one on the NIM discussion that we just were having.
+When you look at what happened with the yield and the cost of funds it looks like you are getting a little bit more competitive on non-resi consumer. Just wondering how to think about how you are looking to shift either the loan growth going forward and how you are thinking about that loan yield relative to your cost of funds in an environment where NIB probably doesn't grow as much as it had been in the past, maybe your cost of funds is flattening out or potentially increasing a little bit.
+
+Question_7:
+
+    Sure. It is an interesting mix shift because you have got a little bit of shrinking going on obviously with the legacy resi still coming off, yet the yields there are increasing. And on the non-resi consumer you have got some yield compression happening, but your loan growth is at margin inflecting more positively.
+At the same time, cost of funds looks like it is probably settling out here and potentially even going up a little bit. I mean NIB average balances were still up Q on Q, but end of period was down, so that is kind of the fuller context of the question.
+
+Question_8:
+
+    When do you think you get that inflection point in loan growth? Clearly, it is a function of legacy basically not weighing on the loan growth overall. When does that inflection point happen?
+
+Question_9:
+
+    Okay. Then just turning to the mortgage for a moment. On LAS expenses, did I hear you right that you are looking for LAS expenses to be at about $1 billion at year-end? Is that correct on a quarterly basis for 2014?
+
+Question_10:
+
+    Okay, so that is an uptick, right, from what you had been saying before, sub $1 billion by year-end?
+
+Question_11:
+
+    Okay. Then so $1.1 billion by year-end 2014; is there still runway in 2015 to bring that down further?
+
+Question_12:
+
+    Then just lastly on the litigation reserving, you called out the $2 billion litigation reserve for the mortgage business, highlighted that that reflects a lot of the litigation risk you think you have. The question we get from people is how many more quarters of this should we build in going forward, because you do still have some lumpiness in the lawsuits that you face.
+
+Question_13:
+
+    All right, thanks.
+
+Question_14:
+
+    Good morning. We are seeing some peers that came out yesterday actually increasing liquidity and long-term debt levels to meet the LCR. I think you guys were starting at a higher point maybe than they were, but just give us a sense of maybe where you are for LCR with the current proposals.
+And as we think about kind of the net impact of long-term debt running off at the holding company, increasing at the bank, how does that all shake out on the net basis this year?
+
+Question_15:
+
+    Then at the parent, being around 100% right now, any sense of how much cushion you want? I think some banks are running maybe like a 15% cushion. Some banks are still trying to get to where you are right.
+
+Question_16:
+
+    Okay. Then just separately, we saw out of JPMorgan yesterday a one-time valuation adjustment on certain derivatives. Just wondering is that applicable to you or have you been absorbing it over time or still to come?
+
+Question_17:
+
+    Okay. All right, thank you very much.
+
+Question_18:
+
+    Thanks very much. So just kind of [wheezing] into some of the next questions, but on the balance sheet migration over the past year cash and equivalents up 19%; repo, trading assets, and derivative assets all down, say, 10% to 14%. Is that a function of some of the sluggishness on the trading side during the year in the market and just a reaction to what is out there, or is this your obviously intent to get on size for SLR and LCR?
+
+Question_19:
+
+    Okay, appreciate that. In global markets the trading in absolute numbers in relative to some peers is pretty good. The question I have is if you look at the return on capital or the return on average assets it is pretty low.
+I am curious A) how much litigation costs dented that, because I know it dented it; we just can't see exactly how much. And are these metrics we should be looking at on a consistent basis? They are in the supplement and I am assuming that they mean something, I just don't know if the capital allocations and the asset allocations are fair things to judge on.
+
+Question_20:
+
+    Okay, that is totally fair. Final one is in mortgage. I think there was a bit of a hiatus as you are getting things battened down. I think you picked up about 100 basis points market share since then on the retail side. Just curious for an update on, A, how the fourth quarter looked and then, B, your thoughts on going out in terms of intentions to continue to push that share higher.
+
+Question_21:
+
+    Okay. Thanks both very much.
+
+Question_22:
+
+    Yes, I wanted to come back to the debt footprint discussion and just looking on page 11, you can see total average long-term debt down $27 billion year-over-year and at the same time, looking at page 7 of the presentation, the time to required funding expanded from 33 months to 38 months.
+So I'm just curious, is there some other liability that is extending while you are bringing down the debt footprint and how can we gauge for the year ahead? What I'm getting at is how much further can you get, how can we triangulate on how much further room there might be in the debt reduction?
+
+Question_23:
+
+    Okay. Then as a follow-up, looking at your 10-K and 10-Q, you gave us a very nice breakdown of the debt by parent company versus Merrill versus BofA and A. And your parent company debt looks like, at least between year-end and September, like it was relatively flat and the declines in the long-term debt came primarily from Merrill Lynch going from like $90 billion to $60 billion.
+Does Merrill Lynch as an entity need to continue to pay down debt or can that essentially be all squeezed into other subsidiaries and does that have an impact on the cost of funds?
+
+Question_24:
+
+    Okay. All right, I will follow up, thanks. That is it for me.
+
+Question_25:
+
+    Good morning. Just a couple of quick follow ups. On your Basel III Tier 1 common, the standardized versus advanced, you have I guess almost a 90 basis point difference. Some of your large bank peers are closer to a 10 basis point difference. Can you help us think about why you have such a large gap between the standardized and advanced?
+
+Question_26:
+
+    So on the commercial side as credit gets better we should see that gap close for that reason?
+
+Question_27:
+
+    Okay, got you. Then just a follow up on your eventual ROE target or a tangible ROE of 14%. When you are kind of discussing that target is that assuming some help from interest rates being higher, or is that without that help?
+
+Question_28:
+
+    Okay, great. That is very helpful, thanks.
+
+Question_29:
+
+    Good morning. So one thing that we did see over the past year is a pretty robust pace of DTA consumption, which certainly helped boost your capital ratios. I know when contemplating DTA utilization the mechanics can be quite complicated, but how should we think about the potential level of progress as we enter 2014 as your earnings profile continues to improve?
+
+Question_30:
+
+    Okay, great. Then just thinking about some of the profitability targets you highlighted, such as the 14% tangible ROE, what are you guys assuming in terms of capital return over that potential horizon?
+
+Question_31:
+
+    Fair enough. All right, that is it for me. Thank you for taking my questions.
+
+Question_32:
+
+    Thank you very much. On the origination side, you did talk a little bit about that you are improving our retail side but the refis have gone down. You're down to like 4.5%; where do you see your market share and where do you think you can take your retail market share?
+And also, what do you think about non-QMs? I know some banks have come out and said they will start doing some non-QMs. I didn't know where you stand on that.
+
+Question_33:
+
+    And on the jumbo loans I know a lot of the institutions are going after the jumbo product. You don't break out your jumbo product, but is that an area of focus for you guys? And if it is, what type of yields are you getting on that product?
+
+Question_34:
+
+    And is there any update on the state of New York, where they stand with approving the Bank of New York settlement of $8.5 billion? Do we know when that is going to come to a conclusion?
+
+Question_35:
+
+    Okay. Thank you very much.
+
+Question_36:
+
+    Great, thanks. A couple of things. In the mortgage business I noticed that it looked like the revenue stream from the LAS servicing actually went up from the third quarter. Is that something that will remain at that level, or does that come down kind of with the servicing assets?
+
+Question_37:
+
+    In terms of the card business, I mean you had talked about the million-plus accounts and you have done that both third and fourth quarter. Just talk a little bit maybe more generally about the strategy there; are there any things that you are doing to kind of maintain or increase that?
+Also, on the other side are there other affinity portfolios that your partners are going to ask for back as we go into 2014?
+
+Question_38:
+
+    Got you. Following up on the DTA question, how do you think about and how do you believe the Fed thinks about that DTA consumption kind of as part of a CCAR submission?
+
+Question_39:
+
+    So you are saying though they do consider the capital generation as opposed to just your earnings?
+
+Question_40:
+
+    Thanks, Bruce.
+
+Question_41:
+
+    Great, thanks.
+
+Question_42:
+
+    Good morning. Question on how we should think about the fact that last year your capital return really included not just the buyback authorization of shares, but also the redemption of the preferreds. So you could add the two numbers together and say $10.5 billion out of last year's CCAR. Is there some conversion factor that we should think of for the preferreds in terms of saying what the 2013 baseline really was?
+
+Question_43:
+
+    Right, but I mean is there a factor that you used in thinking about what it would convert into in terms of the capital return?
+
+Question_44:
+
+    Okay, fair enough. I have had a number of clients ask me the question this morning about the significant increase in the yield on the securities portfolio just from the third quarter to the fourth. Obviously long rates are up a lot, but is it just that or can you link that to the couple hundred million dollar benefit that you were talking about in terms of the market-related impact?
+
+Question_45:
+
+    Got it, that helps. I know you said that on the SLR with the Basel add-ons you are still evaluating that, but JPMorgan was out saying yesterday that their estimate was that it probably only increased above and -- beyond the NPR decreased their leverage ratio by about 10 basis points. Are you thinking similar order of magnitude or are you really not in a position to comment at all at this point?
+
+Question_46:
+
+    Fair enough. That is very helpful. Then I guess the final question that I would have for you, and it is along the lines of some of the ones you have been asked about further reductions in the long-term debt footprint.
+Obviously there has been some speechifying by members of the Fed about not seeing banks reduce their long-term debt levels much below where they are now. Is there some rule of thumb that you guys are using in the absence of any defined orderly liquidation or bail in capital definition yet as to what you would want your total sort of long-term debt plus Tier 1 capital to look like as a percentage of risk-weighted assets? That you are using as a guidepost to help you figure out how much long-term debt to bring down.
+
+Question_47:
+
+    Got it. That is really helpful perspective. Thanks so much for taking my questions.
+
+Question_48:
+
+    Good morning. First I guess a bigger picture question and then just a couple of administrative questions.
+You have mentioned a couple of times your view about cards and the progress you are making not only in getting cards in the hands of your customers, but also the use that your customers are taking with the card in terms of charging more. I guess I'm just curious as to what your outlook is for actual balance growth over the course of 2014, presuming that we are in a somewhat better economic environment this year versus the last couple of years.
+
+Question_49:
+
+    Okay. Bruce, I think you mentioned a couple of quarters ago that you were targeting a branch count for the Company, round numbers, around 5,000. You are basically there at the end of this year. Is there potentially a push to get that number materially below 5,000 or at this point do you think you are where you want to be?
+
+Question_50:
+
+    Presumably over the next two to three years you could see the square footage of the total branch base come down potentially fairly dramatically given all the electronic delivery mechanisms that you just mentioned?
+
+Question_51:
+
+    Fair enough. Then just finally, what was your percentage of mortgage volume this quarter that was dedicated to purchase? And how does that compare to the third quarter?
+
+Question_52:
+
+    Okay, that is it for me. Thank you very much.
+
+Question_53:
+
+    Good morning, guys. I think we all appreciate the tremendous progress you have made on increasing profitability at the Company and getting things turned around, but there is a perception out there that you are going to have a gap up in profitability when short rates start to go up. Can you just give me your thoughts about that? Is that indeed a correct view?
+
+Question_54:
+
+    Just kind of to add on to that; do you have a sense at this point -- and this sort of goes back to the previous question. When rates do start up how much will the profitability of -- given everything you have done in the deposit-gathering network, how profitable will that be in the next cycle as opposed to, let's say, I don't know, three or four years ago?
+
+Question_55:
+
+    Okay, thank you.
+
+Question_56:
+
+    Thanks very much. Most of my questions have been answered, but just one small question also on the mortgage business.
+Doing the simple gain on sale mathematics it looks like you had a rebound in your gain on sale sequentially, which is pretty consistent with what we have seen from others. But the magnitude looked much greater. It looked as if your gain on sale in the period was back to, more or less, year-ago levels, which doesn't seem intuitively right so I just wanted to get your view on that.
+
+Question_57:
+
+    Got it. So just sequentially you would characterize the margins as largely flat, is that right?
+
+Question_58:
+
+    Okay. Thank you very much.
+
+Question_59:
+
+    You said the banking backlog was up. Was that versus the third quarter or year over year? And can you quantify that?
+
+Question_60:
+
+    And which areas in particular?
+
+Question_61:
+
+    Then switching gears, the wealth management margin, 26.6%, can you give that to us excluding U.S. Trust? It just helps with apples to apples comparisons with peers.
+
+Question_62:
+
+    Okay.
+
+Question_63:
+
+    Okay. Loan utilization in commercial and wholesale, where does that stand?
+
+Question_64:
+
+    So no change?
+
+Question_65:
+
+    I wasn't sure; what is our net interest margin outlook for the next quarter or two? You mentioned FAS 91 for the debt security yield. To what degree, if the yield curve has flattened here a little bit here recently, do you give some of that back on the net interest margin?
+
+Question_66:
+
+    And with regard to new BAC, can you just repeat how much do you have left and how much do you think hits the bottom line this quarter? You spent a little bit more money for revenues, which I guess makes sense if you have the opportunity, but I just want to size that again.
+
+Question_67:
+
+    I'm sorry, like $100 million to $125 million per quarter then and that should hit the bottom line, or you might look at reinvesting those gains?
+
+Question_68:
+
+    Then lastly, you mentioned a goal for an ROA of 1% over three years and I just want to understand what you mean by that. Do you mean at the end of 2016 going into 2017 you look to have an ROA of 1%, or do you mean the average over these three years?
+
+Question_69:
+
+    So at the end of 2016 you look to have an ROA of 1%?
+
+Question_70:
+
+    With the forward curve the way it stands. And with that, with those assumptions what sort of change do you expect with the certificates of deposits or CDs, which are historically low for you and others? Do you have money moving out of CDs at that point or not yet? You are around 15% of deposits; historically it is around 35%.
+
+Question_71:
+
+    Then in your page 49 of the proxy it mentions PRSUs and they kick in with an ROA of only 0.5%, whereas you seem to be shooting for an ROA of 1%. How will your new expectations here for the next three years translate into kind of more formalized metrics or compensation? Is it more than simply a general target? How does it kind of sink into the organization?
+
+Question_72:
+
+    Okay. In very simple terms, if you look for a 1% ROA on $2 trillion of assets, you hope to be at kind of a $2 annual run rate in the later 2016?
+
+Question_73:
+
+    All right, thank you.
+
+Question_74:
+
+    Good morning, guys. I just have two questions. First, I think in the December conference you mentioned there has been a 70% increase in referrals to wealth management from other parts of BAC. I was just wondering if you could elaborate on that a little bit.
+Is that environment driven or have you implemented some specific programs? And then maybe just give us a sense of how meaningful those referrals have been at the net income level?
+
+Question_75:
+
+    Okay. Then switching gears entirely and just talk about the leverage finance business. I think when you look at the industry you are seeing record  issuance and you are seeing some pretty favorable pricing for issuers. How do you think about this business over the next few years, both from a revenue perspective but also from a risk management perspective?
+
+Question_76:
+
+    Okay. Maybe just to follow up, so just to paraphrase what you said, you are very comfortable on the risk management side and you have taken market share it sounds like. But I don't think you gave an answer in terms of where you think the revenue outlook is for this business over the next couple of years.
+
+Question_77:
+
+    Great. Thank you very much.
+
+Question_78:
+
+    Morning, guys. Just wanted to go back to the retail branch banking strategy shift and, Brian, you have been clear about this evolution of everyone having a branch in their pocket, so not totally surprised about targeting maybe shrinkage in branch count in 2014 and 2015. But, to frame it out a little bit more, does that provide additional expense leverage beyond what you have long been talking about on new BAC and LAS, or is there an investment spend component that we need to be mindful as well?
+
+Question_79:
+
+    And where do you think you are in terms of that investment cycle for mobile banking, other deliverables?
+
+Question_80:
+
+    On an annual basis?
+
+Question_81:
+
+    Got it, that is helpful. Then separate, but sort of related on expenses, so with new BAC that is left to realize in LAS how much of that should we have kind of a step function down on the absolute level of expenses off the core 4Q run rate of, call it, $15.5 billion type level? Should we see by the end of 2014 I guess heading into 2015 should we take out $1.5 billion or are there other costs related to maybe investment spend elsewhere that we need to be mindful of?
+
+Question_82:
+
+    Got it, that is helpful. Then, Bruce, you have said I think in some of your prepared remarks that credit quality continues to improve into this year. Should we read into that that there is still meaningful credit leverage left to be realized in terms of reserve releases, or are we closer to the end here in magnitude?
+
+Question_83:
+
+    Got it, thanks. Then just lastly, just to wrap up some of the Q&A on the CCAR capital deployment. Just to be clear, it seems like one should not use kind of the $10 billion combined kind of preferred and common last year as a base. It really needs to be kind of a $5 billion as the baseline on common that you got approved for last year.
+Hopefully we will make our own assumption, but it seems like it is fair to assume you could move upward in terms of deployment this year off that kind of base. Is that fair summarization?
+
+Question_84:
+
+    Okay. Thanks, guys.
+

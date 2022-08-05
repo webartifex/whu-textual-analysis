@@ -1,0 +1,57 @@
+Question_1:
+
+    Thanks for taking my question.  Two things I wanted to ask. First, Mark, on messenger and WhatsApp, can you talk more about the takeaway on the messenger platform now that it's been open for nearly a year to developers, and how that's informed your view on what you're going to do with WhatsApp going forward?  
+Then, secondly, perhaps Dave or Sheryl, on the ad load, a few years ago you had talked about ad load at mid-single-digit levels and then more recently as up significantly since then. Do you still feel like there is still significant room to increase ad load here?  And, how do you think about the theoretical ceiling there? Thanks.
+
+Question_2:
+
+    Great, thanks. So, it was a phenomenal quarter and year for Facebook. And, given we're about a month into 2016, there's a lot of discussion around the global macro headwinds. Just wondering how the business is trending thus far in the quarter?  Maybe by market, US, Europe, Asia-Pac and rest of world. And, generally, just how Facebook is positioned if the global macro environment softens a bit. Thank you.
+
+Question_3:
+
+    Thanks for taking the question. Maybe just asking for more color on Instagram. It's obviously still very early days on Instagram, but what are you seeing in terms of user engagement as you continue to move ad load up on the product? What advertiser adoption of the product is? I know you gave us a little bit of color during the prepared comments. And also, pricing on the environment inside the platform as you continue to roll out deeper with the advertising products. Thank you so much.
+
+Question_4:
+
+    I just had two quick questions. One, Sheryl, I just wanted to follow up on what you said about Facebook and Instagram and the overlap in the advertisers. And, I was wondering if you could share with us how you feel those advertisers view it?  Do they view it as an incremental platform?  Or, there's been some question about whether or not some advertisers might take their spending and just move it over to Instagram. I'm wondering if you see incremental spending as a result of opening up both platforms?  
+And then, the second question would just be to Mark.  Just was wondering, I know you've mentioned Oculus and the pre-orders. I was just wondering if you could give us your take on whether or not you're happy with the initial launch of Oculus pre-orders?  And also, we obviously all know the big gaming impact. I'm just wondering from your perspective, as you look out, what industries do you think where this could be the most disruptive, outside of gaming? Thank you.
+
+Question_5:
+
+    Congratulations on a great year. You've had a lot of success with standalone apps. Should we expect to see you launching more such apps? And, could a standalone video app be a part of that, particularly for people who want to just watch video. 
+On the virtual reality, another question. Can you just discuss the supply constraints in terms of how many units you can ship per month? And, should we expect those shipments to accelerate into the holiday? Then, also related to that, how are you going to work with retailers to show consumers the power of Oculus in-store and in person? Thanks.
+
+Question_6:
+
+    Thanks for taking my questions. I have two. The first one is to go back to some of the core Facebook advertising success. I wonder if you could talk about some of the Facebook video ad learnings and kind of positives that you've encountered and hurdles that you still encounter that could be holding back advertisers from moving further video budgets out of the platform. 
+And then, the second one, we always see this gap between Asia and rest of world monetization versus North America and Europe. I was wondering if you could talk through some strategies and qualitative drivers you see over the next couple of years that are going to increase the overall Asia and rest-of-world monetization even further. Thanks.
+
+Question_7:
+
+    Thanks. I'll ask a couple of longer-term questions. First, I know a year ago you gave us a usage update on time spent. Wondering if video or any other products are having a big impact on usage?  And, if you can give us any metrics there. 
+And then, maybe one for Sheryl, we have you at 8% of all media time spent. Just wondering if you think Facebook could monetize better than other forms of media based on time spent or maybe a little bit below?   
+And then, maybe one for Dave. 60% margins last quarter, obviously very strong. Just wondering, what you think about the long term, and any comments on long-term margins. Thank you.
+
+Question_8:
+
+    Thanks for the questions, and good afternoon. Just for Mark or Sheryl, wondering what is your strategy for professional video content going forward? You talked a lot about video.  Would bringing more professional content to Facebook accelerate video engagement and adoption?  
+And then, for Dave, just kind of back to the quarter.  You don't break out Instagram revenue or financials, but wondering if the acceleration in the quarter -- would you say was that driven more by the step-up in Instagram given the opening up of the API, the incremental Instagram ad load?  Or, was there a commensurate acceleration in the core Facebook revenue? Thanks.
+
+Question_9:
+
+    I have two quick questions. I am interested in the plans to allow users to do other things beyond liking content. I think you call it reactions. I call it adding more words to the Facebook graph. Can you talk about the rollout of this capability?  And, whether this is something that you only see at Facebook.com?  Or, whether it's going to be widespread across the web and other sites, much like the like button. 
+And, secondly, can you talk about your thinking of the role of different Facebook platforms in payments? Are there things that you will not do because you don't have or do not want to acquire these [key one] assets? What's the boundary for what you could do with payments? Thank you.
+
+Question_10:
+
+    Thanks. I have two. Following on Mark's answer to the question about payments.  I wondered, Sheryl, if you look at the fourth quarter as you said as a defining moment for marketers and with the friction of transactions getting easier, was there any type of shift in the marketers or verticals that moved money to Facebook in the quarter? Do you see more retail, let's say, or anything different in terms of the composition of who was buying in the fourth quarter?
+
+Question_11:
+
+    Great, thanks. Two questions. Sheryl, could you talk about political advertising?  And, how you think about the attractiveness of -- and any anecdotes you have on Facebook as a platform for political campaigns? 
+And then, Mark, the story is in 2012 at the beginning of that year, you realized just how powerful the movement was towards mobile devices, and you turned to your engineers and said we need to generate $1 billion in revenue off of mobile devices. I wonder if you've had that same conversation with your engineers when you think about these two messaging platforms that you have. They have got a large number of users, and clearly globally, we've seen this massive shift over towards messaging.  The Internet has changed, and how people have engaged with it. Do you feel like you had -- or do you need to have that kind of $1 billion  conversation with your engineers about those two messaging platforms? Thanks.
+
+Question_12:
+
+    Great, thanks. Just two questions. One, on the Facebook sports stadium?  Just wondering how you think about that in terms of how is it going to be different from other offerings?  What's the big differentiating factor?  And, how do you get folks to participate in that? And the second side, just on the margin side again.  Do your revenue and costs line up geographically, so there's obviously a translation impact to the numbers.  But, is there any operating mismatch between revenue and costs that would either benefit or hurt margins?
+

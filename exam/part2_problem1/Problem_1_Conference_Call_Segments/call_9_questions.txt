@@ -1,0 +1,88 @@
+Question_1:
+
+    Just a quick question. You had a strong holiday season -- 100 million more items shipped for free this holiday -- while FBA units was up 50%, and fulfillment expense remained relatively flat. How did you manage that? Are the new sortation centers essentially the key to controlling shipping costs? And what percent of units sold are FBA? Thank you.
+
+Question_2:
+
+    Great, thanks.
+
+Question_3:
+
+    There's a headline on the tape referencing improving productivity in 2015. So I just wondered if you could clarify what areas of the business you are focused on in terms of productivity. And then what are some of the projects or areas that we should be prepared to see a large uptick in investment in 2015?
+
+Question_4:
+
+    And what areas should we expect big upticks in, in investment, in 2015?
+
+Question_5:
+
+    Thank you.
+
+Question_6:
+
+    Real quickly on fulfillment costs, it looks like overall costs accelerated quite a bit, to around 17% growth in 4Q from 30% in 3Q. I'm wondering if anything specific led to that improved overall growth from -- is it maybe the key of a rollout? And then, quickly, I think there was mentioning around breaking out AWS results. Wondering if any reason now? Perhaps it's getting to a level that you have to do it? Thank you.
+
+Question_7:
+
+    Thanks. This is Kaizad Gotla in for Doug. I think you noted Prime is growing faster internationally than it is in North America. So can you help us reconcile that with the difference between your North America and international EGM growth rates?
+
+Question_8:
+
+    I have two questions. Can you comment on your view of the relative value proposition of Prime in European markets and Japan? Is it similar to the US? You know, two-day shipping and all the other benefits, or is it different because -- we think, for example, that penetration of Prime in the European markets is much lower. And you have told us that the number of Prime SKUs is much lower in the UK, for example. So, what's the fundamental cause of that? Why is it that Prime in the UK is not as developed as in the US? Is it timing or is it the proposition?
+The second question is about AWS. You have a leadership position now, and it's a very large market. And it's easy to see from the outside that you are hiring aggressively, both in engineering and sales. Given the size of the opportunity and your position, what specifically prevents you from hiring faster, developing more products, investing more? How do you balance -- what prevents you from doing that? Why wouldn't you invest twice or three times as much in AWS? Thank you.
+
+Question_9:
+
+    One on -- I am sorry if I missed this. What's your thought or outlook for pricing in the AWS Cloud business for this year? It was obviously quite fierce last year. Do you think it will be quite as competitive in 2015?
+And then in the media business, we've been hearing data points about a slowdown in the e-book space. Are you seeing that? And what's your outlook? Do you see any hope for the media segment to improve as a result of that? Thanks.
+
+Question_10:
+
+    Tom, can ask you a high-level question?
+
+Question_11:
+
+    Okay. Amazon has always pitched itself in terms of price, selection, and convenience to customers. And I saw this great survey work that was done by Morgan Stanley in the last couple of weeks about this global survey that indicated a little bit of the shift in consumers' interest in online commerce, more towards convenience. You must have a pretty good feel at Amazon for whether that broad value proposition to consumers is shifting; if it's shifting to be slightly less sensitive to price over the last couple of years, and more towards convenience.
+Are you seeing that kind of shift? There's a lot of implications if that is, in fact, what's happening.
+
+Question_12:
+
+    Two questions. One, just if you can clarify any impact of the Fire phone in the quarter. And then secondly, can you talk about how fuel prices impact your model? And I know the shippers, they use a trailing index to calculate fuel, how those savings would show up, or if you would pass those on to third parties, et cetera. Thanks.
+
+Question_13:
+
+    Over the past couple of years, it's just been a little bit of a roller coaster with margins for investors. There's points of optimism followed by points of frustration. And there's really some optimism here in this report. Is there anything that you can help investors with to understand just how you think about different cycles of investing, to try to smooth out some of this roller coaster mentality that happens with the stock? Thanks.
+
+Question_14:
+
+    I had two questions. First on India, can you talk about the India opportunity broadly, and maybe some advantages you may have versus some of the local peers in terms of leveraging your scale? That market appears to be just on fire right now, so just a little bit of color on India.
+And then on Prime, can you talk about the Prime member behavior in terms of purchasing frequency? How it looks today versus maybe a Prime member that joined two years ago? I know it looks a lot different from those very early Prime adopters from six, seven years ago. But just more recently, over the last couple of years, is the behavior consistent as you grow the base? Thanks.
+
+Question_15:
+
+    On the topic of China, wanted to know if you could help us either qualitatively or quantitatively understand what that trajectory or the size of the business is in China. And then maybe the trajectory around investments needed to compete in China, and how you think about the opportunity there long-term, looking through the lens of the competitive landscape, and maybe Amazon's particular skill set on going to market in China. Thanks.
+
+Question_16:
+
+    Just a couple questions. In North American media, aside from the video game impact, just wondering if there are any other factors driving the low or flattish growth year-over-year. And then, CapEx was up about 40% in 2014. It has kind of bounced around over the years. Just wondering if you can give us a sense of the level of growth in 2015. Thanks.
+
+Question_17:
+
+    Tom, I was hoping you could give us some kind of sense of the impact on delivery times and conversion rates that you saw during this holiday season from the investments that you made in fulfillment, particularly the sortation centers that were added before the holidays. And then also, to what degree you've seen some leverage, or some of the slower growth in fulfillment costs, from moving more of the fulfillment obligation to first-party-owned infrastructure?
+
+Question_18:
+
+    There's quite a disparate performance between North America and international, in terms of the profit change year-on-year, up nearly $300 million; North America down over $100 million. So could you just help us understand why the international performance is so much weaker? Perhaps give us some color on the established markets in Europe, relative to emerging markets. And in the past, you've also discussed Japan. And then is there an inflection point where international profits we could expect to head up again?
+
+Question_19:
+
+    I wanted to ask about gross margins. They were up quite a bit year-over-year, and it looks like, in our numbers, EGM beat and media missed. So, any thoughts on the mix shift there helping or hurting gross margins? What are the key drivers for that line, and what are your -- can AWS continue to drive that in 2015? Thank you.
+
+Question_20:
+
+    One question, as a follow-up on AWS, and specifically some of the announcements related to WorkMail and WorkSpaces. This would signal that Amazon is moving up the stack towards a more of a SaaS offering. Is that the right interpretation? And, if so, should we expect a broadening of those SaaS product initiatives? Thank you.
+
+Question_21:
+
+    [Can you] just give any color on how you are evaluating the opportunities to show video advertising against the ever-increasing video content? Thanks.
+

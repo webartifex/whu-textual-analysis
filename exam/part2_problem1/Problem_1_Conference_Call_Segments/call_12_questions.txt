@@ -1,0 +1,91 @@
+Question_1:
+
+    Hi, thanks for taking my questions. The first question Brian, International retail growth continues to improve and I was wondering if you can just talk through some of the dynamics there understand the consumption tax in Japan comp? You have some real markets where you have physical infrastructure now in Europe and then also the dynamics in India and China as contributors. And then secondly, maybe if you could just given how profitable AWS has become, if you could framework for thinking about the long-term profitability of that business? Thank you.
+
+Question_2:
+
+    Hello? Can you hear me?
+
+Question_3:
+
+    Okay. Thanks. Question hopefully it hasn't been asked already is around AWS margins were obviously quite strong in the quarter. Can you speak to the sustainability of the margin improvement that we've seen there and what is your long-term expectations for profit margins for this business? And if you give us a sense of what CapEx for this segment of the business look like in the quarter and the rate of growth that would be helpful. And then secondly, your employee adds were fairly strong in the quarter as well. Wonder if you could call out any particular areas within the business where you are strengthening your hiring efforts? Thanks.
+
+Question_4:
+
+    I'm tempted to ask about the long-term margins for AWS but I won't. Can you talk about two areas? One, the EGM growth in North America, it is accelerated really strongly. Any color behind what's in particular categories that are driving that? And secondly, there's been -- you've made some public comments in the last eight months about some on the retail side about investments internationally. Particularly in India. Could you refresh us on what kind of levels suspend you're interested in targeting in that market? And then, maybe as part of that, any comments on China and how well you think you're doing there now? Thanks a lot.
+
+Question_5:
+
+    Thanks for taking the question. Can you call out in terms of the 3P business what you are seeing in terms of third-party sellers maybe needing to make more and more of their goods Prime eligible? What the economics of that might be in terms of creating a tailwind for the business and how we should think about that evolving over the next couple of years? Thanks.
+
+Question_6:
+
+    Thank you. We did see the acceleration in EGM. I was just wondering if some of the local delivery and Prime Now is driving that acceleration? Is that having a big impact on your business? And down the road, do you think the delivery infrastructure will be valuable in maybe delivering third-party and other units? Thank you.
+
+Question_7:
+
+    Thanks for letting me ask a question. This is Kunal for Bob. Quick question on India, is there any change or any indication that there might be a change in the regulatory framework that would allow you to go direct?
+
+Question_8:
+
+    Thanks.
+
+Question_9:
+
+    Thanks for taking the question. I just wanted to ask the most frequent investor question and concern that we get is when will Amazon flip back to its heavier spending and investment ways from 2014 and earlier? So I wanted to ask, is that a legitimate question do you think or are you now at a point of scale and market share and maturity that you could sustainably manage the heavy invest and while still delivering material profit? Thanks.
+
+Question_10:
+
+    Thanks for taking my questions. You guys had the Kindle store in Brazil since December of 2012. Just curious about the learnings around that and what benchmarks are you analyzing as you try to determine whether or not to invest further in a larger Brazil store?
+The second one, just curious for comments on International Prime sub growth. It sounds like Prime subs are growing really well. I think a couple quarters ago, you mentioned how they are growing over 50%. Is that still the case and if so, what is driving that faster International Prime sub growth?
+
+Question_11:
+
+    Thank you. I have two questions. You have told us that you have tens of millions of Prime users, that you are investing heavily in Prime. Now at this scale and the 50% plus growth rates that you just mentioned, if you roll the clock two or three years, one can see Prime penetration in markets like the US starting to saturate as judges so many homes in the country. How should we think about the level of investment in Prime once you reached full penetration? Are there components that are given primarily to customer acquisition and what's the right way to think about that?
+And secondly, what are the economic drivers that justify the business case for Prime Now? I don't expect you to give us any numbers, I've learned that lesson in the last few years, but what are the components of the customer lifecycle value calculation or what type of calculation that you make to justify someone dropping a box with that $15 order to a customer? Thank you.
+
+Question_12:
+
+    Great. Thanks, guys. Can you talk a little bit more about India and what is the opportunity there that you see? There's a tremendous amount of -- tremendous middle-class there but the distribution can be very challenging. So is that an area where we could see Amazon really building out the last mile? And then there's been some reports of an Amazon potentially trying to close the GAAP in terms of delivery and deliver sooner. On the grocery side, what is the impetus there and can we see how is the recent market's been trending on the grocery side that you've launched recently? Thank you.
+
+Question_13:
+
+    Great. Thanks. I'm just wondering if you could give us a sense how some of the recent announcements from FedEx and UPS about pricing during the holidays and the structure of some of the third-party relationships might impact you? And given the investments that you've made in your own fulfillment infrastructure, how much of a competitive advantage you feel like you've got during the holiday season as other retailers have -- that are more directly exposed to these changes have to deal with it?
+
+Question_14:
+
+    Yes, hi guys. Can you quickly, if you can talk about some of the more experimental projects you work on? I guess the travel business, you're in again for a few months and then got out of. Also, maybe with just restaurant, providing restaurant delivery. How do you view these services? They're not necessarily core to what you do, obviously you can provide those services. But how should we think about these types of investments longer-term? Thanks.
+
+Question_15:
+
+    Thanks, some questions on video. Any color such as engagement on the recent launch of video products in Japan including the Fire TV, the Fire TV stick and Prime Video? And also, any general updates on your video content strategy or view on standalone streaming separate from Prime? Thanks.
+
+Question_16:
+
+    So Prime has done remarkably well with folks willing to pay $99 up front. But do you expect to have different offerings for different cohorts? In other words, right now, Prime is a one-size-fits-all model. Could we see different pricing models for different demographics in the future? And then separately, can you also talk about how shipping leverage changes during the holiday season when shoppers tend to want more items per transaction? Thanks.
+
+Question_17:
+
+    Thanks. Brian, it seems like you guys are rolling out Prime Now as well as product verticals internationally, fairly quickly especially if you measure it versus the pace of the rollout for Fresh or your other International older territories. Am I reading too much into this or have you guys put in place different processes to iterate more quickly?
+And second, I think you've disclosed that as of the end of 2014, a little less than 10% of your fulfillment centers are outfitted with Kiva. So I guess, are all of your other fulfillment centers on a go forward basis going to have Kiva? If not, why not? And given the pickup in presumably the volume through-put there, does this mean you can slow down the pacing of your buildout there? Thanks.
+
+Question_18:
+
+    Great. Thanks for taking the question. Just real quickly on pay unit growth accelerated 26% this year. I realize that these are comps but anything significantly higher or anything that happened this quarter? I know Prime Day could be it, but wondering if that was the reason? And then on AWS usage, just wondering if you could update on usage? I believe last quarter you mentioned usage was growing faster than revenue. I wonder if that's the same case this quarter? Thank you.
+
+Question_19:
+
+    It was just on AWS unit growth. I think last quarter you said it was growing faster than revenue. I'm wondering if that's still the case here?
+
+Question_20:
+
+    Thank you very much. Two questions. First, with the courts striking down the Safe Harbor Provision between the US and the EU, how do you see the changes to European data storage requirement affecting AWS potentially? And on the Kiva, a question asked earlier, can you maybe help us understand the capital intensity of ace and actually using Kiva versus one that is not? Thank you.
+
+Question_21:
+
+    Yes, right.
+
+Question_22:
+
+    Great. Thanks. Two questions. So first, our data suggests that the US Prime sub growth is growing very rapidly at scale. Just wondering where you think the US Prime sub base is right now on the adoption curve? The second question is North American EGM growth accelerating again this quarter, we're assuming growth is being driven in part by categories like apparel and consumables versus perhaps a more mature category like electronics. So the questions are, with the vertical mix changing, how should we think about the impact to margins or are some of the newer and faster growing categories structurally higher margin for Amazon than the more mature categories? Thank you.
+

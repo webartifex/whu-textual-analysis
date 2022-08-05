@@ -1,0 +1,72 @@
+Question_1:
+
+    Great, thanks for taking the question. Just wanted to drill down a little bit more on the ad revenue growth here in the quarter. And it was very helpful to get the four segments broken down. But can you just help us understand a little more, Sheryl, your comment on the increased number, and then the type of ads in the newsfeed in 2Q? I'm trying to understand if this is more specific product-driven or if this is just the combination of all the efforts that have been going into newsfeed ads essentially over the last year. Thanks.
+
+Question_2:
+
+    And just as a follow up, can you help us understand how impactful or how big mobile app install ads are within the mix?
+
+Question_3:
+
+    Thank you.
+
+Question_4:
+
+    Great. Thank you very much and congratulations. I was wondering, you talked about before improved targeting and relevance of newsfeed ads that lies ahead. I was just wondering if you could share with us the progress you think you've made on this initiative and what's to come.
+
+Question_5:
+
+    Great, thanks. Two questions, please. Could you talk about thoughts on monetization on Instagram. And maybe just potentially how you think about the ability to monetize that versus your core Facebook asset. And then, secondly, Sheryl, could you talk about, on a vertical basis, where you think the biggest white space opportunities are for advertising revenue for Facebook Are there particular industries that you look at that, say, are materially under-represented on Facebook where you could have the greatest growth going forward? Thanks a lot.
+
+Question_6:
+
+    Thanks so much. I think it's fairly easy, when talking to advertisers, to assess that there's been this latent demand for advertising on Facebook. But when you look across the globe it's a little bit harder to address the advertising community. Can you talk about the growth of the ad sales force and the ad ops, and all the people required to really bring that outside of the major US and Western European markets. And, specifically, is there a chance that you believe that Asia Pacific and rest of world markets can see a meaningful continued and sustainable shift higher in RPU than where we are today? Thank you.
+
+Question_7:
+
+    Thank you very much. Two questions, please. Maybe, can you talk about the mix of growth in direct selling versus programmatic selling for you guys? And where do you see that going forward? And in terms of just on the cost side, looking at the investment -- and, by the way, David, thanks for the color about operating expenses guidance for the second half. But as you look at longer term, how far can you see that 50% increase in operating expenses still being sustained as you -- just looking at 2014, I know you're not guiding through 2014 right now, but just as we look at the model going forward, how far do you think you can sustain growth and operating expenses faster than growth in revenues? Thank you.
+
+Question_8:
+
+    Thanks a lot. I have one for Sheryl and one for David. Sheryl, I'd be interested in hearing a little bit about the relative progress of impression-based selling versus performance-based. I know you mentioned the e-commerce -- the doubling from e-commerce from direct response. And I just wanted to know if you've increased the amount of inventory that you're selling on an impression basis versus performance. And then, David, I had a follow up on the CapEx. It just seems like an interesting time for CapEx to be coming in when video usage and video uploads could be growing --.
+
+Question_9:
+
+    As we look back at this mobile ramp, back in 3Q last year, it's been pretty lumpy, and it bounces around quarter over quarter. But it looks like a pretty big inflection this quarter. Can you help us understand why it has been so lumpy, so we can think about going forward? And maybe what caused the inflection this quarter. And then I really appreciated the time spent metric. I think you said 20 billion minutes per day. Can you tell us how that compares to, say, a quarter ago or a year ago? Thank you.
+
+Question_10:
+
+    Great. Thanks, guys. David, just a continuation of what you were just talking about. On the mobile newsfeed ads, is the 5% number -- 5% of stories being ads -- the right number? And is that consistent across geos? And then is the growth a function of -- you just said price is going up sequentially. Obviously your mobile DAUs are going up, or MAUs are going up sequentially. And you're probably also seeing improving click-through rates. So, of those three variables -- users, click-through rate, and price -- which is driving the sequential increase the most in mobile? Thanks.
+
+Question_11:
+
+    I'm wondering if you could give us a sense for what the major hurdles are to overcome before deploying a major video ad product on the core site. As you're out talking to potential clients, can you help us understand what demand looks like for that product? And then maybe separately, just a sense for what you're seeing in Europe from a macro perspective, just given some of the mixed views we've heard on the economy over there. Thanks so much.
+
+Question_12:
+
+    Congratulations on a really outstanding quarter. Mark, I want to ask about the platform strategy. Just broadly, how has the strategic vision to allow third parties to provide services to the network evolved over the past year? And what needs to happen to have more of a contribution from non-advertising-based businesses? And then, David, just quickly, for modeling, the mobile ad revenue, can you talk about how that progressed through the quarter? Did it exit June much stronger than it was earlier in the quarter? Thanks.
+
+Question_13:
+
+    Thanks. I had a bigger picture question for Mark. I was hoping you could give a score card one year in relative to your founder letter. I know it's been only 14 months, and that's a short period of time. But it'd be interesting to hear your views on the Company's performance against the longer-term aspirations and core values that you put in the letter. Thanks.
+
+Question_14:
+
+    Thanks for taking my question. I had two. One of the things that stood out in your prepared remarks was I think you mentioned a 40% year-on-year increase in average price for ad in North America in Q2. I was hoping you could remind us how that compared to, say, Q1. And given that I think you contributed that to higher-performing ads, if maybe you could call out specifically what one or two either ad units or ad targeting enhancements were the key contributors to that growth. And then, secondly, David, I think you called out the more challenging comps as you enter into the second half of the year. Are you suggesting that it's unreasonable for us to look at the sequential growth that you saw in the second half of 2012 and assume that that rate of growth is repeatable this year?
+
+Question_15:
+
+    Just maybe if we could drill into the comment around eCommerce spending doubling. It seems as though FDX and third-party effort is growing fast, but it's small. And the same with the app install effort. But can you talk a little bit about what drove that doubling year on year? Thanks.
+
+Question_16:
+
+    A couple quick questions. First, on hiring, there's been a lot of discussion in the press about tech companies' need for more highly skilled workers. And I'm curious if you're feeling pressure to find that kind of highly skilled talent. And what areas you find hardest to fill. And maybe some successful ways that you're finding good engineering talent. And then, secondly, on the advertiser mix, have you guys discussed your mix of brand advertisers by category, like auto, retail, telecom, that kind of category mix? And are there any that have grown particularly well the past year?
+
+Question_17:
+
+    Great numbers, guys. Congratulations. Two questions. One on, could you guys quantify the custom advertising bucket? I know you said it was up 100% quarter over quarter. And a lot of the brands are talking about this as a key growth area. So I'm real interested in how big it's starting for you guys. And then my second question is, we're also talking to a lot of companies that target your metrics using your UPI integrations. And that creates an arbitrage. I'm wondering if over time you foresee that being a stable ecosystem. Or are you guys going to try to ease those guys out over time and grab some of that upside that these arbitragers that are using your platform are garnering today? Thanks.
+
+Question_18:
+
+    Thanks, guys. Congratulations on the numbers. Mark, a longer-term question focused on your initial comments. How have some of the recent products that are consumer-facing that you guys have launched, like Graph Search and Facebook Home, taught you what the consumer acceptance is for certain things, learnings about how the platform can be developed and evolved over time? I would love to get your take-aways on that.
+

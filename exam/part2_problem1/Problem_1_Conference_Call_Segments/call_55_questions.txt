@@ -1,0 +1,49 @@
+Question_1:
+
+    Thanks for taking the questions. Maybe two. One on the video platform going forward and you how you think about video as a distribution mechanism. How should we think about investments that need to with made in video on both technical infrastructure side as well as the sourcing of content side sort of broadened out the video offering over the next couple of years? And then maybe on  the last comment on ad load, just wanted to go back to that for a minute in terms of what you're seeing on ad load by region. Because we are seeing a widening gap in revenue per user between the US and Canada and the rest of the world. How much of that might be driven by ad load or ad product? Thank you so much.
+
+Question_2:
+
+    Thanks for taking the questions. I just have two. First on engagement, obviously the DAU and NAU numbers were strong and you gave the increase in the daily activity as well in the double digits. Can you just give us some color on the user trends underneath that a little bit, and more specifically perhaps what you might  be seeing in terms of younger users and different age demographics. And then secondly, just going back to the ad load, we have in the past heard some caution from you guys before in that area. Granted, it was a few years ago and at a much earlier stage. I guess my question is, if targeting continues to improve along with click-through rate and then  ultimately ROI, why does ad load have to become less of a factor going forward? Thanks.
+
+Question_3:
+
+    Thanks for taking my questions. I have two. The first one on the US advertising, was up particularly strong. Any specific ad category, branded, direct response, et cetera, or ad unit like video that's driving this growth in the US? And then the second one just on live video. Recognizing it's very early with live video, but any help at all on what percentage of your users are engaging with live video and the type of uplift you're seeing on engagement. Thanks.
+
+Question_4:
+
+    Yes, a couple. First, Mark, just maybe on core Facebook, there's been commentary out there that maybe there's less personal sharing. Just maybe comments on the direction of Facebook, what the activities are going on, how you feel about that. And then just about the ad loads, how are you deciding how much ads to show? Could you hold back a bit and drive higher pricing? How are you balancing that and why not hold back a little bit more now for longevity there? Thank you.
+
+Question_5:
+
+    Great. Thank you for taking my questions. I have one for Mark and one for Sheryl. Mark, you mentioned search in your prepared remarks, 2 billion searches a day on Facebook. I also noticed you said you're making it easier for users to connect to businesses. How far away are you from commercial search on Facebook being viable? Why can't you do that today? And how big of an opportunity could commercial search be? 
+And then Sheryl, you mentioned the expansion of the Facebook Audience Network. Can you talk more about the revenue opportunity of bringing Facebook's targeting tools to other video publishers? How fast is Audience Network monetization growing? Is it accelerating, for example, and how you see the revenue opportunity of expanding the Audience Network across the mobile web as well? Thank you.
+
+Question_6:
+
+    Mark, when you see what seems like phenomenal success of Pokemon Go, what are your reactions to that? And then David, could you talk about the monetization ramp that you've seen on the messaging platforms? I know it's still very early days. Anything in there that strike you as being particularly substantive for material yet? Thank you.
+
+Question_7:
+
+    Great. Thank you very much. I was wondering, I guess this is a follow-up on Anthony's question, is there a way to think about maybe the percentage of your kind of top 100 customers or  however you want to define it that might be using FAN as an add-on to their Facebook spending? And I guess I'm wondering if you're seeing increasing leverage of FAN? And then the other question would just be, political spending obviously wasn't a big driver for you guys in 2012, but it does seem like it is potentially a great opportunity in the back half of the year. Was just wondering if you could comment on that at all. Thank you.
+
+Question_8:
+
+    Hi. Thanks for taking my question. First, some people believe that much of what users see in the news feed is driven by their behavior and preferences, and as a consequence, the stories they end up seeing are almost always in line with their existing views and preferences. Does this phenomenon in the end increase -- does this phenomenon lead to increased adoption in use of Facebook creating more polarization of views and less effective communication at least in some areas of people's lives? Mark, how do you think about this line of thought that because people see things that are already in line with what they believe, communication is hindered. Second, when it comes to video ad formats, are you philosophically opposed to pre-rolls and if yes, why?  And if not, what is missing for you to adopt them? Thank you.
+
+Question_9:
+
+    Great. I had two product-related questions for Mark. Mark, you guys mentioned when you released the latest Instagram MAU crossing the 500 million mark, you give out the breakdown of US, international. Looks like US has been around 100 million for about the past nine months. Is that just a pause along the growth path or is there something else that you're seeing that's causing that growth to stall out a bit in light of what you just said about engagement being up since you did the algorithmic reranking. Any color there would be helpful. Second question is just any update on Messenger M and how do you see that product potentially impacting engagement monetization on Messenger? Thanks.
+
+Question_10:
+
+    Couple questions for Mark. The first one, what are the lessons you're learning from seeing the growth of Snapchat and some of the other newer networks, particularly among young people. Obviously Facebook continuing to do well but these things are growing. Second, related to video, what are the key problems that you really think you need to solve for consumers and for video producers and how is Facebook going to evolve to help solve those problems? Thanks.
+
+Question_11:
+
+    Great. Thanks. For Instant Articles, I think it went live globally for all publishers around the time of F8 in April. Just wondering if you can provide an update on the progress and how you see Instant Articles evolving over the next couple years. And then maybe Dave on the 49% year-over-year impression growth, how much of that was driven by ad loads? Thank you.
+
+Question_12:
+
+    Thanks a lot. I had two as well. You probably won't give specific revenue numbers, but just if you kind of in aggregate look at some of the non-Facebook app revenue streams, if it's FAN, Instagram, et cetera, curious to get a sense of the traction and materiality of those. Would you expect, Dave, that in aggregate that those would become kind of material meaning that sort of 10% plus threshold some time this year? Just trying to get a ballpark sense of the level of traction and diversification of revenue outside the core Facebook app. And then along the lines of your commentary around ad load, how should we be thinking about -- your MAUs are obviously very significant. DAU to MAU quite high. Do you continue to see that as being a primary driver of ad impression and ad revenue growth going forward as well? Thanks.
+

@@ -1,0 +1,153 @@
+Answer_1:
+
+    On LiveRail, we're pleased with the performance and the changes we've been able to make. Video is obviously super important, so having the ability to do work on video across the web has been really great. And then at F8, we made two more announcements that I mentioned. 
+What we're hearing from publishers is that this is a good opportunity and they're pleased with the extensions we're making because it can make their ad surveying and buying more efficient across the platforms they use. In terms of areas for improvement, I think there's a lot we can do. I think you have to look at our ad tech investments very holistically, from Atlas to LiveRail to the Audience Network. 
+These are all different pieces of the ad stack, but what they're all working on is taking the relevance and the ability to do people-based marketing and make that available to work on Facebook, but also off Facebook. We believe that because we can do marketing to people and then measure results across what people do in privacy-protective ways, we have an ability to improve the relevance of marketing, which will make it better for consumers, and increase returns for marketers.
+
+Answer_2:
+
+    Brian, it's Dave. Just on the OpEx question, I think the key is that we are investing in our near-, mid-term, and long-term priorities. In the near term, we're investing to grow the community, execute on the existing business, both on the product side and then the advertising sales force side. In the mid-term, we are building out those next generation of services to be great businesses that reach their full potential, so that's Instagram, WhatsApp, Messenger. Then in the long-term, we're investing in areas like the next-generation computing platform, Internet.org, AI. 
+In general, I would say our headcount growth has skewed towards the R&D side because a lot of these initiatives have long-term development needs, so we've been investing there, but we are investing across the board. In terms of a specific headcount guidance, I would just stick with our expense guidance, but I'd note that the 48% year-over-year does include some inorganic growth from the pickup of the three larger acquisitions, Oculus, LiveRail, and WhatsApp. We haven't lapped those at this point.
+
+Answer_3:
+
+    Our growth was really strong across all of our marketer segments, but we had a particularly good quarter in brands, I think driven by two things. The first is that we really have a great platform to do creative storytelling on mobile and I think we have that in a way that no one else does. Our mobile ad product is so integrated into the user experience and provides real creative flexibility that people have a way to reach people on mobile and that's becoming increasingly important in telling the stories that drive their business. 
+The second thing is video. Video is exploding on Facebook, as Mark talked about, and that gives us an opportunity to do a lot of work with marketers on video. This is the first time the technology in media vertical was one of our top four verticals, and that's largely because of the use of mobile, and so that's been really a great story for us. 
+In terms of penetration, we work with almost all the large marketers almost everywhere in the world, but even for the largest clients we have, we are a very small part of their budget. I don't think we have any large clients. If you look at 25% in the US of consumer media time is on mobile, and then 20% of mobile time goes to Facebook and Instagram. 
+That would be 5% of US consumer media time. With our largest clients, even our large ones, we are not close to 5% of their spend and so I think we have a considerable opportunity to grow. We also expect those underlying numbers, time on mobile, to continue to grow.
+
+Answer_4:
+
+    For your second question about Instagram and the ads opportunity there, we think about this the same way that we do ads on Facebook today. The primary goal is to increase the quality. That's our strategy for growing the business. There's more inventory that we can open up on Instagram over time because it's so early, but we are going to do that once we get to formats that are working well for businesses and that we feel really good about in the consumer experience. 
+This has been a theme for our ad strategy and product development for more than a year now, maybe two years, where folks have consistently asked us what we are going to do to increase the amount of ads that we are showing and our response has been that we're going to focus on improving the quality and relevance and that's both going to perform better for the people using our services and businesses who are buying ads. That strategy I think is bearing out and we'll continue to apply it to all the things that we do.
+
+Answer_5:
+
+    One clarification, I think I said tech and media as a vertical, I meant entertainment and media. This is the first quarter that entertainment and media is one of our top verticals.
+
+Answer_6:
+
+    We're pretty early in this whole thing and there's so much unique content that people share in Facebook that I think that that is the clear unique opportunity to go for first. Right? If you think about the overall web there's a lot of public content that's out there that any web search engine can go index and provide, but a lot of what we can get at are recommendations on products and travel and restaurants and things that your friends have shared they haven't shared publicly, and knowing different correlations or interesting things about what your friends are interested in. 
+That's the type of stuff -- those are questions that we can answer that no one else can answer and that's probably going to be what we continue to focus on doing first. And I think what you're seeing is that, as we enable more use cases and as we just get a lot of the basics right around performance and bringing the mobile features into parity and beyond, what we had been able to do on desktop, the volume is growing quickly. I think on a recent earnings call, we just announced that we'd passed 1 billion searches total, so now being more than 1 billion on mobile shows some progress that I'm pretty proud of for the search team.
+
+Answer_7:
+
+    Yes. In terms of news and different kinds of content, this has traditionally been something that we've delivered a really good experience for, in terms of people being able to share the content that they want, being able to get access to the content that they want, different recommendations from friends, and we have a lot more coming there, so I'm excited about that. 
+We definitely do see, in this family of apps strategy, that there's so many new ways that people want to share content, and so many different types of sets of people that people want to share with, ranging from one person at a time and that would be Messaging or small group sharing or sharing with interest-based communities or sharing with all your friends at once or sharing with public. 
+There are just a lot of different experiences that need to get built, and a lot of what we're trying to do is enable a number of those things through Facebook, while also building unique, world-class services to enable people to share all the things they care about with all the different sets of people that they care about. So we're going to keep on doing more there, but we're happy with where we are now. We have a number of services that are reaching pretty good scale and I think we'll keep on pushing that.
+
+Answer_8:
+
+    To your question on targeting and closing the loop, these are two really important pieces for what we want to do. Our goal, when we work with marketers, is to drive their business and that means their products off the shelves, their services into the hands of people. In order to do that well, we need to work on targeting and we need to work on measurement. 
+With targeting, a more relevant ad is just better. It's a better experience for consumers because they see something they like in their Newsfeed and it has a higher return for marketers. So we are very focused on getting more people to use our targeting tools from custom audiences, which lets people target ads differently to their current customers or people who they'd like to be their customers, to look like audiences, which enables us to identify the characteristics of your current customers and then find other people on Facebook who share those characteristics, so again, the ad is well targeted. 
+I think our targeting abilities are really second-to-none and I'll share a recent example. XFINITY put out a voice guide for visual disabilities. And they did this by doing an Oscar commercial with a girl who is blind imagining what Wizard of Oz characters look like. Now, by doing that at the Oscars, that's obviously TV, and it's a very broad ad and that's because they were both showing a product but also working on their brand. 
+On Facebook, they took that ad and showed it to movie fans, Wizard of Oz fans, and also people connected to accessibility causes. That's actually pretty specific targeting that lets them hit exactly the right audience and amplify what they were doing on TV. And I think that's the kind of thing that only we can do at scale and it shows how important targeting is. 
+When you think about closing the loop, you then have to add in the measurement piece because if we can connect people seeing ads on Facebook to what they buy in stores or in other ways, that's how you close the loop. That's why we've put so much investment and hopefully so much innovation behind measurement, so conversion tracking is increasingly used and we work with our marketers to use it even more. 
+We're also really excited about conversion lift, because that's the first product we've had which scientifically measures the additional business you get from Facebook ads. It compares test groups that see ads with control groups that don't, so whatever you're measuring in terms of conversions, whether it's sales or website clicks or registrations, we can A-B test and see exactly what the impact Facebook has. I think we're still at the beginning of this. I think there is so much more we can do to make ads more relevant on Facebook and so much more we can do to measure results and I think our future growth will depend on executing on that very well.
+
+Answer_9:
+
+    Youssef, it's Dave. On the FX-adjusted ARPU growth, I would really point to the overall revenue growth rates. That's what's driving it, so you're coming up against a bigger business last year than we had in the past, so you're seeing a declining rate on that basis. I don't think there's anything specific to ARPU. It's just a reflection of what we're seeing on the revenue front as we scale and it's as expected there. 
+So we're really pleased with the performance that we're seeing on the revenue front, certainly on the FX-adjusted basis. We are seeing strong growth in the face of really a tough currency environment, so we're really pleased with that. We think we've got the best mobile ad product out there in the market and it's just getting better, so we're really pleased with what we're doing on the revenue front.
+
+Answer_10:
+
+    And in terms of voice calling, no, we're not going to charge for it, just like we're not going to charge for messaging. What we're focused on doing is providing more -- higher-quality services for free than what you could otherwise get in paying for them. One thing that you may not know about voice calling is that, by using the Internet for calling rather than the relatively low bit rate voice networks, you can actually get higher-quality calls using VoIP. 
+One of our theories in this is that it's -- one of the reasons why voice calling has been a little slower to catch on is because you need the large established network of people who you know will have access to be able to receive a voice call before that behavior can really take on in a big global community. But now between Facebook Messenger and WhatsApp, which are two very broad communication networks, we're pretty confident that, because of the higher quality of calling that you can get through the services that we are providing, that this is going to continue growing very quickly. 
+A lot of people still -- we're just very early in rolling out and promoting it. Even in Facebook Messenger, it's been out for a little while where we are already more than 10% of the global VoIP market. I think that that's just going to continue growing and I'm really looking forward to getting the first stats on WhatsApp VoIP, as well, soon.
+
+Answer_11:
+
+    On the messaging question, yes. We're pretty happy with how it's all going. I think if we are going to pay $19 billion for a company, we should have pretty high expectations for how it's going to do. So I do feel good about how we're doing, but it needs to do a lot more, obviously, and we're very excited about the road map of things that we have ahead. 
+In terms of integrating them, no, we're not going to do that. One of the things that had been interesting while we were watching these different services grow was just how quickly multiple different messaging and communication services were growing at the same time. It seemed a little bit counterintuitive at first because it seemed like there should have been more overlap than it actually, now in retrospect, looking back, seems like there is. 
+So you can look at countries where both services, WhatsApp and Messenger, are growing very quickly, like Brazil, for example, and what you'll see is that basically people use them a little bit differently. WhatsApp is more of a clear text messaging replacement. Facebook Messenger people use to connect with people that they know on Facebook primarily. 
+Then there are differences in the feature sets where WhatsApp is extremely utilitarian and focused on texting and now voice calling, whereas Messenger is very focused on expression. And the whole set of things that fit into the tools around the Messenger platform that we rolled out at F8, communicating with businesses now, richer tools to communicate different ways. So I think that these are just going to keep on growing, is my expectation and hope, and we're excited to pursue both different products to serve the different communities.
+
+Answer_12:
+
+    On the auto and insurance verticals, they're both still small which makes them good opportunities to grow. We're seeing good progress on both of them, and interestingly, insurance companies have been pretty active, both on Facebook and Instagram, so we're optimistic about that.
+
+Answer_13:
+
+    I can go first. On the CapEx growth for this year, Paul, yes, we are ramping CapEx, obviously, to support the initiatives that we have. 2015 is a big investment year for us, both in CapEx and OpEx. It's a little bit early to be talking about how that's going to scale going forward. 
+But clearly, we've got a lot of areas that we are investing in, including video, including the various other services on top of Facebook. So we're going to be investing to deliver the best quality services that we can for our users, so we'll continue to invest heavily on the data center and infrastructure side going forward, but 2015 is a big investment year for us across the board.
+
+Answer_14:
+
+    And on video, we're excited about people sharing all different kinds of content on Facebook. Right now, a lot of what people are sharing are their social videos and content. There are a lot of public figures who have pages, often with millions or tens of millions of followers, producing unique and really high-quality content that they are pushing out to all their fans on the network today. So, yes, we'll continue looking at ways to grow that and the product experience that we have right now is growing quite well, so we feel good about it.
+
+Answer_15:
+
+    To the first question, video is a big opportunity for us. Mark talked about how we have 4 billion video views on Facebook every day, and we've always believed that the format of our ads should follow the format of what consumers are doing on Facebook. So many years ago, when the homepage ticker was in vogue, we never did that. So the fact that there's so much consumer video, that gives us the opportunity to do more marketing video as well. 
+It's still early days and we are very focused on quality, and it's worth noting that not all of the revenue from video is incremental, because the video ads take the place of other ads that we would have served into Newsfeed. That said, we're really excited about the opportunity. I talked about increasing the entertainment and media vertical and brand marketers, particularly, but I think all marketers have the opportunity to do video. 
+And that's pretty exciting, including SMBs who would never be able to hire a film crew and buy a TV ad, we're seeing those put videos in. Over 1 million SMBs have posted videos and done really small ad buys around them and that's pretty cool, because I don't think there are probably 1 million advertisers who have bought TV ads in that same period of time. 
+When you think about our marketer growth, I think we have an ability to grow both the number of advertisers who use our platform, but also the percentage of their business that we get. So 30 million small business pages continuing to grow, we have an opportunity to turn those businesses into advertisers and marketers, and that's what we've done successfully and we are going to continue to focus on that. We do that by building very simple ad products. 
+Then when you think about the percentage of spend we have, what I said before on this call, which is we only have a small percentage of even our large customers, that's true of our small customers too. There are some who spend a large portion of their budget on Facebook, but that's actually very unusual. 
+For most people, even when they start spending with us, we are a small portion of their budget. When you look at the consumer time we get, we are not getting the equivalent amount of time or resources from our marketers, really of any size, and therein lies our opportunity to grow.
+
+Answer_16:
+
+    Yes, Justin. In terms of the 55% revenue growth, obviously, it's mobile Newsfeed is what's driving it from a fundamental point of view. In terms of what the opportunity there is to drive it, it's really about increasing the relevance and quality of the ads. That's been a key part of what we've been doing and that will just continue to be the big driver in the near and medium term. 
+And we're doing that on a number of different fronts. Part of it's about finding the right format, so it's getting the video units there for the people for whom video ads are going to make sense. It's getting the dynamic product ads in front of people, for people who are going to find those ads interesting and engaging.  And it's really just continuing to learn more and more about the people who are using Facebook and what types of as they interact with and like, and so that's part of what we're trying to do across the board. 
+And then at the same time, we're bringing more and more advertisers into the system and that's giving us a better selection of the ads that we can serve to the people using Facebook and that again improves the quality and the relevance. So the main thing that we're seeing drive this is just improving the quality and the relevance of the ads experience for the people using Facebook and I think that's going to continue to be the story. 
+The specific ads will be part of how we do that, but it won't be the only way. It will also be the targeting that we have and the targeting capabilities that we are doing with things like custom audiences and getting better and better at that. So there's a lot of different fronts that we're working on. 
+It's hard to tease out every individual component of it, but all in all we're really pleased with the revenue growth that we're seeing. And also, that's coupled with good engagement growth, so we are doing a nice balance of having an experience that's working well for our advertisers, but it's also working really well for the people who are using Facebook.
+
+Answer_17:
+
+    Sure. I can speak to both of those. For the Newsfeed question, the North Star for us in Newsfeed is that we want to produce the best experience for everyone who is using the app and loading Newsfeed to see what is going on in the world around them. So when it comes to -- there are lots of businesses on Facebook, there are professional content producers, our main interest here is the people in the community who are using Newsfeed. Not those guys. 
+So of course, we want to build tools to enable them to share their content and all that, but we are constantly refining the algorithms in order to make it so the experience is the best for you, when you open up your phone, and look at Facebook and there are a bunch of things that are going on, we want to make sure that we're getting what you care about the most. And we go to a lot of lengths to make sure that we're getting signals from people in our community to make sure that we're doing this correctly. 
+In addition to the different signals that we would get from seeing people use the products, we also do a lot of qualitative surveys, to see what people what makes -- what people write in that they want to see from us, what people tell us is the most important thing that they saw on Facebook today or saw anywhere in the world today, what they would have wanted to have seen on Facebook. Our goal is just to constantly refine this and make it better, and we're going to keep on doing that, because we think that there's a lot of upside and there is a lot more that we can do. 
+At the same time, in order to make this experience good, there also needs to be good content in the system, so we need to make sure that people have the tools to be able to share the moments that they care about. If you're a professional publisher, you need to have the ability to share a version of the content that you're producing that you're proud of, that can load quickly, that can be as rich as the tools enable people to see. 
+And we're working on a lot of different tools for that. And you can imagine that as the tools for any of this content get better, people taking photos, newspapers writing news articles, advertisers putting out ads for content that they want to sell, the better that content gets, the more people are excited to see it, and then that informs the ranking and what the community qualitatively tells us that they want to see from us over time, as well. So it's just a constant cycle on that. What was the other question?
+
+Answer_18:
+
+    The watch.
+
+Answer_19:
+
+    Oh, the watch.
+
+Answer_20:
+
+    Wearables.
+
+Answer_21:
+
+    I haven't actually spent that much time with this so far, so I mostly just want to congratulate Apple on shipping something that seems like a pretty amazing piece of technology and work. We're proud to be supporting and I know that we have a bunch of apps. It's a space that's going to be really interesting and we're going to watch closely and build what our community wants us to.
+
+Answer_22:
+
+    I can take this. In terms of what percentage of videos are ads, we're not breaking that out. I think what we said was that we are really pleased with the consumer adoption we're seeing. That's the fundamental table stakes that need to be there and that's the most important thing and we're really pleased with the 4 billion video views daily that we are getting. We know that marketers love video, so there's a great opportunity here. 
+It's still early. It's worth pointing out that, as Sheryl mentioned, video does displace other ads in Newsfeed and let me speak to how that plays into pricing as well. Video is just a format that is bid into the auction, so video is effectively winning in the auction if it's higher-priced. So if somebody's willing to pay more for a video, it's going to get served before another type of format ad, but there's not really a price differential. 
+You're paying for video. It's just what are you willing to pay into the system? So there's not differential pricing by product. It's just what are you willing to bid for the format that you want to show to the people that you want to show it to and that's how the system  works.
+
+Answer_23:
+
+    Ben, let me take the OpEx guidance question. We have not announced any specific plans for shipment volumes in 2015 related to Oculus. I'd just note that Oculus is very much in the development stage, so it's early to be talking about large shipment volumes, and our expense guidance reflects any volumes that we might do in 2015.
+
+Answer_24:
+
+    And no plans to work with our marketers in the way you described.
+
+Answer_25:
+
+    Peter, just on ads engagement, that's an area that we've obviously been very focused on and we're really pleased with the results that we're seeing there in terms of driving better engagement per ad. That's really the focus of a lot of our quality and relevance efforts. How do we find those ads that are going to be more engaging, that are going to get more clicks, that are going to get more views, that are going to get more installs? 
+We're working on focusing on all of those, on optimizing the relevance of the ads for all of those different potential actions that happen downstream and we are pleased with what we're doing there and the trends that we're seeing there. Again, that's a big part of what we are trying to do to drive the overall ads growth story, as well as providing a good experience for users with the ads that they're seeing.
+
+Answer_26:
+
+    On SMBs, we have a very small test in the US we started last quarter for Buy on Facebook and that enables people to buy products from merchants with a buy button on pages. It is a product that is used and aimed at SMBs. We are also very focused on helping SMBs have a presence, especially a mobile presence. 
+35% of SMBs in the United States, which is probably ahead of most other countries, don't have a web presence at all, and an even smaller percentage of SMBs have a mobile web presence or any kind of mobile presence that works. And so pages are a good and free and easy way to have a mobile web presence and that's something we are very focused on growing. 
+Operator, we have time for one final question.
+
+Answer_27:
+
+    On the video question, we're basically focused primarily on video on our own site [and] service. Video tends to be pretty short-form content right now on Facebook because it's playing in Newsfeed. We do see some pretty cool examples of people using it well. 
+So for example, in the election you saw Hillary Clinton announce her candidacy, very recently, obviously, and that video got 2.7 million views. Ted Cruz and others have done the same and they've gotten large numbers of video views. So we think it's a very attractive platform for people to reach people with video messages.
+
+Answer_28:
+
+    Great. Thank you for joining us today. We appreciate your time and we look forward to speaking with you again.
+

@@ -1,0 +1,125 @@
+Answer_1:
+
+    I'll take the first question. In terms of our ads priorities, they are what I mentioned -- mobile, measurements and product innovation. We are particularly focused on improving the quality of our ads because we think that is the best way to have a great experience for users on Facebook, as well as for marketers. I think if you look at the success of Custom Audiences, Partner Categories, FBX, what you see in that are products that all move us towards better targeting, more relevant, better experience for users and for our marketers. And we're going to continue to invest very heavily in making the ad experiences as high return as they can for everyone involved.
+
+Answer_2:
+
+    Yes, and I'll just emphasize the same point. The things that I'm most excited about are things that are driving quality. The two big levers for the business are, A, obviously a lot of people spend a lot of time using Facebook to stay connected with all the people around them, and that gives us an opportunity to advertise. But I actually think over the long term, the thing that's going to drive the business the most is getting the ads to be very high quality -- personalized, good content in there and a lot of the things that we're doing are aligned with that. So, app installs, a lot of that stuff is just good content that people are interested in. There's no great way besides app stores today to discover a lot of apps on mobile devices. Similarly, I talked about the newsfeed redesign that we are rolling out and the content in there is much more visual. We've always had this policy that the advertising content will display in exactly the same way that the consumer content display is. And making it so that people can share much more visual content makes it so naturally advertisements can now have the same kind of compelling creative, as well. Which I think will increase the quality of that and over time increase the effectiveness, as well.
+
+Answer_3:
+
+    Heather, in terms of your question about CPMs. Ads revenue grew well across all the geographic regions that we report on. I mentioned the US and Canada growth in CPMs. We saw a similar number, a little bit lower but similar, in Asia. For Europe and rest of world, the numbers were much lower. A little bit above zero in the case of Europe, a little bit below in the case of rest of world. The interesting question around this is what those numbers might have looked like if we hadn't made changes in the option dynamics, such as the price floor. And obviously we can't answer that question quantitatively because we don't have the data, but we feel pretty strongly and pretty confident that prices would have increased substantially more in all of the regions if we hadn't made those changes.
+
+Answer_4:
+
+    Yes. In terms of growth and engagement geographically, I think you can see from the numbers that growth was strong across all the areas of the world. We continue to add a lot of users in places like India and Brazil. And engagement trends, I think, were similarly strong throughout. And mobile is clearly a big part of that equation, and been very helpful to us in terms of getting more users, more daily users, and more engagement from those users. In terms of revenue by geography, I don't know that there's a lot to add to the numbers I've already said. Europe looked good in the first quarter after being a little bit softer towards the end of last year and we continue to grow well in Asia and the rest of world. So I think just pretty consistent performance there.
+
+Answer_5:
+
+    All right, well, I'll start. I think that the trend of more different form factors, I think is somewhat orthogonal from the main trends that we see, which is just people sharing more in different ways. People want to stay connected with their friends and family and all of these different folks in their lives. And they're going to use whatever technology they have to enable that, whether that's desktop computers or laptops or phones or tablets or glasses. Whatever the products are. And I think that there's going to be good ways for people to be able to consume social content on all of those. So I think the big question for us is just which platforms do we see growing the quickest. We're not tooled up as a company right now to make 10 huge investments like that at a time, but we can do a couple.
+Certainly tablets are growing very quickly and I think that's going to be increasingly important. But I think that consuming social content and staying connected with people is just such a fundamental human need that that that's going to be important on all of these. Getting ads in newsfeed was a valuable step in making it so that everywhere where someone is consuming content from Facebook, the business model goes along with that naturally. That was one of the early challenges that we had with mobile was ads for the first six or seven years of Facebook were just right-hand column, and that didn't translate to mobile. But it was fairly easy, with some amount of work, just to make that transition and we're there now. And now I think whatever the form factor is going forward, we'll be able to deliver advertising content in a proportion that we think is good, along with consumer content.
+For the sentiment stuff, I think what we're seeing is really positive and it's better than expectations. We assumed that sentiment and satisfaction might drop some amount. We continue to watch this really carefully because there's no guarantee that it won't in the future. But right now, what we have seen has made us more confident that we can do more with advertising over time and can ramp that up. Our strategy isn't to have a ton of different ad units. We really want to make it so that we're delivering these end-to-end solutions for our customers, and only have a small number of simple things to make it easier for advertisers to work with us. We want to deliver that and we're underway on this long road map to execute that.
+
+Answer_6:
+
+    On Atlas, you're exactly right. Our focus with Atlas is on impression-based ads. And the idea is that, historically, a lot of ads online, which were more based on search, the attribution was always that last click. And as people have looked more holistically at all the ad spending they're doing, what they find is that it's not just the last click that matters, but it's all the impressions leading up to that click.
+Importantly, we also drive sales offline. And offline, people aren't clicking through the purchase at all but they are actually walking into a store. So, in some sense, there is no last click. And so our focus with Atlas is to take that technology and enable us to improve our ability to connect ad impressions to purchase behavior, both offline and on. And not just on Facebook but across different ad purchases people do. So that's exactly why we made that purchase.
+
+Answer_7:
+
+    In terms of ARPU in the US and Canada, was up 21% versus last year so continuing to make good progress there. I really don't have anything unique to say about seasonality in 2013. We see it from Q4 to Q1 across the years that we've been an advertising business. And I'm sure there are unique things that impact each year, but there's nothing that we're aware of that was particularly important in 2013 in that regard.
+
+Answer_8:
+
+    I'm very encouraged about our opportunity to sell ads all over the world. One thing I've learned in my time selling ads on the Internet, which is going over a decade now, is that markets that you don't expect to have ad markets develop faster than you would think. So, if had asked me seven years ago what Turkey's ad market would look like, I would not have predicted it as it is today. So I'm increasingly encouraged by small businesses around the world, and large businesses, and their adoption of the technology.
+I think with small businesses, we had an actually really deep competitive advantage, which is that people all around the world use Facebook. So when small businesses, who are historically way too busy to spend a lot of time using technology, start to use the Facebook platform, they're using something they already use as users. So once you have a time line or a profile, setting up a page is not a very big ask because you understand it and you're doing it anyway. And that's why we think, with almost no direct effort, we have 16 million small businesses actively using Facebook pages. I think one of the things we've done well over the past number of quarters is rolled out simplified ad products like Promoted Posts, where it's easy for those people who are using pages -- and this happens all over the world -- to become advertisers. And we're increasingly optimistic that we can do more and more of that.
+
+Answer_9:
+
+    In terms of hiring, I think everything has gone quite well. And as we've discussed, 2013 is a year where we're investing for future growth and I think in the first quarter, both in terms of hiring and building out our infrastructure, we're on track with where we want to be.
+
+Answer_10:
+
+    This is David. I'll take the first one, which is about CPMs. The ads that we show in newsfeed are displayed more prominently and they are more in the flow of a user's attention. So, as you would imagine, we get more engagement with those ads and they end up commanding a much higher average price per ad, as you would expect.
+
+Answer_11:
+
+    Video ads. Yes, sorry, I'll take the second part. So, video is a really exciting area because we had leveraged our scale and engagement and our ability to provide relevant ads. We have a video product out today. Advertisers can embed a video in their page posts and we're seeing really strong results. I think both because of that and because of marketers' inherent liking video as a format, we continue to explore new things as well, but we don't have anything to announced today.
+
+Answer_12:
+
+    On the first, I think there's a lot of room to improve our ads. I don't know whether that will take the format of different formats. I think more of it will be in terms of quality because I think we feel pretty good about our format. But one of the main pushes we have is to make each ad a better experience for users. Content in those ads, which is as good as the content they'll see from a friend or anything else on the site, as well as make those higher return for marketers. And those two go hand in hand. I think the place you will see the most from us is more around targeting, around ability to take the formats we have and make the ad better within those formats. That's certainly our focus now. But as our site evolves and our product evolves we never rule out changing a format, as well.
+
+Answer_13:
+
+    And on Instagram, they are really doing well and growing really quickly. And I think that that is the right focus for them. And they have this opportunity to capture and basically build off this huge community, and I think that that should be 100% of the focus right now. I am really optimistic about the business opportunity there, too. You already have a lot of brands from folks who advertise with Facebook, putting content into Instagram, getting huge engagement rates. So people are coming to us and asking for ways to make that even richer and it's something that we're thinking about. But right now I think that -- I'm just really proud of the team and excited about how quickly they are growing. And we mentioned this in my comments early on, but they are growing a lot faster now and were faster to get to 100 million than Facebook even was.
+
+Answer_14:
+
+    I think we're still in the really early days of what we're doing and it's particularly true in mobile. A year ago we didn't have any mobile ad revenue and now it's 30% of our ad revenue. So this is great. We're really pleased with the progress and we still believe that mobile has the opportunity to be huge for us if we can execute well. We've got a really large mobile user base. They are very engaged and spend a lot of time with us. We have an ad format that works on mobile and we have identities so that we can put the right ads in front of the right people.
+So I think the future for us is, I think, much more interesting than trying to project it from any particular quarter at this point, just because we've got a lot left to do. And obviously we'll continue to try and develop tools to enable us to monetize our advertising better and potentially in different ways, as well. But the big opportunity that's right in front of us is trying to make the mobile advertising products higher quality and more relevant over time.
+
+Answer_15:
+
+    Sure. One thing that I think has actually gone well with the platform recently is the gaming ecosystem. David was talking about this earlier. With the exception of our largest partner, Zynga, whose growth hasn't been as awesome as everyone would hope, the rest of the community has actually grown quite well and is quite healthy. And so we're pretty happy with that and it's a pretty diverse group. I mentioned in my comments at the beginning, we're up to -- I think it's 81 of the top 100 top grossing iOS apps and 70 of the top grossing Android apps are connected in with Facebook, so we're getting good coverage. And that's always been the vision, is making it so that any app and experience that you have can be social. That's working well.
+And also we really want to be a source that developers can come to for distribution and make it so that they can come to Facebook and spread their apps. People have always had good tools to do it organically, but recently the app install ad product has been another tool in developers' arsenal in order to do that, and that's showing some real traction. So I'm pretty excited about that, as well.
+Graph Search was your other question. The strategy around this, and where we are in rolling it out is we developed it over a period of time at the Company. And we knew that in order to get it to be really good we had to get some real world data, so we rolled it out to just a small percent of people in order to be able to tune the ranking and all that. We're getting it to a state where we're really happy with it before we roll it out to everyone. But we're really optimistic that that will happen over the coming months.
+So I'm pretty excited about that. The people who use it, we've gotten very positive feedback from it and I think it's going to be a very big opportunity. But the launch wasn't this point where we expected a ton of people to start using it. We've gated who can use it quite aggressively, in order to just make sure that we get the data that we need, and the real rollout will hopefully start pretty soon.
+
+Answer_16:
+
+    Sure. I guess I'd start by saying we remain really pleased with the high level of engagement on Facebook by people of all ages around the world. You asked about people under 25. We continue to have really high penetration rates among that age group, both in the US and globally, and that the younger users remain among the most active and engaged users that we have on Facebook. And then, in addition, younger users are extremely active users of Instagram, as well. So that's great and makes our position even stronger.
+From our standpoint, the urban legend you referenced flows, more often than not, from surveys people have done of younger users that indicate that they are using other social services. And we take this feedback seriously but our sense is much of the concern stems from the assumption that this is a zero sum game, and that's not how we see it.
+We think the overall amount of time spent on services that enable you to connect and share is growing and will continue to grow, because these kinds of services are really engaging and good. And it's great for us to be the leader in a market that's expanding rapidly with the foundation we have with both Facebook and Instagram. And I guess the challenge for us is just to continue building great products that appeal to users of all ages.
+Your second question about the engagement levels or the performance of mobile ads, I think it's fair to say that newsfeed ads on both mobile and desktop both perform extremely well and we're pleased with both formats.
+
+Answer_17:
+
+    Our main focus with Atlas is our own measurement. That being able to measure Facebook ads all the way through to purchase, and net compare those in an apples-to-apples way with other ad purchases you make not on Facebook, is really important to drive marketer engagement with us. And that's our focus. We have no plans to launch in the network. We also don't break out -- we're not breaking out the revenues from Atlas.
+
+Answer_18:
+
+    And it's small. We didn't buy Atlas for the run rate of its revenues, but because we feel like it's a tool that can help us to grow our own business.
+
+Answer_19:
+
+    There are lots of types of big marketers. There are big marketers out there who are direct marketers. There are also big marketers who are brand marketers. And I think first and probably it's the brands, so that's how I will answer it, even though it's worth noting that there are big advertisers across the spectrum of different types of ad buys. As I said before, the thing about brand advertisers is that they got very used to TV, then they got very used to search, and we are a third thing. And we will win that business client by client, CMO by CMO. It's something I personally spend a lot of time on and I think we have a great team in the field against.
+With some of the big brand advertisers, we have been working with them for years and years. A lot of the data and measurement you hear us talking about are studies we've done with them based on campaigns that we've run with. And I think we have a lot of belief at the top, and in many of them we're in the process of going through their companies and getting that same commitment to buy. So we'll have a CMO who has seen the value, we've proven the value, and really wants the company to come along. And now we're in the process of working brand by brand, region by region, to get that same buy-in lower in the organization, which actually takes more time, not surprisingly.
+But other brand marketers, they are just in the testing phase, and they really haven't done enough with us so that we can even do the studies to prove the value. And so the good news for us is we're engaged with all 100 Ad Age 100, so everyone is buying with us on an annual basis. And we're working client by client to bring them along that spectrum. The good news is, I think we're increasingly proving that we can return on ad spend in different parts of the purchase funnel.
+To share one recent example, MGM Resorts has used a different suite of Facebook products to address different customers at different parts of the purchase funnel. They used offers to acquire new customers and they saw a 3 times return on ad spend. Then they used FBX to re-target people who were in their booking process and dropped out and that gave them a 15 times return on ad spend. And then for past guests who had completed a purchase but hadn't come back, they used Custom Audiences to target them to return, and they got a 5 times return. And I think it's experiences like that, where we show the breadth of what we can do, that really move us forward with the brand spender.
+
+Answer_20:
+
+    You asked about mobile app install ads. We launched that product, I think, at the beginning of the fourth quarter, more broadly. It's early in its development but really doing quite well. And we're pleased with both the quality of the experiences we're providing and with the revenue growth that we've seen. It really fits in nicely with the idea of putting content into newsfeed that we think will be of interest to users and provide value for developers. The only other thing I'd note is that it's an incremental audience for us, for the most part, from an advertising standpoint, which is also nice. Some of those developers were advertising with us before but for a lot of the mobile app install ad purchasers are new advertisers to Facebook.
+
+Answer_21:
+
+    In terms of the segments, it's really hard to break out the revenue because the same advertiser crosses multiple segments with multiple objectives, sometimes with the same ads. One of the ways we use the segments is to help focus our product development on understanding the different objectives that marketers might have, but then translating that into individual groups of revenue is difficult. I think that, as Sheryl mentioned, we're particularly pleased with small businesses as something that we can measure on Facebook and see the number of advertisers increasing.
+In terms of data centers, I think it is both strategic and operational. There's no question that owning our own data centers removes another party from the mix relative to when we used to lease data center space. It also enables us to build the data centers to look exactly as we want them to look, so that the performance is optimized for precisely what Facebook needs to do with the servers that we put in there. And there's definitely some efficiency that comes from that. But I would also say that, given what we're trying to do and the world we're trying to reach, I do think it's strategic for Facebook to not be dependent on third parties to provide that critical part of our supply chain.
+
+Answer_22:
+
+    On Page Post, Page Post ads first appeared May of last year, and then we just put them into newsfeed in March of 2013. In terms of unpublished, what that just means is the ability to target Page Posts only to the right people. So, for example, without posting it to everyone on your page. For example, if you're a retailer and there was a snow storm in one state, you could target snow shovels or other relevant stuff you want to sell for a snow storm only to people in that state. So it's just a really useful way of segmenting your audience. Again, part of our overall push to relevance, targeting and quality.
+We're really excited about Page Post ads. Over 7.5 million posts have been promoted by pages. Over 30% of the people using the product are new advertisers to Facebook. And I think that speaks to one of the earlier questions on small to medium businesses and their adoption. If you say to an SMB, do you want to become an advertiser? That's a heavy lift. If you say to them, you have a page, you've posted something, do you want to pay a few dollars to promote this post to reach more people? That is a much easier on ramp to advertising spend with us and we think it's working really well.
+
+Answer_23:
+
+    In terms of US and Europe, I really don't have a lot more to add. The Europe number, as I said, was strong in Q1. I'm certain it's true that for some of the products that we roll out, the US represents the first adopters and then they spread their way to other clients around the world. But I don't have any specific evidence to support that that was key to the trends in Q1.
+
+Answer_24:
+
+    Operator, I think we have time for one last question.
+
+Answer_25:
+
+    To your first question on mobile, I think the question was on mobile ad load, is that right?
+
+Answer_26:
+
+    Okay. Sorry, I got lost in the second question, which I should have written down the first one. Right now, you asked about Acxiom and things like that. That's a very small percentage of the ad impressions we show. Hopefully over time we can bring tools to bear that can really increase our ability to do more targeting, or more effective targeting than we do today.
+In terms of the second part, I think you're asking about the whole payments and other fees revenue line. I said the whole line grew by 15%. Games represented 12% growth. So the increment in between the 12% and the 15% came primarily from user-promoted posts, which is a product we launched last year. To a lesser degree, also, from our gifts product.
+
+Answer_27:
+
+    Great. Thank you for joining us today. We appreciate your time. And we look forward to speaking with you again next quarter.
+

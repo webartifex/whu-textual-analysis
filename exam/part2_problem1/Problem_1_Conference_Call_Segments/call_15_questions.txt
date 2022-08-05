@@ -1,0 +1,71 @@
+Question_1:
+
+    Thanks for taking my question. We've noticed some data points out there that suggest that you're accelerating your build-out of fulfillment capacity in North America and obviously also in India. Can you give us a sense of what sort of impact that, that might have in the near to mid-term on your CapEx, depreciation and ultimately CSOI? Especially as it relates to your Q3 guidance? And then just a maintenance question, how much is FX impacting your Q3 guidance? Thanks.
+
+Question_2:
+
+    And, Brian, where does that bring your video content spend to with the doubling in the second half if we look at it on an annualized basis?
+
+Question_3:
+
+    Thanks.
+
+Question_4:
+
+    Thanks for taking the questions. I just want to go back to Prime Day for a minute. I didn't hear any commentary around new Prime members in particular. Obviously a lot of other metrics that you gave but hoping you could provide a little bit more color around that.
+And then also, is there anything else that stood out in terms of what you learned around operations and systems ahead of the holiday season? And then just going back to the 3Q guide, what's the right way for us to think about stock-based comp in the third quarter and if we looked at your 2Q numbers, is that a fair assumption for what you're thinking about? Thanks.
+
+Question_5:
+
+    Hello, good afternoon. First, love the conference call format here. Get right to it. In terms of questions, the customer count, can you give us a little bit of guidance on that? And then also talk about the theme of automated consumption and separately, the importance of Prime Now and how you can grow those SKUs. Thanks.
+
+Question_6:
+
+    Great, thanks. I was wondering as it relates to the Q3 guidance, can you give us a bit of a sense of just how we should think about margins in the AWS business, especially as the next eight availability zones roll out? Presumably that kind of increase in capacity likely has an impact on margins, but would appreciate any direction you can share on how to think about that.
+
+Question_7:
+
+    Thank you. Two questions if I may. As I look at your tech and content expense as a percentage of revenues, we see year-on-year decline for the last two quarters, which is something we hadn't seen since mid-2010, and of course it's reflected in the AWS margins. Can you help us understand what has driven this significant change in relative trajectory in tech and content expenses? And the second question is, why is it that the rate at which you are deploying Prime Now is so much greater or faster than the rate at which you are deploying Fresh? What's different between them and how is it that you are deploying Fresh in new markets but not as fast as Prime Now, and what drives the difference? Thank you.
+
+Question_8:
+
+    Thanks for taking my questions. I have two. The first one is on the Echo. Anything you could share at all on some of the most commonly used searches? How are consumers using the Echo as of now most commonly, and then anything on uplift in purchase behavior from Echo households? And the second one on Prime, on AWS margins, can you just walk us through some of the puts and takes that have been driving the AWS margin expansion we've seen in the first half of this year? Is it utilization, product mixes? What's been driving the margin expansion? Thanks.
+
+Question_9:
+
+    Okay. Brian, could you give us some whys as to the revenue growth acceleration that you're seeing, a little more color about the revenue growth acceleration in North American retail and in international retail? I remember last quarter you called out really starting to see, I don't know, critical mass, tipping point, whatever the buzzword is, from Prime and from FBA in international markets. Is that what's continuing, I assume, to drive that re-acceleration in any geographic country comments behind that? Thanks a lot.
+
+Question_10:
+
+    Thank you. Two questions, please. Brian, your operating income has been come in stronger than expectations, but more importantly, stronger than your own guidance, at least in the last couple of quarters. I was just wondering as you look back at where you guided relative to actual, where do you think that delta was most pronounced? Why wouldn't we assume that maybe, at least on the margin, the investment intensity in the business has maybe decelerated a bit?
+And second, on Prime Video, just was wondering, considering what the main competitor there is doing, i.e., expanding aggressively around the world, you guys have been growing in a more measured manner, is that still the plan or are you guys interested in maybe instead of moving into a few countries, expand globally in one fell swoop? That's it. Thanks.
+
+Question_11:
+
+    Hi. Sorry about that. This is Ray McDonough on for Jason Helfstein. Just on the AWS side, we've been hearing a lot of talk and especially a lot of media reports that larger customers tend to use AWS, they might use Google and Microsoft Azure in tandem in a multi-cloud kind of architecture. Just wondering your thoughts on how you see AWS fitting in the overall ecosystem and kind of your place longer term in the ecosystem.
+
+Question_12:
+
+    Okay. Thanks, guys. As another follow up on the margins, I was hoping you could comment on any impact from the investments and build out of enhanced transportation capabilities including the air cargo leases. And then secondly, was hoping you could identify any categories within EGM that are becoming more meaningful drivers of growth or at least are an increasing focus on the retail side? Thank you.
+
+Question_13:
+
+    Thanks for the questions. First, on FC build out, is the cost of building centers scaling over time given the use of Kiva, other technologies or general learnings, or are those costs still relatively consistent? And also, we noticed some device sellout in the next four to five weeks, post-Prime Day. Was this a bit of a planned inventory reduction for some of the devices or did volumes take you by surprise here?
+
+Question_14:
+
+    Great. Thank you. First on the customers, I'm guessing - I'm wondering why you aren't giving the number, a lot of people use it for their models. And then second thing, when you look at the US Prime penetration versus total US customers, how do you feel about that and do you think there's still a lot of room for Prime growth in the US? Thank you.
+
+Question_15:
+
+    Thanks, guys. I just had two. First as a follow up on the logistics topic. So, in addition to the cargo planes you just mentioned for in-network moving products around, you guys have registered and received a US maritime license to operate as a freight forwarder and you recently announced this partnership with the UK for drone delivery that you've been working for a couple years. At a high level, can you just talk about how the overall logistics strategy is evolving from trucks and fulfillment centers to incorporate some of these new methods and how that might impact your unit costs going forward?
+And then the second question's on AWS. So you continue to put up really strong results, and you guys obviously talk to a lot of customers across lots of different verticals. Just a high level, what percent of enterprise workloads do you think have shifted to the public cloud at this stage? Is it low-single digit to mid-single-digit? And any color there on where we are in terms of penetration in the space. Thank you.
+
+Question_16:
+
+    Thanks for taking the questions. Maybe one clarification and one big picture topic. On the clarification, appreciate the disclosure on content and how that'll double year-on-year in the second half. For purposes of just making sure we can understand the trajectory, is there any way to frame it within second half of this year versus first half of this year, just so we can try to triangulate on a gross margin basis from the content spend? And the bigger picture topic would be China, hasn't come up yet on the call. I wanted to understand your latest thoughts there on either the competitive landscape, relative positioning in China and how you think about investments in China. Thank you.
+
+Question_17:
+
+    Thanks for putting me on. Maybe I'll just ask a question about India. You called out India was - you had the most visited e-commerce site as well as the most downloaded mobile app, and you also launched Prime. So maybe you could just talk about the opportunities and the challenges that you see in that market. And second, there was some press reports that you invested about $500 million of incremental capital in Italy. I was wondering, what are you seeing in that market that justifies that level of investment?
+

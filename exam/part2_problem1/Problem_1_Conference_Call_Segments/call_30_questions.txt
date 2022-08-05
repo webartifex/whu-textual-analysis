@@ -1,0 +1,221 @@
+Question_1:
+
+    So Brian, very impressive commentary in the beginning of the call on headcount getting back to 2008 levels before CFC and the Merrill Lynch acquisition. The one question we get continually from investors is what is left to do on the expenses and you've already got the core expense number coming into the $13 billion range, so can you give us some sense as to where you go from here on expense management and is it steady as she goes, or is there room to become even more efficient?
+
+Question_2:
+
+    Got it. And then just separate topic on GWIM and maybe you could give us some commentary around how you are thinking about the impact of the fiduciary language that has been coming out if the Department of Labor and also how you deal with the competitive threats coming from Silicon Valley including some of the robo-advisor efforts?
+
+Question_3:
+
+    Okay, thanks. You have been a leader there, so appreciate that color. Thanks.
+
+Question_4:
+
+    Any sense of when we get a clearer picture on the final impact of exiting parallel run? Should we just assume the 100 basis point hit that you mentioned is a done deal or is there a potential for it to be less than that?
+
+Question_5:
+
+    Okay. In terms of timing of a conclusion on that?
+
+Question_6:
+
+    Okay. And then just related, obviously capital build was very good this quarter of 50 basis points, so you essentially got half that back already. But assuming that 100 basis point hit goes through, are there additional RWA levers to pull or model adjustments in the future that we can think about?
+
+Question_7:
+
+    Okay. That is very hopeful, thank you.
+
+Question_8:
+
+    On your legacy asset servicing in your discussions you said that the loans went down from 36,000 loans in the quarter. Did you sell any loans in the quarter?
+
+Question_9:
+
+    Yes, I know one of the things out there is what we are seeing or hearing is that there is a strong market right now for people wanting to buy either re-performing or nonperforming loans. Are you going to use that as an advantage to start moving this stuff off your books quicker?
+
+Question_10:
+
+    Okay, thank you guys.
+
+Question_11:
+
+    Just want to follow up on the capital discussion. You guys had pretty good progress on the advanced approach, up 50 basis points quarter over quarter but the gap between standardized and advanced is still very large. And I guess if you have to go through with the full 100 basis points, I guess about 120 basis point gap versus your peers that are less than half that. I guess -- is the big difference operational risk because of the larger litigation you faced over the last couple of years and how do we think about that coming down and getting more in line with the peers? Is that just a time as you get further away from that, those op risks come down or how else do we think about the trajectory of the closing of the gap?
+
+Question_12:
+
+    Right and sorry, is that sort of a negotiation process on the models with regulators, so is it going to be sort of a step function or is it just really just time value as you move further away? I'm just trying to understand the process.
+
+Question_13:
+
+    Right. And to your point, the stress test is based on standardized, not advanced.
+But just one quick follow-up elsewhere, on the FICC revenues, can you talk about the trajectory over the quarter? Did it improve in March? It sounded like some of your peers have talked about a slow start. Did it get any better in March, or how do we think about the trajectory through the quarter?
+
+Question_14:
+
+    Okay, great. That's very helpful. Thanks.
+
+Question_15:
+
+    Quick question on Proposal 8 in the proxy. I don't think the regulators want it to happen. I don't think it should happen and I assume you have been doing a lot of the work on this along the way for the last couple of years. But curious why the Board is so against shareholders voting for it and what you actually have to do if it does get the yes vote?
+
+Question_16:
+
+    Okay. I appreciate the comments you made on the increased asset sensitivity and if I remember the numbers correctly, it sounds like more of the increased sensitivity came out on the long end. So I guess my question is, it is great you make a lot more money if the curve shifts up 100 basis points. But I think a lot of people are more fearful of what happens if we get into a [flattener] environment. So is it is simple as you capture at least half by short rates going up and if we're in a flattener, that's where it ends?
+
+Question_17:
+
+    Okay. I appreciate it. Thank you.
+
+Question_18:
+
+    Just a follow-up on in terms of if rates stay pretty flat, what kind of outlook would you have for the core NII if we take the 10.2 this quarter as a jumping off point? Do you have any room to lower the debt costs from here or how would you expect the core NII to trend if we don't see too much movement on rates?
+
+Question_19:
+
+    Got it. Okay and that's couple hundred million over a couple of quarters, Right?
+
+Question_20:
+
+    Got it. And that's just kind of core leakage from new stuff coming on or lower yields and you not investing much in a low rate environment?
+
+Question_21:
+
+    Okay. And then just switching gears, Bruce, on the credit side, do you see the net charge offs kind of bouncing around the $1 billion per quarter level, or is there room for those to come down or is that kind of stabilizing? And how should we think about reserve releases from here relative to the 400 or so you did this quarter?
+
+Question_22:
+
+    Okay. So that should be something -- the jumping off point is more like a 200 reserve release number?
+
+Question_23:
+
+    Okay. Last quick thing for me. In terms of rep and warrants, the slide 26, not sure if you mentioned this already, Bruce, there was a pickup in the claims, the new claims this quarter showed a big increase. Just what is the driver of that? Why would those show up now? And any color you can provide on whether that is a concern or not.
+
+Question_24:
+
+    Okay. Thank you.
+
+Question_25:
+
+    So Bruce, I just wanted to touch on the preferreds for a moment. So saw that you completed another $3 billion of issuance in the quarter. But seeing as you are already at the 150 basis point target contemplated under Basel III, whether it's fair to assume that you are now full on press at the moment and we shouldn't expect any additional issuance?
+
+Question_26:
+
+    Excellent. Thanks for clarifying that, Bruce. And I suppose since you mentioned RWA, one thing that I just wanted to clarify, I believe it was relating to your response to Jim where you noted that for CCAR it only contemplates a standardized approach. But I just wanted to know if that determination had been finalized since some are speculating that the advanced approach could be incorporated within the CCAR exam going forward?
+
+Question_27:
+
+    And do you have a sense at least for the moment as to what the impact would be on RWAs if they were to incorporate the advanced approach versus the standardized?
+
+Question_28:
+
+    Right. But would it be fair to expect that because it is a -- the advance calculation is more procyclical in nature that the RWAs calculated under a period of stress would be higher versus the standardized?
+
+Question_29:
+
+    Fair enough. That's it for me and thank you for taking my questions.
+
+Question_30:
+
+    I was wondering if you could talk a little bit about the investments in brokerage services business. The metrics continue to look very strong as far as assets gained but the growth rate on a year-over-year basis looks like it has slowed considerably. Any context you can provide around revenue generation and is there a potential catch up that we should see or expect going forward based on either markets or just activity levels?
+
+Question_31:
+
+    Okay. And then secondly, just extending that to the other consumer fee lines, card income flattish and service charges down a bit. Is this customer behavior driven or additional repositioning in there and can you talk about growth expectations on the consumer side as well?
+
+Question_32:
+
+    Okay. And then last one, just Bruce, you mentioned on the discretionary portfolio on the switch out to HQLA. Can you give us a sense of just how much more of that mix shift we should expect or at some point do you get to a point where the loan portfolio finally starts to bottom out?
+
+Question_33:
+
+    Thank you.
+
+Question_34:
+
+    Just one quick question on the legal expense that was incurred in this period. Are those issues now the FX and the RMBS, are those issues now settled or are they ongoing?
+
+Question_35:
+
+    Okay. And sorry, just so I understand that last point -- the civil component, is that with the DOJ or some other kind of authority?
+
+Question_36:
+
+    Oh, I see. Okay. But that was contained within the accrual in this period?
+
+Question_37:
+
+    Okay, great. Thank you for the clarity.
+
+Question_38:
+
+    What are your financial targets for 2015 and 2016?
+
+Question_39:
+
+    And what timeframe do you expect to get then?
+
+Question_40:
+
+    So is that your specific financial target -- what is your target for 2015 when it comes to your financial metrics?
+
+Question_41:
+
+    Okay. I guess when I look back at 2014 I ask myself the question did Bank of America meet its financial targets? And I have trouble because I'm not sure if you had specific targets just for the year 2014 as opposed to your longer-term targets.
+
+Question_42:
+
+    Okay. Let me just ask a separate question then. Glenn Schorr brought up Proposal 8 and the proxy and I guess my reaction is why not give more information on the trade-offs of the business model? One of your competitors gave three slides on this topic at their investor day. They weren't asked to do this and they have some higher ROE and ROA. So more information I think would be good and in the proxy it says that your Board believes that the proposal would not enhance stockholder value. If that is the conclusion of the Board, just why not share some of the insights of the Board to investors?
+
+Question_43:
+
+    All right. Well if you can share additional insights into that conclusion in addition to what you just gave that would be great at least in the future. Thanks a lot.
+
+Question_44:
+
+    I have one straightforward question and one that is more existential. I will ask the straightforward one first. Brian, could you just restate your position on paying or raising the dividend? I know the CCAR this year has distorted that a bit and if you could just state how you feel about dividends versus buybacks?
+
+Question_45:
+
+    Okay, thank you. The second one is this and this is maybe a little bit more difficult to answer. You had a good trading quarter but we have seen one of your competitors have a much better trading quarter and I know that there is a mix issue there. But also as I kind of look at the composition of your businesses there, have you de-risked the trading desk to the point where you can't really take full advantage of the volatility in markets? And I'm wondering if you see that as the case? And secondly, if there will come a time when you are able to do some re-risking there?
+
+Question_46:
+
+    So basically you are happy with the trading desk as it is?
+
+Question_47:
+
+    Okay, thank you.
+
+Question_48:
+
+    A quick follow-up on the op risk questions. So if we still have pending settlements out there on a few of the remaining large issues, could that lead to op risk at least sustaining at elevated levels and could it even potentially cause a little bit of an uplift there?
+
+Question_49:
+
+    Yes, from your lips to God's ears, but if we still have some potential settlements my only point is that it might take a little while before we end up seeing that come down. Isn't that a similar reason?
+
+Question_50:
+
+    Okay, thanks. And then it seems some high-level turnover in your equities business. Can you comment maybe on what is driving some of those departures, any potential implications and what you are doing about it?
+
+Question_51:
+
+    Okay. Thanks for that color. And then the last one for me following up on Ken's question, it sounds like the FA headcount adds are sort of biased a little more to the junior side. So should we count on a bit of a headwind from that on your productivity metrics in GWIM? And maybe could you also comment on the recruiting environment currently and if you still think that comp may moderate as some of those deals with FAs from crisis level sunset?
+
+Question_52:
+
+    Thanks for the color.
+
+Question_53:
+
+    A couple from me. First of all, you mentioned the commercial utilization rate being up a lot. Can you give me some or give us some idea of how much of that is energy complex driven versus maybe coming from other less stressed industries?
+
+Question_54:
+
+    Okay. And looking at the balance sheet, can you talk a little bit about the plans, the level of excess cash? 22% of assets in cash, a 7% plus SLR ratio. It would seem awfully tough to generate ROE or ROA with that much of the balance sheet sitting in cash. Is there something you can do there?
+
+Question_55:
+
+    Okay, thank you.
+

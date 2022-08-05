@@ -1,0 +1,68 @@
+Question_1:
+
+    Mark, I was wondering, you shared with us the continued success of mobile install ads. I was wondering if you could share with us the other monetization initiatives that you have that you're most excited about for 2013. And then my follow-up for David would be if you can share with us qualitatively how CPMs trended in the various regions on a year-over-year basis.
+
+Question_2:
+
+    Just two questions. Engagement, first, was up across most of the geographies. We assume that's primarily driven by mobile but can you talk about anything else that's driving up engagement? And then just a follow-up on the geographies. It looked like the US had a normal seasonal downtick sequentially, whereas international, most of those regions held up sequentially. So, can you just talk about the difference between sell-through rate in the US in newsfeed versus some of those international markets? Thanks.
+
+Question_3:
+
+    It's Jordan Monahan on for Scott. Just two quick questions. The first is, one of your competitors recently said something to the effect of, if you're building for mobile, you're building for today but not tomorrow, suggesting that tomorrow is a multi-screen world with all sorts of personalized devices. And I'm just curious, what opportunities do you see when you think about tomorrow? Would you agree that screen fragmentation will continue to increase? And does moving ads toward newsfeed and away from right-hand side help you in that environment? And then the second question is just about engagement. Engagement continues to improve despite more ads, which validates your strategy. So every time you launch a new product people get concerned that engagement may actually tick down, but it seems to do the opposite. So, are there other ad formats that you're thinking about that are likely to be complementary to engagement?
+
+Question_4:
+
+    Thanks a lot. I have one for Sheryl and one for David. Sheryl, you talked about Atlas and the measurement capabilities there, and you framed it in terms of click-based ads. I'm wondering, is there also an opportunity for Atlas to improve or standardize measurement for impression-based ads? The spirit of the question, more generally, can you just talk about, or update us on, the potential for impression-based ads in terms of increasing as a percentage of the mix versus performance-based ads on Facebook?
+And then, David, question would be a little bit of a decel in the rate of growth of ARPU in the US. I'm wondering if there are other things you can call out in the first quarter, be it dollars from large events, TV events like the Super Bowl, or other things, other than seasonality. Or maybe you can quantify or comment on the seasonality factor in the US and Canada for 1Q. Thanks a lot.
+
+Question_5:
+
+    Thanks so much. I'm curious about how you address markets where it's a little bit harder to sell advertising. Specifically, if I'm calculating correctly, then 41% of monthly active users are in the US, Canada and Europe, as you define those geographies in your slides. And that's 74% of ad revenues. How can the other geographies of the world step up to be an even more meaningful percentage of total revenue? Do you have to add a lot of heads, a lot of sales infrastructure and technology infrastructure that you don't currently have? And from that perspective, did you meet your objectives in terms of hiring and expenses? Because I know how hard it is to support a business as global as Facebook. Thank you.
+
+Question_6:
+
+    Thank you very much. Two questions, maybe one for Sheryl and one for Mark. On ad pricing, can you maybe just talk about CPMs for ads in the newsfeed versus ads on the right-hand rail? Can you give us maybe just an idea as to the magnitude of the difference between the two? Was that a big driver for that 21% increase? And then on video advertising, I was just wondering what's the strategy to bring video advertising to Facebook, both in your newsfeed on the desktop, initially, and then eventually on mobile, assuming that there's enough bandwidth for that? Thanks.
+
+Question_7:
+
+    Thank you. Two questions. First, on ad formats. Sheryl, do you think you really optimized the ad formats, especially on PC? Or is there a lot of room you can do to get better performance from that? And then, secondly, maybe you can just give us a business update on Instagram. Maybe you could compare where they are to where Facebook was when you turned on ads or any thoughts on how you could monetize that platform, maybe far down the road. Thank you.
+
+Question_8:
+
+    Good afternoon. You've seen some acceleration of revenue over the last three quarters. Can you just give us some guidelines in terms of should we continue to see that revenue accelerate. And if not, at some point, in the back half of this year or early next year, based on some of the investments in new products, could we see another inflection point in growth? Thank you.
+
+Question_9:
+
+    A couple issues for Mark. I was wondering, first, if you could talk about the platform strategy and maybe give some specific examples of third parties that have really been successful. And, in general, what are the lessons that you've learned around the platform strategy and how it has evolved. And then, secondly, just around the evolution of Graph Search, any lessons from the launch, positive or negative? Thanks.
+
+Question_10:
+
+    Thanks. I was wondering if you could talk about engagement per cohort. There's an urban myth that those under 25 are disengaging from Facebook. It's hard for us to see that in, obviously, the data that you report. But you would know that. Is the mobile engagement, is that offsetting that? Could you talk about that engagement amongst younger cohorts?
+And then, secondly, you talked about advertising on mobile devices performing well. Could you actually make the statement as to whether it performs as well as desktop ads do for advertisers on Facebook -- similar to, sometimes greater, sometimes less? Could you compare those two? Thank you.
+
+Question_11:
+
+    I was just hoping that you could go back to Atlas for a second and maybe give us a sense of maybe the run rate quarter on quarter. And is it correct to see Atlas as an avenue into monetizing potential inventory off of Facebook? And how do Home and maybe your Mobile Open Graph tie into that strategy? Thank you.
+
+Question_12:
+
+    Thanks for taking the question. Sheryl, you talked about having strong traction with SMBs, and also in direct response in app developers, and also about Atlas and attribution. But can you help us understand the biggest hurdles that you have right now with big marketers? And then, secondly, David, if you could help us understand the percentage of mobile ads revenue that's coming from mobile app install ads. Thank you.
+
+Question_13:
+
+    Thanks for taking the question. First of all, I just wanted to go back into the segments of the advertisers between the brands, developers, small businesses and performance. Is there any way you can characterize what maybe the growth trends have been, even recognizing some of them blur the lines? Or, alternately, growth trends between the different ad products. I find it's useful to get a sense of where the relative growth is. That would be useful.
+And then a second question, I just wanted to get updated thoughts on data centers and the role of data centers for Facebook. The degree to which you think that it is strategic in investing in and building these out. Or if it's really just about operational efficiency. Thank you.
+
+Question_14:
+
+    Yes, a couple questions. On the unpublished Page Post, can you just give us an update? I think that got released towards the end of the first quarter. Maybe what type of traction you're seeing there. And also just going back to the US versus Europe, can you just maybe detail? Europe definitely outperformed US on a sequential basis. Was that due to some of the later adoption of some of the sponsored stories in the newsfeed? Or was that something else? Thank you.
+
+Question_15:
+
+    Yes, good evening. Thanks for taking my call. Two questions, if I might. If we look at the broad base of all ad impressions across Facebook, whether it's desktop or mobile, can you give us a sense of what percentage of those are generated or conditioned by social statistics or socially relevant data that comes out of the Facebook experience versus ads conditioned by external data, like from Acxiom or from re-targeting traffic from other web sites?
+And then, second, within the category of apps and other, can you give a sense of is there any materiality around the other category? So, not apps payments or what part of that might have been Facebook type services like gifts. Thank you.
+
+Question_16:
+
+    No. Whether it's mobile or desktop, what part of the --.
+

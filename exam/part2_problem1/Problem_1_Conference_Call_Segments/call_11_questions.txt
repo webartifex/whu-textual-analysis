@@ -1,0 +1,154 @@
+Question_1:
+
+    Thanks for taking my questions. Clearly a lot of things that were working well in the quarter, but maybe just focusing in on AWS which is -- seems to be quickly emerging as your largest contributor to operating income. Can you maybe provide a little more color on what drove the acceleration and just the overall growth in the business, if you could talk a little bit about the addition of new customers versus average spend per customer and I think in the past you've talked about what unit growth was for AWS?
+And then in the press release you talked about expanding AWS into some new International markets. Can you give us a feel for how much of AWS's business today is domestic and what kind of opportunity you have there to expand AWS outside the US.
+
+Question_2:
+
+    Great. Thank you for taking the question. There's been some recent press reports talking about investments in India. Wanted to know, you've talked a little bit about that market in the past, whether there was any update there in terms of how you're thinking about approaching that market and the level of investments that might be needed to compete in the market. Thank you.
+
+Question_3:
+
+    Thanks so much.
+
+Question_4:
+
+    Thank you. A couple questions. We follow this coming for a long time and profits seem to move around quite a bit year-over-year and year against year. Just wondering how you think about that? Is that just the nature of your big bets and that's just going to continue or is there a way to smooth that out?
+And secondly, in AWS, it does seem like pricing competition has come down and we've been to a lot of your events and it seems like you're emphasizing pricing a little less to your customers. Can you talk at all about the pricing environment in cloud? Thank you.
+
+Question_5:
+
+    I was asking about just how the profitability really moves, pretty big swings year-over-year. Is that the nature of your just big bets and that can continue or is there a way to smooth that out going forward? How do you think about that?
+
+Question_6:
+
+    Thank you.
+
+Question_7:
+
+    Okay. Thanks. I don't know if Tom's listening in. That's a great exit on his part.
+On International retail, you had nice acceleration there. Could you give us a little bit more of the why behind that? Why would international revenue growth, particularly in EGM, accelerate pretty materially? Is that the impact of the buildup of Prime in international markets, and also in the US, too, but more spend per Prime customer as they go through this evolution that's just layering on? Is that what it is? What is causing that acceleration? Thank you.
+
+Question_8:
+
+    Okay. Thanks a lot.
+
+Question_9:
+
+    Great. Thanks for taking my questions. I have two.
+The first one on the North America retail profitability was up nicely. Can you just talk to some of the drivers of that? Is it more top line and more Prime subs coming on, or is it more on the logistics side and what's driving the North America improving profitability?
+And then the international profitability, is there any way you can help us understand the profitability of the more mature international markets like UK and Germany relative to the US at this point?
+
+Question_10:
+
+    Okay. Great. Thanks.
+
+Question_11:
+
+    Great. Thanks for taking the question. Just two things I wanted to ask. First on Prime Day, Brian, if you could give a little more color there on the early take-aways that you have, and also more importantly how you think that sets Amazon up for the back-to-school season and also the holidays later in the year?
+And then also can you just comment on the headcount, which I believe is up 18,000 or so sequentially, which I believe is the biggest number that you've ever added in a quarter? Is there anything in particular that stands out there or just more fulfillment centers, more geography expansion as well? Thanks.
+
+Question_12:
+
+    Hi. Thanks for taking my questions. I have two. I may be delusional, but if I add your capital leases and CapEx that suggests that AWS capital  is at least 80% if not much higher. What gives you confidence that if AWS continues to grow so fast and consuming so much capital, two years out you'll be able to fund its growth from the retail business? And secondly, can you help me understand why you are not rolling out Prime Now and Fresh faster? What specifically are the bottlenecks there? Thank you.
+
+Question_13:
+
+    Thank you.
+
+Question_14:
+
+    Great. Thanks, guys. Wondering if you can touch a little bit more on AWS margins? Is there a level, particularly when you've been able to maintain pricing strength the way that you have been, where you feel like margins start to become and the leverage that you have there starts to become a catalyst for lowering prices or is that purely a competitive decision? And as you think about AWS longer term, is there a framework or structure that you use to think about where margins in that business should be?
+
+Question_15:
+
+    Great. Thanks. Really appreciate it.
+
+Question_16:
+
+    Thank you. I guess another question on AWS, if I may? So want to go back to something that you said, Brian. You said that you've seen greater efficiency in that business from a cost standpoint. I was wondering if you could maybe parse that out a little more for us? Were you referring to OpEx or CapEx?
+And if you're referring to CapEx as well, have you -- do you feel that you've reached that escape velocity that should allow CapEx as a percentage of revenues, pricing aside, to now allow you for constant decline in that metric? CapEx as a percentage of revenue for that particular business? Thanks.
+
+Question_17:
+
+    Okay. Thanks.
+
+Question_18:
+
+    Thanks for taking the questions. Just a quick follow-up on Heath's question on the price reductions, Brian, you said earlier in the year. Can you just compare maybe the reductions earlier this year, versus the ones across the board from last year and 2Q 2014?
+And a follow-up just on the third party units. I think you mentioned third party units are now 45% or maybe 47% of total units. Is there a natural limit there or does it matter as long as the customer experience through FBA is seamless. Thank you.
+
+Question_19:
+
+    Thank you.
+
+Question_20:
+
+    Great. Thank you. Just a question on the content side. Any update on how engaged folks are, the video side of Prime, and their shopping behavior number one? Number two, any update on your plans for growth on the content cost side? Thank you.
+
+Question_21:
+
+    Thank you.
+
+Question_22:
+
+    Good afternoon and congratulations. Just want to follow up on a previous question. In past calls you talked about an increased focus on productivity. Is that still a focus of yours? And separately, any thoughts in terms of how robotics are impacting, any updates in terms of number of robots in fulfillment centers? Thanks.
+
+Question_23:
+
+    Great. Thank you.
+
+Question_24:
+
+    Great. Thanks. You now halfway through 2015, any update or insights on your fulfillment center buildout plans for the year? If you can't disclose that, can you maybe just give us a general sense of focus and strategy, how should we be thinking about domestic versus international, as well as sortation versus traditional? What's kind of the path to build out over the next 6, 12, 18 months? Thanks.
+
+Question_25:
+
+    Great. Thanks.
+
+Question_26:
+
+    Thanks. Congrats on the great quarter. In the retail business obviously a lot of variables driving growth there. You're seeing higher Prime membership levels for one, but I wonder how much of that growth you can also break down by some other factors, for example, we're seeing a notable increase in selection across longer-tail categories?
+And then secondly, in the press release no mention of Fire phone. I think almost every other product was mentioned. Can we just chalk that one up now to a learning experience and an example of where Amazon is showing some discipline around investments, or how should we think about that? Thanks.
+
+Question_27:
+
+    Thank you.
+
+Question_28:
+
+    Thanks, guys. So Brian, I know you guys don't like to provide guidance beyond the next quarter, but philosophically if we go back a few quarters, you've characterized 2015 as a year where you believe that some of the heavier investments made in prior years should start to benefit and pay off and we're clearly seeing that in AWS and in North America retail. And it looks like you're still investing heavily on international retail.
+If we look out 2016, 2017, is there any high level philosophical commentary about whether you see next year as another year of these types of trends that you're seeing now, or are there any bigger investment areas, particularly in the retail business that you might be looking to take advantage of?
+
+Question_29:
+
+    Thanks a lot. You've talked a lot about operational efficiencies. I know you guys have partnered with the post office and deliveries.
+Can you talk a little bit about how that is potentially benefiting and maybe the longer term strategy with the post office? And then you guys haven't necessarily broken this out, but I think you do generate a fair amount of revenue from advertising. I think that's in the other category. Is there anything that you can provide on advertising revenue? Thank you.
+
+Question_30:
+
+    Thank you.
+
+Question_31:
+
+    Thanks. Brian, just a follow up on the India question earlier. To my knowledge, foreign e-commerce operators such as yourself are not allowed to have first party retail operations. But given the fulfillment enhanced customer service has always been a high focus item for you guys, what steps have you taken in the country to make sure that the consumer experience there is as good if not better for the inventory on which you have no direct control?
+And secondarily, similar to China you have a pretty large population base and internet penetration currently that's probably comparable to what was the case when you acquired Joyo. Can you provide any color on how the general operating environments are the same or different, and do you expect your growth trajectory there to be similar to what you saw in China? Thank you.
+
+Question_32:
+
+    Thank you.
+
+Question_33:
+
+    Great. Thank you. So it appears that Amazon is growing its share of household budget driven by many factors, Prime growth and strong growth in large verticals like apparel among others. Specifically on apparel, just wondering how you view the breadth of Amazon's apparel offering? Any color on that segment's performance in the second quarter and how do you view Amazon's apparel opportunity going forward? Thank you.
+
+Question_34:
+
+    Thanks.
+
+Question_35:
+
+    Thanks. Wanted to just follow up on a couple things. Three quick questions.
+First off on international, I was wondering if you could compare and contrast relative performance of media and EGM, moving in different directions? Second, there have been a couple questions about shipping, but most notable is that we had a couple price increases from the majors hit at the beginning of the year and it seems like your costs are coming down. I was wondering if you could comment on that?
+And then third just following up on Brian's question around the FCs. I was wondering how many of the facilities lend themselves to expansion rather than having to put up a new facility. Thanks.
+

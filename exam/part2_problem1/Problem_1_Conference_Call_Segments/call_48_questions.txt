@@ -1,0 +1,66 @@
+Question_1:
+
+    Thanks for taking the questions. Dave, just a follow-up on the comments that you just made on the outlook for expenses for 2015, could you help us understand more on the non-GAAP expenses, the 50% to [70%] and where we should be thinking about the incremental dollars being spent there, primarily? 
+And then secondly, can you talk, Sheryl, perhaps about what you're seeing in terms of branded advertising, whether you're seeing more of an inflection there as more bigger brands, CPG companies, auto OEMs are coming on board and how you're positioned there for the holidays? Thanks
+
+Question_2:
+
+    A few questions: David, there was no mention of a 2015 revenue range, but I was wondering if you could give us any thoughts on how much margins should compress in 2015 versus 2014? 
+Then, a couple for Mark. Mark, now that you've spent more time with the Oculus team, can you update us on how your plans for Oculus have evolved since you first tried the device on? And then you mentioned it when you talked about your 10-year outlook. Does that mean we shouldn't expect any consumer Oculus product in the next one or two years? 
+And then similarly, on search, you mentioned that in your five-year plan, so does that mean we shouldn't expect anything on search for the next five years? Thanks.
+
+Question_3:
+
+    Great, thank you for taking the question. I just had two; one for Sheryl. If you could talk about the comments you made about giving advertisers a better feel for attribution, I was wondering, what percent of attribution do you find today is given to the left-click and how overstated do you think that is right now? 
+And then just a follow-up question for Dave, given your total expense range of 50% to 70% wider than what we've seen in the past, I'm wondering how should we think about the low-end versus the high-end? Under what scenarios are you thinking about those ranges? Thank you.
+
+Question_4:
+
+    Great, thanks for taking the questions. Mark, you made comments about public content and the way that's evolved on Facebook. Would love to get deeper thoughts there about the way you think content distribution develops on Facebook over the longer term. 
+And then one for Sheryl. The ad-tech acquisitions and moves you've made over the last year to two, wanted to know when you think we should be looking at ad tech being fully deployed in the marketplace, and what sort of returns that might generate for Facebook? Thanks.
+
+Question_5:
+
+    Thanks, I just had two questions, one for Mark and then a quick one for Dave.  Mark, I don't think I heard you mention payments in the three-, five-, 10-year plan. There's been some speculation of payment offerings within Messenger.  Can you give us a sense at a high level of what you'd envision Facebook potentially doing in the payment space longer term across merchant payments, consumer products, like savings and lending or peer to peer? And then, how do you see social interaction tied in with payments evolving? Does Messenger make payments better than what's out there on the market? 
+And then Dave, just a clarification. So the high-end of the 4Q revenue guidance assumes a pretty sharp drop-off, even normalizing for some extra currency hit. So are you seeing anything out there that makes you concerned about pacing into the quarter? Or is that largely business as usual, and it's just a tougher law-of-large-numbers type situation? Thanks
+
+Question_6:
+
+    Great.  Sheryl, you talked about being careful about and slow about rolling out video ads, autoplay video ads and Instagram monetization. Have you seen any pushback in terms of user experiences to date on videos or on video ads? Is that overall caution, or is there anything you've seen in the data that suggests that you want to keep it at a really slow pace? Thank you.
+
+Question_7:
+
+    Great, thanks so much. I was wondering if you could talk a little bit about on the engagement side. Your DAUs to MAUs continued to be very strong. If you could talk a little about your older cohorts versus your newer cohorts and how they are behaving. And then also geographically. And on top of that on the frequency side, obviously DAUs doesn't measure how often people come back more than once per day, so is there any update on increasing frequency of visits? Thanks
+
+Question_8:
+
+    Thanks. For the last couple of years you've -- back on the OpEx for next year guidance, for the last couple of years, you've grown your cash OpEx by around $1 billion a year with some consistency. And I think that seems to be continuing into the second half of the year. But obviously, your midpoint of OpEx guidance for next year represents a very significant -- I think it's like 2.5% -- $2.5 billion increase at the midpoint. You obviously plan to change the level of investment in something quite significantly. 
+So I'm just wondering if you could talk a little bit more specifically about what are a couple of the projects, of the capital-intensive projects that you're planning for next year? And is it physically possible to accelerate your hiring by that much next year?
+
+Question_9:
+
+    Great, thanks; just a couple questions on video. How should we think about Facebook as a video platform? And how does the mix of video between user-generated versus public content versus professionally produced content evolve over time? For example, as the upcoming short film content produced by Lions Gate around the Twilight franchise that will be shown exclusively on Facebook, will that increasingly be the type of content Facebook users will see in the future? 
+And then if you could give an update on the Instagram multi-active user comp, that would be great. Thank you.
+
+Question_10:
+
+    Thanks. Mark, it seems like you're taking a portfolio approach to apps, and you've got several different experiences for people on mobile devices and other devices. Can you give us your philosophy around that? And as people use things like WhatsApp and Instagram, is it actually maybe possibly hurting Facebook's reported metrics? And how do you think about putting this all together and helping every app work?
+
+Question_11:
+
+    Thanks a lot. First for Sheryl, I want to come back to the theme of media measurement. You gave us some good perspective. Can you help me with first-party data versus third-party data? Can you get where you need to go with brand marketers using your in-house tools like Atlas, or do you think you need the validity and integrity of a third-party measurement source, i.e., Nielsen, in order to get there? 
+And then second question for Mark.  Mark, I was just wondering where do you see Facebook at this point, in terms of its place in the hardware ecosystem? And given so much time is spent on your apps, do you think it's possible that you could get more aggressive in devices in hardware in order to achieve some of your longer-term or 10-year goals that you laid out?  Thank you.
+
+Question_12:
+
+    Thanks. Sheryl, from a product-development perspective, it feels like from the outside looking in that you have accelerated the rollout and delivery of various products. So wondering how you were thinking about how your product delivery cadence will change, especially given the investments you have guided to for 2015? Thanks.
+
+Question_13:
+
+    Thank you very much. First question for Mark.  Mark, you recently came back from China. How do you think about that opportunity and what gives you the confidence that you can actually be successful where so many have failed? 
+And then, second, on Instagram, we've seen some very complimentary data that shows that Instagram is actually becoming more popular than ever with some brand marketers. Just wondering, what are the best-performing ads formats on the platform right now, and where is the ad load versus where Facebook is? Thank you.
+
+Question_14:
+
+    Thanks. I think this question is for Sheryl; the app download business seems to have grown quickly and become a big contributor of the ad revenue total for Facebook, and just wondering how you think about app re-engagement relative to app downloads, and which of those you think is the larger long-term opportunity for the Company? Thanks.
+

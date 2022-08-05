@@ -1,0 +1,115 @@
+Question_1:
+
+    Thank you. Can you share with us any updated metrics for Prime Now? How sticky is it in terms of repeat customers, average order value, or other details?
+And, also any update on your fulfillment center plans for the year? If you can't disclose specific numbers, maybe you could just qualitatively tell us your focus, either domestic versus international? Or, sortation versus traditional FC build out? Thanks.
+
+Question_2:
+
+    Great. Thanks for the new disclosure, guys. Really really helpful. I guess just digging in on that a little bit, we all understand the investments you guys are making on international retail. And, maybe why that margin's been declining.
+But, can you give us some color on what's driving up the North America retail segment margin. And, I guess in the context of that, just talk about the impact that Prime is having on the retail margin for both North America and International. Thanks.
+
+Question_3:
+
+    Great. Thanks, guys.
+
+Question_4:
+
+    Thanks for taking the question. Could you guys talk a little bit more, just about the international business and, kind of, the key initiatives here in terms of getting the growth to reaccelerate from these levels?
+And, then also perhaps, a little bit more on your strategy in China? How you're thinking about the cost structure there, relative to previous years? And, some of the key ways you might be able to rationalize things there? Thanks.
+
+Question_5:
+
+    Great. Thanks for taking my questions. I have two. The first one is on the new AWS disclosure.
+Can you just help us on accounting question. The AWS data center costs related to the core e-commerce business. Are those being allocated to North America and International? Or, are those being fully embedded into the AWS segment?
+And then, the second question goes back to China, I guess. Any early learnings from the team all partnership and whether you have new thoughts of, potentially, a lower capital intensive growth strategy in China?
+
+Question_6:
+
+    Thank you.
+
+Question_7:
+
+    Great thanks. Maybe, just another follow up on the new segment disclosure. Thanks for breaking that out.
+If we assume that the advertising other segment is reasonably profitable, than the implication is then that the core retail business is very modestly profitable, close to breakeven. And, just wondering what the thought process is and strategy is behind that? If in a sense, there's some subsidy to the retail side being used as you build market share in the core business? Thanks.
+
+Question_8:
+
+    All right, helpful. Thanks very much.
+
+Question_9:
+
+    Thanks for taking my questions. On the International revenue, I believe there's probably a -- there's a real distinction here between some of your more established countries and some of your more emerging countries.
+I wonder if you could talk a little bit about, for Germany and the UK and Japan and some of the more established markets. What the profit profile of those markets look like? And, just how much of the International segment results are being -- losses being held back by a handful of the more emerging markets?
+And, then a question on AWS pricing. That seemed like the pricing environment was pretty competitive last year. What are you seeing in the market this year and what your expectations going forward? Are you expecting a bit more of a stable pricing environment? Thanks.
+
+Question_10:
+
+    Hi. Thanks for taking my question. I have two. My first is, my first question is about the profitability of the North America segment. You mentioned a few moments ago, that investments in Prime were part of the, or, may -- most of the explanation for what is a relatively low 3.9% margin in North America. Which, are much lower than the 5 to 6% margin EBIT margin that the brick-and-mortar retailer books. Despite, a large benefit of booking 3P net.
+Here's the question. Prime is not new in North America. You probably have tens of millions of Prime users in the US, now 30, 40, 50 million. Yet, margins are still low. What gives you confidence that the investments that you are making will pay off?
+Second question on AWS. As you look at expenses like R&D, and perhaps, even the fixed component of marketing and sales, which presumably, one day will be really fixed. Are they still growing significantly?
+In other words, is there room for significant margin expansion at some point in the future when AWS is, I don't know, three, five, or ten times its current size? Or, do you expect R&D to scale up at the same rate as revenues? Thank you.
+
+Question_11:
+
+    Thanks. I want to go back at this North America retail margins. And, I guess I want to try to figure out. I know you're not going to go out where they could go.
+But, if we look in the past. I assume that if the base in 2014 and in full year 2013 was probably depressed for North American retail margins, North American segment margins. And, if we look back, five, six years, it's probable that that was running at, kind of, mid to high single digits, CSOI margins. Kind of similar to the incremental margins you just reported for that segment, 8.7%.
+So, I guess the big question I want to ask is, is there a structural change in the North American retail business over the next -- this year and the next couple years? Versus what you had, call it in 2004 to 2009, when the margins were pretty clearly higher? And now, you're going to be recovering to the levels?
+That's what I'm trying to get at. Any color would be great. Thanks.
+
+Question_12:
+
+    Okay. Thanks, Tom.
+
+Question_13:
+
+    Hello, a couple questions on margins. First on AWS, I think those are higher than most of us were thinking. Appreciate the disclosure.
+What is driving your margin versus your pricing decision? How do you think about passing through cost efficiencies or potential margin growth through to customers?
+And then, secondly, on international margins. Clearly, below history, below the US, what kind of things need to happen to get those at least to where the US is today? Much less, back to where they were six or seven years ago? Thank you.
+
+Question_14:
+
+    Great. Thanks. I was wondering if you could give us a sense of how we should think about the run rate of CapEx and capital lease obligations in the quarter as any sort of indication for full year? And, the trajectory of investment in fulfillment and data centers?
+And then, just on the question of Prime and Prime video. As we think about the way that media growth is trending now, is there a point where you start to think of allocating Prime, some of those Prime revenues to media to account for the -- as Prime video usage increases?
+
+Question_15:
+
+    Right, was just getting a sense of, as video becomes such a, becomes a bigger part of the Prime value proposition. Do you start to allocate some of the annual revenues from Prime more directly into that media segment? Because of the level of usage associated with Prime video versus the shipping benefits of Prime?
+
+Question_16:
+
+    Okay. Great. Thank you.
+
+Question_17:
+
+    Good afternoon, could you talk a little bit about the focus on same day and same hour? And specifically, about the incremental investments? And, just some context to how big of those investments are?
+And, separately is what the strategic advantage is? Is this something, ultimately, obviously, it's to improve the experience, but do you see in any of your data that this opens you up to be more competitive with traditional retailers? Thanks.
+
+Question_18:
+
+    Yes, thank you. I was wondering, Tom, could you give us an update on your retail store strategy? Should we expect stores to open up across the US or is that something you're just limited to trying out New York. And then number two, India's come up a couple of times on the call today.
+China had several structural challenges based on the market there. I was curious if you could differentiate what you're seeing that's different in India versus the China challenges? Thank you.
+
+Question_19:
+
+    Sure, so you've talked about India a couple of times today on the call. Obviously it's big area of investment and focus for the Company. China had some structural challenges based on how the marketplace is.
+I was wondering if you could differentiate what you're seeing in India that makes you optimistic there versus some of the challenges you faced in China?
+
+Question_20:
+
+    Thanks. So, can you talk about how the impact on available third-party SKUs impacts the business particular to in Europe?
+And, ultimately what you could do to drive more SKUs through the platform? Whether it's lowering third-party rates or is it -- are there are other factors to try to get more SKUs on there for third-party? Thanks.
+
+Question_21:
+
+    Hi, good afternoon. Looking at the service sales, less the AWS revenues, you've got about $4 billion in fees mostly coming from the marketplace off a strong mid-30%.
+Can you help us think about the costs that go against those marketplace fees? And, specifically within fulfillment, if you could help us understand how much of the cost is going against 3P, or basically, FBA fulfillment? Perhaps, percent of units out of the FCs that are going to 3P?
+
+Question_22:
+
+    If I can insert a second question. Given the upside and profitability in the first quarter, the guidance for the second quarter quite a bit lower. What are the factors you see that are negatives? Or, I guess otherwise, people are going to think you are sand bagging. Thanks.
+
+Question_23:
+
+    Great. Thanks for taking the question. Just going back to margins, and a little bit more on AWS. As I look at the seasonality. I wonder if there's any seasonality in margins?
+Given, it looks like margins in 2Q and 3Q came in sub 10% versus maybe mid-teens in the -- in 4Q and 1Q. And then, sort of, looking at a different way, maybe given the dip in profitability in 2Q of last year. Did that have any impact from the pricing cuts in April? Thanks very much.
+

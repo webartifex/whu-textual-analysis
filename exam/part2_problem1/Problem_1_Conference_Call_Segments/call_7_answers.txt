@@ -1,0 +1,101 @@
+Answer_1:
+
+    Sure. I'll take the second part of the question first. Yes, North America Other includes a number of things including Amazon Web Services. Amazon Web Services is the largest part of North America other. You know, as we talked about on last call, we had very substantial price reductions for customers starting in second quarter. They range from 28% to 51% depending on the service.
+But AWS continues to grow very strongly. In Q2, we had usage growth close to 90% year-over-year for the quarter. So the team's doing a fantastic job, and we put in some price reductions that were very substantial that are saving customers hundreds of millions of dollars over the next several months as we mentioned 90 days ago. But again, we love that business. It's doing great and we are very pleased to have the opportunity to invest in it.
+The team is innovating very quickly, in fact so far year-to-date, they've released 250 significant services and features. And that's at a pace that's much, much faster than last year's pace which was faster than the year before. So again, they are continuing to innovate on behalf of customers, and so we're investing. So that's certainly impacting both the pricing decisions we've made. It's certainly impacting the guidance.
+Also the large amount of CapEx and infrastructure for that business is certainly impacting the guidance, along with a number of other things across the business that we're investing in. But we're very pleased to do that. In terms of China, you know we are continuing to invest on behalf of customers there. Obviously trying to make the experience even better for customers in terms of improved in-stock levels.
+We've spent -- certainly added a lot of fulfillment capacity over time in China. And we're doing a lot of interesting things to better serve customers in China. In terms of some of the other parts of your question, there's not much more I can add to that.
+
+Answer_2:
+
+    In terms of unit growth, we had 23% unit growth year over year. It is down from last year's growth rate but it's consistent with what we've seen recently, including last quarter. And in terms of the unit -- the third-party units as a percentage of total units, you're right, that's 41% this quarter. It's up about 100 basis points, you know, and we are not breaking out the Digital versus Physical on that. But again, very strong third-party growth. Number of factors but certainly FBA is helping third-party growth.
+
+Answer_3:
+
+    There's a number of things that are going into the Tech and Content line. But you're right, we're one of the ones that I just mentioned. We are investing, you know, in various parts of the business but certainly for Amazon Web Services, that's both from an infrastructure standpoint to support the very fast usage growth that we are experiencing.
+Again, we have usage growth close to 90% year-over-year in the second quarter for web services. In addition to that, we've -- over the past year, we've added thousands of people in web services. So again, ramping that up. And then across a number of different other investment areas, we continue to add great technical resources to do the things we're doing in Digital and many other parts of the company.
+So again, we have a lot of opportunities to invest in as you can see from a lot of the releases that we've had over the past, you know, 12 months and you're certainly seeing that reflected in our actual results as well.
+
+Answer_4:
+
+    Sure. In terms of international EGM, and this would really relate to total international growth as well, we saw 18% growth on a dollar basis, 14% growth on a local currency growth basis, which is down a little bit sequentially from what we saw in Q1. You know, obviously, there's variability from quarter-to-quarter in each of the geographies that we operate in.
+You know, one call out which impacted certainly EGM and our total international growth rate is Japan. We saw on April 1 the consumption taxes increased from 5% to 8%. Leading up to that in the latter part of Q1, we certainly saw accelerated growth in -- so that was reflected in the Q1 results. In Q2, we saw some corresponding softness in Q2 following that.
+Hard to know how much was related to consumption growth but certainly as you've probably read elsewhere that others are seeing that too so it's not -- probably reflects the consumption tax increase. But if you take out Japan out of both Q1 and Q2, the growth rates on a local currency basis were very similar, within approximately 100 basis points of each other.
+In terms of Prime, Prime subscribers are growing very nicely year-over-year. In fact, we added more Prime subscribers in Q2 of this year than in Q2 of last year. So we're very pleased and customers are responding to -- continue to -- we continue to get new subscribers as well as existing customers responding to the great value they're getting out of Prime.
+
+Answer_5:
+
+    Sure. In terms of we are not quantifying the impact of the price changes on our Q2 and Q3. But it is fair to say that the impact has certainly did impact our Q2 results in a meaningful way, and that's reflected in the actual results that you're seeing.
+Another thing to keep in mind as you look out related to AWS is we're continuing to invest in that business. And with the great strong usage growth rates that we're seeing, we're also investing in CapEx and infrastructure to support that growth. So again, the team is doing a fantastic job innovating on behalf of customers, and as I mentioned earlier, the new releases both from a service and feature perspective was about 250 year to date which is at a pace that's much faster than we've seen over the last few years with very high bark given all the innovation that's happened from that team in that space.
+So again, those are certainly things that are impacting Q3 guidance. There's a number of other things. When you look at Q3, keep in mind if you look back over the last several years, we're getting ready for our Q4 seasonal quarter. And when that happens, if you look back certainly, you've seen our CSOI usually has been at the lowest point for the year during Q3, particularly during these high-growth years.
+And so we've added -- or announced that we are adding six net new fulfillment centers, and we've also announced that we'll have 15 or more sortation centers. The sortation centers helps us get closer to customers so that we can have fastest delivery speed as well as deliver on Sundays, which is the big deal for us in the US so we're very pleased to be able to do that.
+On top of that, other investment areas that are certainly impacting our Q3 guidance is we like what we see on the content side, so video content, for example. We're ramping up the spend from Q2 to Q3 significantly. And then so be it also be a significant growth year over year.
+Keep in mind we have two types of content. We have licensed content and we also have original content. A lot of you have probably seen a lot of the announcements that we've green lighted a number of pilots. We are going to be in heavy production on those pilots during -- sorry, in those series that a been green lit during Q3. We've also announced a number of pilots that we'll be in production on and so that original content, that's a portion of our total content, will be over $100 million in Q3.
+Keep in mind that just as a reminder, that we do not capitalize that portion of our content -- of our original content. It's expenses incurred. So that's over $100 million in Q3, and again, that's ramped up considerably both on a sequential and on a year-over-year basis. Other areas that we're investing in, certainly with the launch of some new devices, more recently over the past couple quarters between Fire phone and Fire TV and others.
+Over time, we've invested in devices so that's certainly an area we are investing in. We're investing in a lot of different areas including geographic expansion. We talked about China on one of the earlier questions, but certainly India we are investing very heavily. We are seeing some very positive results there. The team's doing a fantastic job. We're also investing in other geographies as well, like Italy and Spain and others.
+So again, we're encouraged by just the sheer magnitude of opportunities we have and we're investing in those opportunities.
+
+Answer_6:
+
+    In terms of FBA, it's doing great. I can't provide any -- a specific percent. But it's continued really since the time we've launched, continued to increase as a percentage of total third-party units, and so the service has been -- has done very well. The team continues to work on making it even better on behalf of sellers and customers. In terms of Kindle Unlimited, it's very early but we're extremely pleased with what we see. There's been a great reaction to it, and we are pleased to offer that to customers.
+
+Answer_7:
+
+    Sure. In terms of content, we've seen just more and more customers are streaming, more and more Prime members are streaming free content. We're seeing through our pipeline as customers join Prime, we're seeing that we have more and more customers taking free trials and then converting. Those customers are great customers.
+In addition to streaming free content, they have great purchasing patterns. Doing a lot of cross shopping on physical products as well as converting to paid digital video and other digital products as well. We are very pleased with what we are seeing there, and when you look at the service that we have today it's improved dramatically over the past 12 to 24 months. We really think it's a great service and that's why we are investing in it.
+In terms of AWS, there's not much I can help you with on that. But again, just to reiterate we saw very strong growth during Q2. And with usage growth rates close to 90% year-over-year for the quarter. And we're extremely happy with what we see there and the team is doing fantastic job and continuing to innovate on behalf of customers.
+
+Answer_8:
+
+    In terms of AWS, there's not a lot in terms of talk to -- long-standing practice of not talking about other companies and what they're doing in environment. You know the team is certainly used to operating in a very competitive environment. They work hard to be able to afford lower prices for customers. That's something that is instilled in all of Amazon and it's something certainly that's instilled in our web services team.
+And they're focused on what they do best which is innovating on behalf of customers, operating these services at the highest quality levels. And they'll continue to work on getting more efficient so that we can have great prices for customers. That's what the team's focused on and they're doing a great job. In terms of EGM growth, between North America and international, there's not a lot I can call out there. It has many different categories across many different geographies, many different ASINs, both first-party and third-party, so it's hard to comment.
+The only thing I would call attention is the comment I made earlier around international growth rates related to EGM and that was the consumption tax increase in Japan that we saw a lead-in in Q1 were we saw very strong growth leading up to that point, and it softened after the rates went into effect. But other than that, there's not a lot to call out.
+
+Answer_9:
+
+    In terms of AWS, it's really a aggregation of usage across all of our services year-over-year. I think that it's almost a proxy similar to unit growth on our retail business. It's a proxy to say how fast physical volume is growing, and so that's what it's a proxy for. In terms of the phone, there's not a lot I can help you with on that. We are extremely pleased to get it in customers' hands.
+We think it's a premium product. And it also is -- it's also a great value too. You get a 32 gigabyte phone, premium product, one year free subscription to Prime, along with all the other features that I'm sure you've read about. So again, we're very pleased to get it to customers and start shipping, and customers have started to receive those today.
+
+Answer_10:
+
+    Yes, we don't actually focus on total company gross margins because of the mix of the business, we focus more on operating profit and obviously, ultimately free cash flow dollars. But in terms of things that would be impacting, you know, COGS as a percentage of revenue and that change to be helpful. You mentioned AWS is certainly having an impact there.
+Our third-party business continues to have an impact there. We have offsets as we lower prices to customers having an impact there. Just mix of products, our various products and geographies has an impact on those results. Again, a large number of items that are impacting that.
+
+Answer_11:
+
+    Sure. Just a couple things to call out. One is when we look at our unit growth, you hear the 23% unit growth. Keep in mind that there are parts of our business that are not included in that unit growth. So when we talk about investing in web services and the usage growing close to 90%, that number is not included in the 23%, so that's obviously a large investment area for us that we are excited about that is not included in that.
+The other is think about the base of business that we have versus where we were just a few years ago. And so you've seen very strong growth on the base that we have and we are excited to see that. And you know, so those of the things when we look at the opportunities that we're investing in, in terms of video you mentioned. We are seeing that certainly in the number of Prime members that are subscribing, and so that has some short-term impact but great long-term impact as we retain those Prime members.
+And as they start to do more cross shopping over time, so it's more of a trailing -- we have a lot of investment in front of that demand, if you will. So those are some of the things that I would call out that maybe try to be helpful.
+
+Answer_12:
+
+    In terms of the original content, you know, we're not giving guidance on the numbers going forward beyond Q3. We are very excited about what we see in the pilots that we had and the series we had. And so, you know, we are happy to green light the series that we've released that we've talked about in releases over the past few months. We're also happy you'll be seeing many new pilots, and so that's reflected in the over $100 million that I mentioned earlier.
+So we're extremely excited on behalf of customers to be able to do that, and we think that the right thing to do. But in terms of what we do, in terms of spend beyond Q3, I can't comment on today. In terms of the Fire phone, we're very excited about it. You mentioned two different areas. One is can it exist on its own and whether it's part of our family, if you will, to help drive other usage and the answer is we certainly think it can be both.
+So we think it can be a great product on its own. We're very excited to offer it to customers. It's very integrated into our -- certainly our various video services -- various digital services including, you know, video and games at our app store and ebooks and certainly Prime Music. So those are all very interesting things on behalf of customers.
+It's also a great way to do physical shopping as well. So again, it's certainly integrated into our business as well.
+
+Answer_13:
+
+    In terms of the usage growth, that business is growing very, very fast. Beyond the data point, there's not a lot I can help you with. In terms of CPG, and this really relates to many of our categories. We are working on behalf of customers to provide fast delivery. It's something that we've improved on over the years and we're going to continue to work on. There's a number of different things we're working on.
+One of the things that I mentioned earlier in the call is certainly sortation centers. That's an attempt on our side which we think we have in a small way and tested it and we've seen it the way to get product to customers even faster. So we're excited about that. It also helps us deliver on Sunday, which we think is great too, so those are the things that we're working on as well as others to help customers get product faster. We think that benefits CPG products as well as other products.
+
+Answer_14:
+
+    I apologize Mark, again. We don't focus a lot on gross margin as a business. Obviously, individual product lines we would look at gross margin but across the business, we don't, for the very reason you mentioned. There's a large mix impact. You have our web services business. You have our third-party business. You have a retail business. You have categories within retail.
+There's a whole host of things that would impact that. And so that's why we don't focus on a total company basis. Certainly, on individual SKUs or ASINs as we call them, we certainly would look at it, individual subcategories. We would certainly look at it internally, but from a total company perspective, given the mix effects, we think it's much more appropriate to look at operating profit and free cash flow.
+
+Answer_15:
+
+    The Prime was the net number so that's the net additions to total members. So again, we added net more Prime members in Q2 of this year versus Q2 last year, even with the price change. In terms of revenue per extra customer, there's not a lot I can say there. The one thing -- a few things to think about. One is certainly Prime customers buy more than non-Prime customers.
+We're seeing great growth on Prime that's certainly having an impact on that number. Certainly, there'd be other factors to our web services business would be included in the numerator that you are talking about as well. And so those are factors you should be thinking about. But again, the biggest factor would certainly be in terms of looking at our retail business.
+Prime is becoming much more meaningful. And that's also why we think about how do we make Prime better on behalf of those customers. We just like the long-term benefits that we see for those customers.
+
+Answer_16:
+
+    In terms of selection, you know I would say nothing is new here. We are going to continue to add unique selection. That's something that we've been working extremely hard day in and day out over many years. We have a great team of people working on that and trying to make sure we get vast selection. So that is something we are pleased about.
+In terms of the margins, you know, they do approximate each other. Obviously, there are some differences. Some of the third party will be used products so you shouldn't assume that a used product necessarily has the same contribution profit per unit as a new unit and things like that. But they're close approximates of those.
+
+Answer_17:
+
+    Thank you for joining us on the call today and for your questions. A replay will be available on our Investor Relations website at least through the end of the quarter. We appreciate your interest in Amazon.com and look forward to talking with you again next quarter.
+

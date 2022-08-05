@@ -1,0 +1,61 @@
+Question_1:
+
+    Congratulations on a fantastic year. Sheryl, I was wondering if you could rank order the four groups of marketers and discuss sort of how SMBs play out over time versus the larger enterprise companies? And then Mark, if you could talk a bit more, expand more on what you mean by standalone mobile apps and really what your vision is there, and I understand your speaking of Mobile World Congress so any update on what we should expect from that. Thanks.
+
+Question_2:
+
+    I have two questions. The first one, there's been a lot of talk about Messenger over the last couple of quarters. I'm just wondering if you could share with us how you see the competitive environment for Facebook in the area of messaging, in particular in regions like Asia, and how do you see Facebook differentiating itself, and maybe changing the user behavior from some of the newer companies that have aggregated a large number of users in the space? And then my second question is just for David in regards to seasonality of ad revenue, it obviously typically declines in Q1, I'm just wondering if we are at the point now where we should see seasonality of mobile ad revenue in Q1. Thanks so much.
+
+Question_3:
+
+    Thanks for taking my question. Just would love to get some updates on some of the efforts that you are making in terms of brand and real-time conversations. I think on the user side, we'd love to get some interest in terms of the usage and engagement with video content early on and real-time conversations, particularly around entertainment-related content. And then on the advertiser side, kind of early adoption by brand and TV-like advertisers, with some of the brand and video solutions that you have out there. 
+And then for David, given the significant transition that the business continues to go through that is affecting these ad impression and average price metrics, can you give us a sense of the breakdown between the ad impressions between desktop and mobile? Thanks.
+
+Question_4:
+
+    First for David, I wonder if you can comment on the ad load on Facebook. Do you expect it to continue to remain stable or is there a possibility that the ad load creeps up over time? And on Instagram, I know it's a new product, and you guys are taking it slowly at first, but I wondered if you could also talk about how long it might take for Instagram to get to a similar ad load to Facebook levels? 
+And then one last question for Sheryl, I wonder Sheryl, is there a way when you compare Facebook to television for brand marketers, to look at the disparity of ROI, or I should say the improved ROI for Facebook, and sort of extrapolate where you think pricing could go, obviously pricing doubling quite a bit? How much more upside to Facebook newsfeed pricing can we expect to see based on the ROI differential? Thanks.
+
+Question_5:
+
+    I just wanted to ask two things. First, you announced an initiative, or perhaps an algorithm tweak I think in early December to have more news stories in users' feeds, and I was just curious what the adoption has been thus far from users there, and what are the implications on usage and engagement, and then also ad load? And then secondly, can you give us an update on teen engagement trends? Thanks.
+
+Question_6:
+
+    I had a couple product questions for Mark. The first one on Graph Search, just wondering how users are engaging with the product, how developed the product is in terms of the way, what we can see today relative to what your longer-term aspirations are for the product? 
+And just to follow-up on Doug's question, related to the news flow integration into newsfeed. Another feature that's been added more recently is trending, and attaching trending to news articles and newsfeed as well. So if you could talk more broadly about your interest in real time information and news as it relates to public content, that would be helpful. Thank you.
+
+Question_7:
+
+    First of all for Sheryl, I would like to get an update on how the company is thinking about mobile retargeting ads, you've seen a lot of success with retargeting on desktop, but how you can think about the evolution of retargeting in the mobile environment as a future product. And then second question for Mark, not a lot of talk on the payments business so far on the call, and just want to understand maybe an update around games or other areas of e-commerce that you think are opportunities for the payments business. Thanks.
+
+Question_8:
+
+    Two questions. First, Mark, you referenced 2014 as a year of rolling out new, engaging mobile products. Maybe could you provide some color or highlight the types of products that users can expect, or maybe how you think about improving mobile engagement? And then just on Instagram, could you give us an update on the number of monthly active users ending 2013, and give us a sense of how the beta testing is going with advertisers and when it might be available for all advertisers? Thanks.
+
+Question_9:
+
+    Mark, last week on the Facebook developers blog there was an entry that noted you were testing placement of ads in third-party mobile apps. Just wondering if you could provide an update on how these tests may be going? And then separately, it appears that the growth on desktop ads reaccelerated during the quarter. Can you talk a bit about the drivers of that here? Thanks.
+
+Question_10:
+
+    Mark, I had a follow from one of the previous questions on closing the loop in mobile. You guys have made a lot of progress improving the total mobile ad experience, yet there is still a lot of friction in downloading apps and making purchases today. You guys have recently rolled out some new ad formats, and you have some partnerships with the likes of Braintree and Stripe, and some of the other payment guys. 
+So what's your vision for removing some of this friction for marketers, and do you envision a scenario where users can buy physical or digital products within the Facebook mobile apps? Thanks.
+
+Question_11:
+
+    Congrats on a great quarter. On contextual advertising, this is essentially the holy grail for Facebook, and I think you understand this. Can you talk about where we are as far as innings are getting contextual ads, and can you talk about the role that Instagram plays with visually appealing ads, and the role that video plays? Thank you.
+
+Question_12:
+
+    I'm curious if you could help me understand the international market development and monetization for Facebook's ad platform? Specifically can you speak to the build out of the international direct sales force, the channel partners, the number of international markets in which FBX is operational, and the extent of geographic rollout of the cost per install ad units in the newsfeed? Is that available everywhere? Where are we compared to the US? Thanks.
+
+Question_13:
+
+    I just had a couple of questions. The first one on app install ads, if you could quantify how much those are driving growth in newsfeed advertising, and if not specifically, maybe on a relative basis to other mobile ad formats. And then second, Mark, the company has made some interesting hires in the area of machine learning, and I'm curious if you would characterize how important this initiative is for the Company, and how you think that AI will help Facebook over time? Thanks.
+
+Question_14:
+
+    David, could you just talk about the sustainability of the gross margins that you had in the quarter, seemed pretty high? And then Mark, I know this question, hopefully this isn't redundant, when you think about the potential for ad quality at Facebook over the next three to five years, and you've gone through a lot of learnings over the last many years, or I guess two years on ads quality, how do you think about what the upside is? 
+I know that is a broad general question, but you think about all the different drivers, have there been certain moments when you've seen real gap opportunities? Are there any proxies out there that you see that you say well this is where Facebook could be, any thoughts on how much higher, how much better over the years ad quality could be on Facebook? Thank you.
+

@@ -1,0 +1,270 @@
+Question_1:
+
+    Hi, good morning. Hey, I just want to talk a little bit about the asset sensitivity and how we should be thinking about that from here. In particular, as you know, the long end of the curve has come down since the end of the quarter.
+So just wanted to understand: is that FAS 91 effect Q-to-date given what the long end of the curve has done? And then maybe you could speak to what you are doing to try to minimize any further pressure.
+
+Question_2:
+
+    Sure. Then given the fact that the 10-year is now yielding like 1.8% or so, should we assume -- like if we end the quarter in 1Q at 1.8%, that the same type of 10 basis points down draw is FAS 91-affected, the same in first quarter as it was in fourth quarter? Or is it, because you're more asset sensitive, there is a little bit higher impact?
+
+Question_3:
+
+    Okay. Is there any give-back in refi activity that you are expecting?
+
+Question_4:
+
+    Got it. Okay. That's super. Thank you.
+
+Question_5:
+
+    Hi, Bruce. Just wanted to follow up on the NII. On the core side of NII, ex- the FAS 91, your core NII held up well despite what you'd indicated in October about being conservative with the buy ticket.
+I guess, how did you hold the core in on NII? And how are you navigating that now in what feels like an even more difficult environment for reinvesting cash flows today, with the 10-year where it is?
+
+Question_6:
+
+    Got you, got you. So on the core piece, Bruce, do you expect it to be more challenging, to hold in to that $10.4 billion with the 10-year where it is? Does it make it more difficult? And what kind of -- how should we think about the risk to the $10.4 billion if rates stay low?
+
+Question_7:
+
+    Okay. Then shifting gears on expenses, you got the LAS target a quarter ahead of time. Do you have a year-end target? I think you said you expect to continue to reduce the LAS to $1.1 billion. Can you just clarify that?
+
+Question_8:
+
+    Okay. How should we think about the core rest of Bank of America expenses where you came in nicely at the $12.7 billion for the fourth quarter? Obviously, you mentioned the stock option expense stuff in the first quarter; but as we think about 2015, what are you hoping to do on the core expense base?
+
+Question_9:
+
+    Okay, okay. Thank you.
+
+Question_10:
+
+    Yes, hi; good morning. In FICC, seems a little bit below what certainly I was looking for. I know you highlighted some of the difficult markets that you are large in. Was there any specific positional pain, given what we saw in some of the credit spreads and some of the movements there?
+
+Question_11:
+
+    Okay, thanks. That helps. Then can you guys add any comment to the press reports we've seen recently about you all rationalizing the PB business and cutting ties to 150 hedge fund clients?
+
+Question_12:
+
+    Should we expect to think about some revenue headwinds in your equities business as we model out 2015, as a result of some of those efforts?
+
+Question_13:
+
+    Terrific. Okay. Then helpful to hear about the target of around $800 million for LAS by year-end and then driving it lower in 2016. Can you help us think about how you think about that number to zero?
+Because I mean, ultimately, that's -- given the title, the L in the LAS, right? That's got to go to zero eventually. How should we think about that?
+
+Question_14:
+
+    Okay. So no indication about where that settling-out level might ultimately be? Even if not a win, but kind of what the number would be?
+
+Question_15:
+
+    Fair enough. And then, last one for me. You guys hit on in the Wealth Management business and the margin there, support costs and revenue-related comp. Could you maybe quantify how much each of those factors impacted the margin change quarter-over-quarter?
+
+Question_16:
+
+    Great. Thanks a lot.
+
+Question_17:
+
+    Hi. Thanks very much. I wonder if we could get your best comment that you can give us on energy-related exposures. In your Q you have a general comment on energy and $20 billion. But if you could break it down a little bit more, what's secured, what's not secured, what's investment grade, what's not, and just how overall you feel your position there -- it would be helpful.
+
+Question_18:
+
+    I definitely appreciate all that. You said that was the funded to oil and gas. Is commitments a larger number, I think, than that? And do you have the ability to pull back on the commitments?
+
+Question_19:
+
+    Okay. I don't want to put words in your mouth, but it sounds like you are semi-comfortable with the positioning. There will be some hits along the way, but this is not a major risk to the portfolio? Again, I don't want to put words in your mouth.
+
+Question_20:
+
+    Okay, that's helpful. Last one from me is I didn't hear anything on TLAC. If you could tell us where you think your ratio shook out, net of the conservation buffer and the SIFI buffer, that would be helpful.
+
+Question_21:
+
+    Okay. I just want to make sure: the 21% is net of the conservation buffer and your SIFI buffer, or gross of?
+
+Question_22:
+
+    Got it, okay. Perfect. Thank you very much.
+
+Question_23:
+
+    Good morning. Just a quick question on the balance sheet and NII. Appreciate the efforts to keep NIM flat; but to really get NII growing, we've got to start to see, I guess, the balance sheet on a net basis grow.
+I think your balance sheet was down close to $25 billion this quarter. At what point do we start to see the net balance sheet -- the restructuring of the balance sheet start to give way to growth?
+
+Question_24:
+
+    Okay. I think, Bruce, to your point, the deleveraging around trying to improve the leverage ratio is -- the impact of that should be easing going forward. Is that what you're saying?
+
+Question_25:
+
+    Okay. Just one last, a follow-up on -- I don't know if you mentioned this: where you guys are in the NSFR.
+
+Question_26:
+
+    Okay, great. That's it for me. Thanks.
+
+Question_27:
+
+    Good morning. The capital ratios grew more than expected. Obviously the decline in rates helped the positive earnings, and you mentioned the DTA consumption.
+As we think about 2015 and the drivers of capital, is it more of the same? Or is there, call it, optimization overall? Not just the loan runoff that you address, but as we think about -- you've had Final Rules for the last few months; there are still some adjustments to the business throughout.
+How should we think about the capital build? And if you have an estimate for 2015, that would be interesting as well.
+
+Question_28:
+
+    On RWA, any numbers you can provide in terms of how much benefit you get from the -- I guess just priced on the credit correlation book and some of those contracts and the real estate running off, just those two pieces?
+
+Question_29:
+
+    Okay. Then just separately, the home equity charge-offs increased a fair amount versus 3Q. Obviously, 3Q is a very low level. But remind me what's going on there.
+I think there was an accounting or methodology change a year ago. Has that fully worked through? Or is there a seasonality or ? What's going on?
+
+Question_30:
+
+    Okay. Thank you.
+
+Question_31:
+
+    Hi, good morning. Bruce, I was hoping you could maybe help explain what prompted the increase in operational risk RWA? The 34% I guess makes you an outlier relative to some of your peers, whereas previously you were more in line.
+I know the process typically is you submit the models to the regulators and/or the Fed and then they give you feedback. I wanted to know: was the increase prompted by the feedback from the regulators themselves as part of the annual review? Or was it what you determined based on your own internal models?
+
+Question_32:
+
+    Okay, understood. So we shouldn't expect any further increases as a percentage of RWA going forward; or is it simply too early to make that determination?
+
+Question_33:
+
+    Okay. That's really great. Then just one more quick one for me. I didn't hear in the prepared remarks any color on the investment banking backlog and didn't know if you can give us an update there as well.
+
+Question_34:
+
+    Okay. Great. That's it for me. Thank you for taking my questions.
+
+Question_35:
+
+    Thanks. Good morning. I just wanted to follow up on a couple of topics that have been touched on already. Maybe just starting with the risk-weighted asset discussion once more, I just want to make sure I understand all the puts and takes of what's going into the risk-weighted asset calc.
+It sounds like on the positive side, obviously, there is the benefit of a GAAP balance sheet reduction as well as the trade-off between lower-quality and higher-quality assets. And it sounds like the operating-risk component is now fully baked in. But are there any other components that could drive that up in a way that's different from what's going on, on the GAAP balance sheet?
+
+Question_36:
+
+    Okay. And with respect to the GAAP balance sheet, what is your overall expectation about the net growth over 2015?
+
+Question_37:
+
+    Great. Then just to talk about the asset quality for a moment, obviously it was the lowest provision that we've seen from you in some time; and many of your peers are inflecting from the point of asset quality improvements to some modest now deterioration and the rebuilding of reserves. I just want to get a sense from you about where you think you are in that spectrum.
+
+Question_38:
+
+    Great. Then just finally on the LAS expense, which I know you've touched on several times, but I'm just wondering if the pace of that improvement changes at all as you are getting into the later stages of the delinquency and foreclosure inventory improvement.
+
+Question_39:
+
+    Great. Wonderful. Thanks very much.
+
+Question_40:
+
+    Good morning. I just want to go back to the net interest margin discussion a little bit. I thought that I heard you say in the prepared comments that there had been a shift in the balance of the asset sensitivity to more of a balance between long-term versus short-term rates. I was wondering if that is strictly a function of the FAS 91 issue in a falling long-rate environment. Or is there something more structural that you've been doing with the portfolio that has caused that to happen?
+
+Question_41:
+
+    Okay. Then if we can just take a look at that one historically for a second, obviously over time that has caused quite a lot more volatility in your NIMs than it has for a lot of the peer group. I seem to remember that for regional banks, say, that have often had the same issue, there is a difference, I guess, in the way they accrue versus doing the constant resets that you do. And I was wondering why you do it in the way that you do, which seems to create more volatility.
+
+Question_42:
+
+    Would you ever consider changing that? And if you were to do so, would there be a significant one-time charge that would be associated with that?
+
+Question_43:
+
+    Yes, fair enough. You also talked about changing line items or lines of business, where certain things are booked, as we move into 2015. That was fairly clear, except I was wondering: will this also entail moving the very large investment portfolio of your mortgages from All Other into the Consumer category?
+
+Question_44:
+
+    Got it. Thanks. Then final one for me. You talked a little bit about the Investment Banking backlog at the turn of the year. But more broadly for Global Markets and Global Banking taken together, can you give us a sense -- now that we're a couple weeks into the year -- how the, in particular say, trading activity has started off?
+And given some of the increase in volatility, especially with big moves like what happened with the Swiss franc today, are you instructing the Global Markets business to pull back on risk? Or generally are you seeing that some of those volatility levels are in some way beneficial?
+
+Question_45:
+
+    Sure, it's early. Thanks very much. I appreciate the color.
+
+Question_46:
+
+    Thank you very much, and most of the questions has been answered. But on your legacy assets -- and you talked about this a little bit, where your default numbers have dropped roughly to 189,000 from roughly I think 220,000. Did you sell anything? Or is that all improvement in just credit in the quarter?
+In other words, did you move the houses out, or did you also sell?
+
+Question_47:
+
+    One of the things that -- because I -- on your -- you made a comment about that the lower oil prices has improved some of the consumer credit, consumer spending, and all that. Are you seeing any improvement in working through those 60-day defaults from that? Or those loans are just so old relatively speaking in the default bucket that the lower oil prices really doesn't help out?
+
+Question_48:
+
+    Brian, I missed -- I was writing it down as fast as I could, but you talked about how that you are seeing consumer balances increase over the last couple months, I guess, or last month. Can you go over those numbers again?
+
+Question_49:
+
+    Yes.
+
+Question_50:
+
+    Okay. Hey, guys, thank you very much.
+
+Question_51:
+
+    Thank you. I wanted to drill into the Markets business a little bit. In the sense that we've seen pressure on fixed income the last two quarters, is there anything in the drivers of that weakness that would jeopardize the seasonal uptick that we usually see in the first quarter?
+
+Question_52:
+
+    Then there is a lot of noise in the Markets business, and I tried to take out as much as I could. What I'm trying to look at is expense elasticity relative to the revenues.
+From third quarter to fourth quarter it looked very effective, was about 80% in relation to expenses to revenue reduction. But over the last year, when you take out the litigation expense, looks like operating expenses only declined about 20% of what revenues declined.
+So I was just curious what you thought maybe the right elasticity number would be there.
+
+Question_53:
+
+    That's very helpful. Then Brian, lastly, you've talked several times about the core expenses and the investments you're making. A lot of the core businesses, really all except Banking, showed declines in net income sequentially and year-over-year. Do you feel like you're investing to try to reignite some of that growth going forward?
+
+Question_54:
+
+    Thanks.
+
+Question_55:
+
+    Hi. You highlighted that the expenses are at the lowest levels since the Merrill merger, and we estimate that they are down almost one-fourth over five years so that's certainly good. But we also note that revenues are down quite a bit over that time frame too.
+So how do you evaluate the trade-off between more aggressive restructuring and investing in the franchise? And specifically, you're pretty much done, I think, with New BAC. Would you have a program -- maybe Even Newer BAC, or a new restructuring plan?
+
+Question_56:
+
+    So don't expect another new program with expense targets, just more of a day-to-day perspective now?
+
+Question_57:
+
+    Then a separate question: what are your key financial targets for 2015? I know you've expressed some of your targets, assuming interest rates increase. But if interest rates don't increase, what should investors evaluate you on at the end of 2015?
+All I had to go on without the higher interest rates is page 42 of the proxy that talks about the PRSUs. It says as long as you get over a 50 basis point ROA you go in the money on the PRSUs. So I'm not sure if I should be looking at the 50 basis point number, or it's 80 basis points, 100% in the money, or the 1% number that you've talked about before.
+But again, assuming rates don't go up, what's your ROA and ROE target for 2015?
+
+Question_58:
+
+    One last try. That 1% and 12%, that assumes higher interest rates. If your forecasts do not expect higher interest rates as soon as they do right now, at what point would you take additional action with expenses? And how do you think about that?
+
+Question_59:
+
+    All right. Thank you.
+
+Question_60:
+
+    Good morning, guys. Two questions.
+Brian, I'm a little bit confused about the card growth. I think you said you got 1.2 million new cards out in the fourth quarter. Is that -- and didn't you mention something about it being seasonal? You've got lots of ground that you can gain in that business, and I just want to clarify whether this is something extraordinary going on here and what your projections are for the future for growth there.
+
+Question_61:
+
+    Is there one particular card that's proving to be very popular? I see your ads for the cash-back cards, etc. Is that the card of choice at this point?
+
+Question_62:
+
+    Okay. Secondly, the 25% margin in Wealth Management, I think back to the old days when you had much fatter margins in that business. What do you see as a normalized margin in Wealth Management?
+Number two, to what impact is the Wealth Management margin being maybe impacted by high liquidity levels that customers are maintaining? And do you see that changing?
+
+Question_63:
+
+    Okay, great. Thank you very much.
+

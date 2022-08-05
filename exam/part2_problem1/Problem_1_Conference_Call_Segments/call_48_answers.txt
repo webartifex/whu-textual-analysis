@@ -1,0 +1,142 @@
+Answer_1:
+
+    Sure, Doug. I'll take the first part. We're investing where we think there's a great opportunity for long-term growth. That's going to be really investing and continuing to grow the talent base at the Company, so we're investing in the people, and that's a big part of it. And we're also investing on the product side to grow the existing products, but also to invest in new areas like Oculus, WhatsApp, and then the ad-tech initiatives that Sheryl was talking about. 
+From an infrastructure side, we plan to invest to support the growth of the core business. That includes things like video; it also includes things like our global growth efforts with Internet.org, so we're really investing across the board on that. And in summary, we've got -- the strength of the business today is really putting us in a strong position to invest smartly for the future, and we're doing that.
+
+Answer_2:
+
+    On brands, we're seeing very strong growth among our brand marketer segment. We're really excited about the engagement we're having right now with brand marketers and agencies. We think we're the first technology platform to offer the ability to do creativity and storytelling at scale in a personal way, and we talk a lot with our clients and partners about personal marketing at scale. 
+You'll find with our clients that they're in different parts of the adoption curve. We have clients who are very early on, and they don't launch any products or think about their ongoing messages without including Facebook. And there are some for whom we're not yet core, and we're working on that. 
+With all of this, we know we need to go client by client, and we're especially focused on measurement, because measurement is so key for this segment. A lot of the products the brand marketers are selling are bought in-store, and so showing that online and mobile ads lead to in-store purchases is a hugely important part of our strategy going forward, as I talked about, and video is really exciting as well. 
+When you think about the holiday season, Q4 is a really important time for our clients, and that makes it a really important time for us. And I think people are increasingly recognizing that mobile is important; 65% of people use their phones while they are out shopping and people are recognizing that opportunity. 
+From an earnings perspective, last Q4 was a great quarter, both because our business was growing but also because that was when we rolled out ads fully into news feeds. And so, it's worth keeping that in mind when you think about how you think about our business going forward.
+
+Answer_3:
+
+    Hey, Ben. It's Dave. We're not really giving any guidance on 2015 revenue. We gave the growth range that we are expecting on Q4, which was 40% to 47% and that's down from 59% in Q3. But we're not providing any specific guidance on 2015. 
+Revenue sort of outlined the expense growth that we expect because of the substantial investments that we're making, also driven off some of the acquisitions that we've made. Hope that that is helpful for everybody.
+
+Answer_4:
+
+    Sure.  And on your questions around Oculus and search and some of the other things that we're doing, the strategy for Oculus is to help accelerate their growth. They have these two products around Rift on PC, and they are supporting Gear VR and the Samsung team in building the mobile version. And I'm really excited about both of them. 
+I don't think that this is going to be -- it needs to reach a very large scale, 50 to 100 million units before it will really be a very meaningful thing as a computing platform. So I do think it's going to take a bunch of years to get there. 
+I don't know, it's hard to predict exactly, but I don't think it's going to get to 50 or 100 million units in the next few years. That will take a few cycles of the device to get there, and that's what I'm talking about. 
+When you get to that scale, that's when it starts to be interesting as a business in terms of developing out the ecosystems. So when I'm talking about that as a 10-year thing, it's building the first set of devices and building the audience and the ecosystem around that until it eventually becomes a business. 
+Some of the things like search and some of these other products -- this may sound a little ridiculous to say, but for us, products don't really get that interesting to turn into businesses until they have about 1 billion people using them. So for Facebook, we're there with news feed, and that's why, in the near term, our priority is really around continuing to grow and serve that community and making sure that the business around news feed and those mobile ads fully reach their potential. 
+Over a five-year time frame, we have a number of services which we think are well on their way to reaching 1 billion people:  Messenger,  WhatsApp Instagram, and search are a number of them. And once we get to that scale, then we think that they will start to become meaningful businesses in their own right. And I think that the right way to think about that, as I've tried to say repeatedly on these calls, is not that we're going to try to monetize them very aggressively in the next year or two, because I really think for each of those categories, the right strategy is to first focus on connecting 1 billion- plus people in reaching the full potential before very aggressively turning them into businesses. 
+But I do think that this is such a big opportunity ahead of us. I can't think of that many other companies or products that have multiple lines of products that are on track to reach and connect 1 billion people that have a clear path at how we can turn them into a business. So that will be a very fun and exciting challenge to work on over the next five years.
+
+Answer_5:
+
+    Heather, to your first question, we think measurement is really -- really needs to evolve for the world we're in today in many ways. One of those is overemphasizing the last click. And the percentages by which that's done really vary, but we think substantially across the industry are overemphasized. 
+But there are also other problems: the current measurement systems don't work on mobile, because they are largely cookie-based. They are not accurate; we think they're only 59% accurate in even the most basic demographic targeting. They don't go off-line to online. 
+They really work well for one person with one device, usually a PC, that's making online purchases. The world we live in today, I bet you everyone on this phone call has multiple devices, and people look at ads online and then purchase off-line, as well as deserve more relevant ads and better targeting. 
+So as we relaunch Atlas, as we think about investing in ad techs, we're looking to solve all of these problems and we think our relaunch is the first step in doing that.
+
+Answer_6:
+
+    Heather, yes, on the range of guidance, it is wider. It is obviously an early view into 2015, and so consequently, it is a wide range. It's -- giving you the best view that we have on it at this time, and we'll be updating that in the future, in terms of the expense guidance range as we have in the past on an annual basis each quarter. 
+The big drivers will be things like the pace of hiring and the success we have in building the great teams that we want to build at Facebook, but we will be updating that on an ongoing basis.
+
+Answer_7:
+
+    Sure, well, I can start off by talking about public content. So historically, a lot of people use Facebook for sharing moments in their lives with their friends and smaller sets of people, right? So we have Messenger for one-to-one communication; groups that just reached 700 million monthly actives this quarter; and then news feed, which is kind of the primary thing that people are using to share with all of their friends at once. 
+One of the big things that we, looking at this ecosystem, thought that there was a big opportunity in was public content, right?  Where it's content that people are either comfortable sharing with everyone or want to consume that is public and shared with everyone. So we're looking at a few different areas. 
+Video is a very big priority. News is a very big priority, because a lot of people want to share that on Facebook already.  And enabling public figures, whether they are celebrities or athletes or actors or politicians or leaders in different kind of communities, to get on Facebook and use the platform to distribute the content that they want. So those are the three areas that we're -- that you'll probably see us investing the most in over the next year or so. And we're making a lot of progress. I shared some of the stats before, but we're very proud of what we're doing, and we will have more to report soon.
+
+Answer_8:
+
+    On ad tech, I think we're in the middle of what is a very fundamental shift from marketing that is cookie-based on a PC, one desktop, to people-based marketing on multiple devices, to marketing that is primarily for online sales, to marketing that affects both online and off-line sales on mobile. So I think we're right now in a pretty big shift and we're not [close to fully deployed] there. We have a lot of pieces to do. 
+Our Atlas relaunch is new. We're first growing our client base, and we're pleased with our progress there. And we're putting these other pieces in place on Audience Network or LiveRail. So I think we're pretty far from being fully deployed on even this big shift. 
+But I think in our industry, nothing is ever fully deployed. That as soon as we catch up here, there's going to be another movement and something else that happens that we have to react to and build the technology for. And so, we remain -- we're a long-term Company, run by a founder with a very long-run vision, and we want to keep our eyes ahead on these changes in technology and keep deploying against them.
+
+Answer_9:
+
+    I'll start on payments. So payments is an important part of the online business ecosystem. But we've traditionally thought about this as something that we're going to partner with other companies on to enable great solutions, rather than trying to compete and do it as a business ourselves. 
+And the reason why we've taken this approach is it's very important for all online businesses and our customers and partners that there's a good online payment system. People run ads to get customers and sell products, and at the end of that conversion, if there's a good payment system that is smooth, then people will buy more things, which ultimately makes the ads and all of the whole online flow more valuable for those partners and, therefore, more revenue and profit for our business as well. 
+We view the ad part of the business as a more efficient part of the business than payments itself.  Payments tends to be fixed fee, whereas in ads because of the option model, there's really good price discrimination built in, right? So a partner or business who is willing to pay us 30% of their revenue can bid that, and someone who's willing to only pay 5% of their revenue can bid that. And the auction model inherently takes care of that. 
+We think that focusing on the ads part is going to end up being the more effective thing for us to do. But we realize that it's important for the ad system over time and for all of our partners for there to be a payment system, which is why we're excited about partnering with credit card companies and partnering with PayPal and all of the different folks in online payments to make their solutions as good as possible as well.
+
+Answer_10:
+
+    And, hey, Ross, it's Dave. Our view now is that Q4 revenue will come in that 40% to 47% year-over-year growth range. As I mentioned, Q4 of 2013 was just an absolutely fantastic quarter for us. We had news feed rolled out at scale. It was our first $1 billion mobile quarter. So we're comping against a really outstanding quarter last year; that's really the largest issue. 
+You asked about currency; we did see the euro drop about 7% in value over the course of Q3. And that really didn't pick up, as you saw, it didn't pick up in an impact in Q3 at all, because it happened at the end of the quarter. So that will be a headwind that we see and that's factored into the guidance.
+
+Answer_11:
+
+    We're pleased with the consumer response we've had on both fronts, and we remain really optimistic over the long run about Instagram and video, because there's a lot of interest. I spoke before about creative storytelling; images video can be such a big part of that and create a really resonant experience for brands and companies. 
+We really believe in going slow. That as we grow products, we pay attention to the consumer experience. We want the consumer experience always to come first. So although we're very optimistic about the opportunity here, we continue to grow slowly and pay a lot of attention to the quality of the advertising we see. 
+To share one example, we are seeing people using both Facebook and Instagram and also video and other ad products in combination. Mercedes-Benz launched the GLA, which was their first compact SUV, on Facebook and Instagram. They found that by doing Facebook and Instagram together, they got a 54% increase in their website visits. 
+So a lot of our products, as you do one, you also do more Facebook ads as well, and that's something we're paying a lot of attention to.
+
+Answer_12:
+
+    I don't think anything to update on the latter front, Paul, but the DAU to MAU ratio, which we focus on on engagement, was strong across all geographic regions. So North America remains at the high end, and we're really pleased with what we're seeing there. 
+Nothing to update on cohorts. Obviously, we're really pleased overall what the mobile impact has on the DAU to MAU ratio, and really encourage what were seeing across the board on engagement. So I don't think anything other than that specifically to call out.
+
+Answer_13:
+
+    Yes, thanks, Mark. The projects really that Mark and Sheryl both outlined, in terms of continuing to invest in the core Facebook experiences, growth engagement, and monetization there, building up the ad-tech side and the investments that we want to make there, as well as the recent -- continuing to invest against the recent acquisitions that we made in terms of WhatsApp and Oculus. So it's really the investments we're making there.                                                                                                                                                                                                                                                                                                                                                                   We're also going to be supporting global growth with our Internet.org initiative, investing there. So it's a number of the key initiatives that Mark outlined in his comments that we're investing against. And again, we're giving a range on what we think is a reasonable range of guidance on that. 
+You saw headcount, we had a good growth headcount this quarter. And we're going to be continuing to invest, as we think that these will be good investments over the long run in terms of being able to drive our long-term growth.
+
+Answer_14:
+
+    I can speak to the video point. I think it's going to be all of the above, in terms of what you said. Most of the content on Facebook is things that people are sharing with their friends and the people around them. So I think we'll continue to see that in video as well. 
+There's definitely been this trend over the last few years where, if you go back five years, most of the content was text. Now a lot of it is photos, and if you look in the future as networks get better and the ability to capture good video and share it in a good way improves, then I think that going forward, a lot of the content that people share will be video. It's just very compelling. 
+There's also a lot of great public content that's video, especially the shorter-form content that you were mentioning I think will fit very well into the feed form factor that people consume on Facebook. So I think we're going to see a lot of both of these things, and it's going to be an evolution over the next few years, but I think you can expect to see a ramp of all of this.
+
+Answer_15:
+
+    And on Instagram MAU, we haven't updated the number; they continue to grow nicely, but we haven't announced a new public number on Instagram.
+
+Answer_16:
+
+    Sure. One of the things that's happening on mobile is that there's an increased focus for apps to do one thing really well. So on desktop, a lot of the things that might have fit well into a single Facebook website, now  people, you need to build multiple standalone different apps. So we are seeing that with Facebook and Messenger, and the work that we did to kind of split out Messenger from the Facebook app to give a dedicated experience around that that we think is a better experience. And we're going to do more of that in the future as well with the Facebook Creative Labs products that we are releasing. 
+Part of what we've seen is that the use cases for products like Instagram and WhatsApp are actually more different and nuanced from -- than the products that people compare them to that Facebook had already built. So for example, on the WhatsApp and Messenger side, Messenger is primarily used today for people to chat with their Facebook friends, within this context of maybe it's not a realtime text like you would send an SMS on your phone, but it's something that you're sending to one of your Facebook friends. Then if they happen to be there, and you can text back and forth or maybe they respond later. 
+SMS and WhatsApp are more for realtime activity. People have contacts on WhatsApp who they wouldn't want to make friends on Facebook. The graphs are somewhat different. 
+So one of the things that we found, interestingly, to us as well, was that Messenger and WhatsApp are actually growing quickly in a lot of the same countries. There's countries that they are growing in that are different, and there are countries that they are growing in that are the same, which to me suggests that they actually are in more different of markets than you probably intuitively would've thought. And that was definitely our understanding as we dug more into this. 
+Same with Instagram, and the type of sharing that happens on Instagram versus news feed. We've recently started doing more to help promote and accelerate the growth of Instagram from the Facebook app itself, because what we've found is that by doing that, we're net overall increasing the amount of sharing that people can do and connecting what they can do within our whole family of apps. 
+We're definitely seeing that this is all accretive and positive, and we think that in the future there will probably be room for more apps for sharing as well.
+
+Answer_17:
+
+    To your first question, data is really important for both measurement and targeting. And when you think about first-party and third-party data, you have to think about both of those usage. 
+Certainly with measurement, third-party verification of that data can be very important. A lot of our largest clients and agencies also build their own data systems, which are a very important part of measuring and certifying everything we do with them. So we're using a combination of first-party and third-party. 
+I think where this really gets interesting is around relevance.  And as I spoke about, that's a major theme for us, because we think one of the best things we can do to drive more value for marketers and improve the consumer experience on Facebook is improve relevance. And data is a great way of doing that. 
+So, for example, with Custom Audiences.  Custom Audiences is a combination of our clients using the data they have on their client base, combined with the data we have that we can target. Let's say target one ad to existing customers to get them to engage more and buy more, and one ad to brand-new customers. And you can see how having a different ad to people who have never bought your product and a different ad to people who are currently buying your product would make a lot of sense. 
+Then you look at something like look-alike audiences, where we're looking to map customers who share characteristics; age, demos, likes, interest, with current customers, and all of this takes a combination of first-party and third-party data, all of which we do in a very privacy-protected way.
+
+Answer_18:
+
+    Before we go to that, I'll just quickly answer the hardware question that we didn't get a chance to answer on the last question. We actually probably do more with hardware already than is apparent, because we design and work with folks to build up all of our own data centers and the servers there. I do think that if that ever became the right thing for us to focus on from a product perspective, we have some of the skills there already. 
+And when we were thinking about working with Oculus, that's actually one of the areas where we think we can help out is because we've built up a supply chain team, and we've been, I think, pretty effective at delivering what we've needed to run Facebook as this large system at scale. 
+But that said, I think that there's a huge amount of value in delivering these network and software services, and that's where you should expect us to focus on the things that we've talked about.
+
+Answer_19:
+
+    To the question about the rollout of products, I think the usual way we do things is that we roll out products slowly and then we iterate. So one example is Custom Audiences; we roll out Custom Audiences. Then we add on that website Custom Audiences to target ads to people visiting websites, and then mobile apps Custom Audiences adds to people who have visited mobile app. And one is building on the next, building on the next. 
+Similarly, this month -- earlier this month we launched local awareness targeting. It's a new option that allows local businesses to reach nearby customers, and when you saw that, it was in a massive launch; it was a small launch, fully enabled as targeting, get people to use it, and we will develop it. 
+Then there were the exceptions, such as Atlas. Atlas was one big launch that we're still in the process of doing, and that's really because it's a product we bought and needed to rebuild. But for the most part, our product development tends to be very iterative, and that's what you can expect from us going forward.
+
+Answer_20:
+
+    Sure. On China, we're already doing more in China on the business side than I think a lot of folks think about. A lot of Chinese businesses use Facebook to grow their export businesses and to help find customers around the rest of the world and grow the Chinese economy there. So that's actually a pretty meaningful thing for us already, and we always are looking to find ways to help businesses around the world to grow. And that will be just a long-term thing. 
+Our approach to China and every country is very long term. We're going to be here for decades, and we want to create good relationships with these countries and businesses around the world that will help and grow over the long term. 
+On the Instagram side, I think we're pretty early. There have been a number of good ads, both video and images, that I think have been pretty effective, but it's fairly early in the growth phase at this point. The top priority for Instagram is to grow from 200 to more and eventually connect 1 billion or more people, and I think that's something that should be possible. That's what I'm really focused on and excited about now, while we also start building out some of the parts of the business as well.
+
+Answer_21:
+
+    Operator, we have time for one last question.
+
+Answer_22:
+
+    I'm glad you asked the question, because I think there has been some confusion around our mobile apps and our mobile app ads and our mobile app engagement ads. 
+On the engagement ads, it's still pretty early and we have rolled those out. We rolled those out after mobile app ads, so we definitely see less of them, but we do think there's an opportunity. 
+I think the broader point is that our growth in mobile ads is very broad-based. It's across all marketer segments, and it's across all of our different ad formats. When we talk about our mobile ad business growing, mobile app ads are a small part of that, that's growing in line with our total business. 
+The other thing that I think people get a little confused about is who is using mobile app ads. I think commonly when you think about mobile app, people often think about developers, and developers are using them and we're pleased we're able to help them grow. 
+But they're also being used by some of the largest branders and marketers in the world. So, for example, Burger King. Burger King just used our mobile app ads to do app installs for their apps. Excuse me, I'm about to sneeze. And the app was to find Burger Kings, look at their menu and nutritional options, use mobile coupons, and use virtual gift cards. That was one use of our mobile app ads, which is not what people typically think of.
+
+Answer_23:
+
+    Great.  Thank you for joining us today. We appreciate your time, and we look forward to speaking with you again.
+

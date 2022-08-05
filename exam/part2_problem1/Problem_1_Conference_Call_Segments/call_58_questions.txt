@@ -1,0 +1,52 @@
+Question_1:
+
+    Maybe one thematic question on Instagram for Mark and Sheryl. I wanted to understand what you're seeing in terms of the development of the community on the user growth side, the engagement side as well as on the monetization side with respect to breadth of advertisers and ad product evolution, what that means for Instagram's future and how it compares to maybe what you've learned growing the business on the Facebook side over the last couple of years.
+
+Question_2:
+
+    One for Mark and then perhaps one for Sheryl or Dave. Mark, first, just on the video strategy, I was hoping you could talk a little bit about how that's evolving in terms of the type of content that you're licensing and featuring within the Facebook video tab. And then if you have any more clarity just on how the economics are going to work there around revenue share and gross margins. And then on ad revenue, the U.S. and Canada was very strong at 47% growth, but at the same time, it also did decel a little bit more than we've seen in recent quarters. I was just wondering if there was anything else to call out there.
+
+Question_3:
+
+    I have one for Mark on Messenger monetization. Can you just talk about some of the biggest trends you're monitoring and what you're most excited about as you think about ways to monetize Messenger over the next 2 or 3 years? And then on engagement, you continue to grow Instagram and Messenger user bases really helpfully. I guess, I'd be curious to hear, do you still continue to see rising time spent per user across all 3 of those platforms even as the DAU base gets bigger?
+
+Question_4:
+
+    A couple of things on advertising and modeling. When we think about Q1, can you help us at all think about how much the ad load growth is contributing? And what drove the improvement in pricing in the quarter? And then, Dave, when you look out to the third quarter and you kind of lap the ad blocking on desktop, are there more ad blocking you can do to help maintain that growth? Or are there other drivers there for desktop that we could think about?
+
+Question_5:
+
+    First off, I guess, as a follow-up on the earlier video question from Doug. Could you add some perspective on engagement trends with video content and video ads, such as average viewing time and whether those mix is what is impacting impression growth? And then more broadly, if you can offer some perspective on how much of the video ad spending on Facebook applications are incremental to television budgets or if there's any evidence you're seeing of a share shift?
+
+Question_6:
+
+    Two questions. Mark, you mentioned adding 3,000 reviewers to content at Facebook. Could artificial intelligence be used over time to help solve some of the monitoring? And then just more broadly, how is AI being employed in processes at the company now  versus a couple of years ago? And then second item would be, could newer ad units like mid-roll video help mitigate the decel from the lower ad load growth contribution in second half '17?
+
+Question_7:
+
+    I guess I had a question just related to Instagram and Facebook Stories. I mean, we've talked a lot about ad load growth over the last year, and Dave's been talking about the pending slowdown, which I think we're all expecting. But how do we think about these new applications or new ways to engage with the apps at the top of the -- at the top of your phone where you're starting to see ad insertion show up as well? Is that thought of as a -- is that thought of different than the general ad load comment that, Dave, you're making? And I'm sorry to split hairs here, but I'm just trying to get a sense of how to think about when they're starting to show up in new places. And then, I guess, I just had a follow-up for Sheryl. And one question in particular was if there's any measurement metrics that advertisers are asking for now that if you could help them with, it would make them even more eager to shift their budgets over from TV and follow their eyeballs.
+
+Question_8:
+
+    I have one for Mark and one for Sheryl. Mark, at F8 and in your comments today, you talked about making the camera central to the app being the camera, the first augmented reality platform. I know it's early but can you maybe share with us your thoughts about the potential commercial application of augmented reality as you see it today? And then, Sheryl, there's been more lately about the use and effectiveness of influencer marketing on both Facebook and Instagram. How is Facebook thinking about sharing in the economics of when brands use celebrities or influencers to market their products using their Facebook posts? Is it by bringing more transactions onto the platform, building on the shopping experience on Facebook. How is Facebook going to share in those economics?
+
+Question_9:
+
+    First thing, it's a great move to go all in GAAP in terms of reporting. Second, David, when you talked about the ad, your ad load commentary, I couldn't tell if there was a subtle shift there when you're saying that the ad load pressure would occur after the end of the year rather than in the second half year. And then third, this is for Sheryl and Mark. The recent stories about gender bias amongst the engineers at Facebook, and I know you quickly responded to that and said that, if anything, there may be a rank bias. But in my mind, it kind of creates the opportunity potentially for Facebook to better tap into what is probably underappreciated female engineering talent in the Valley and across technology. How do you think about that as an opportunity for the company?
+
+Question_10:
+
+    Just had 2 questions on video. We know it's kind of early, but what kind of traction do you see with the video tab that's in beta? And do you think longer term, the video consumption is going to be in that dedicated tab or will it stay in the News Feed based on what you're seeing right now? And then, Dave, just a follow-up on one of your previous answers. So on the cost related to video ad rev share or licensing of video content, is that baked into your OpEx guidance for '17? Or is that something that will step up after this year?
+
+Question_11:
+
+    Mark, in your prepared remarks, you talked about doing more to foster local communities and groups. And it would seem like one of the more interesting test cases here already is in local marketplaces. Just wondering if you could talk to us a little bit about the kind of adoption and engagement that you've seen with local marketplaces and maybe anything that you've learned that you can apply to some of the newer initiatives that you're looking at. And then secondly, probably for Sheryl, for ad breaks to scale, it appears that content creators need to adapt their programming for this. And, of course, users need to engage with the ads. So I guess the question is how are kind of completion rates for ad breaks? I know it's early but kind of what's your -- what are you seeing so far? And how would you characterize the willingness of content creators to adapt?
+
+Question_12:
+
+    I have 3 philosophical questions on video for you guys and . The first is, it was interesting to see the NFL games go from Twitter and Amazon. I wondered, do the NFL games fit with your video strategy? Why or why not? That's one. Two is, I know the model is revenue share, but a lot of the more traditional companies would like license fee or the ability to sell their own inventory on your platform. Is that something you'd consider? And last but not least, the question about monetization. Why is mid-roll optimal to pre-roll? And could you share anything about the testing of that concept?
+
+Question_13:
+
+    One for Sheryl. Sheryl, you've talked a lot about the targeting advantage of Facebook. And you have a number of data signals and sources informing that. Wondering if you could talk about the relative importance of collecting signals on the platform versus off the platform. For instance, the behavior of Facebook users interacting with third-party websites. Is this the depth of your off-platform collection? Is this a significant competitive advantage for you?
+

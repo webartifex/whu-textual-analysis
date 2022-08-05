@@ -1,0 +1,202 @@
+Answer_1:
+
+    You're saying expenses, not including LAS and the litigation?
+
+Answer_2:
+
+    I think as you look at that number, and if we keep LAS out of this, obviously, the big new savings bucket that we have is New BAC. We have indicated that we are, on a quarterly basis, at $900 million a quarter as we leave 2012. We expect that our New BAC cost savings when we get to the fourth quarter of '13 will be at $1.5 billion per quarter. So you can expect to see, on a core basis with New BAC, about a $600 million increase from where we leave 2012 to where we leave 2013.
+
+Answer_3:
+
+    The seasonal stuff, if you are going Q4 to Q4, you would expect the seasonal stuff to be there, but, as we indicated, we looked at and for this quarter relative to the third quarter, there was $300 million to $400 million of stuff that we would characterize as seasonal.
+
+Answer_4:
+
+    We would expect -- and the one thing that we are being very cognizant of is that while we are investing in the business, we are not going to let inflation outrun the progress that we are working on New BAC. So I think on a net basis thinking about that $600 million number from New BAC is a good assumption.
+
+Answer_5:
+
+    Sure. I think it is important when you look at the FICC business to go back and look at the progress that we have made during 2012. If you look at FICC revenues 2012 compared to 2011 pre-DVA, they were up 36% year-over-year. If you go back and look at each of our quarterly releases in 2012, in each quarter in 2012 pre-DVA, revenues were higher than 2011 at the same time that we were taking cost out.
+The third thing I would say is that you have to realize that we run the FICC and overall debt underwriting business and look at that as one consolidated business and from a debt underwriting perspective at over $1 billion of revenue, we believe that was, as I indicated earlier, more than anyone else did this quarter on a global basis. And so we feel very good about that. Your point on the VAR is a fair one and we did see VAR increase during the fourth quarter and we would expect to see the benefits of that VAR flow through during the first quarter this year.
+
+Answer_6:
+
+    That is correct.
+
+Answer_7:
+
+    It does not, John, because I think the one thing when we announced these sales that you have to realize is that it is very important that the transition of the loans that are being sold work through a process and go in a way that is as consumer-friendly as we can do it. So there is a lot of work that goes through that. So as we look at the servicing business, that does not include in any meaningful way incremental sales. There may be some small ones over and above that and at the same time, somebody could come and look to do something as well, but, at this point, I would consider that 150,000 to be more organic reduction.
+
+Answer_8:
+
+    I would assume that you should generally expect it to come out throughout the year. It is not something you're going to have to wait for the fourth quarter to see.
+
+Answer_9:
+
+    Yes, I am hesitant, John, to give you specific numbers in the quarter. What I would say is that we gave you guidance as to how much of the fourth quarter was seasonal that we obviously wouldn't expect in the first quarter. You have got the $900 million of stock compensation expense that will come through. Expect to see a little bit of benefit in the first quarter as we continue to implement New BAC and probably the biggest variable that you can see in the first quarter that I didn't mention is really compensation expense that varies based on actual business performance. But I think if you think and look at those different metrics, you will get pretty close.
+
+Answer_10:
+
+    If you look back over the course of 2012, absent any settlements or any unusual activity, you had a run rate throughout the quarter of around $300 million per quarter in 2012. And with the Fannie settlements, as well as obviously the fact that Freddie was settled at Countrywide, you would expect that number to be $150 million or so going forward.
+
+Answer_11:
+
+    There was a less than $100 million to the negative.
+
+Answer_12:
+
+    Excluding any of that and realize that we have got a couple less days in the first quarter of this year.
+
+Answer_13:
+
+    Well, I think the average earning asset levels are probably at a level that you are not going to see an enormous amount of growth. What we do hope that happens though is that the composition of those earning assets change so that we can look at, and particularly in the institutional business as I mentioned, as well as in GWIM, there was very strong loan growth during the fourth quarter. We are focused on continuing to drive that forward and that obviously reduces the need to invest in securities and other things, and we think ultimately has a positive impact on NII and is also quite frankly consistent with managing OCI risk going forward.
+
+Answer_14:
+
+    Well, Paul, focusing on the customers and our customer base is not real restrictive since you are one and two households, so there is plenty of marketshare to go. Our penetration of the product in our Preferred segment and our Wealth Management segment is still relatively low, so there is tremendous growth.
+But as you think about shaping the mortgage business, we are kind of -- this quarter kind of moves us -- starts moving [announcements] as we close these servicing sales to where we end up with maybe 5 million serviced loans going forward producing $20 billion and growing a quarter direct to retail. And that is kind of what we want with a marketshare that steadily grows and that is kind of the equilibrium and the team has to go.
+So the next challenge ahead is obviously replacing the HARP volumes over the next year. This year, we had to replace the correspondent volumes. Next year, we have to replace the HARP volumes and the team is working diligently on that, but it is really focused on the core customers. And if you think about the cost of servicing mortgages and stuff, we need to really focus on people that we are very comfortable with the credit and keep the delinquencies down and stay away from the stray products and just chase some volume.
+
+Answer_15:
+
+    It's a good question, Glenn. When you look at -- and let's just first spend a minute on Basel 1. As I think you know that the majority of regular way loans in Basel 1 are 100% risk-weighted so that as you look at our $10 million increase in risk-weighted assets under Basel 1, it is generally speaking the net increase in our loan book.
+If you go to Basel 3, and I think you are referring to slide 9 where we talk about the different reductions, why don't I spend a moment on each of the buckets? The first is that we referenced that we had about $23 billion less through consumer real estate exposures and the way that Basel 3 works is that, as opposed to these general risk-weighted buckets, they look at loan-to-value, delinquency and other type metrics. So during the quarter, the $23 billion benefit we saw, we saw declines in the loan-to-value within our residential mortgage book. The percentage of loans that were 90 plus day delinquencies, each of those went down, which I think in large part is reflective of the changes in the underwriting standards that we have talked about before that we implemented in the fourth quarter of '08 and the first quarter of '09.
+The second thing is if you look at our home equity book, the delinquencies, as well as the loan-to-value continue to improve there, as well as the notional amount outstanding has also gone down. So we benefit there as well.
+And then the third bucket within consumer real estate are our other retail exposures, which generally represent the runoff portfolio that we have talked about, that decreased during the quarter as well. So those three different buckets within the consumer exposure are what drove the $23 billion decline there.
+If you move to the $64 billion number that we referenced largely in market risk, really go through a couple different areas where we have benefits. The first is we did have a pretty significant decline on a net basis of CVA, stressed VAR, as well as our CRM risk-weighted assets during the quarter. Over and above that, you know that some of the securitization products have very high risk-weighted asset content. We were able to fairly significantly decrease some of those securitization exposures. And during the quarter, the industry also got some guidance from a regulatory perspective on risk-weighted assets with certain securitization products that was favorable, so that helped.
+And then the last piece that we had is that there were some indexed tranches and other things within the markets business, which came down pretty significantly as well. So those were really the big items in the $64 billion bucket.
+And then with respect to the $23 billion bucket, I want to spend just a moment on that because the $23 billion reduction is not a function of going in and changing models. The $23 billion is that, each year when you update your models for actual loss experience, it drives changes in risk-weighted assets and given the strength and improvement across the credit portfolios in 2012, we have benefited from that when the models were updated.
+As you look forward, I would just say, looking forward, I think we are generally in a place now where we told you a couple quarters ago the optimization on Basel 1 was largely done and the risk-weighted assets would vary pretty proportionally with the amount of loans. From a pure risk-weighted asset perspective, I think we are largely through those reductions. But keep in mind, from a numerator or common perspective going forward, we will benefit given our deferred tax position in that the pretax number will generally grow capital on a pretax basis and we still do have some threshold deductions we can work down there.
+
+Answer_16:
+
+    There is not a permission aspect to it; it is required that we update these on an annual basis, so that is correct.
+
+Answer_17:
+
+    Hey, Glenn, the balances move every quarter. I think it is the models -- the factors that change on risk.
+
+Answer_18:
+
+    No, it is not extending duration. If you look at our securities portfolio, we continue to run that duration in and around two years. What you have to keep in mind is that we had -- during the third quarter, you had some of the FAS 91 amortization expense. That flows through and hits the yield on the securities portfolio, so we did not see a significant change in the actual yields during the quarter; it was really more FAS 91.
+And I think, as you look at our Company going forward, I think we are a little bit different in that between the fact that the duration of what we have continues to be short, as we look forward, we clearly think the worst of the recouponing of the securities portfolio is behind us based on where rates are today.
+
+Answer_19:
+
+    I think I'd say, Ed, that we completed our results; we are in a better position this year than last year and we will let you know once we get through the test. I think it is -- the Fed is doing its work, but I think we have been clear with people that the issue for us is not necessarily capital levels, balance sheet cleanup and stuff. The issue is the recurring earnings levels that have been consistent on that and we will let you know once we get there. But Bruce and the team have done a great job on submitting it and we will see what happens.
+
+Answer_20:
+
+    If you look at what we did in 2012, we took capital and redeemed preferred instruments and subordinated debt and other things and continuing to do that during the year. We were getting approvals to do so as we went along. So all the -- we have been clear that all the capital we have, now that we are above the levels, we will be in a position when we get the approvals to return to the shareholders. And you know the viewpoints of the relative preferences of the CCAR process in terms of dividends versus stock buybacks and things like that. So we would be no different than anybody else.
+But it is clear; it is either on the balance sheet, tangible book value. It is not needed for the risk of the balance sheet because you can see that with all the risk-weighting and everything, the capital is there and it will all get returned as part of the business proposition. If we retain any to grow, that is actually a good problem, but, so far, we still have optimization left on the balance sheet, as Bruce described, that will allow us to continue to return capital. So our intention is to return it. The question is we have got to get through the processes and then we will do it.
+
+Answer_21:
+
+    Yes, the reason it dropped by that amount is that, and you saw it in the third, as well as the fourth quarter, that with some of the DOJ/AG settlement modification and other things, that as you dispose, get repaid or write off the purchased credit-impaired portfolio, it reduces your loan-loss reserve.
+
+Answer_22:
+
+    That is correct.
+
+Answer_23:
+
+    I would make a couple observations on that. The first is that, at 9.25% today, regardless of required SIFI buffers, we have more on the Basel 3 basis than anyone else.
+The second thing I would say is given the position that we are in and the fact that we do have DTAs going forward, the rate at which we increase capital given it is on a pretax basis, we would expect to be more significant than our peers.
+So I think going forward, we still think we have the opportunity as core earnings rebound to grow capital more quickly than our peers. As it relates to the exact level, we have always looked at it and thought that you want to run at least an extra 50 basis point cushion. Given that these ratios are more sensitive to changes in the market, depending on what the market looks like at the time your ratio is, you may vary that a little bit based on the market.
+But I would say generally if we look at what we saw in the third quarter and what we saw today that we are generally in the range of where you would expect us to run and as we look out at and see how our counterparties from a credit perspective view the Company now and look at our credit spreads, we feel like we are doing the right things right now.
+
+Answer_24:
+
+    So if you go back and look what we did in the beginning of '11 when we split, we split our portfolio into two thought processes, our mortgage servicing portfolio. We split a chunk into what we called the Home Loans at that point and a chunk into what we called LAS and it was about, round numbers, $11 million, $12 million in loans at that time. Half went to LAS and half went to Home Loans. And the criteria which we looked at that was customers, products and loans and stuff that were going to be a go-forward business we think of in the Home Loans business. And the other half was products that were never going to be done again and the way we are going to run the business because frankly you lose a lot of money on them due to the delinquency levels and customer strife, etc.
+So since that time, we have, and if you go back and look, we showed that exact break. Since that time, we have been busily trying to work the $6 million non-core loan book portfolio down. And we got it down around $2.5 million-ish now and with the sales, $2 million, not all of it comes out of that because of combined pools and stuff, but a significant amount, we are really accelerating the ability to get to the end state on the bad mortgage servicing book for lack of a better term. And that is what we are up to.
+We had gotten it to a level from a capital level and all that stuff we were comfortable with and so once we get this out, these are products that we just aren't going to continue with and we have been focusing on rebuilding the business into the core business as I spoke about earlier.
+So if you think about it in that context, think about something that might have taken us all the way into '15 to finish up and think about through the sales of a significant part of the $2.5 million how much -- the question is we are bringing that into '13 and early '14 as we finish up, which then accelerates our reposition of our Company away from products and services, which we didn't plan to continue two years ago.
+
+Answer_25:
+
+    Yes, the number was slightly less than $300 million, rounded to that number, but, in any one quarter in that business, you have some pluses and some minuses that are flowing through. So you are right. The $1 billion though is starting from a $3.1 billion base.
+
+Answer_26:
+
+    Let's be clear here. We are still working through -- we have signed the sales transaction January 7, working through with the buyers the timing of the movement of the assets and finalizing that, then how fast you can move. There is transition issues that you have got to deal with in terms of people who are in the middle of the modification process and stuff.
+But let me flip to the other thing. This quarter, the total resources you saw on the one slide dedicated to LAS went down by 9,000 between FTEs and contractors dedicated to this team. We will continue to drive that down. There is nothing more important to our Company to get this done as quickly as possible.
+So Bruce has given you the outline and whether it is from this call item or that item, the idea is that we need to get the work out of here and that is what actually is taking the cost and the sales closing, the continued progress on the remaining piece that we have left, but think about, in a single quarter, 9,000 change in headcount and think about -- we are going as fast as we can.
+
+Answer_27:
+
+    Our marketshare overall, when you put the whole thing together, I think has gone up about 2/10 of 1% per quarter as best I have. And remember, we are only competing in the direct-to-consumer part of the market. So I think it has moved from 4.2% to 4.4% to 4.6% type of numbers. And so expect us to keep driving our marketshare up. Now, again, we got the HARP volumes, which is in the $21 billion this quarter, $7 billion to $8 billion type of number, think of that, that we have got to replace. And so that is the team's challenge.
+And on the other hand, we are not closing loans as quickly as we should honestly. And we have been adding significant resources as we have downsized LAS into the home loans business to increase our fulfillment capacity. So you put all that together, our marketshare continues to grow every quarter for the last three or four. We will continue to drive it.
+Where it will settle in at, I am not exactly sure, but as I talked about earlier, if you think about us having about a -- think of an 8% share of servicing, we have got to get our origination share moving towards that direction over the next couple years in order to have sort of equilibrium for lack of a better term.
+
+Answer_28:
+
+    Look, the issue isn't liquidity in the market, but the kinds of loans going through. The issue was -- they happen to correspond to each other, but it really had nothing to do with each other. The issue is we stopped the correspondent business.
+
+Answer_29:
+
+    If you thought about our marketshare when it was at its strongest in the high teens, two-thirds of it or more were correspondents. And that is what dropped our share down. The retail marketshare is actually -- from this year, direct-to-retail, excluding even HARP, it is flat year-over-year in terms of production and fell a little bit and has grown every quarter.
+So we are selling to Freddie and we will work it out with Fannie over time, but the point I am really saying is it is not the secondary market liquidity that caused our markets to drop; it was getting out of the correspondent business. And if you just look in this quarter, remember that there was $6.5 billion last year fourth quarter versus this year fourth quarter that was in the correspondent that is a carryover from when we quit it in the third quarter at the same time we announced that we were going to stop with Fannie.
+
+Answer_30:
+
+    If the volumes are there, we will continue to invest in the servicing fulfillment teams. We've moved -- Tony Meola has done a great job and Ron Sturzenegger in that business working through LAS has now taken over sort of the good side of production, along with a fellow named Steve Boland, Dean Athanasia in the Retail and the Preferred group under David Darnell drives the production side. We have added mortgage loan officers every single quarter, focused them on the branches and what we are seeing is tremendous uptake when we get them working with our teammates. We are better when we are connected as a company across things and so we have seen it.
+So we are investing both on the front end and on the service and fulfillment, the middle office so to speak and we have moved I think 4,000 people increase this year so far in fulfillment and we will move some -- we will continue to move them because ultimately the retail production side is a good business right now.
+
+Answer_31:
+
+    Well, so if we think about it starting in 2009, we started to reposition that business because it had gotten too far into the broader credit. And after the crisis, just remember, we charged off $60 billion, $70 billion of charge-offs in that business. So we started repositioning it. We have got it about now where we want it. In other words, we have an affinity group of businesses that is very core and we like it a lot and we have the core business. So this quarter, I think we did 840,000 new cards, about 350,000 or more or less through the franchise, another 100,000 some I think online. So we are producing what we need to do.
+Balances grew, point to point, you've got to be careful of the fourth quarter. You get a little kick around Christmas obviously, but if you look at it, as we look across the last few quarters and we will have to wait until everybody gets out this quarter, we are holding around 14%-ish marketshare, which is fine. So now the question is we push a little bit harder on the -- and I use the broad context marketing, not direct mail market, but marketing and driving to the franchise.
+So what we have done is position the credit quality well. It is a much more of a payment business now, 19% plus pay rate, which basically up from 14% probably six, eight quarters ago and so it is a higher quality business. It has drilled the core customer base, the 1-2-3 card and the rewards cards we have that drill off the core platform are working well in our Retail segments and then obviously in the Wealth Management segments, we have a great array of products.
+So I would say that we have got this where we want it now; it is stabilized. The run-off book that we are fighting on a growth basis is down to $3 billion, $3.5 billion, down from $15 billion at the top. So I think they should start to see some growth. But it will take -- it is going to bump around where it is right now for a few quarters, but I would say that there is nothing wrong in the business and we are making a fair amount of money in it right now. The risk-adjusted margin is the highest it has ever been.
+
+Answer_32:
+
+    Yes, I mean I think generally we are in that 40% area from a compensation perspective and obviously, given the performance and where we are, we need to be competitive with where the peers are. But I don't think you have really seen that change materially during the course of 2012.
+
+Answer_33:
+
+    We will have to get back to you with that exact number. I think I have a gut, but I want to make sure I am right. So why don't we get back to you with that number.
+
+Answer_34:
+
+    I want to think, Mike, it was somewhere between 9 and 11 basis points. I just don't have the exact number.
+
+Answer_35:
+
+    I think a couple things on that, Mike. First, I think from our perspective, the $8.5 billion Gibbs & Brun settlement is going through the court process. Would likely get wrapped up sometime in the second quarter or early in the third quarter. And that is completely independent from what is going on at MBIA.
+With respect to MBIA in the broader monolines, as we have said before, generally, if you look at geography within the financial statements, the majority of the work that we do and where the monolines are accrued for at this point is within the litigation line item as opposed to within our provision for reps and warranties.
+And the third thing I would say is that, as it relates to kind of the general rep and warrant question, I think the most important thing to go back to is that the large majority of everything that was done with the GSEs at this point between our global settlement with Freddie and Countrywide and our global settlement with both Countrywide and Bank of America with the GSEs just takes away a significant amount of risk relative to where we have been before.
+
+Answer_36:
+
+    As I referenced, you have got the several monolines that we are working through on a litigation perspective and then you are right, you have got the private-label piece. And I think if you go back to the comments that we made about the geography of the representations and warranties, you can see we have a pretty sizable amount set aside to work through the private-label exposures.
+
+Answer_37:
+
+    Mike, we could -- I think as we think about it, this litigation goes back and forth and the judge has a lot of decisions to make in a lot of cases and we will play it out here. But we are comfortable with our legal positions across the board.
+
+Answer_38:
+
+    I am not sure the exact timing.
+
+Answer_39:
+
+    I think what I would suggest you do, and I am not going to quote somebody else's financial statements, but I think you can go look on MBIA's financial statements and see how much that they believe that we're owed or that they are owed from us. That is disclosed in their financial statements, so you can look at that. And then the corollary is I think you have to keep in mind that there is a significant amount of money that they owe us within our Global Markets business that is very significant that we have marked at cents on the dollar.
+
+Answer_40:
+
+    I think the biggest thing that you have to go back to is that, and you have seen the different reports, that it is that people are looking at these amounts based on not only the amount of debt, but also the amount of equity that you have on the balance sheet. So if you go and look at our ratios, we obviously, as far as the amount of pure common equity and other equity-related instruments on the balance sheet now are more than virtually all of our peers and because of the way -- through the series of mergers that happened, our debt footprint on an absolute basis, as well on a relative basis is higher than our peers.
+So as we look at this and as we talk about going forward, I think we still have a lot of work to do and opportunity to get our interest expense down through shrinking the size of the debt footprint and just bringing it down to where the rest of the industry is. So we can't predict with certainty where this goes, but we know as we look at the different ratios and the different metrics, we still have some opportunity to continue to benefit the interest expense line just to get to where our peers are from an overall debt and equity perspective.
+
+Answer_41:
+
+    On the LAS, I don't think you would see it. In the New BAC is net of the cost of achieving the results, which is largely technology implementation costs and if you look at our technology development costs over the last few years, we have gone from about $2 billion and change to $3.6 billion per year. And the investments we are making in New BAC are investments in the franchise. In other words, to get the efficiencies, we are -- embedded in there is the rework of our entire trading platform systems and things like that. But we are investing to get the savings, but investing to also strengthen the franchise at the same time. So it is all netted in there.
+
+Answer_42:
+
+    Yes.
+
+Answer_43:
+
+    Thank you for your time and attention. Look forward to next quarter.
+

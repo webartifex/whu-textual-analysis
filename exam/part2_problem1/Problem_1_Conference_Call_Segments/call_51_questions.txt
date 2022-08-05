@@ -1,0 +1,66 @@
+Question_1:
+
+    I have one for Mark and one for Dave. Mark, Facebook has had so much success in terms of the engagement -- the growth of the engagement.  I'm just wondering if there's a framework that you use to think about how much of that success is due to the core value proposition of Facebook itself continuing to resonate with people at its most basic level as opposed to the product innovation that you detailed in your prepared remarks or new use cases, which are more of a driver in your mind? 
+And then, second one for Dave, CapEx being down as a percentage of revenue in the 2Q and you lowered the guidance, it doesn't feel like you are in the midst of ramping investment in the infrastructure. I wonder as you look at the assets, you have so much growth, you have the shift to bandwidth-intensive content, and applications. Do you feel like you have been more efficient in terms of your CapEx spend?  Or, at some point, should we anticipate a reacceleration to CapEx? Thanks.
+
+Question_2:
+
+    Mark, you talked about Oculus Rift shipping in 1Q 2016. Can you talk more about what you're most excited about in terms of the primary applications when it's into the mainstream?  And then, Dave, can you also help us understand the cost structure more here as that product ramps? And then, Sheryl, if you could help us understand how broadly Instagram will open up to advertisers by year-end? Thank you.
+
+Question_3:
+
+    I wanted to ask a little bit more about as you start to speak with more advertisers on the Instagram opportunity, how are you and they thinking about the differences in how they'll engage with their customers across both platforms? And, I guess what I'm getting at is do you see Instagram targeting a different type of advertiser?  Or, do you expect people to leverage both platforms and almost think of them as separate areas to budget for?
+
+Question_4:
+
+    In early June, you rolled out some new CPC measurement methods about how the changes and the clicks and the CPCs are measured. I'd be curious about early findings you see in ad engagement growth, average price per ad?  And then, the advertiser feedback or change in budgeting since you've rolled out these CPC measurement changes. 
+And then, the second one -- on the North American advertising results were really strong.  I think you have accelerating growth. Sheryl, could you call out any specific ad products that are driving this faster North American ad growth? Thanks.
+
+Question_5:
+
+    Couple questions on video. Mark, I think you mentioned potentially some new options for video monetization. Maybe could you discuss some of the new options that we may see implemented? More broadly, how does video content evolve on Facebook from what we see today? Thank you.
+
+Question_6:
+
+    I think on the call you said time spent was 46 minutes per day. Any comparable metric from past quarters?  And then, how would you -- if you can't give us that -- how would you gauge the overall engagement of Facebook?  Just for the core site?  Maybe some help about what you're seeing there?  And, what products are really having an impact? Thank you.
+
+Question_7:
+
+    I just had two questions.  One for Mark and then one clarification for Dave. Mark, question on the messaging app. So, the vibe at F8 from the first-day keynote at the end of the day, Brian Acton and David Marcus were basically presenting different strategies in terms of their long-term philosophy around monetization of those two platforms. So, if you look out three to five years, do you see the opportunity with Messenger and WhatsApp as being similar?  Or, can you talk about the strategy there? 
+And, is the engagement for the messaging apps similar, higher, lower than the average for the core Facebook app in terms of daily visits? And then, Dave, you mentioned that you expect ad revenue to decelerate. I'm guessing that's a function of some of the FX headwinds. Can you talk about that on a currency-neutral basis? Relative to the 55% in the second quarter? Thanks.
+
+Question_8:
+
+    I had one on search. I think you mentioned 1.5 billion daily searches. Just kind of curious, what portion of those our commercial, if you will?  Not so much lookups for friends and family, but more commercial-oriented? And, can you give us an update of where you are in the process of building out an even more robust search experience on Facebook and across the other family of apps? 
+And then, on Instagram, just a question on how we should be thinking about the ramp as well as the long-term opportunity? I guess the question would be in your tests, have you noticed any meaningful difference in Instagram users' willingness to see or interact with ads in their newsfeed as compared with an average Facebook user?  Recognizing that probably Instagram's audience is more geared towards some of the developing markets in the US relative to the Facebook? Thanks.
+
+Question_9:
+
+    A couple questions. One, given your success with standalone apps, should we expect to see more apps in the future?  And, could one of those focus specifically on video? And then, on Oculus.  The monetization for that?  Should we expect an app store-like model where you'll be sharing revenue with the content partners? Thanks.
+
+Question_10:
+
+    Two questions. David, the sales and marketing expenses this quarter were almost flattish sequentially. You don't normally see that in your business. Was there anything -- any particular reason behind that, and why you didn't have that area grow? I assume it will continue to grow going forward. 
+And then, Mark, you had made a comment about -- I think you were referring to Instagram becoming one of the best places to get a realtime snapshot of the world.  And, it reminds me or makes me think about some other leading platforms on the Internet, and I wonder how does that happen with Instagram? Is that something that you're already seeing users use Instagram to make that happen?  Or, is that something that you have to tweak the user interface and change the product a little bit in order to try to have people think about it that way? How does it become that realtime snapshot of the world? Thanks.
+
+Question_11:
+
+    Similar follow-up question to Mark's.  Your DAU to MAU number has been exceptionally strong and moving up. I'm going to guess a lot of that is mobile-related so I guess that would be question number one. Is it a lot mobile? And, the second question would be around this realtime issue?  Are you seeing more realtime usage of Facebook?  And, are you developing more products specifically around realtime usage of Facebook as a platform? Thank you.
+
+Question_12:
+
+    You mentioned 40 million small businesses have active pages. I'm wondering if you can update us on how many individual small businesses -- or businesses in total [are] buying ads right now.  And, separately, I was curious about current thoughts on how ad-type businesses will evolve?  If you see an integrated marketplace evolving?  Or, if you see a discrete demand by side businesses -- sorry, demand and supply-side businesses evolving?
+
+Question_13:
+
+    Drafting off that, Sheryl, wondering if you could update us on Atlas? We understand Atlas in and of itself is not likely to be a major revenue driver, but we do see it as a strategically important piece of your tool set.  Wondering if you could comment on agency adoption?   Is it going according to plan? Are you happy with it? 
+Secondly, on SMB, just wondering -- the 80 events that you've held around the world.  In terms of learning coming out of those, you talked a little bit about how folks get introduced as users and that makes sense. Is the tool set simple enough today for SMBs to grasp? Or, are there significant additions that you need to make to the tool set to accelerate the growth of SMB advertisers? Thanks very much.
+
+Question_14:
+
+    I wonder if I could get an update on the e-commerce initiatives including the partnership with Shopify?  And, how we should be thinking longer-term about e-commerce becoming a bigger and bigger part of the platform.  Sheryl you called out Priceline.com and the booking relationship during your prepared remarks. Curious how far that might go longer term?  Thanks.
+
+Question_15:
+
+    Questions on audience network.  Any updates here including a sense for the level of adoption you're seeing from developers? Also, any synergies with the mobile app install product? And, finally, any comments on ad price comparisons to traditional newsfeed ads?
+

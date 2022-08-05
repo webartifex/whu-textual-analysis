@@ -1,0 +1,61 @@
+index;filename;ticker;company_name_transcript
+1;2013-Jan-29-AMZN.OQ-139057386295-Transcript.txt;AMZN;Amazon.com Inc
+2;2013-Apr-25-AMZN.OQ-139339186971-Transcript.txt;AMZN;Amazon.com Inc
+3;2013-Jul-25-AMZN.OQ-137712068210-Transcript.txt;AMZN;Amazon.com Inc
+4;2013-Oct-24-AMZN.OQ-139066299673-Transcript.txt;AMZN;Amazon.com Inc
+5;2014-Jan-30-AMZN.OQ-141027717464-Transcript.txt;AMZN;Amazon.com Inc
+6;2014-Apr-24-AMZN.OQ-140443160996-Transcript.txt;AMZN;Amazon.com Inc
+7;2014-Jul-24-AMZN.OQ-138703384359-Transcript.txt;AMZN;Amazon.com Inc
+8;2014-Oct-23-AMZN.OQ-140669099674-Transcript.txt;AMZN;Amazon.com Inc
+9;2015-Jan-29-AMZN.OQ-136951423128-Transcript.txt;AMZN;Amazon.com Inc
+10;2015-Apr-23-AMZN.OQ-139804865882-Transcript.txt;AMZN;Amazon.com Inc
+11;2015-Jul-23-AMZN.OQ-140462931809-Transcript.txt;AMZN;Amazon.com Inc
+12;2015-Oct-22-AMZN.OQ-137384537916-Transcript.txt;AMZN;Amazon.com Inc
+13;2016-Jan-28-AMZN.OQ-139696494446-Transcript.txt;AMZN;Amazon.com Inc
+14;2016-Apr-28-AMZN.OQ-137577237096-Transcript.txt;AMZN;Amazon.com Inc
+15;2016-Jul-28-AMZN.OQ-138879486315-Transcript.txt;AMZN;Amazon.com Inc
+16;2016-Oct-27-AMZN.OQ-139909051245-Transcript.txt;AMZN;Amazon.com Inc
+17;2017-Feb-02-AMZN.OQ-139452463844-Transcript.txt;AMZN;Amazon.com Inc
+18;2017-Apr-27-AMZN.OQ-139668306179-Transcript.txt;AMZN;Amazon.com Inc
+19;2017-Jul-27-AMZN.OQ-137040257613-Transcript.txt;AMZN;Amazon.com Inc
+20;2017-Oct-26-AMZN.OQ-140695336667-Transcript.txt;AMZN;Amazon.com Inc
+21;2013-Jan-17-BAC.N-137118030967-Transcript.txt;BAC;Bank of America Corporation
+22;2013-Apr-17-BAC.N-140727993387-Transcript.txt;BAC;Bank of America Corporation
+23;2013-Jul-17-BAC.N-138558829694-Transcript.txt;BAC;Bank of America Corporation
+24;2013-Oct-16-BAC.N-137085760338-Transcript.txt;BAC;Bank of America Corporation
+25;2014-Jan-15-BAC.N-138523498996-Transcript.txt;BAC;Bank of America Corporation
+26;2014-Apr-16-BAC.N-139135830280-Transcript.txt;BAC;Bank of America Corporation
+27;2014-Jul-16-BAC.N-137162730136-Transcript.txt;BAC;Bank of America Corp
+28;2014-Oct-15-BAC.N-137877397872-Transcript.txt;BAC;Bank of America Corp
+29;2015-Jan-15-BAC.N-138737516690-Transcript.txt;BAC;Bank of America Corp
+30;2015-Apr-15-BAC.N-138140128784-Transcript.txt;BAC;Bank of America Corp
+31;2015-Jul-15-BAC.N-137368163905-Transcript.txt;BAC;Bank of America Corp
+32;2015-Oct-14-BAC.N-139658820022-Transcript.txt;BAC;Bank of America Corp
+33;2016-Jan-19-BAC.N-137516735613-Transcript.txt;BAC;Bank of America Corp
+34;2016-Apr-14-BAC.N-138757977086-Transcript.txt;BAC;Bank of America Corp
+35;2016-Jul-18-BAC.N-138282004512-Transcript.txt;BAC;Bank of America Corp
+36;2016-Oct-17-BAC.N-139667176127-Transcript.txt;BAC;Bank of America Corp
+37;2017-Jan-13-BAC.N-137706007374-Transcript.txt;BAC;Bank of America Corp
+38;2017-Apr-18-BAC.N-141158160180-Transcript.txt;BAC;Bank of America Corp
+39;2017-Jul-18-BAC.N-138882471971-Transcript.txt;BAC;Bank of America Corp
+40;2017-Oct-13-BAC.N-136999269367-Transcript.txt;BAC;Bank of America Corp
+41;2013-Jan-30-FB.OQ-140751793850-Transcript.txt;FB;Facebook
+42;2013-May-01-FB.OQ-140634585149-Transcript.txt;FB;Facebook
+43;2013-Jul-24-FB.OQ-140049061003-Transcript.txt;FB;Facebook
+44;2013-Oct-30-FB.OQ-138249704477-Transcript.txt;FB;Facebook
+45;2014-Jan-29-FB.OQ-139655634314-Transcript.txt;FB;Facebook
+46;2014-Apr-23-FB.OQ-137448671471-Transcript.txt;FB;Facebook
+47;2014-Jul-23-FB.OQ-137343825744-Transcript.txt;FB;Facebook Inc
+48;2014-Oct-28-FB.OQ-140415619254-Transcript.txt;FB;Facebook Inc
+49;2015-Jan-28-FB.OQ-139431073452-Transcript.txt;FB;Facebook Inc
+50;2015-Apr-22-FB.OQ-141043150939-Transcript.txt;FB;Facebook Inc
+51;2015-Jul-29-FB.OQ-141107486910-Transcript.txt;FB;Facebook Inc
+52;2015-Nov-04-FB.OQ-139744337761-Transcript.txt;FB;Facebook Inc
+53;2016-Jan-27-FB.OQ-137249190020-Transcript.txt;FB;Facebook Inc
+54;2016-Apr-27-FB.OQ-137612530009-Transcript.txt;FB;Facebook Inc
+55;2016-Jul-27-FB.OQ-139115186913-Transcript.txt;FB;Facebook Inc
+56;2016-Nov-02-FB.OQ-137048274923-Transcript.txt;FB;Facebook Inc
+57;2017-Feb-01-FB.OQ-140831484304-Transcript.txt;FB;Facebook Inc
+58;2017-May-03-FB.OQ-137850824087-Transcript.txt;FB;Facebook Inc
+59;2017-Jul-26-FB.OQ-136950829491-Transcript.txt;FB;Facebook Inc
+60;2017-Nov-01-FB.OQ-137641444844-Transcript.txt;FB;Facebook Inc

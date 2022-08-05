@@ -1,0 +1,129 @@
+Answer_1:
+
+    Yes, Mark. Thanks for your question.
+So we will not be providing the granular customer detail, unfortunately, but I will say the growth of 81% was up from 49% in Q1. You'll remember that we're lapping a number of large price decreases in Q2 of last year, so it was somewhat expected, but a very strong quarter in AWS. We did open a region in India
+
+Answer_2:
+
+    We've announced a region in India.
+The other thing to mention is just we continue to see really strong usage growth. It's outpacing the revenue growth of 81%, obviously. And so we're really excited about it.
+From a distribution of customers, it is a global business. We have regions spread throughout the world. We've got 11 regions at this point and have announced plans to launch a region in India in the future.
+
+Answer_3:
+
+    Certainly, Eric. What I could say about India is that when we say a positive surprise, we double down on it. That's kind of our policy. India is that kind of surprise.
+We're very happy, very encouraged early on with what we've seen, the ramping of the business, the level of invention going on for both customers and sellers. We're over 25 million ASINs, which is the largest online store in India, and continue to improve pricing and fast delivery.
+So we're super excited about India. I will not get into specific investment levels right now, but we continue to ramp up our investment there.
+
+Answer_4:
+
+    Sure. Let me start with that second question. So as Phil mentioned, we're seeing continued increases in usage, both sequentially and year-over-year. We're also seeing great efficiency in the business on a cost basis. Innovation is accelerating, not decelerating. We had over 350 significant new features and services and we believe that's what's resonates with customers.
+Pricing is certainly a factor. We don't believe it's always the primary factor. In fact, what we hear from our customers is that the ability to move faster and more agilely is what they value.
+I'm sorry, the first part of your question was?
+
+Answer_5:
+
+    Sure. Well, here's how I think about it. We have two things, at least two things going on. We're continuing to drive operational improvement in every business that we're in. But we're also investing in large opportunities that are in front of us, particularly in Marketplace, Prime and AWS.
+If you saw our shareholder letter this year, I think Jeff Bezos put it really well. He said we're going to look for things that are important to customers, customers love them, businesses that can grow to be a large size, that can generate a high return on invested capital and are durable and can last for decades. We will continue to invest in the businesses that we think fit that profile, and we're always looking for a fourth or fifth business that fits that profile.
+As far as lumpiness, admittedly it is lumpy and we will continue to work on both those tracks going forward.
+
+Answer_6:
+
+    Certainly. We saw good acceleration in both North America and international this quarter. North America was up 200 basis points sequentially and international was up 800 basis points. And half of that you'll remember we've spoken about the impact of the Japanese consumption tax that was instituted last April 1 of 2014.
+It had a measurable impact on our run rate, our growth rate, last year, particularly in Q2. And so we're lapping that, which sequentially makes up half of the 800 basis point sequential gain. But independent of that, yes, you're right, Prime membership continues to grow.
+Faster outside -- data we gave you at the end of the year, it's growing faster outside the US than it is in the US. We're happy with both growth rates, quite frankly. I would say the Prime membership to Prime Flywheel, the additional benefits we're adding to Prime, not only in North America but also internationally, and additional selection, both retail and FBA which feeds the Prime Flywheel.
+
+Answer_7:
+
+    Sure. So let me start with North America. 5.1% operating margin was up from 3.9% in Q1 and 3% last Q2. You hit a nail on the head. A lot of it is the top line growth, but it's also a lot of the efficiency we're seeing, particularly on the fulfillment and marketing lines, which for the whole Company were flat year-over-year on a percent of revenue basis.
+So we are getting very good top line growth, a lot of that is fueled by Prime, Prime adoption, and we are dropping a lot of it to the bottom line with many of the efficiency projects. In international we had not split countries out. What I can say is that if you adjust for foreign exchange, the operating margin is up slightly both sequentially and year-over-year. What you're seeing there is obviously colored by our investment, our increased investment in India based on the momentum and success we've been seeing there so far.
+
+Answer_8:
+
+    Let me start with that second question first. Yes, headcount was up 38% year-over-year. The vast majority of that is in operations where we're adding people for our new FCs and call centers. We continue to look for smart, innovative people who want to build on behalf of customers and so we are -- but this particular quarter is colored a bit by the operations growth.
+If you look at Prime Day, we're thrilled with the results of Prime Day. Surpassed all of our expectations. Any metric we look at, we think it was a huge success. Customers saved millions. New Prime members signed up at higher rates than we've ever seen. People bought more devices than on any other day. So it's a great success.
+My hat's off to the operations team and all the people who worked on that because it was a Christmas in July, quite frankly. Bigger day than Black Friday as we've said and orders increased 266% year-over-year. I'll also point out that worldwide FBA unit order growth approached 300%. Not only was it a great day for Amazon, it was also a great day for our sellers, which was great. So while not breaking out the impact of Prime Day specifically, it's incorporated into our guidance.
+
+Answer_9:
+
+    Let me start with that second one. Prime Now you said and Amazon Fresh. We are moving very quickly on Prime Now. We've now expanded to nine cities, three more in the quarter, including our first international city in London. So we're moving quick. But we would always like to move quicker, obviously.
+On AWS, I think your question's more around the ability to fund AWS. No comments specifically on that. We do realize it's a capital intensive business and we have modeling that shows that it's going to be a very -- it is a very good business for us and that's what we aim for is long-term return on invested capital and free cash flow.
+So we're certainly cognizant of the capital part of that calculation. So not much more I can add on that, Carlos.
+
+Answer_10:
+
+    Sure. Thanks for your question, Heath. Yes, I'll point out that we have continued to lower prices. We've had multiple price cuts this year. We're now up to 49 since launch in 2006. So it is a fundamental part of our business model. So is innovation. And as I said, we have over 350 new features and services that have also significant features and services that have launched this year.
+As we were just talking with Carlos, the capital investment is very large as well. So we continue to fund it and we're super excited with customer reception that we're getting and the feedback we get from large customers and so we're thrilled with the business and price reductions are part of that model. And again, as I said earlier, we're in the long haul, in this for the long haul. We are looking for return on invested capital, free cash flow and happy customers in this space.
+
+Answer_11:
+
+    Yes, what I can tell you is we have seen great efficiency on the cost side. The cost to generate the capacity for AWS. I'll also say that Amazon is one of the primary large customers of AWS, so we see it on the consumer side of the business as well, although that's not included in AWS revenue. It's in intercompany relationship. So we get a double whammy there. We're getting great efficiency from our external AWS business, but also from our own use of AWS services.
+
+Answer_12:
+
+    I'll comment on the units first. We're really following the model of giving our customers as many choices as possible and letting them choose whether they want to buy first party or third party. I think we're working really hard to make sellers succeed on the platform. Brian touched on the success that our FBA sellers had with Prime Day. We see FBA as a tailwind for the third party business in general.
+When we surveyed those sellers in the past, in 2014 about 71% of sellers saw a 20% or greater increase in sales when they entered the FBA program. So we're really happy with what that's doing for third party business. We're working really hard to give customers as many option as possible and allowing them to choose. We don't really have a specific target there. It all comes down to customer choice.
+On the price reduction question, we've got a long track record of driving cost out of the business. And you can certainly see where we've even done that over the last several quarters if you look at the margins in AWS. We've also lowered prices for customers 49 times since launch and so it can be lumpy but over the long haul that's the model we followed.
+
+Answer_13:
+
+    Sure. On the engagement of Prime customers, excuse me, PIV customers, we've seen buying habits that look like normal Prime customers or other Prime customers from the group that comes in through the digital pipelines. We also see a higher pick-up in retention rates and free trial conversions. So we're very happy with the linkage between our digital offerings and the Prime customer base.
+On the content side, I will say that one of the factors in the sequential guidance, Q2 to Q3 being lower is two things. What we're talking about is the fulfillment center, additional fulfillment center cost we see this time every year as we get ready for Q4, but also additional step-up in content spend where we spend a lot of our content in Q3. You'll see extensions of a lot of the successful shows that we've had so far this year, a new pilot season including Man in the High Castle and Hand of God, so stay tuned for that.
+
+Answer_14:
+
+    Or seasons of Man in the High Castle and Hand of God.
+
+Answer_15:
+
+    Sure. Thanks for your questions, Gene. On robotics first, we don't have any new numbers to share with you, but we're super excited with the progress of that business. We had very high expectations for Amazon robotics and its impact on our warehouse cost structure and we've been very pleasantly surprised by the job being done by that team. That's looking great.
+Efficiency, yes, as we talked about in the last few calls we have more emphasis on variable and fixed productivity. I think that's evident in the Q2 results that you've just seen. To give you a little more color on that, I would say what does that look like. Defect reduction and process improvements are probably something we've always done and worked on, both to lower our cost but also improve the customer experience and also the seller and vendor experience.
+We're using software and algorithms to make decisions rather than people which we think is more efficient and scales better and will be more accurate, especially as we insert machine learning into those decisions. As I said earlier, we benefit from the efficiency gains of the AWS business as on the Amazon side as well. We look to increase the leverage of our fixed assets, particularly our fulfillment centers and throughput of the fulfillment centers and just generally getting inventory closer to customers as we add and expand warehouses and the sort centers that we added primarily last year. All have helped our cost structure.
+So just a little more color on maybe some specifics on the efficiency area.
+
+Answer_16:
+
+    Sure. So we ended the year last year with 109 fulfillment centers around the world and 19 US sort centers. Typically, we're looking at what the demand would be for peak as we figure out what we need. Still a little early in the year to comment on that.
+In the past we've given an update sometime around Q3 on that. Continuing to build as we have demand and like, Brian said, we like to be close to customers and benefit from having inventory close to customers as well. So like I said, a little early for the update at this point, but something that we're looking at and something the team's working really hard on.
+
+Answer_17:
+
+    So I'll start with the Fire phone question. We have a policy of not commenting on our roadmap, so can't give you anything there. We obviously do learn from everything we do and value the feedback we get from customers. But nothing to share at this point.
+In terms of growth, we continue to see selection as a strong driver of growth. Prime is obviously very important as well. We really haven't teased those apart. FBA becomes very important as well. We've talked about some of the tailwinds we see there and sort of the linkage between Marketplace and Prime that FBA provides.
+All those things are going on. As you see in EGM, strength across a lot of the categories there. There was no single category we're really calling out, but continue to see good selection growth and good Prime growth as well.
+
+Answer_18:
+
+    Thanks for your question. I can't forecast into the future on that, but I will reiterate the investments we have going on right now, which, again, we're looking to invest to strengthen the Prime platform. That includes video content, including Amazon Originals, Prime Music, Prime Now, we have a robust device business, including a launch of a new Paperwhite Fire TV Echo with general availability and numerous other products that we're very excited about. That roadmap, we know those devices drive customer engagement and sales. We build fulfillment centers so we can add selection and we can add FBA partners and then we add things like same day delivery which we talked about.
+On the AWS side, we continue to invest in that infrastructure. We talked about opening -- announcing the region in India, so there's expansion there's as well. Feature expansion, services expansion, internationally, very similar to the US on a number of the Prime fronts, but also the investment in India.
+And then a few other things you may have seen in our press release today. The launch of Mexico, which we're very excited about, and Amazon Business, so lots of -- as I said, lots of investment in front of us but we operate in two paths. We're definitely working for operational efficiencies in the business that we're in. We're investing wisely in things that we think are big and important. And it's not a static activity.
+We continue to evaluate those investments, take into account what customer response is and make changes. So I think you can look forward to continuation of that into the future.
+
+Answer_19:
+
+    Sure. So I'll start with the first part of that question. We definitely are delivering a lot of packages with the post office. I think most notably they did a lot of the Sunday delivery that you saw when we started launching Sunday delivery.
+We try lots of things for fulfillment. We're constantly working to provide the best experience to customers and be as efficient as possible. And so we're happy with all the partners we have and continue to work with them to provide the best experience possible.
+For advertising, I would remind you that certain parts of the advertising roll up into other. Some actually roll up to EGM and media as well. So it's a business we're really excited about. We're taking a customer-centric approach as we build that to make sure we're providing engaging business, engaging ads to customers and making sure we keep the customer front of mind.
+It's a business that the team is excited about and working hard on.
+
+Answer_20:
+
+    Your first question was about the infrastructure and how we're managing the customer experience in India. So FBA, Easy Ship and some of those programs are important to us. They're very valuable for sellers to make it easy for the seller to get their goods to the customer. They're great from a customer experience standpoint because we can do what we do best with the logistics. And so there is a lot of investment, a lot of efforts going on in that front.
+I would say that India and China are totally different and I think, as Brian mentioned, India is a country that we're doubling down on based on the success we've seen there so far. And so very happy with the trajectory we're on there and excited to be investing and have the opportunities we do at that point.
+
+Answer_21:
+
+    Yes, thanks for your question. We have not broken out specifically apparel, but we're super excited about that business. It's growing very well. We like our position in it. We think our website is very, very atune to selling online. So we're very happy with that.
+It is a big business for us, not only in North America but also Internationally. So you mentioned a couple other consumables categories. I will say we are very happy in our consumables and hard line categories as well. We drive a lot of repeat business with things like Prime Pantry and subscribe and Save and others. So very happy with the EGM business as a whole.
+
+Answer_22:
+
+    Sure. Let me start with the first question on international media and EGM. I think we're seeing similar trends in both geographies, both segments that EGM growth is much -- is very strong. Media growth has been consistent for the last four quarters. We do like the work being done by the media teams.
+There's a lot of pipeline of invention, things like Prime Instant Video, Prime Music, all feed the Prime pipeline and Prime ecosystem, if you will. They work great with our devices, by the way. And they drive other non-media sales. So they're very tied together, although certainly the EGM is outpacing the media segment or excuse me, media businesses right now.
+On transportation costs, not a lot to add there. Again, we are -- we have a combination of doing our own shipping and using third party carriers. So the rate increases are staged and we see those quite frequently, nothing to add there.
+On the FCs and whether we would expand or build new, I think we're looking to always to get the most out of the fulfillment centers that we have. And as we need new facilities, we place them closer and closer to customers. So that can have its benefits as well. Not much more to add on that one.
+
+Answer_23:
+
+    Thank you for joining us on the call today and for your questions. A replay will be available on our Investor Relations website at least through the end of the quarter. We appreciate your interest in Amazon.com and look forward to talking with you again next quarter.
+

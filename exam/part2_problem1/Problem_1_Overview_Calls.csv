@@ -1,0 +1,61 @@
+ID;Filename;Fiscal_Quarter;Fiscal_Year;Date;Time;Analysts;Name_1;Position_1;Name_2;Position_2;Name_3;Position_3;Name_4;Position_4
+1;2013-Jan-29-AMZN.OQ-139057386295-Transcript.txt;4;2012;20132901;05:00 PM;15;Sean Boyle;VP of IR;Tom Szkutak;CFO
+2;2013-Apr-25-AMZN.OQ-139339186971-Transcript.txt;1;2013;20132504;02:00 PM;16;Tom Szkutak;SVP & CFO;Sean Boyle;VP of IR
+3;2013-Jul-25-AMZN.OQ-137712068210-Transcript.txt;2;2013;20132507;02:00 PM;18;Tom Szkutak;SVP and CFO;Sean Boyle;VP IR
+4;2013-Oct-24-AMZN.OQ-139066299673-Transcript.txt;3;2013;20132410;02:00 PM;17;Tom Szkutak;CFO;Sean Boyle;VP of IR
+5;2014-Jan-30-AMZN.OQ-141027717464-Transcript.txt;4;2013;20143001;02:00 PM;18;Tom Szkutak;CFO;Dave Fildes;Senior Manager, IR
+6;2014-Apr-24-AMZN.OQ-140443160996-Transcript.txt;1;2014;20142404;05:00 PM;19;Tom Szkutak;CFO;Dave Fildes;Senior Manager of IR
+7;2014-Jul-24-AMZN.OQ-138703384359-Transcript.txt;2;2014;20142407;05:00 PM;16;Tom Szkutak;CFO;Phil Hardin;Director of IR
+8;2014-Oct-23-AMZN.OQ-140669099674-Transcript.txt;3;2014;20142310;05:00 PM;16;Tom Szkutak;SVP and CFO;Phil Hardin;Director of IR
+9;2015-Jan-29-AMZN.OQ-136951423128-Transcript.txt;4;2014;20152901;02:00 PM;17;Brian Olsavsky;VP of Finance, Global Consumer Business;Tom Szkutak;SVP and CFO;Phil Hardin;Director of IR
+10;2015-Apr-23-AMZN.OQ-139804865882-Transcript.txt;1;2015;20152304;02:30 PM;15;Brian Olsavsky;Vice President & CFO, Global Consumer Business.;Tom Szkutak;SVP & CFO;Phil Hardin;Director of Investor Relations
+11;2015-Jul-23-AMZN.OQ-140462931809-Transcript.txt;2;2015;20152307;05:00 PM;19;Brian Olsavsky;CFO;Phil Hardin;Director of IR
+12;2015-Oct-22-AMZN.OQ-137384537916-Transcript.txt;3;2015;20152210;05:00 PM;18;Brian Olsavsky;CFO;Phil Hardin;Director of IR
+13;2016-Jan-28-AMZN.OQ-139696494446-Transcript.txt;4;2015;20162801;05:00 PM;19;Brian Olsavsky;CFO;Phil Hardin;Director of IR
+14;2016-Apr-28-AMZN.OQ-137577237096-Transcript.txt;1;2016;20162804;05:00 PM;16;Brian Olsavsky;CFO;Phil Hardin;Director of IR
+15;2016-Jul-28-AMZN.OQ-138879486315-Transcript.txt;2;2016;20162807;05:30 PM;15;Brian Olsavsky;CFO;Darin Manney;Director of IR
+16;2016-Oct-27-AMZN.OQ-139909051245-Transcript.txt;3;2016;20162710;05:30 PM;12;Brian Olsavsky;CFO;Darin Manney;Director of IR
+17;2017-Feb-02-AMZN.OQ-139452463844-Transcript.txt;4;2016;20170202;05:30 PM;13;Brian Olsavsky;CFO;Darin Manney;Director of IR
+18;2017-Apr-27-AMZN.OQ-139668306179-Transcript.txt;1;2017;20172704;05:30 PM;14;Brian T. Olsavsky;CFO and SVP;Darin Manney;Head of IR
+19;2017-Jul-27-AMZN.OQ-137040257613-Transcript.txt;2;2017;20172707;05:30 PM;11;Brian T. Olsavsky;CFO and SVP;Darin Manney;Head of IR
+20;2017-Oct-26-AMZN.OQ-140695336667-Transcript.txt;3;2017;20172610;05:30 PM;11;Brian T. Olsavsky;Senior VP & CFO;Dave Fildes;Dave Fildes,  -
+21;2013-Jan-17-BAC.N-137118030967-Transcript.txt;4;2012;20131701;08:30 AM;10;Brian Moynihan;CEO;Bruce Thompson;CFO;Kevin Stitt;IR
+22;2013-Apr-17-BAC.N-140727993387-Transcript.txt;1;2013;20131704;08:30 AM;14;Brian Moynihan;CEO;Bruce Thompson;CFO;Kevin Stitt;IR
+23;2013-Jul-17-BAC.N-138558829694-Transcript.txt;2;2013;20131707;08:30 AM;10;Brian Moynihan;President & CEO;Bruce Thompson;CFO;Lee McEntire;IR
+24;2013-Oct-16-BAC.N-137085760338-Transcript.txt;3;2013;20131610;08:30 AM;10;Brian Moynihan;CEO;Bruce Thompson;CFO;Lee McEntire;SVP IR
+25;2014-Jan-15-BAC.N-138523498996-Transcript.txt;4;2013;20141501;08:30 AM;16;Brian Moynihan;CEO;Bruce Thompson;CFO;Lee McEntire;SVP, IR
+26;2014-Apr-16-BAC.N-139135830280-Transcript.txt;1;2014;20141604;08:30 AM;12;Brian Moynihan;CEO;Bruce Thompson;CFO;Lee McEntire;SVP, IR
+27;2014-Jul-16-BAC.N-137162730136-Transcript.txt;2;2014;20141607;08:30 AM;13;Brian Moynihan;CEO;Bruce Thompson;CFO;Lee McEntire;SVP IR
+28;2014-Oct-15-BAC.N-137877397872-Transcript.txt;3;2014;20141510;08:30 AM;13;Brian Moynihan;Chairman & CEO;Bruce Thompson;CFO;Lee McEntire;IR
+29;2015-Jan-15-BAC.N-138737516690-Transcript.txt;4;2014;20151501;08:30 AM;13;Brian Moynihan;Chairman, President, CEO;Bruce Thompson;CFO;Lee McEntire;SVP IR
+30;2015-Apr-15-BAC.N-138140128784-Transcript.txt;1;2015;20151504;08:30 AM;13;Brian Moynihan;Chairman, President and CEO;Bruce Thompson;CFO;Lee McEntire;SVP, IR
+31;2015-Jul-15-BAC.N-137368163905-Transcript.txt;2;2015;20151507;08:30 AM;13;Brian Moynihan;Chairman & CEO;Bruce Thompson;CFO;Lee McEntire;SVP, IR
+32;2015-Oct-14-BAC.N-139658820022-Transcript.txt;3;2015;20151410;08:30 AM;11;Brian Moynihan;Chairman of the Board and Chief Executive Officer;Lee McEntire;SVP of IR;Paul Donofrio;CFO
+33;2016-Jan-19-BAC.N-137516735613-Transcript.txt;4;2015;20161901;08:30 AM;11;Brian Moynihan;Chairman & CEO;Lee McEntire;SVP, IR;Paul Donofrio;CFO
+34;2016-Apr-14-BAC.N-138757977086-Transcript.txt;1;2016;20161404;08:30 AM;12;Brian Moynihan;Chairman, President & CEO;Lee McEntire;SVP of IR;Paul Donofrio;CFO
+35;2016-Jul-18-BAC.N-138282004512-Transcript.txt;2;2016;20161807;08:30 AM;12;Brian Moynihan;Chairman & CEO;Lee McEntire;SVP of IR;Paul Donofrio;CFO
+36;2016-Oct-17-BAC.N-139667176127-Transcript.txt;3;2016;20161710;08:30 AM;18;Brian Moynihan;Chairman & CEO;Lee McEntire;SVP, IR;Paul Donofrio;CFO
+37;2017-Jan-13-BAC.N-137706007374-Transcript.txt;4;2016;20171301;08:30 AM;13;Brian Moynihan;Chairman, President and CEO;Lee McEntire;SVP, IR;Paul Donofrio;CFO
+38;2017-Apr-18-BAC.N-141158160180-Transcript.txt;1;2017;20171804;08:30 AM;11;Brian T. Moynihan;Chairman, CEO and President;Paul M. Donofrio;CFO;Lee McEntire;SVP of IR
+39;2017-Jul-18-BAC.N-138882471971-Transcript.txt;2;2017;20171807;08:30 AM;11;Brian Moynihan;Chairman, President & CEO;Lee McEntire;SVP of IR;Paul Donofrio;CFO
+40;2017-Oct-13-BAC.N-136999269367-Transcript.txt;3;2017;20171310;08:30 AM;12;Brian T. Moynihan;Chairman, CEO & President;Paul M. Donofrio;CFO;Lee McEntire;SVP of IR
+41;2013-Jan-30-FB.OQ-140751793850-Transcript.txt;4;2012;20133001;02:00 PM;14;David Ebersman;CFO;Deborah Crawford;Director of IR;Mark Zuckerberg;CEO;Sheryl Sandberg;COO
+42;2013-May-01-FB.OQ-140634585149-Transcript.txt;1;2013;20130105;05:00 PM;15;Deborah Crawford;Director of IR;Sheryl Sandberg;COO;David Ebersman;CFO;Mark Zuckerberg;CEO
+43;2013-Jul-24-FB.OQ-140049061003-Transcript.txt;2;2013;20132407;05:00 PM;16;David Ebersman;CFO;Deborah Crawford;Director of IR;Mark Zuckerberg;CEO;Sheryl Sandberg;COO
+44;2013-Oct-30-FB.OQ-138249704477-Transcript.txt;3;2013;20133010;05:00 PM;14;David Ebersman;CFO;Deborah Crawford;Director IR;Mark Zuckerberg;CEO;Sheryl Sandberg;COO
+45;2014-Jan-29-FB.OQ-139655634314-Transcript.txt;4;2013;20142901;02:00 PM;14;David Ebersman;CFO;Deborah Crawford;Director, IR;Mark Zuckerberg;CEO;Sheryl Sandberg;COO
+46;2014-Apr-23-FB.OQ-137448671471-Transcript.txt;1;2014;20142304;05:00 PM;15;David Ebersman;CFO;Deborah Crawford;Director IR;Mark Zuckerberg;CEO;Sheryl Sandberg;COO
+47;2014-Jul-23-FB.OQ-137343825744-Transcript.txt;2;2014;20142307;05:00 PM;13;Dave Wehner;CFO;Deborah Crawford;Director of IR;Sheryl Sandberg;COO;Mark Zuckerberg;Chairman & CEO
+48;2014-Oct-28-FB.OQ-140415619254-Transcript.txt;3;2014;20142810;05:00 PM;14;Deborah Crawford;VP of IR;Dave Wehner;CFO;Mark Zuckerberg;CEO;Sheryl Sandberg;COO
+49;2015-Jan-28-FB.OQ-139431073452-Transcript.txt;4;2014;20152801;05:00 PM;15;Deborah Crawford;VP of IR;Dave Wehner;CFO;Mark Zuckerberg;CEO;Sheryl Sandberg;COO
+50;2015-Apr-22-FB.OQ-141043150939-Transcript.txt;1;2015;20152204;05:00 PM;14;Deborah Crawford;VP of IR;Dave Wehner;CFO;Mark Zuckerberg;Chairman & CEO;Sheryl Sandberg;COO
+51;2015-Jul-29-FB.OQ-141107486910-Transcript.txt;2;2015;20152907;05:00 PM;15;Deborah Crawford;VP of IR;Dave Wehner;CFO;Mark Zuckerberg;CEO;Sheryl Sandberg;COO
+52;2015-Nov-04-FB.OQ-139744337761-Transcript.txt;3;2015;20150411;05:00 PM;12;Deborah Crawford;VP of IR;Dave Wehner;CFO;Mark Zuckerberg;CEO;Sheryl Sandberg;COO
+53;2016-Jan-27-FB.OQ-137249190020-Transcript.txt;4;2015;20162701;05:00 PM;12;Deborah Crawford;Director IR;Dave Wehner;CFO;Mark Zuckerberg;CEO;Sheryl Sandberg;COO
+54;2016-Apr-27-FB.OQ-137612530009-Transcript.txt;1;2016;20162704;02:00 PM;11;Deborah Crawford;Director of IR;Dave Wehner;CFO;Sheryl Sandberg;COO;Mark Zuckerberg;Chairman & CEO
+55;2016-Jul-27-FB.OQ-139115186913-Transcript.txt;2;2016;20162707;05:00 PM;12;Deborah Crawford;VP of IR;Dave Wehner;CFO;Mark Zuckerberg;CEO;Sheryl Sandberg;COO
+56;2016-Nov-02-FB.OQ-137048274923-Transcript.txt;3;2016;20160211;05:00 PM;13;Deborah Crawford;VP of IR;Dave Wehner;CFO;Mark Zuckerberg;CEO;Sheryl Sandberg;COO
+57;2017-Feb-01-FB.OQ-140831484304-Transcript.txt;4;2016;20170102;05:00 PM;13;Deborah Crawford;VP of IR;Dave Wehner;CFO;Sheryl Sandberg;COO;Mark Zuckerberg;CEO
+58;2017-May-03-FB.OQ-137850824087-Transcript.txt;1;2017;20170305;05:00 PM;13;Deborah T. Crawford;VP of IR;Sheryl K. Sandberg;COO and Director;David M. Wehner;CFO;Mark Zuckerberg;Founder, Chairman of the Board and CEO
+59;2017-Jul-26-FB.OQ-136950829491-Transcript.txt;2;2017;20172607;05:00 PM;17;Deborah T. Crawford;VP of IR;Sheryl K. Sandberg;COO and Director;David M. Wehner;CFO;Mark Zuckerberg;Founder, Chairman of the Board and CEO
+60;2017-Nov-01-FB.OQ-137641444844-Transcript.txt;3;2017;20170111;05:00 PM;13;Deborah T. Crawford;VP of IR;Sheryl K. Sandberg;COO and Director;David M. Wehner;CFO;Mark Zuckerberg;Founder, Chairman of the Board and CEO
