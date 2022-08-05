@@ -1,0 +1,164 @@
+Question_1:
+
+          Good morning, Marianne. 
+
+Question_2:
+
+          So, curious about whether or not you all have seen the stress we've seen in some of the credit and equity markets, and some of the volatility impacting M&A velocity appetite, amongst Boards and C-suites, broadly, in your conversations and throughout the IB? 
+
+Question_3:
+
+          And just by different, is that a reference to size, or can you be a bit more specific on what you mean? 
+
+Question_4:
+
+          Okay. (multiple speakers) That's helpful. 
+
+Question_5:
+
+          Terrific. Helpful. And then, you referenced energy prices staying this low would lead to a significant reserve build, you expect, in your energy book. Can you maybe give a little bit more color around that? How would you define significant? And how long would oil need to stay down here, in order to see some of that reserve action? 
+
+Question_6:
+
+          Hi. I wanted to follow up on the Oil & Gas question. It just seems as though $124 million in additional provisions for Oil & Gas could be low, at least based on the one-year forward prices for oil, which are still in the $30s. And so, my question is for Jamie. As you look back, how does the Oil & Gas situation today compare to prior periods of stress? We have 2002; we had the TMT meltdown. 
+When you were at Bank One, you reduced the lines of credit. You got ahead of that early. In 2007, you weren't exactly at the start, but then you adjusted and you said -- hey, this is a big issue. 
+And now we have Oil & Gas, which could be another industry-specific stress, and you're only taking additional provisions of $124 million. Is that going to be enough? And one year from now, are you going to look back and say -- whoops, we didn't get ahead of this enough. 
+
+Question_7:
+
+          And how do you use CDS to help protect yourself on that portfolio? 
+
+Question_8:
+
+          Okay, you don't. And then, the last follow-up: Do you intend to keep lending to the Oil & Gas companies, as they run into problems? On the one hand, you have the risk of throwing good money after bad. On the other hand, if you stop lending as much, and you have the high-yield market retreating, and you have private equity firms retreating, maybe it becomes a liquidity crisis for some of the oil companies. 
+So, which is it? Do you lend more or less to the Oil & Gas sector? 
+
+Question_9:
+
+          Hi, good morning. Marianne, was wondering if you could remind us where you are on your expense reduction targets in the Consumer and the Investment Bank? And how does that translate to some thoughts about the expected trajectory of total Firm-wide expenses for this year? 
+
+Question_10:
+
+          And how does that all net in to an outlook for this year, if you're willing to give us some thoughts on that? 
+
+Question_11:
+
+          Thanks. Good morning. I was wondering if you could talk to us a little bit about the benefits from rates, as they come through? Obviously, your commentary that NII will be even flattish in the first quarter, adjusted for day count, and even with some securities gains in the numbers this quarter, presumes a nice helper from that first move. 
+And you guys were really conservative on your deposit beta thoughts, when you talked about them previously. I know, probably you haven't seen much change yet. But how are you expecting the deposit behavior to act? And has there been any change to your modeling expectations about what might come through, as we get through the first couple of hikes? 
+
+Question_12:
+
+          Okay. And my second question -- if I can ask an ex-energy credit question? A lot of concerns are that we're going to get into some type of broader deterioration, of which your numbers showed no signs of heading towards. What are you looking for? Are you seeing any signals of ex-energy changes in either delinquencies or watch trends? And are you still comfortable with that low [4%s] type of charge-off expectation that you guys had talked about previously? Thanks. 
+
+Question_13:
+
+          Hi, thank you. So, I think you talked about some of this, Marianne, in terms of the Method 2 G-SIB surcharge now estimated at 3.5%. I'm just curious -- I think, if the numbers are right, you took down notionals, and that there's booked $3.4 trillion, $21 billion in level 3 assets, $50 billion in non-op deposits. 
+You've said that you don't want to be an outlier, so you're whittling that down. I'm curious of the driving force behind it. What kind of revenue give-up there is, in such a move like this, because we like it. And thoughts on the go-forward? 
+
+Question_14:
+
+          Fair enough. I just have one quick follow-up, on Ken's last question: If two-thirds of the economy is consumer-led, you look at all your early-stage delinquencies, like Ken said. And, Jamie, to your comments, things look okay. I hate putting words in your mouth, but what do you think the disconnect, then, is, between what's going on in the markets versus what's going on in the trends in your Business, both in terms of growth and forward-looking credit looks? 
+
+Question_15:
+
+          Hi. The disclosure around the Oil & Gas is really helpful. And I was wondering if you could just walk through something similar on Metals & Mining? So, you gave us the -- I think you said $68 million of full-year reserve build, and you gave us the not-significant, if things stay where they are. Can you give us the balance? 
+And then, is there a comparable $500 million to $750 million stress test for Oil & Gas, or stress case? Is there a comparable -- what is the stress case, if broader Commodities, and Metals & Mining, comes in worse? 
+
+Question_16:
+
+          And then on -- I guess staying with credit -- on home equities and the whole issue of free cash from interest [home-made] amortizing, can you lay out how it's progressed, relative to your expectations so far? And also remind us how big the allocation of the reserve is against that? 
+And I guess, not to lead the witness, but is that an area where things are trending, early days, better than expected, and could provide some buffer against, maybe, anything else that happens on the C&I side? 
+
+Question_17:
+
+          Hi, good morning. 
+
+Question_18:
+
+          Marianne, I know that the Basel Committee put our their fundamental review of the trading book proposal this morning. So, clearly, no one's had time to really go through it in detail. However, I'm sure you have already gone through the prior proposals, and done the QIS for the last couple of years. The proposal is better than what had been -- the ruling is better than what the proposal -- the most recent one had been. 
+Just wanted to get a sense from you, as to how you can manage to this 2019 implementation time frame? Are there things set in motion already? Or is this something that you would start from here? And if you could just give us some broad strokes on how you think about overall impact, that would be helpful. 
+
+Question_19:
+
+          Right, I totally understand that. And I guess my basic question is: There's -- you can take action, as opposed to just deal with what the current decision would be for you. There are actions that you can take to reduce the impact? 
+
+Question_20:
+
+          Good morning. 
+
+Question_21:
+
+          I had a couple of questions on capital. The first relates to the RWA progress, which did surprise positively in the year, by about $50 billion ahead of expectations. And I was just hoping you can give a better sense, Marianne, just given some of your prepared remarks, as to how much of that incremental $50 billion reduction was a function of more proactive mitigation efforts? Maybe even tied to the G-SIB mitigation efforts that you guys had talked about, which should presumably remain in the run rate, versus balance sheet shrinkage that may be due to the risk loss environment that we're experiencing today? 
+
+Question_22:
+
+          Understood, Marianne. That's very helpful. 
+And then, maybe just switching gears to the G-SIB surcharge, clearly the progress surprised positively, getting down to that 3.5%. I was just wondering how you guys are thinking about establishing minimum capital targets? I recognize you'll likely lay that out at Investor Day. 
+Just want to get a better sense as to what methodology are you employing, in terms of thinking about a management buffer? And all the different binding constraints that you have to manage to day-to-day? And thinking about through-the-cycle target that you guys would like to manage to? 
+
+Question_23:
+
+          Thanks. Marianne, if I could just clarify your NII comment from the very beginning of the call, do I understand correctly that the $2 billion of incremental NII that you've cited is just a function of the repricing dynamics, as they move through your balance sheet, rather -- or is there also, I guess, a contribution from loan growth? 
+
+Question_24:
+
+          Great. Thank you. And so, I know we just touched on RWAs, but how do you suggest we think about GAAP assets for this year? 
+
+Question_25:
+
+          Good morning. I just wanted to -- I had a follow-up question on Fixed Income trading. I think Dan Pinto has talked about benefits from higher rates. And so, I guess number one, I wanted to see if you had any thoughts on that? Have you seen any initial benefits to spreads in the FICC trading market, with the first rate hike? 
+And in contrast, you've had a couple of competitors announce -- or at least it's reported -- that they're cutting headcount. That seems to be a little bit in contrast to the expectation that Fixed Income could pick up with higher rates. So, if you could talk through your thoughts on Fixed Income? 
+I do notice that you did mention 1Q is off to performing well, so maybe that's part of it, too. But if you could help on that, that would be great. 
+
+Question_26:
+
+          All right. So, you still feel pretty comfortable with your outlook that things could improve, and market share gain potential, as competitors pull back? 
+
+Question_27:
+
+          Hi, good morning. My questions have been asked and answered. 
+
+Question_28:
+
+          Hi. If we look at credit spreads in the bond market, even ex-energy, they've widened considerably. And I'm wondering if this has resulted in wholesale credit being repriced at all? I realize the bond market doesn't set bank loan pricing, but just wondering if you've been able to reprice some of the wholesale customers, or expect being able to do so? 
+
+Question_29:
+
+          I guess I wonder why. We saw pricing in the debt markets come in considerably over the last several years. C&I pricing came in. I realize it might take some time. But I would think there's the opportunity for at least some repricing around the edges; no? 
+
+Question_30:
+
+          Thank you. Good morning. Jamie, to follow up on your comments about maybe some better pricing in prime brokerage and repo because of the capital requirements, or requiring you guys to raise prices, can you expand upon that? Do you see it growing, where you could get even better pricing going forward, because of less competition? Can you give just more color there? 
+
+Question_31:
+
+          Great. And then the follow-up question is: Obviously, the FASB is coming out this quarter with the new loan loss reserve methodology -- the current expected credit loss versus what we're using today -- obviously, the incurred loss model. There's going to be a true-up for everybody. Have you guys given any thought that, when this goes into place, when you may take that true-up? Assuming they say you have to implement it by 2019, or something like that, would you do it much before that, or can you give us some thoughts on your thinking about what's going to happen? 
+
+Question_32:
+
+          Thank you very much. We know that you implemented a new disclosure form in the Mortgage Banking space tread. Did that have any -- you guys had very good Mortgage Banking results. Did that have any impact whatsoever on your operations in the Mortgage Bank? 
+
+Question_33:
+
+          And then a follow-up question on your portfolio: You look like you grew your residential loans by about $11 billion. Last quarter, you said it was a mix between agency and jumbo. If a big chunk of it's agency, can you give us your thoughts on portfolio of that agency product? 
+
+Question_34:
+
+          One quick follow-up, Marianne: You've had some pretty big tax gains the last couple quarters, running below 30% of your tax rate. At some point, do you pull forward future benefits, and run with a higher tax rate in the future? 
+
+Question_35:
+
+          So, what's your natural tax rate, if you don't have those? Is it around 30%? Or is it closer to --  
+
+Question_36:
+
+          I was wondering if I could just sneak in on credit cards. Do you think the competitive environment has hit a plateau? And on co-brands, are there any large upcoming repricing events? And is there any bigger than a bread box size you can give on [Marriott]? 
+
+Question_37:
+
+          Thank you. Hi, Marianne. If the regulators lift the dividend pay-out ratio in this year's CCAR to 40%, would you guys consider lifting your dividend pay-out ratio something closer to that? 
+
+Question_38:
+
+          Thank you. And then just one last follow-up: On the G-SIB buffer, obviously you guys have done an incredible job in bringing it down to where it is today. When do you expect the regulators to put you into that bucket, assuming you guys are obviously looking at the same types of numbers? 
+

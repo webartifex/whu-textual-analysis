@@ -1,0 +1,490 @@
+Answer_1:
+
+    Good morning, Guy.
+
+Answer_2:
+
+    Yes, so just a quick thing just to clarify. The 10 basis points is actually lower, not higher, so it's a deduct, not an add for the new Basel proposal relative to the US rules. So remember as we've previously been disclosing our ratios, we used the US proposed rules that referenced a prior Basel denominator, so it's a 10 basis point worsening.
+And you're right that we had two major things contributing to that. We had a positive associated with better assumptions on draws on unfunded commitments, slightly more than offset by a negative on the risk [credit] protection. So we're still working through the prior details but our best estimate is that it's in the mid 20s in basis points, 25 basis points plus or minus.
+
+Answer_3:
+
+    If you start with our gross growth CDS protection written, it's about $3.4 trillion, and by the time you net down from maturities it gets down to a couple hundred billion, but that is still impactful.
+
+
+    Another thing to think about, it will be manageable because really this is kind of a static analysis before we start running the business slightly differently due to it.
+
+
+    Right.
+
+
+    We saw the proposals as having been thoughtful and we don't necessarily have to agree with the finer points of all of them, but it doesn't materially change our position or our thoughts going forward. And as Jamie said, all of our businesses will now socialize and optimize against what we understand to be the final rules when the US regulators adopt them.
+
+Answer_4:
+
+    Yes, so, Guy, we're obviously going to do a bit more of a detailed deep dive on expenses over time on Investor Day. So for now what we have said is that you should expect our adjusted expenses for 2014 to remain at or below that level of $60 billion. We also said that in 2014, the continuation of our control agenda is adding an incremental $1 billion over 2013, so by remaining flat we're effectively self-funding that $1 billion. That's down.
+
+Answer_5:
+
+    We're not starving any expenses. We're just managing it in a disciplined way the way we've always done it and you look at the underlying numbers there's a lot of growth in the underlying numbers, but it's clearly true that some of the derisking and selling, spinoff OEP, and physical commodities will affect revenues a little bit, but obviously profits less.
+
+
+    And, Guy, we've always been investing in the businesses and been willing to invest where the business takes and the returns justify that, but we are also finding efficiencies in the combination of the businesses, both consumer and the wholesale businesses, efficiency in the same store, branches we talked about, CIB continues on its journey on the back office and front office integration, and obviously mortgage expenses will continue to trend down both in line with improved credit trends and also as we proactively manage the portfolio. So there's a lot of moving parts but it's not at the expense of our willingness to invest in the businesses for returns.
+
+Answer_6:
+
+    It's not just about expenses. You have to think about the whole equation. If you look at a mortgage market we'll see some improvement in the first quarter 2014, and we'll also continue to work on expense efficiency in the business. But if you look at a market which is currently being estimated about $1.3 trillion, down from $1.9 trillion, and honestly a couple weeks ago it was $1.1 trillion, so it's a very small market, one we haven't seen the likes of since year 2000, in a market like that it's very challenging to deliver through the cycle returns.
+So we went through over the last few years, years with very strong revenues and margins, and we are in a challenging environment as we look into 2014 but we're working on it.
+
+Answer_7:
+
+    Okay, so the way to think about it in the short-term relative to say the submission that we just did or in the near future is that obviously, a realized loss experience that is higher than we have previously seen informs your view and judgment as to what you could reasonably expect to happen in a future stress period. So it is fair to say that that would drive our expectations (inaudible) on operational losses to be slightly higher. Having said that, it's not as if our previous submissions didn't contemplate there to be significant stresses in operating losses, so I would characterize it as incremental and certainly not from a low base.
+
+
+    And also, Guy, sorry, just remember that every quarter we move forward we generate capital, improve our ratios, so there's lots of moving parts to the ultimate outcome.
+
+Answer_8:
+
+    Good morning, Betsy.
+
+Answer_9:
+
+    I think the way you should look at it is something like $40 billion gets reinvested in a year. The basic assumption you should make is it's an average duration of three or four years, so think of a five-year bonds or something like that, and just use the implied yield curve. Obviously (inaudible) munis or MBS or something like that, but I need to point out that it's completely dependent upon the decisions we make, so we can change that kind of at will if we want to extend or reduce the duration of equity of the Company.
+
+Answer_10:
+
+    It's both.
+
+
+    It's a little bit of both. It's mostly just the change in the yield curve.
+
+
+    We have slower mortgage fee payments, we're able to reinvest at higher yields, we're reinvesting in high quality assets, munis with high spreads, so it's both.
+
+Answer_11:
+
+    Well you have got to separate the loans. On the commercial side we'll obviously be competitive and we're not assuming anything heroic in terms of rate spreads getting worse or better but they're low. You could argue down the road they might actually go up a little bit as capital requirements and liquidity requirements go way up, so but we'll be competitive. We're assuming you have to be competitive in loan spreads.
+
+Answer_12:
+
+    Think of the card business, we try to run it fully match funded so the spreads are about the same, and somewhere like 65% is at an interest rate something like 40% is transactor almost locked in rates, so which we also match fund.
+
+Answer_13:
+
+    So we have replaced 2 million debit cards or will have I think by the end of this week.
+
+
+    Credit and debit.
+
+
+    Credit and debit. To protect our employees, to protect our customers, et cetera. So I think that look, unfortunately, this cyber security stuff we've now pointed out for a year is a big deal, it's not going to go away, and all of us have a common interest in being protected so this might be a chance for retailers and banks to for once work together as opposed to sue each other like we've been doing the last decade, and but it's in all of our interest to do it.
+And I think all people involved in this know that the third parties with its machines, regional machines, your mainframes, you really have to put an extreme effort into protect yourself so this story is not over, unfortunately.
+
+Answer_14:
+
+    Yes, honestly I think you'll see both. I think you'll see chip and pin in all cards and then a lot of online type of transactions in tokenization. They both have very, very good technologies to protect consumers and companies from fraud.
+
+Answer_15:
+
+    Yes, that's correct.
+
+Answer_16:
+
+    Correct.
+
+
+    There's an unrealized gain approximately of like $3 billion today. It's on our books of zero. This goes back to when Visa was spun off many, many years ago.
+
+
+    But that's right, Betsy, net of hedging.
+
+Answer_17:
+
+    Hi, Glenn.
+
+Answer_18:
+
+    I guess look, there are some structural headwinds and you've seen a lot of adjustment in the marketplace, people reduce the size of their inventory, and what you don't know going forward is what's going to happen to spreads. But I look at it a little bit like there's a secular and a cyclical. There will be headwinds from regulations et cetera. But over time, assets that people need to manage and buy and sell is going to go up over time, not go down. So what happens in 2014 is hard to say, our business is plenty diversified between rates, credit, emerging markets, FX, commodities, et cetera.
+
+
+    Certainly helping out stability.
+
+
+    Which is definitely helping out stability.
+
+Answer_19:
+
+    I would say Glenn it's ongoing and it will be beneficial. I think material might be a stretch at this point, but and it is a lot of work as you say, so there's a whole industry working on that and us too we expect to be beneficial but not a game changer.
+
+
+    So the SLR at 5% we do not think is going to be an issue for us. We barely begun to manage it, there are a lot of things you can do in how you change your business. The bank issue is a little bit different but think of that as more structural. What you did in the bank over the last 20 years and what we're not going to do in the bank going forward, that will take a little bit longer, but not because -- the reasons is it takes longer to change our business models to accommodate it.
+
+
+    I also think if you look at the other things I mentioned in terms of opportunity for putting NIM to one side, our estimate of the new Basel rules that we had we've given you a 10 basis point movement backwards has a conservative estimate of what we could ultimately achieve over time in terms of the ability to net cash collateral for derivatives just given certain of the conditions. But again over time that will also be manageable like compression trades and like many of those other things.
+So we haven't changed our view, we can manage against these targets by doing it thoughtfully and methodically and not having to race through it.
+
+Answer_20:
+
+    Well we've said already that we would be willing to run between 10% to 10.5% so we're on a journey here. We think we can get 10% plus or minus at the end of the year. It could be plus and it could be minus but we think at this point based on what we know that running at that level of buffer of margins should be enough. Obviously we'll be more informed as we go through CCAR processes, but that's our point of view at this point.
+
+Answer_21:
+
+    Yes, so we have been adding, I mean I talked about the second half of the year gross adding $66 billion. We've never talked about second quarter, we added quite a lot in the second quarter, and yes we have plans to continue to do that in 2014, and yes, we expect our NII dollars to be relatively stable, possibly slightly up over the course of the top of the year, but relatively stable.
+
+
+    But not in a lot of investments. Look at the balance sheet today. We have almost $350 billion at central banks, most of it's Fed. Another $350 billion of very high quality investment securities, and those two things combined equal our loans of $700 billion. So the Company's very, very liquid. We don't really need to invest more, but it depends on how much we grow deposits.
+
+Answer_22:
+
+    Well I already said what we're going to do is what you should assume now is implied yield curves and constant reinvestment, but if you had rates move up 100 basis points all at once, we would probably be much more aggressive doing something like that.
+
+Answer_23:
+
+    So obviously, you're going to understand that the necessary caveat that we can't predict for you, the patent and the amount of legal expenses in any one quarter over several quarters; however it would be fair to say that we would certainly hope that for the full year, the full-year cost isn't the first quarter annualized, but we can't be certain of that.
+And with respect to reasonably possible loss range, it did come down from $5.7 billion at the end of the third quarter to $5 billion at the end of the fourth quarter given the legal expense.
+
+Answer_24:
+
+    Yes, so I mean, if you think about -- and you can do -- we've done about as much as you can do based on analyst estimates, but if you think about we want to get to 10% plus or minus by the end of next year all else other things being equal, that is a priority, but it is not the only priority. And so as we think about our capital plan, we've consistently said obviously it's a Board decision ultimately and they'll contemplate them in the natural course. But we would like to have the flexibility to be able to potentially increase dividends and also have flexibility to get to do reasonable repurchases, it wouldn't be unreasonable for you to think about how we thought about this year as being relatively consistent with last.
+
+Answer_25:
+
+    So every year, we try to have a disciplined approach about what we stay in and what we don't, and I think we probably were more disciplined this year about the things we don't need, both from derisking, capital, management focus, controls, et cetera.
+If you look at the prepaid card business we are not dealing directly with customers, it's kind of secondary, it's a complex business and we were just better off letting someone else do it. It won't affect the four main franchises that Marianne spoke about that are doing so well. It's just kind of a product we used to do so we're not going to do it anymore. There's a lot of risk associated with it.
+
+Answer_26:
+
+    So we didn't use the word cautiously optimistic. We're using the word optimistic because we are actually optimistic, and if you have a US economy starting to grow you will see loan growth and volume growth and of course all these businesses, we are actually optimistic about the US economy in particular.
+We spend a lot of time analyzing what rising rates, growth, change of QE3 taper will do to deposits, so it might actually have a diminishing effect on the growth of deposits, but we're happy with it, we're still growing share. I'm not sure you're going to see deposits go negative before you seen loan growth. I think you're trying to fine tune it too closely there.
+
+Answer_27:
+
+    Yes, so remember that in our card business we have both dynamics of core growth as well as still some continued run-off. We did reach the inflection point during the second half of 2013 where that run-off was no longer exceeding growth, and so we're set to grow but very modestly in 2014.
+
+
+    But more importantly, 93% of the business awards, we've had 10% growth in spend, we've had was it 14% growth in merchant processing, so we are very happy with the card business. It performed exceptionally well, excellent credit trends so outstanding growth is less important but obviously we like to see some of that too.
+
+Answer_28:
+
+    No.
+
+Answer_29:
+
+    Just a little bit relating to Target but not in general.
+
+
+    A lot of the card growth is coming from T&E and travel and restaurants and things like that.
+
+Answer_30:
+
+    Yes, so just to remind you what we said back in February or last year, in the consumer businesses we talked about over the two years, so 2013 and 2014, mortgage seeing headcount reductions of 13,000 to 15,000, and the consumer business predominantly in the branches of 4,000. By the end of 2013, we had seen a 16,500 in total, so in the consumer bank we are actually not only accelerated but outperforming our expectations in terms of our ability to run those branches efficiently and still maintain very strong customer satisfaction and retention rates.
+And then in the mortgage base, we have seen total headcount down 11% year over year against that 13,000 to 15,000 two-year target. So obviously we continue to work on the strategy and the size and our approach to mortgage market, but they're obviously relative to those numbers, there's still a little way to go.
+
+
+    And remember sorry, remember that that was both production and servicing. What you saw given the rate environment in the middle of second half of 2013 is that some of the production-related headcount reductions were accelerated. We still have meaningful improvement expected in terms of delinquencies and foreclosures and modifications that will continue to drive cost and headcount down in 2014.
+
+Answer_31:
+
+    So I would think about -- talking about the number of branches I would think about the fact that it all goes to retail distribution, houses will continue to do consolidations and relocations as it makes sense for us to do that in our footprint, and we'll continue to respond to customer preferences, which will mean that over the course of the next decade we'll be looking at obviously the size and use of branches as branches come up for renovation and release and things like that. But we're not expecting a material change in the number as a macro matter, so 5,600 plus or minus, and it is going to be based on customer preferences.
+As it relates to headcount reductions, we're already aggressively looking at the efficiency in our same-store branches and have been very successful, so we are looking at starting models, physical capabilities, automation, we're on that journey and we continue to be on it, but I don't see that it's going to be a step change relative to our previous expectations. We've already exceeded them, might be some more, but it's not a step change.
+
+Answer_32:
+
+    So let's start with commercial and say that it's plus or minus zero at this point, so I think it's going to be strong for long, but that's not really going to be a reserve story for a little while. In the card business, we had been talking about having potentially reached bottom for a period of time.
+We haven't yet or it doesn't seem we have, so as you look into 2014, if things do continue to strengthen, it's possible there will be some more releases but not at the levels that you saw in 2013. So in the first couple of quarters, and usually the first quarters are instructive on that point, usually that's when you see a material improvement if there's going to be one in terms of flow rates.
+And then on the mortgage space, two things. We have $2.6 billion of NCI reserve left. We've talked before about the fact that we think our more steady run rate number will be between $1 billion and $1.5 billion, so there's another $1 billion to $1.5 billion to come in that space over the course of the next year or so potentially, obviously environment allowing.
+And then on an NCI --- I'm sorry --- on the purchased credit impaired portfolio, we have $4.2 billion left off the two releases we just took. But remember that it's a life-of-loan portfolio. So something would have to change now, and the environment improve, for us to expect to take more releases. It is possible, but nothing --- we don't expect to be taking releases up to that $4.2 billion.
+
+Answer_33:
+
+    Good morning.
+
+Answer_34:
+
+    Yes, we did have some tax benefits this quarter. We had about $300 million after-tax.
+
+
+    Related to a number of items but state and local tax, some reserve releases, not one particular thing.
+
+Answer_35:
+
+    It was just a little over 30%, low 30%s.
+
+Answer_36:
+
+    No change.
+
+Answer_37:
+
+    Yes.
+
+
+    Yes, so we said I think at Investor Day plus 100, plus or minus in a year, when Gordon spoke earlier in 2013, we've revisited based upon our assessment of cost and preferences and activity and think we've got the footprint where we are happy at 5,600 plus or minus. ---
+
+Answer_38:
+
+    So if you look at bab and then obviously also at Investor Day we'll go through it more.
+
+Answer_39:
+
+    So it's a bit of both. Just one thing on mortgage. Just a tiny clarification.
+We expect Mortgage deductions to be broadly the same as we've seen in the second half but we would expect to continue to see improvements in the expense base in the servicing business. But having said all of that it's a combination of relatively stable but potentially slightly higher NII.
+Yes, strength in fees on the basis of the strong driver growth that we talked about, and then our $60 billion or less of expenses. So we're working through all of the efficiency opportunities across the businesses, including in the retail space to be able to deliver positive operating leverage.
+
+
+    And Mike I think the way you get to it is each of our businesses is always trying to drive efficiency while investing. That doesn't change any particular year. It's kind of a non-stop kind of thing and you see those efficiencies because every business has pretty good margins after investing. And sometimes the revenue growth itself is either episodic or the timing isn't exactly the same how you invest, but if you see the drivers, which is deposits, investable assets, asset management, number of corporate clients, market shares, they are all pretty positive so we're not going to --
+
+Answer_40:
+
+    Well VaR itself is a calculation that's based upon a whole bunch of different things. We don't deliberately lower VaR.
+
+
+    With VaR, Mike it really is just a feature of two things. If you look at our look back at VaR, across asset classes we're at very low levels of volatility, just across all of the asset classes, and that's actually driving it. If volatility picks up, that could pick up, we're not driving that down, and it's also derisking an SEP, that is a little bit proactive but it's obviously mostly done now, so then on CIB --
+
+
+    Actually we did a number, if you would stay with the volatility that was 18 months ago, VaR itself would be like $60 million or $70 million just all on its own so without changing your position et cetera.
+So Mike, the hardest business to get a handle on is CIB, when you talk about the short run, but what we see is investors still have to buy social securities, corporations have ECM and DCM, and you could predict the rolloff et cetera. The backlogs are pretty good. You saw a tremendous amount of IPOs in 2013.
+You saw a lot of debt financings, you've already seen a bunch of M&A earlier this year, so we don't budget or plan that you're going to have an unbelievable year in CIB, but if you ask me, the long-term prospects are good. It's probably the business that has to go through the most adjustments in the new regulatory environment, but the long-term prospects are pretty good, so our margins are good, our returns are good.
+You see our comp levels of 30%, down from 38% a couple years ago, really reflecting higher capital et cetera. But at that comp level we can pay our people well, grow the franchise all around the world, serve our clients, and still get decent returns. So we feel very good about the business and one of these days it's going to boom, and it's not going to boom because we, you can get just like I can guess when that might happen but it will happen one day.
+
+Answer_41:
+
+    Volcker, all things equal we would say not much. I think when we referred to the $1 billion or $2 billion, we were talking about regulations in general, including derivatives, SAS, clearing houses, and Volcker, and that number we still kind of have in the back of our mind but it's hard to tell what the effect of all those things are. The $1 billion or $2 billion I would say was probably in the conservative category.
+
+Answer_42:
+
+    That's the one that's hard to tell. I would guess--
+
+
+    Yes, so it's very difficult to back test because these things are all interrelated so it's not entirely possible to disentangle everything, but obviously we've gone through the changes in 2013, some of that will be reflected, but this is a number that we would expect to be reflected to the degree that it is all over the course of the next two years.
+
+
+    Remember some of those things reduce capital requirements, some people are making dramatic changes in their business models which may free up market share for those of us that have additional market share, so it all remains to be seen. And that was also a static analysis. Some certain things we may reprice a little bit because of the capital liquidity requirements around them, so it all remains to be seen.
+
+
+    Thank you, Mike.
+
+Answer_43:
+
+    So I would just reiterate what we previously said, which is if you look at Servicing and in particular, the quarterly run rate, which call it $600 million in line with our expectation that's going to continue to trend down towards $500 million by the end of the year in 2014.
+And then on the production side while we obviously are going to see our expenses to a degree of variable with the size of the market, we're continuing to also work on opportunities to make the fixed cost base more efficient, so hopefully we'll deliver some of that in 2014 too. And we'll do a more precise job of putting a bow around that for you at Investor Day.
+
+Answer_44:
+
+    So that's an excellent question. I would say assuming we have no significant losses going forward then we feel like we should be close to our high point, albeit maybe a little bit more in the first half of 2014.
+The reality, just two comments on operational risk. The first is unlike market and credit risk, although all of the parameters and the confidence levels are effectively the same, it doesn't naturally recalibrate itself to changes in the business environment, or to your business mix or model, if you structurally reduce risk. It's very backward-looking, and in that sense it differs because it doesn't recalibrate. And so, as a result if you just let the models continue to predict based on historical losses going forward, you would need to be carrying that elevated level of operational risk capital forward for a reasonably long time.
+It's a 1 in a 1,000 year horizon, so think about it in terms of 5 or 10 years, not 1 or 2 years. And so for that reason, we are very interested and working very hard with the industry to try and figure out how to better model changes in the business environment, and to both model and defend structural and permanent risk changes in our businesses in order to be able to recoup some of that more quickly. But at this point I would characterize that as work that has not yet been done, that is in progress, and so for the foreseeable futurity will be elevated.
+
+Answer_45:
+
+    Good morning, Matt.
+
+Answer_46:
+
+    Okay. So to put Volcker aside for a second, with respect we didn't update obviously the list, we are going to do that at Investor Day. We talked about that for you. It's more important to think less about revenue, but more on the impact on the bottom line, given some of these businesses they now have been returning hurdle, may have been in the investment phase, and actually not been breaking even.
+So I think it's fair to say that if you consider the impact on the bottom line more so than revenues that it's going to be modest, and we will do work to update you on that. But remember, it also is going to do two things, release capital which will be a positive, and also improve the quality of the businesses and the control environment and the complexity which would all be positive too.
+
+Answer_47:
+
+    It is the ones that you all mentioned, and we put them in our 10-K.
+
+
+    Yes, it is the ones you mentioned, and as you look at our disclosures in the 10-Q. Every quarter, the items that we think raise themselves to the level of public disclosure are in that document. So look to last quarter and next quarter and you will see, but we shouldn't comment specifically.
+
+Answer_48:
+
+    I don't think so.
+
+
+    Not this point, but obviously the Ks are a few weeks away.
+
+
+    Yes.
+
+Answer_49:
+
+    So I mean, I think -- if you think about the sort of basis for capital and put aside whether you like the way it works in a modeled environment, your reserves, that is for expected losses and capital to your expected losses. So in theory you shouldn't get explicit credit for them. I think the bigger point for us is, if you look at the sorts of things driving our capital levels to be as elevated as they are, they are things for example, like the PLMBS issues, and also certain of the very large mortgage DOJ and national mortgage settlement and ISR compensation issues.
+It's our belief that this Firm is not exposed today or will not be exposed going forward to those levels of risk, at anywhere near that scale going forward. But as I have said, we have no ability at this point to scale those back, and that's what we are very focused on. So it's less really about whether we are getting credit for our reserves, and a little bit more about how we try in the industry to evolve the framework in partnership with the regulators, and defend over time that there are structural risk reductions that mean those risks are no longer present in that scale.
+
+Answer_50:
+
+    Yes.
+
+Answer_51:
+
+    Not specifically. We did fairly well in cash, but our cash platform is not as mature as some others. So I think we would characterize the performance as good, but coming off of as I said a very strong quarter for equity derivatives in the third quarter.
+
+Answer_52:
+
+    So just I'll comment. On Page 15 last quarter, we showed you a bunch of things we're working on. We didn't replace the page, because it has not meaningfully changed. That is not to say that at the margins we don't continue to look at our businesses in terms of sophistication and derisking. So I would say that while there may be things that the margin that we will explore over time, then there is nothing structurally big that you should be aware of.
+
+
+    And again, we will do some more of that for you at Investor Day.
+
+Answer_53:
+
+    That's a hard question but -- so Middle Market if you go back -- so I am going to do just Middle Market because that's the one that's kind of at a 30% too. Years ago, you used to average more like 45%.
+It looks like to us, that what you have -- is they have a lot more deposits and a lot less utilization. And so obviously, they are going to use some of their own money before they borrow against a revolver or something like that, and one day, you would expect it to go up. We aren't guessing what's going to happen in 2014, but I would say, we will be sitting here one day when you have had a very strong economy it will be 10 points higher.
+
+Answer_54:
+
+    Well multi-families a big portion of that and you see that in a lot of -- I would say obviously the major cities is pretty much where you would say -- it's hard to answer specifically. I think both multi-family and other real estate loans, it's really the big cities.
+
+Answer_55:
+
+    Sure. Change either that, or how you reimburse clients for deposits, and obviously it will go into how you price them on your business. We are not expecting that to happen, but obviously we would do that, and you have other alternatives, so you might invest some of that money elsewhere.
+
+
+    Yes, and it's also important to point out there is a large portion of that $350 billion are deposits or cash that we would consider to be client non-operational deposit. And as a result, we don't give ourselves any liquidity value for those, so that is why we are putting them overnight in the Fed.
+
+Answer_56:
+
+    Mostly marketing.
+
+
+    Yes, it's predominantly marketing, and with respect to marketing it can be lumpy quarter to quarter. So it's not an unexpected number for us, it's just higher in the fourth quarter than it was in the third.
+
+
+    But we have been doing a good job of card acquisition of high quality cards. You see -- I forgot the number, but it's up quite a bit. So we have some good active programs out there.
+
+Answer_57:
+
+    Way optimistic.
+
+
+    Yes, I think that would be optimistic. Obviously, we will determine the third quarter as we go through it. We will cover employee issuance, but that's certainly our expectation and maybe more, but I don't think you should expect us to catch up from PB.
+
+
+    Remember, we want to meet our own objective of the 9.5% or 10%. And obviously the litigation costs hurt our ability to do that, so we caught up on that. And also the stock price is a lot higher than it was when we talked about trying to aggressively buyback some stock. So we always look at that as a important thing. We don't just buyback stock regardless of price. Not that we can't get that price, but when it was at $33 a share or whatever, that was a extraordinary compelling price.
+
+Answer_58:
+
+    The Board will decide when the time comes and they look at all of the priorities et cetera.
+
+
+    I would just reiterate what I said before, which is getting to our target ratio is a priority, it is not the only one. We will have to see how things play out in 2014. But if you do the math then you can take your own estimates of what you think we will earn next year. We should be able to also have the opportunity to take it to buy more than just employee issuance, so you are just going have to -- we want that flexibility. That is what we submitted for, and we will obviously manage through each quarter as we see it.
+
+
+    It may depend on what we sell, how much we can mitigate, what the final rules are and stuff, so there is a lot of moving parts.
+
+Answer_59:
+
+    It's just a little less than $100 million.
+
+Answer_60:
+
+    Yes. So there is no change -- (Multiple Speakers). There is no real change in how we do anything.
+
+Answer_61:
+
+    Are you talking about total loans -- ?
+
+
+    Are you talking about total and core, or are you talking about reported and -- ?
+
+
+    Yes.
+
+
+    Okay.
+
+Answer_62:
+
+    Okay. So I am going to try to answer the question, and tell me if I don't I'm sorry. But if you look at our actual total loans for the whole Firm year-over-year, our gross reported was 0.6%, so just call it just shy of 1%. But underlying that core loan growth was about 4%. So I think that as we look forward, we expect core growth to continue at or stronger than those levels, and we have reached as you say in card the point where seasonality aside, that inflection point where we should expect net modest growth.
+So and as I said, we are going to have to all wait and see how client demand plays out in the small business and Middle Market space. But we are hoping that at the second half of 2014, when the confidence in the economic recovery -- we have confidence but when others join us, that they will actually start to borrow and spend.
+
+Answer_63:
+
+    Yes, that's our hope.
+
+Answer_64:
+
+    Because we also are seeing -- we talked earlier about the fact we have been seeing and we expect to continue to see some spread compression in loans, that at this point in the near-term -- we didn't talk about the whole year for 2014 but in the near-term, we are expecting the improvement that we would see as a result of higher yields on investment securities et cetera to be offset by or largely offset by the compression in loan growth.
+
+Answer_65:
+
+    The way to look at that is that, is what drives the Company is serving clients. And so, we don't target just to get rid of commitments or something like that. But obviously, we have asked all of the people in businesses who to start to optimize a little bit commitments, balance sheet, LCR, SLR, Basel III. And so, you probably see a little bit of a squeeze in commitments as they do that, but not at the expense of trying to do a good job for clients.
+
+Answer_66:
+
+    The other thing I should point out is some of those commitments are much more capital or liquidity hogs than others.
+
+
+    So that is where you can see a little bit more of the squeeze.
+
+Answer_67:
+
+    So I think if you look back and see that -- I mean, let's talk about this year and last year. If you look at 2013 reported, you would have seen that our commodities revenues counted for in the low teens of our markets revenues, but that's on an accounting basis. When you think about, so that's just a revenue pure only.
+If you think about the economic revenue because obviously it's an accounting growth where it is much smaller number than that. So call it mid single digit, mid to 6%, 7%. But then it was a business that was in a combination of being built out so it wasn't fully mature. And also we are selling parts of the business that are highly capital intensive to us. So think about the impact of the bottom line as being considerably more modest and with some capital benefit.
+
+Answer_68:
+
+    So I would -- a couple things. First of all, if you just take the second half versus first half, we said that we thought the overall market was down 30% to 40%. It was down about 33%. So it was in line with our expectations and our performance is in line with that too. So you have got to remember that the revenue versus closed loan volume, and how that gets recognized there is some timing differences.
+With respect to market share, if you look backwards into 2013, the overall size of the market was revised up, which means that our market share was -- all else things being equal --just relatively revised down, doesn't change anything. But going forward, our market share will be a factor of obviously the size of the market, but also our pricing discipline to make sure we want to get an appropriate risk adjusted return. So we would gain share but only if we can do it, getting paid for the risk and the cost of servicing.
+
+
+    And the whole reduction was refi.
+
+
+    And the whole reductions was refi -- yes, I should say that, yes. (Multiple Speakers).
+
+Answer_69:
+
+    So I would say that people in the business has slowly been extending the credit box, if you look at LTV -- I am talking about over the last 18 months, if you look at LTVs, if you go to different cities, I am not sure you are going to see a dramatic expansion of the credit box, because all of the rep and warranty and litigation and stuff like that, where anything that is not qualified mortgages.
+
+
+    Yes, and for qualified mortgages, credit is available, GSE is 90% LTV, on the Ginnie Mae side closer to 100% LTV, so there is credit availability. You just have to have the ability to pay.
+
+
+    And FHA will set its own policy. But even there I think you'll have a much tighter underwriting than the FHA guidelines, because of how much FHA's cost people.
+
+Answer_70:
+
+    I think we know for the most part the contours of the regulation at this point, and some of the fine tuning still needs to be done. So you can see a lot of banks globally, adjusting to the new financial architecture, and the effect of that will be different, different parts of the world, slightly different for certain products, but it will probably be okay in total. But it's nice to, I mean --
+
+
+    Have the rules.
+
+
+    Nice to have the rules and live with them, and now we have to push them down and understand them in a little more detail.
+
+
+    There is still a few things we are waiting for, I mean, long-term debt requirements, something to look out for in the first quarter, but I mean, having more clarity is definitely helpful.
+
+
+    You have seen some people make bigger strategic changes, some are making small tactical changes, and then we are going to report a lot more on what we think the effect of all of this in Investor Day.
+
+Answer_71:
+
+    Again, I look a little bit different. I look like -- the pot will change and adjust to new world, but from there will probably grow. Because if you look at underlying numbers, the amount of investable assets around the world is going to double over 10 years, the amount of needs of corporations, i.e -- and sovereigns and super nationals, and ECM, DCM advice will double over 10 years, so there is a -- there will be a strong underlying business. Spreads, products, those things have always changed. Spreads have been coming down my whole life, and yet we have a healthy business -- and so we expect that fixed income after some adjustment will be a good business. We think a lot of these trends are cyclical, not secular and that's how we are positioned for it.
+
+
+    And we have paychecks.
+
+
+    And we have -- (Multiple Speakers).
+
+
+    And it is possible that -- if people leave and the things we price it will go back to -- all businesses have to have a normal return on capital for the average player otherwise they wouldn't exist. So we do think you will see some of that. There will be pieces that go to non-banks which is fine.
+
+Answer_72:
+
+    Look, I think the reality is I don't know anymore than you do. I just that think given the changes that were made, it seemed to be positive and constructive as reason to believe that the US regulators would want to leverage that. I could be wrong, and I am not aware of -- obviously, we did comment letters on the US MPR, but I am not aware of any specifics on the portion.
+
+
+    So I would just add, if you listen to what regulators said, not this time, but going back they intended to make Basel and US rules common about the rules. They did not say they intended to have the same percent. So we are just assuming the 5% is going to stay.
+
+
+    Correct.
+
+
+    And we think there will be a couple other adjustments going forward too.
+
+Answer_73:
+
+    So if you look at the total Firm consolidated, then they actually come out quite nicely. If you think about our target for [Tier 1] common at 10% to 10.5% and a leverage target of 5% to 5.5%. So I think the leverage ratio feels like as a consolidated matter, it is a simple backstop exactly as it is supposed to be and not a binding constraint. The devil is in the detail as you push that down, as I have said for the individual business and products. And then, obviously consider it in the context of the whole client relationship. I think as we look forward, CCAR is something to just be thoughtful about. Because it's a stressed scenario. It is evolving in terms of the maturity, as well as a move over time towards being on a Basel III advanced approach. So if I had to guess I would say CCAR could be.
+
+Answer_74:
+
+    I would say -- so I would say that our Tier 1 capital needs to be at 11%-plus. We said we are going to run it at 10% to 10.5% above [Tier 1] common. I would suggest the gap will be prepped and maybe more. Maybe more prepped than that.
+

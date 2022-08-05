@@ -1,0 +1,120 @@
+Question_1:
+
+          So I had a question about any early signs of deposit beta and elasticity. I guess, on the consumer side, in your retail banking area, are you seeing customers increasingly ask for higher rates in their deposit accounts or any activity where they're moving from kind of checking to savings and kind of early signs of pressure on deposit pricing?
+
+Question_2:
+
+          Got it, okay. And in terms of customers, they're not really asking yet or behaving in a way that they're looking price-sensitive, you're not seeing early signs of it yet?
+
+Question_3:
+
+          I wanted to maybe get out in front of what could be some brewing issues in retail land. And the perspective I'm looking for is you have plenty of gross exposure to retail and retail-related. However, there seems to be plenty of collateral, and you're typically at the top of the capital structure, too. So can you talk about both direct exposure in some of the problem retail areas and the related exposure in, like, commercial real estate and on the mall side?
+
+Question_4:
+
+          Is the main reason you're positioned in the stack, meaning I notice you have a lot of collateral against your exposure, and like I said, you tend to be at the top of the stack. Is that the main issue? I remember doing this with you guys 2 years ago in oil, while oil was dropping, and it turned out you barely came out with a few cuts and bruises. There seems to be more collateral here, but I don't want to put words into your mouth.
+
+Question_5:
+
+          I'm talking both because you do have hundreds of billions of direct retail exposure plus the commercial real estate exposed to it. I'm just thinking you have...
+
+Question_6:
+
+          Okay, I was just looking at taking a temperature.
+
+Question_7:
+
+          Can you give us some color on the credit card area in terms of -- I know you upped your credit card losses earlier in the year at the Investor Day in the fall of last year. What's your guys outlook for the credit losses in the credit card portfolio? Where would you tolerate it to? And at what point do you really change the underwriting standards if you need to?
+
+Question_8:
+
+          Got you. And as a follow-up, obviously you had very strong investment banking on the FICC trading side, very strong capital market numbers. Are you guys seeing further evidence of taking more market share from your competitors in any of the product lines, whether it's investment banking or FICC trading or equity trading, et cetera?
+
+Question_9:
+
+          A couple of questions, one on Card. How large are you willing to be in Card? I think on various metrics, you're between 15% and 22%, depending on if you're looking at things like merchant acquiring or the balances in Card in general as a percentage of total outstandings in the country?
+
+Question_10:
+
+          I'm asking because in the last cycle, you were really nimble. And do you still feel that you can be nimble at this market share?
+
+Question_11:
+
+          And then when you're thinking about the credit box, I know a while back, you mentioned, okay, we widened the box to 680. Is there any interest in widening it further?
+
+Question_12:
+
+          So loan growth should probably stay in line with where it is or slow down, is that how should we be thinking about it?
+
+Question_13:
+
+          I'm going to follow up on the NII question. I think your implied guidance of $4.5 billion higher than 2016 is now $500 million from where you were at the Investor Day. Is that the lower deposit beta experience? What's driving, I guess, the modest increase? And then just as a follow-up on that, in terms of if we do -- the implied curve, I think, has about one more rate hike in June. If we were to get another one realized, a dot plot, say we get another one in September, would that be a material increase in that expectation or just incremental or just how do we think about that?
+
+Question_14:
+
+          Okay. So anything in September would be sort of incremental?
+
+Question_15:
+
+          Marianne, you had noted the obvious slowdown we've seen in C&I, and Jamie, in the press release, you talk about the consumers and businesses being healthy and the pro-growth initiatives. Since the Analyst Day, we obviously had Obamacare not go through, and then there's been some doubts on tax reform. So just wondering, can you help us understand just where you're seeing that slowdown in C&I? And how would -- where are we in terms of that confidence turning into real results? And how much is just the wait and see versus where the economy actually is?
+
+Question_16:
+
+          Yes, fair points. And just one quick follow-up, just on the deal making side. M&A has slowed a little bit, but I'm assuming it's the same point, Jamie, just in terms of just pipelines and expectations that corporates have about transacting. Does that fit into that same vein? Or is there anything different in terms of just companies getting -- strategics getting more aggressive in terms of acquiring and adding to their businesses?
+
+Question_17:
+
+          I wanted to focus on deposit pricing in the sense that before the Feds started moving up, deposit rates and the Fed funds rates were right on top of each other, around 15 basis points. Now the effective Fed funds rates is around 90 basis points and deposit costs are only 20. So that 70 basis points on your $1 trillion of deposits basically gives you about $7 billion worth of incremental revenue that's needed to cover the cost of branches and other things for those deposit franchise. At what point do you hit a targeted kind of spread? And where is that where you begin to at least breakeven on those costs versus revenues?
+
+Question_18:
+
+          A follow-up to that is really what I'm getting at is last year, everybody was assuming through the cycle kind of betas, and we were saying that they were going to be much lower early on. We do think once you get to a certain target, usually about 100 basis points of spread, you start to see a little bit more pricing pressure starting to kick in, just like you were saying, Jamie, in the sense of different products...
+
+Question_19:
+
+          And the last component of this is the balances continue to grow. So as long as we're seeing double-digit kind of sequential, annualized and year-over-year growth in deposits, that provides a little bit cover in a sense of what you're talking about as well. We may see a little bit more lag just because we're still continuing to get deposit growth.
+
+Question_20:
+
+          I had a few questions on deregulation. Jamie, in your shareholder letter, you dedicated a lot of time on mortgage and having -- opening that up for banks to originate more of the percentage of mortgage in the United States. As we look forward, do we need legislative change for the banks to gain more market share from nonbanks and mortgage, like clarity in QM or the CFPB? Or would a change in supervisory attitudes be enough for that to shift on the mortgage side?
+
+Question_21:
+
+          That's clear. And the follow-up to that is a couple of -- a week ago or so, there was a lot of talk from Washington about the current administration potentially supporting Glass-Steagall. And of course, a lot of your investors called in concerned. And Jamie and Marianne, a 2-part question, I'm wondering if that's a real worry for JPMorgan's shareholders? And second, Marianne, maybe at an Investor Day 2 years ago, you mentioned that the capital and the cost that a breakup would save was not that much. And I'm wondering if you could also, if you remember, refresh us on that analysis.
+
+Question_22:
+
+          We've obviously seen quite a bit of flattening of the yield curves. And it could reverse pretty quickly if there is progress made on the pro-growth agenda. But just talk about at what point does the flatter yield curve start to impact NIM. And I guess I'm thinking specifically if we get a couple of more hikes on the short end, but the long end either doesn't move or the long end comes down more, how do we think about the breakpoint in terms of NIM benefiting the short end being offset by the flatter yield curve?
+
+Question_23:
+
+          Okay. And then separately, as we think about central banks winding down, some of the QE and the Fed actually shrinking their holdings, how do you think about that impacting your businesses? And obviously, there might be a rate impact. I think you talked about your rate expectations quite a bit. But just how do you think it might impact, say, the markets business with potentially more assets kind of out there to be purchased and sold?
+
+Question_24:
+
+          I guess there's 2 thoughts on -- there's the impact of QE on the economy, and then the impact of QE on some of the markets businesses that maybe there's been a crowding out from all the QE, so as they unwind, that it could actually boost activity levels.
+
+Question_25:
+
+          Just a couple of questions on consumer. We've talked a lot about card losses. But one thing that seems to be a little bit unusual is that a lot of the commentary across many of the card issuers is for the expectations of losses to be higher in the first half than the second half. And I just wanted to get your perspective on the likelihood of that trajectory.
+
+Question_26:
+
+          Got it. And then just to follow up on auto, your release alluded a little bit to the impact of declining residual values, which has been, of course, a focus for the past couple of years. Was there anything unusual in your view about the pace of decline in resid values in this first quarter?
+
+Question_27:
+
+          But in terms of the pace of resid values from here, similar or different in your view?
+
+Question_28:
+
+          Marianne, let me start with a question on the net revenue rate in the Card Services business. That's been relatively steady, a little over 10%, for the last couple of quarters. I presume, given your outlook, that, that would stay pretty close to the 10.1% level that you reported for the last couple of quarters? Or are you thinking about a change there as you slightly change your marketing strategy?
+
+Question_29:
+
+          Fair enough. Jamie, a question for you, just another one on the regulatory landscape. There are a number of open positions inside the Beltway at a number of the primary bank regulators, and I'm just curious in terms...
+
+Question_30:
+
+          Well, somebody should fill those spots if it's not you. And I'm just curious what you're thinking is of the timing of those appointments and how quickly those could get filled and what benefit that might provide to the banking industry.
+
